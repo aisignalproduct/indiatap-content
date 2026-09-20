@@ -1,0 +1,326 @@
+{
+  "day": 10,
+  "date": "2026-10-10",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d10_rohtang_pass",
+          "location": { "name": "Rohtang Pass — Himachal Pradesh", "lat": 32.3706, "lng": 77.2444 },
+          "questions": [
+            { "question": "Rohtang Pass connects the Kullu Valley to which valley?", "options": ["Spiti Valley", "Lahaul Valley", "Zanskar Valley", "Kangra Valley"], "correctIndex": 1 },
+            { "question": "The Atal Tunnel (Rohtang Tunnel), inaugurated in 2020, passes under the Rohtang Pass. How long is it?", "options": ["4.5 km", "7.5 km", "9.02 km", "12 km"], "correctIndex": 2 },
+            { "question": "Rohtang Pass is at approximately what altitude?", "options": ["2,500m", "3,978m", "4,500m", "5,100m"], "correctIndex": 1 },
+            { "question": "The name 'Rohtang' in Tibetan roughly means?", "options": ["Gateway to heaven", "Pile of corpses — reflecting the pass's historically dangerous conditions", "Mountain of snow", "Land of storms"], "correctIndex": 1 },
+            { "question": "The Atal Tunnel is the world's longest highway tunnel above?", "options": ["3,000m altitude", "10,000 feet (3,048m) altitude", "4,000m altitude", "5,000m altitude"], "correctIndex": 1 }
+          ],
+          "summary": "Rohtang Pass (3,978m) connects the Kullu Valley to the Lahaul-Spiti region of Himachal Pradesh and is historically one of the most critical — and perilous — mountain crossings in the western Himalayas. Its Tibetan name means 'pile of corpses,' reflecting centuries of fatalities among traders and travellers. The Atal Tunnel (Rohtang Tunnel), inaugurated in October 2020 by PM Modi and named after former PM Atal Bihari Vajpayee, passes under the pass at 3,060m altitude — the world's longest highway tunnel above 10,000 feet at 9.02 km. The tunnel provides year-round connectivity to Lahaul-Spiti, previously cut off for 6 months annually, transforming life for its approximately 77,000 residents."
+        },
+        {
+          "id": "geo_d10_mahanadi",
+          "location": { "name": "Mahanadi River — Cuttack, Odisha", "lat": 20.5431, "lng": 85.8825 },
+          "questions": [
+            { "question": "The Mahanadi originates in which state before flowing through Odisha?", "options": ["Jharkhand", "Chhattisgarh", "Madhya Pradesh", "Andhra Pradesh"], "correctIndex": 1 },
+            { "question": "The Hirakud Dam on the Mahanadi was one of India's first major post-independence projects. How long is the Hirakud Dam system (main dam plus dykes)?", "options": ["4.8 km", "10 km", "25.8 km", "40 km"], "correctIndex": 2 },
+            { "question": "The Mahanadi water dispute is between Odisha and which state?", "options": ["Jharkhand", "Andhra Pradesh", "Chhattisgarh", "West Bengal"], "correctIndex": 2 },
+            { "question": "The Mahanadi delta in Odisha is prone to which severe annual weather event?", "options": ["Earthquakes", "Tropical cyclones from the Bay of Bengal", "Drought", "Dust storms"], "correctIndex": 1 },
+            { "question": "The Satkosia Gorge on the Mahanadi is famous for what?", "options": ["It is the deepest gorge in India", "It is a wildlife sanctuary with one of the last gharial populations in Odisha", "It has the most powerful waterfall in eastern India", "It is the site of an ancient dam"], "correctIndex": 1 }
+          ],
+          "summary": "The Mahanadi ('Great River') flows 858 km from Chhattisgarh's Sihawa hills through Odisha to the Bay of Bengal. The Hirakud Dam system (25.8 km including dykes, completed 1957) is one of the world's longest earthen dams and was India's first major multipurpose river valley project. The Mahanadi water dispute — Odisha's concerns that Chhattisgarh's upstream diversions reduce downstream flow — is one of India's most active interstate water conflicts, referred to a tribunal. The Satkosia Gorge, where the river cuts through the Eastern Ghats, is a critical wildlife corridor and one of Odisha's finest biodiversity areas, hosting gharials, mugger crocodiles, and tigers."
+        },
+        {
+          "id": "geo_d10_manipur_valley",
+          "location": { "name": "Manipur Valley — Imphal Basin", "lat": 24.6637, "lng": 93.9063 },
+          "questions": [
+            { "question": "The Imphal Valley (Manipur Valley) is unique geographically because it is?", "options": ["A high-altitude cold desert", "A fertile alluvial valley almost entirely surrounded by hills — creating a natural fortress", "A river delta near the coast", "A volcanic caldera"], "correctIndex": 1 },
+            { "question": "The Imphal Valley's strategic importance was demonstrated in 1944 when it was?", "options": ["The site of India's first nuclear test", "The last line of British-Indian defence against Japan's Operation U-Go invasion", "The site of Netaji's first Indian National Army HQ", "A major supply depot for the Burma Campaign only"], "correctIndex": 1 },
+            { "question": "The Manipur Valley is the birthplace of which sport now played globally?", "options": ["Field hockey", "Polo", "Kabaddi", "Wrestling"], "correctIndex": 1 },
+            { "question": "The Ima Keithel (Mothers' Market) in Imphal is unique because?", "options": ["It is the oldest market in India", "It is one of Asia's largest all-women markets — run entirely by women vendors (Meira Paibis) for centuries", "It sells only traditional handicrafts", "It operates only at night"], "correctIndex": 1 },
+            { "question": "AFSPA (Armed Forces Special Powers Act) has been continuously in force in Manipur (except some valley areas). What does AFSPA allow?", "options": ["Free movement of Indian Army across state borders", "Army personnel to arrest, search, and use force — including lethal force — without civil court scrutiny in 'disturbed areas'", "Suspension of all civil law", "Direct central rule without state government"], "correctIndex": 1 }
+          ],
+          "summary": "The Imphal Valley — a fertile alluvial basin almost entirely enclosed by the Manipur Hills — is one of Northeast India's most historically and strategically significant landscapes. In 1944, it was the site of the Battle of Imphal, where British-Indian forces repelled Japan's Operation U-Go, the most ambitious Japanese operation of the Burma Campaign. The valley is the cultural heartland of Meitei civilisation and the birthplace of polo — British officers who saw the game here in the 19th century brought it to the wider world. The Ima Keithel (Mothers' Market) in Imphal — run entirely by women vendors for over 500 years — is one of Asia's largest all-women markets and a symbol of Manipuri women's economic independence."
+        },
+        {
+          "id": "geo_d10_chilika_revision",
+          "location": { "name": "Hirakud Reservoir — Odisha", "lat": 21.5240, "lng": 83.8720 },
+          "questions": [
+            { "question": "Hirakud Reservoir is one of Asia's largest artificial lakes. Approximately how long is it?", "options": ["20 km", "55 km", "90 km", "150 km"], "correctIndex": 2 },
+            { "question": "How many villages were submerged by the Hirakud Reservoir?", "options": ["50", "150", "Over 200", "Over 500"], "correctIndex": 2 },
+            { "question": "The Hirakud Dam was called by Nehru 'the first great river valley project of independent India.' It was completed in which year?", "options": ["1950", "1953", "1957", "1962"], "correctIndex": 2 },
+            { "question": "The reservoir's catchment area spans which two states?", "options": ["Odisha and Andhra Pradesh", "Odisha and Chhattisgarh (originally Madhya Pradesh)", "Odisha and Jharkhand", "Odisha and West Bengal"], "correctIndex": 1 },
+            { "question": "The Hirakud Dam's hydroelectric capacity is approximately?", "options": ["100 MW", "347 MW", "1,000 MW", "2,500 MW"], "correctIndex": 1 }
+          ],
+          "summary": "Hirakud Dam and Reservoir on the Mahanadi in Odisha, completed in 1957, was one of independent India's first and most ambitious engineering achievements. The reservoir stretches 90 km upstream, covering approximately 746 sq km — one of Asia's largest artificial lakes. Over 200 villages were submerged, displacing approximately 150,000 people — many of whom were inadequately rehabilitated, making Hirakud one of India's earliest examples of large dam displacement controversies. The dam generates 347 MW of hydroelectric power and irrigates over 100,000 hectares in Odisha's Sambalpur region. Nehru called it 'the first great river valley project of free India' at its inauguration."
+        },
+        {
+          "id": "geo_d10_sundarbans_tiger",
+          "location": { "name": "Simlipal National Park — Odisha", "lat": 21.6500, "lng": 86.5000 },
+          "questions": [
+            { "question": "Simlipal National Park in Odisha is famous for its population of which rare tiger subspecies?", "options": ["Bengal Tiger (standard)", "Melanistic (black) tigers — a unique population found only here", "White tigers", "Indochinese tigers"], "correctIndex": 1 },
+            { "question": "The melanistic tigers of Simlipal have a genetic mutation causing their unusual appearance. What percentage of their body is covered in dark stripes?", "options": ["30%", "50%", "80%+, with very little orange background visible", "100% — they appear completely black"], "correctIndex": 2 },
+            { "question": "Simlipal is part of which UNESCO Biosphere Reserve?", "options": ["Sundarbans Biosphere Reserve", "Simlipal Biosphere Reserve", "Nilgiri Biosphere Reserve", "Nanda Devi Biosphere Reserve"], "correctIndex": 1 },
+            { "question": "The tribal Mankidia community of Simlipal has which distinctive traditional practice?", "options": ["Sacred tiger protection — they never harm tigers", "Living in tree houses and hunting with bows and arrows as semi-nomadic forest dwellers", "Ritual iron smelting", "Bee-keeping for honey harvest"], "correctIndex": 1 },
+            { "question": "Simlipal is known for which spectacular seasonal natural phenomenon?", "options": ["Flamingo breeding", "The blooming of red-orange Flame of the Forest (Palash) trees covering hillsides in March", "Snow in summer", "Bioluminescent fireflies in monsoon"], "correctIndex": 1 }
+          ],
+          "summary": "Simlipal National Park in Odisha's Mayurbhanj district is home to one of nature's rarest phenomena: melanistic (pseudo-melanistic) tigers — genetically unique to this park, their bodies are covered by broad dark stripes with very little of the typical orange background visible, giving them an almost black appearance. This genetic mutation is found in no other wild tiger population globally. Simlipal is a UNESCO Biosphere Reserve and Project Tiger reserve, housing approximately 20 tigers alongside significant elephant and leopard populations. The semi-nomadic Mankidia community — forest-dwelling hunter-gatherers who live in tree houses — represent one of India's most ancient tribal traditions. Simlipal's forests explode in red-orange Palash (Flame of the Forest) blossoms each March."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d10_havelis_jaisalmer",
+          "location": { "name": "Patwon Ki Haveli — Jaisalmer, Rajasthan", "lat": 26.9124, "lng": 70.9108 },
+          "questions": [
+            { "question": "Patwon Ki Haveli in Jaisalmer is a cluster of how many connected havelis?", "options": ["2", "3", "5", "7"], "correctIndex": 2 },
+            { "question": "The Patwon Ki Haveli was built by which community?", "options": ["Rajput nobles", "Brahmin priests", "Patwa merchants (brocade traders)", "Mughal officials"], "correctIndex": 2 },
+            { "question": "Jaisalmer's havelis are famous for which decorative technique on their facades?", "options": ["Mirror mosaic work", "Intricate stone lattice (jali) work in golden yellow sandstone", "Tile work from Portugal", "Painted stucco frescoes"], "correctIndex": 1 },
+            { "question": "The Jaisalmer Fort contains within it?", "options": ["Only a royal palace", "Homes, temples, hotels, and a museum — a complete living community", "Only government offices", "Only temples and mosques"], "correctIndex": 1 },
+            { "question": "Which Jain temples inside Jaisalmer Fort are particularly notable?", "options": ["The Dilwara Temples (replica)", "The Jain Temples with 15 small shrines built between the 12th and 16th centuries", "The Ashtapad Temple", "The Rishabhdeo Temple"], "correctIndex": 1 }
+          ],
+          "summary": "Patwon Ki Haveli in Jaisalmer — a cluster of five interconnected mansions built by the wealthy Patwa (brocade trading) family beginning in 1805 — is the largest and most ornate haveli complex in Jaisalmer. Its golden yellow sandstone facades are covered with intricate jali (lattice) screens and carvings of extraordinary delicacy — a testament to the master stone carvers (silawats) of the Thar Desert. The havelis reflect the Marwari merchant community's wealth accumulated through trade in brocade, opium, and textiles across India and Central Asia. Within Jaisalmer Fort, a complex of Jain temples dating from the 12th-16th centuries contains remarkable marble sculptures and painted manuscripts — among the oldest surviving Jain temple interiors in Rajasthan."
+        },
+        {
+          "id": "cul_d10_bidar_architecture",
+          "location": { "name": "Bidar Fort — Karnataka", "lat": 17.9140, "lng": 77.5220 },
+          "questions": [
+            { "question": "Bidar Fort was the capital of which medieval Sultanate?", "options": ["Adil Shahi Sultanate of Bijapur", "Bahmani Sultanate and later Barid Shahi Sultanate", "Golconda Sultanate", "Qutb Shahi Sultanate"], "correctIndex": 1 },
+            { "question": "Bidar is famous for a unique metalwork craft called Bidriware. What is distinctive about Bidriware?", "options": ["It uses 24-carat gold inlay on brass", "Silver, gold, or brass inlay on a blackened zinc-copper alloy — the black comes from the local Bidar soil", "It uses only copper with silver inlay", "It is a form of enamel work on iron"], "correctIndex": 1 },
+            { "question": "The name 'Bidriware' has a GI tag. The blackening of the alloy is achieved by?", "options": ["Burning the metal", "Treating with a paste made from Bidar's ammonium chloride-rich soil", "Chemical acid treatment", "Exposure to desert air"], "correctIndex": 1 },
+            { "question": "The Bahmani Sultanate, which had Bidar as its later capital, was significant for?", "options": ["Being India's first Muslim sultanate", "Being one of the Deccan Sultanates that defeated the Vijayanagara Empire at Talikota (1565)", "Never being in conflict with the Mughal Empire", "Being founded by a Hindu convert"], "correctIndex": 1 },
+            { "question": "Bidar is in which part of Karnataka?", "options": ["Coastal Karnataka", "Southern Karnataka plateau", "Northern Karnataka — bordering Telangana and Maharashtra", "Eastern Karnataka near Andhra Pradesh"], "correctIndex": 2 }
+          ],
+          "summary": "Bidar in northern Karnataka — formerly the capital of the Bahmani Sultanate and later the independent Barid Shahi kingdom — is one of medieval Deccan's most important Islamic heritage sites. The massive Bidar Fort, with its triple moat and elaborate gateways, was the centre of a sophisticated court culture that blended Persian, Indian, and Turkic traditions. Bidar is also the home of Bidriware — a GI-tagged metalwork tradition in which silver, gold, or brass is inlaid into a blackened zinc-copper alloy. The distinctive matte black surface is achieved by treating the metal with a paste made from the local Bidar soil (rich in ammonium chloride, potassium nitrate, and sodium chloride) — the soil itself, unique to this region, is the secret ingredient that has made Bidar synonymous with this craft for 600 years."
+        },
+        {
+          "id": "cul_d10_lucknow_imambara",
+          "location": { "name": "Bara Imambara — Lucknow, Uttar Pradesh", "lat": 26.8690, "lng": 80.9116 },
+          "questions": [
+            { "question": "The Bara Imambara was built by Nawab Asaf-ud-Daula in 1784. Why was it built?", "options": ["As a royal palace", "As a famine relief project — to employ workers during the great famine of 1784", "To mark a military victory", "As a memorial to the Nawab's father"], "correctIndex": 1 },
+            { "question": "The Asafi Hall inside the Bara Imambara has a central hall that is one of the world's largest arched chambers without?", "options": ["Windows", "Any supporting pillars, beams, or buttresses", "A foundation below ground level", "Mortar — built entirely with interlocking bricks"], "correctIndex": 1 },
+            { "question": "The 'Bhool Bhulaiya' (labyrinth) inside the Bara Imambara is?", "options": ["An underground cave system", "A maze of 489 identical doorways in the upper galleries — easy to enter but very difficult to exit without a guide", "A mirror maze", "A water maze using canals"], "correctIndex": 1 },
+            { "question": "An Imambara is primarily used for which purpose?", "options": ["Congregational Friday prayers (Juma)", "Commemoration of the martyrdom of Imam Hussain during Muharram (Shia Muslim tradition)", "Sufi meditation and music", "Islamic education (madrasa)"], "correctIndex": 1 },
+            { "question": "The step-well (baoli) adjacent to the Bara Imambara connects directly to?", "options": ["The Gomti River underground", "The Husainabad clock tower basement", "A series of underground tunnels across Lucknow", "The Chhota Imambara"], "correctIndex": 0 }
+          ],
+          "summary": "The Bara Imambara in Lucknow, built by Nawab Asaf-ud-Daula in 1784, is one of the finest examples of Nawabi Awadhi architecture and simultaneously one of India's most ingenious famine relief projects — workers employed during a catastrophic famine built by day, and at night the Nawab had sections demolished and rebuilt the next day to prolong employment. The Asafi Hall, its central chamber at 50 metres x 16 metres, is one of the world's largest vaulted halls without any pillars, beams, or buttresses — an extraordinary structural achievement using interlocking brick arches. The Bhool Bhulaiya — 489 narrow identical passages in the upper gallery — has been disorienting visitors for over two centuries."
+        },
+        {
+          "id": "cul_d10_kalighat_temple",
+          "location": { "name": "Kalighat Temple — Kolkata, West Bengal", "lat": 22.5199, "lng": 88.3432 },
+          "questions": [
+            { "question": "The Kalighat Temple in Kolkata is one of the 51 Shakti Peethas. It is dedicated to?", "options": ["Saraswati", "Lakshmi", "Kali (Goddess of time and destruction)", "Durga"], "correctIndex": 2 },
+            { "question": "The word 'Calcutta' (and then 'Kolkata') is believed to derive from which word?", "options": ["A British colonial term", "Kalighat — the landing ghat near the Kali temple that gave the city its name", "A Bengali word for 'marketplace'", "The name of a local Mughal administrator"], "correctIndex": 1 },
+            { "question": "Kalighat paintings — a famous folk art tradition — developed in the 19th century outside the temple. They are distinctive for?", "options": ["Their extreme detail and miniaturist style", "Bold, simplified brush strokes depicting deities and satirical social commentary, using water-soluble pigments on paper", "Their exclusive use of gold leaf", "Depicting only battles and historical events"], "correctIndex": 1 },
+            { "question": "Mother Teresa's Missionaries of Charity home for the dying ('Nirmal Hriday') is located adjacent to which site?", "options": ["Victoria Memorial", "Kalighat Temple", "Howrah Bridge", "St. Paul's Cathedral"], "correctIndex": 1 },
+            { "question": "The Kalighat Temple sees millions of devotees annually, particularly during which festival?", "options": ["Diwali", "Holi", "Kali Puja (celebrated on the same night as Diwali in Bengal)", "Durga Puja"], "correctIndex": 2 }
+          ],
+          "summary": "The Kalighat Temple in Kolkata — one of Hinduism's 51 Shakti Peethas (sacred sites where parts of the goddess Sati's body are said to have fallen) — is one of India's most important Kali temples and arguably the spiritual heart of Kolkata. The city's name 'Calcutta' (later Kolkata) is widely believed to derive from 'Kalighat,' the landing ghat adjacent to the temple. Kalighat painting — a vibrant 19th-century Bengali folk art form that developed near the temple — used bold brush strokes and water-soluble pigments on paper to depict deities, contemporary social satire, and colonial-era scenes, influencing later Bengali modernists. Mother Teresa's 'Nirmal Hriday' (Pure Heart) home for the dying poor is housed in a former dharamshala adjacent to the temple."
+        },
+        {
+          "id": "cul_d10_ajmer_dargah",
+          "location": { "name": "Ajmer Sharif Dargah — Rajasthan", "lat": 26.4521, "lng": 74.6239 },
+          "questions": [
+            { "question": "The Ajmer Sharif Dargah is the shrine of which Sufi saint?", "options": ["Nizamuddin Auliya", "Hazrat Khwaja Moinuddin Chishti", "Baba Farid", "Qutb ud-Din Bakhtiyar Kaki"], "correctIndex": 1 },
+            { "question": "Moinuddin Chishti arrived in India from Central Asia in which century?", "options": ["10th century", "12th century", "14th century", "16th century"], "correctIndex": 1 },
+            { "question": "The Ajmer Dargah is notable for being visited by people of?", "options": ["Only Muslims", "Only Hindus and Muslims", "All religions — Hindus, Muslims, Sikhs, Christians, and others", "Only Sufi practitioners"], "correctIndex": 2 },
+            { "question": "The Urs at Ajmer — the annual death anniversary festival of the saint — draws how many visitors?", "options": ["10,000", "100,000", "Hundreds of thousands to over a million", "50,000"], "correctIndex": 2 },
+            { "question": "The Chishti order of Sufism founded by Moinuddin Chishti is known for which distinctive practice?", "options": ["Vegetarianism and silence", "Qawwali (devotional music) and sama (spiritual listening) as pathways to divine experience", "Strict purdah and seclusion", "Military training of disciples"], "correctIndex": 1 }
+          ],
+          "summary": "The Ajmer Sharif Dargah — the shrine of Hazrat Khwaja Moinuddin Chishti, the great 12th-century Sufi saint who came from Sistan (modern Iran/Afghanistan) — is India's most visited Muslim pilgrimage site and a remarkable symbol of syncretic devotion. Moinuddin Chishti's message of love and universal brotherhood attracted followers across religious boundaries — Hindu, Muslim, Sikh, and Christian pilgrims all come seeking blessings. The Chishti Sufi order he founded became the most influential in India, emphasising qawwali (devotional music) and sama (spiritual listening) as pathways to divine experience. The annual Urs (death anniversary) draws over a million visitors to Ajmer. Mughal emperors including Akbar made barefoot pilgrimages from Agra to Ajmer — the tradition of powerful figures seeking the saint's blessings continues today."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d10_flipkart_meesho",
+          "location": { "name": "Flipkart — Bengaluru, Karnataka", "lat": 12.9716, "lng": 77.5946 },
+          "questions": [
+            { "question": "Flipkart was founded in 2007 by Sachin Bansal and Binny Bansal. They met while studying at?", "options": ["IIT Delhi", "IIT Bombay", "IIT Kanpur", "IIT Roorkee"], "correctIndex": 2 },
+            { "question": "Flipkart was acquired by Walmart in 2018 for approximately how much — India's largest e-commerce deal?", "options": ["$5 billion", "$10 billion", "$16 billion", "$25 billion"], "correctIndex": 2 },
+            { "question": "India's e-commerce market is dominated by Flipkart and?", "options": ["Snapdeal", "Amazon India", "Meesho", "Myntra"], "correctIndex": 1 },
+            { "question": "India's digital payments infrastructure — particularly UPI (Unified Payments Interface) — is operated by which body?", "options": ["RBI directly", "NPCI (National Payments Corporation of India)", "SBI", "Ministry of Finance"], "correctIndex": 1 },
+            { "question": "India's UPI processed approximately how many transactions in 2023 — making it the world's largest real-time payments system?", "options": ["1 billion", "5 billion", "117 billion", "500 billion"], "correctIndex": 2 }
+          ],
+          "summary": "Flipkart — founded in 2007 by IIT Kanpur alumni Sachin and Binny Bansal with ₹4 lakh initial capital — pioneered Indian e-commerce, initially selling books before expanding to a full marketplace. Walmart's $16 billion acquisition in 2018 valued Flipkart at $20 billion, making it India's largest foreign investment in technology. India's digital commerce revolution is underpinned by the UPI (Unified Payments Interface) payment system — developed by NPCI and launched in 2016 — which processed 117+ billion transactions in 2023, making it the world's largest real-time retail payments system. UPI has extended financial services to hundreds of millions of previously unbanked Indians and is now being adopted internationally (Singapore, UAE, France, Bhutan)."
+        },
+        {
+          "id": "eco_d10_paradeep_hpcl",
+          "location": { "name": "HPCL Visakh Refinery — Visakhapatnam", "lat": 17.7425, "lng": 83.3147 },
+          "questions": [
+            { "question": "HPCL stands for?", "options": ["Hindustan Petroleum Corporation Limited", "Heavy Petroleum Corporation Limited", "Hindustan Power Corporation Limited", "High Performance Corporation Limited"], "correctIndex": 0 },
+            { "question": "HPCL's Visakhapatnam Refinery is one of India's oldest. It was originally built by which foreign company?", "options": ["Shell", "Standard Vacuum (Stanvac — predecessor to ExxonMobil)", "British Petroleum", "Total"], "correctIndex": 1 },
+            { "question": "HPCL is merging with which company to create a larger energy entity?", "options": ["BPCL", "ONGC (which acquired a majority stake in HPCL in 2018)", "IOCL", "Reliance"], "correctIndex": 1 },
+            { "question": "The oil refining sector in India is primarily a government-dominated sector. The three major PSU refiners are?", "options": ["ONGC, GAIL, and BPCL", "IOCL, BPCL, and HPCL", "Reliance, IOCL, and HPCL", "ONGC, IOCL, and HPCL"], "correctIndex": 1 },
+            { "question": "India is the world's third-largest oil consumer. Its annual crude oil import bill is approximately?", "options": ["$20 billion", "$50 billion", "$120 billion+", "$200 billion"], "correctIndex": 2 }
+          ],
+          "summary": "HPCL's Visakhapatnam Refinery — one of India's oldest, originally built by Standard Vacuum (Stanvac) in 1957 — is a key part of India's public sector petroleum refining capacity. ONGC acquired a majority stake in HPCL in 2018, creating India's largest integrated oil and gas company by combining upstream (exploration and production) with downstream (refining and retail) operations. India, the world's third-largest oil consumer, imports over $120 billion of crude oil annually — its largest import item and a significant driver of the current account deficit. Reducing this import dependence through domestic production, energy efficiency, EVs, and renewable energy is a major policy priority."
+        },
+        {
+          "id": "eco_d10_gail_pipeline",
+          "location": { "name": "GAIL HVJ Pipeline — Rajasthan/UP corridor", "lat": 26.9124, "lng": 75.7873 },
+          "questions": [
+            { "question": "GAIL (India) Limited is primarily involved in which business?", "options": ["Gold mining", "Natural gas transmission, processing, and distribution", "Coal mining", "Oil exploration"], "correctIndex": 1 },
+            { "question": "The HVJ (Hazira-Vijaipur-Jagdishpur) pipeline was India's first major cross-country gas pipeline. What does it connect?", "options": ["Gujarat gas fields to Delhi's industrial belt via Rajasthan", "Bombay High offshore fields via Hazira to the fertiliser plants of UP", "Rajasthan oil fields to Mumbai", "Assam gas to eastern India"], "correctIndex": 1 },
+            { "question": "City gas distribution (CNG for vehicles, PNG for homes) is expanding rapidly in India. The number of CNG stations has grown from about 1,000 in 2014 to approximately?", "options": ["2,000", "5,000", "6,000+", "10,000+"], "correctIndex": 2 },
+            { "question": "India's gas consumption as a percentage of its total energy mix is currently about?", "options": ["3%", "6%", "15%", "25%"], "correctIndex": 1 },
+            { "question": "GAIL's petrochemical complex at Pata in UP produces which primary product?", "options": ["Ammonia for fertilisers", "Polyethylene — used in plastic packaging, pipes, and films", "Methanol", "Benzene"], "correctIndex": 1 }
+          ],
+          "summary": "GAIL (Gas Authority of India Limited), established in 1984, is India's principal natural gas transmission and marketing company — operating approximately 17,000 km of pipelines. The HVJ (Hazira-Vijaipur-Jagdishpur) pipeline, commissioned in 1991, was India's first major cross-country gas pipeline, connecting gas from Bombay High (processed at Hazira in Gujarat) to fertiliser and power plants in Uttar Pradesh. India's gas consumption, at about 6% of its energy mix, remains far below the global average of 23% — a gap GAIL and the government are working to close through city gas distribution (CNG vehicles, PNG for homes) and new LNG import terminals. GAIL's petrochemical complex at Pata in UP produces polyethylene, making it an important player in India's plastics supply chain."
+        },
+        {
+          "id": "eco_d10_essar_jamnagar",
+          "location": { "name": "Mundra Thermal Power Plant — Gujarat", "lat": 22.7394, "lng": 69.7219 },
+          "questions": [
+            { "question": "The Mundra Ultra Mega Power Plant (UMPP) was originally developed by which company?", "options": ["Reliance Power", "Adani Power", "Tata Power", "NTPC"], "correctIndex": 2 },
+            { "question": "Mundra UMPP was India's first Ultra Mega Power Project. Its capacity is?", "options": ["1,000 MW", "2,000 MW", "4,000 MW", "6,000 MW"], "correctIndex": 2 },
+            { "question": "The Mundra power project famously faced a major financial crisis when?", "options": ["The plant caught fire in 2012", "Imported coal prices surged after Indonesia changed its export pricing policy, making the project unviable at tariffs fixed years earlier", "Environmental clearances were revoked", "The transmission lines to consumers were not built"], "correctIndex": 1 },
+            { "question": "The Mundra UMPP uses coal imported from which country?", "options": ["South Africa", "Australia", "Indonesia", "Both Australia and Indonesia"], "correctIndex": 3 },
+            { "question": "India's total installed power generation capacity is approximately?", "options": ["200 GW", "400 GW", "900+ GW", "1,500 GW"], "correctIndex": 1 }
+          ],
+          "summary": "The Mundra Ultra Mega Power Plant in Gujarat (4,000 MW), developed by Tata Power, was India's first UMPP — a programme designed to attract private investment into large-scale power generation through competitive tariff bidding. The project became the centre of a landmark regulatory controversy: when Indonesia changed its coal export pricing policy in 2011, imported coal prices surged, making the fixed-tariff contract unviable for Tata Power — ultimately requiring regulatory intervention and government support. The Mundra UMPP case shaped India's subsequent power sector reforms and the understanding of commodity price risk in long-term power purchase agreements. India's total installed power generation capacity has grown to approximately 900+ GW, with renewable energy (solar, wind) now the fastest-growing segment."
+        },
+        {
+          "id": "eco_d10_indian_railways",
+          "location": { "name": "Indian Railways — Prayagraj Junction", "lat": 25.4358, "lng": 81.8463 },
+          "questions": [
+            { "question": "Indian Railways is the world's fourth-largest railway network. How many km of track does it operate?", "options": ["30,000 km", "68,000 km", "100,000 km", "150,000 km"], "correctIndex": 1 },
+            { "question": "Indian Railways carries approximately how many passengers daily?", "options": ["5 million", "15 million", "23 million", "40 million"], "correctIndex": 2 },
+            { "question": "The Indian Railway network is being electrified to reduce diesel consumption. What percentage is currently electrified?", "options": ["20%", "45%", "Over 95%", "100%"], "correctIndex": 2 },
+            { "question": "The Vande Bharat Express, India's indigenous semi-high-speed train, was designed and built by?", "options": ["A German-Indian joint venture", "Integral Coach Factory (ICF), Chennai", "A Japanese-Indian consortium", "BEML, Bengaluru"], "correctIndex": 1 },
+            { "question": "The Dedicated Freight Corridor (DFC) — two freight-only rail lines — will transform logistics by?", "options": ["Connecting India to Nepal and Bangladesh", "Freeing existing lines of slow freight trains, allowing faster passenger services and cutting logistics costs", "Creating a high-speed connection between Delhi and Mumbai", "Connecting India's ports to coal mines only"], "correctIndex": 1 }
+          ],
+          "summary": "Indian Railways — the world's fourth-largest railway network at approximately 68,000 km — is the backbone of India's transport system and one of the world's largest employers (approximately 1.3 million employees). It carries 23 million passengers daily — more than many countries' entire populations. Under a decade-long modernisation drive, over 95% of the network has been electrified (the highest rate among large rail networks globally). The Vande Bharat Express trains — designed and built at Chennai's Integral Coach Factory — represent India's indigenous engineering capability at speeds of up to 160 km/h. The Dedicated Freight Corridor (Eastern and Western) being built specifically for freight trains will dramatically reduce logistics costs and free up existing passenger lines."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d10_cheraw_dance",
+          "location": { "name": "Cheraw Dance — Mizoram", "lat": 23.7307, "lng": 92.7173 },
+          "questions": [
+            { "question": "The Cheraw dance is the traditional bamboo dance of which state?", "options": ["Nagaland", "Manipur", "Mizoram", "Meghalaya"], "correctIndex": 2 },
+            { "question": "The Cheraw dance involves dancers moving between rhythmically clapping?", "options": ["Metal cymbals", "Pairs of bamboo poles clapped together horizontally", "Wooden planks", "Bamboo sticks held by dancers"], "correctIndex": 1 },
+            { "question": "The Cheraw dance is believed to have been performed during which ancient occasion?", "options": ["Harvest festivals only", "Funerary rites for women who died in childbirth", "Victory celebrations after battles", "Rain-making ceremonies"], "correctIndex": 1 },
+            { "question": "A world record was set for the Cheraw dance involving how many performers?", "options": ["1,000", "5,000", "10,736 performers simultaneously", "50,000"], "correctIndex": 2 },
+            { "question": "The Cheraw is performed by?", "options": ["Only women", "Only men", "Both men and women — men operate the bamboo poles, women dance between them", "Only children"], "correctIndex": 2 }
+          ],
+          "summary": "The Cheraw — Mizoram's traditional bamboo dance — is one of Northeast India's most visually captivating cultural performances. Male performers sit on the ground holding pairs of bamboo poles and rhythmically clap them open and closed, while female dancers step nimbly between the poles, never being caught. Originally performed during funerary rites for women who died in childbirth, the Cheraw has evolved into a joyous cultural celebration. In 2010, Mizoram set a Guinness World Record with 10,736 performers simultaneously dancing the Cheraw. The dance is now performed at national and international cultural events, becoming a signature expression of Mizo identity — particularly significant given the state's successful journey from insurgency to peaceful cultural confidence."
+        },
+        {
+          "id": "evt_d10_dandiya_garba",
+          "location": { "name": "Navratri Garba — Vadodara, Gujarat", "lat": 22.3072, "lng": 73.1812 },
+          "questions": [
+            { "question": "The Garba dance performed during Navratri circles around a central image. The central focal point is typically?", "options": ["A lamp and image of the Mother Goddess (Shakti)", "A statue of Lord Krishna", "A sacred fire", "A gold idol of Lakshmi"], "correctIndex": 0 },
+            { "question": "Dandiya Raas involves which prop?", "options": ["Decorated sticks (dandiyas) that dancers strike together rhythmically", "Brass bells attached to feet", "Coloured powders thrown at each other", "Earthen pots balanced on the head"], "correctIndex": 0 },
+            { "question": "Vadodara's Navratri is considered among India's best because of?", "options": ["The largest number of participants globally", "The authenticity and scale of traditional Garba and Dandiya — with elaborate costumes and live orchestra", "Government prize money for best performers", "Its UNESCO heritage listing"], "correctIndex": 1 },
+            { "question": "The nine nights of Navratri honour which nine forms of the goddess?", "options": ["Nava Durga (nine forms of Durga)", "Ashta Lakshmi (eight forms of Lakshmi) plus one", "Nine forms of Saraswati", "Nine forms of Parvati"], "correctIndex": 0 },
+            { "question": "The UNESCO Intangible Cultural Heritage inscription process for Navratri Garba was submitted by India in which year?", "options": ["2019", "2021", "2023", "Not yet submitted"], "correctIndex": 2 }
+          ],
+          "summary": "Navratri's Garba and Dandiya Raas in Gujarat — particularly in Vadodara — is one of India's most spectacular folk dance traditions. Over nine consecutive nights, millions of participants (from Gujarat and across India) dress in elaborate traditional attire and dance until dawn in massive outdoor venues. The Garba (circular dance around a sacred lamp and goddess image) symbolises the cyclical nature of life; the Dandiya Raas (stick dance) recreates the playful battle between the goddess and the demon Mahishasura. Vadodara's celebrations blend traditional authenticity with extraordinary scale — the city's open grounds host hundreds of thousands of dancers simultaneously under live orchestral music. UNESCO inscribed the Garba of Gujarat on its Intangible Cultural Heritage list in 2023."
+        },
+        {
+          "id": "evt_d10_sonepur_fair",
+          "location": { "name": "Sonepur Cattle Fair — Bihar", "lat": 25.7042, "lng": 85.1756 },
+          "questions": [
+            { "question": "The Sonepur Cattle Fair (Harihara Kshetra Mela) is one of Asia's largest cattle fairs. When is it held?", "options": ["Diwali full moon (Sharad Purnima)", "The full moon of Kartik month — Kartik Purnima", "Makar Sankranti", "Holi"], "correctIndex": 1 },
+            { "question": "Sonepur is at the confluence of which two rivers?", "options": ["Ganga and Yamuna", "Gandak and Ganga", "Sone and Ganga", "Kosi and Ganga"], "correctIndex": 1 },
+            { "question": "The Sonepur fair is famous for trading which animals (historically including some now prohibited)?", "options": ["Only cattle and horses", "Cattle, horses, elephants (historically), and birds", "Only goats and camels", "Camels and horses only"], "correctIndex": 1 },
+            { "question": "The fair's religious significance centres around?", "options": ["A temple to Shiva", "The Harihara Nath Temple (Hari = Vishnu, Hara = Shiva) — bathing at the confluence on Kartik Purnima", "A sacred well", "The birthplace of a saint"], "correctIndex": 1 },
+            { "question": "In ancient times, the Sonepur fair was used by which empire to procure war elephants?", "options": ["Delhi Sultanate", "Maurya Empire", "Mughal Empire", "British East India Company"], "correctIndex": 1 }
+          ],
+          "summary": "The Sonepur Cattle Fair (Harihara Kshetra Mela) at the confluence of the Gandak and Ganga rivers in Bihar is one of Asia's largest animal fairs — held annually on the full moon of Kartik (November). The fair's religious centrepiece is the Harihara Nath Temple, where pilgrims take a sacred bath at the rivers' confluence. Historically, the fair was where the Maurya Empire sourced war elephants, and it continued as a major elephant market until wildlife protection laws in the 1990s ended legal elephant trade. Today, cattle, horses, and buffalo remain the primary trade animals. The fair also features an extraordinary culture of boat-based accommodation — thousands of people live on boats during the festival period, creating a temporary river city."
+        },
+        {
+          "id": "evt_d10_ziro_festival",
+          "location": { "name": "Ziro Music Festival — Arunachal Pradesh", "lat": 27.5500, "lng": 93.8300 },
+          "questions": [
+            { "question": "The Ziro Music Festival is set in the Ziro Valley — a UNESCO World Heritage nomination site. The valley is the homeland of which tribe?", "options": ["Apatani tribe", "Nyishi tribe", "Adi tribe", "Galo tribe"], "correctIndex": 0 },
+            { "question": "The Apatani people of Ziro Valley are known for an unusual agricultural system. What is it?", "options": ["Terrace farming on very steep gradients", "Integrated wet rice cultivation and fish farming in flooded paddy fields", "Dry land shifting cultivation", "Greenhouse farming"], "correctIndex": 1 },
+            { "question": "The Ziro Music Festival, established in 2012, promotes which type of music primarily?", "options": ["Classical Indian music", "Independent and alternative music from India and the world, in an outdoor festival format", "Northeast Indian folk music exclusively", "Electronic dance music"], "correctIndex": 1 },
+            { "question": "Apatani women traditionally wore nose plugs (yaping hullo) and facial tattoos. This practice is believed to have originated because?", "options": ["Religious tradition", "To make themselves less attractive to raiders from neighbouring tribes who would kidnap beautiful women", "Coming-of-age ritual only", "Royal privilege marker"], "correctIndex": 1 },
+            { "question": "The Ziro Valley is at approximately what altitude?", "options": ["500m", "1,000m", "1,500m", "2,500m"], "correctIndex": 2 }
+          ],
+          "summary": "The Ziro Valley in Arunachal Pradesh — homeland of the Apatani people and a UNESCO tentative World Heritage nominee — is one of Northeast India's most enchanting cultural and natural landscapes at 1,500 metres. The Apatani have developed one of the world's most ingenious agricultural systems: integrated wet rice and fish farming in flooded paddies, achieving remarkably high yields from a small valley floor without clearing forests — a model of sustainable land use. The Ziro Music Festival (since 2012) brings independent and alternative music to this remote valley, attracting thousands of music lovers and putting Ziro on India's cultural map. Traditional Apatani women wore distinctive nose plugs and facial tattoos — a practice now discontinued by younger generations."
+        },
+        {
+          "id": "evt_d10_rath_yatra_puri_revision",
+          "location": { "name": "Sari Weaving — Kanjivaram, Tamil Nadu", "lat": 12.8342, "lng": 79.7044 },
+          "questions": [
+            { "question": "Kanjivaram (Kanchipuram) silk sarees are famous globally. What distinguishes them from other silk sarees?", "options": ["They are made from raw silk only", "They use zari (gold/silver thread) borders and pallu woven separately and then attached — the three parts (body, border, pallu) can be different colours", "They are hand-painted rather than woven", "They use Japanese silk threads exclusively"], "correctIndex": 1 },
+            { "question": "The silk used in Kanjivaram sarees is?", "options": ["Wild Tussar silk from Jharkhand", "Mulberry silk — traditionally sourced from Karnataka and now also from Andhra Pradesh", "Eri silk from Assam", "Muga silk from Assam"], "correctIndex": 1 },
+            { "question": "Kanjivaram sarees received a GI (Geographical Indication) tag, meaning?", "options": ["Only government-owned factories can produce them", "Only sarees woven in Kanchipuram by traditional weavers following the authentic technique can be called Kanjivaram", "They are exempt from GST", "They can be exported freely without duty"], "correctIndex": 1 },
+            { "question": "The Kanchipuram weaver community (primarily Devanga and Mudaliar communities) has faced significant pressure from?", "options": ["Government regulation", "Power loom imitations marketed as handloom Kanjivaram at much lower prices", "Declining raw silk supply", "Environmental restrictions on dyeing"], "correctIndex": 1 },
+            { "question": "Kanchipuram is also historically significant as the capital of which ancient dynasty?", "options": ["Chola", "Pandya", "Pallava", "Satavahana"], "correctIndex": 2 }
+          ],
+          "summary": "Kanchipuram (Kanjivaram) silk sarees — among the world's finest handwoven textiles — are produced in Kanchipuram, Tamil Nadu, a city that has been a silk weaving centre for over 1,000 years. The sarees are distinctive for using heavyweight mulberry silk with pure zari (gold or silver thread) woven separately for the border and pallu (decorative end), which are then attached to the body — a technique allowing three completely different colours in one saree. The GI tag protects authentic Kanchipuram sarees from power loom imitations. Kanchipuram is also historically significant as the Pallava dynasty's capital (6th-9th century CE) and home to over 100 ancient temples, including the Kailasanatha Temple — one of the earliest examples of Dravidian temple architecture."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d10_bihar_patna",
+          "location": { "name": "Patna — Bihar Capital", "lat": 25.5941, "lng": 85.1376 },
+          "questions": [
+            { "question": "Patna is one of the world's oldest continuously inhabited cities. Its ancient name was?", "options": ["Vaishali", "Pataliputra", "Rajgriha", "Nalanda"], "correctIndex": 1 },
+            { "question": "Pataliputra was the capital of which ancient empire — at the time the world's largest?", "options": ["Gupta Empire", "Maurya Empire", "Kushan Empire", "Nanda Empire"], "correctIndex": 1 },
+            { "question": "Bihar was divided in 2000, with which mineral-rich region becoming the new state of Jharkhand?", "options": ["Northern Bihar", "Eastern Bihar", "Southern Bihar (Chotanagpur Plateau)", "Western Bihar"], "correctIndex": 2 },
+            { "question": "Bihar is India's third most populous state but has one of its lowest per capita incomes. This paradox is partly due to?", "options": ["Lack of natural resources", "High population growth, limited industrialisation, and historically inadequate infrastructure investment", "Desert geography limiting agriculture", "Frequent floods only"], "correctIndex": 1 },
+            { "question": "The Nalanda-Rajgir region of Bihar was the centre of which ancient civilisation's learning?", "options": ["Vedic learning and Hindu scholarship", "Buddhist learning and philosophy — the world's first university system", "Jain scholarship", "Ancient Greek-influenced learning"], "correctIndex": 1 }
+          ],
+          "summary": "Patna — Bihar's capital — was ancient Pataliputra, the capital of the Maurya Empire (the world's largest empire of its time under Ashoka), and one of the ancient world's most populous and sophisticated cities. The Greek ambassador Megasthenes described it as rivalling the greatest cities of Persia. Bihar was divided in 2000 when its mineral-rich southern plateau (Chotanagpur) became Jharkhand, leaving Bihar with the densely populated Gangetic plains. Bihar is India's third most populous state (approximately 130 million) but one of its poorest — a paradox rooted in historical factors including colonial-era deindustrialisation, limited irrigation, and underinvestment. The Nalanda-Rajgir circuit represents ancient India's greatest contribution to global intellectual history."
+        },
+        {
+          "id": "pol_d10_mp_bhopal_capital",
+          "location": { "name": "Indore — Madhya Pradesh Commercial Capital", "lat": 22.7196, "lng": 75.8577 },
+          "questions": [
+            { "question": "Indore has been ranked India's cleanest city seven consecutive times in the Swachh Bharat Survey. What year did it first win?", "options": ["2013", "2017", "2019", "2021"], "correctIndex": 1 },
+            { "question": "Indore is known as 'Mini Mumbai' for its?", "options": ["Bollywood connections", "Commercial activity, textile trade, and financial services that make it MP's economic capital", "Coastal location", "Film studios"], "correctIndex": 1 },
+            { "question": "The Holkar dynasty ruled Indore. The most famous Holkar queen — a remarkable 18th-century ruler — was?", "options": ["Rani Lakshmibai", "Ahilyabai Holkar", "Rani Avantibai", "Razia Sultana"], "correctIndex": 1 },
+            { "question": "Ahilyabai Holkar is remembered for?", "options": ["Military conquests across India", "Rebuilding and renovating temples across India — including Kashi Vishwanath, Somnath, and Mathura — during her enlightened 30-year reign", "Defeating the British East India Company", "Establishing the first Indian printing press"], "correctIndex": 1 },
+            { "question": "Indore's famous street food culture is centred on which iconic market?", "options": ["Paltan Bazaar", "Sarafa Bazaar (Jewellery Market that transforms into a food street by night)", "Chowpatty Beach equivalent", "Crawford Market equivalent"], "correctIndex": 1 }
+          ],
+          "summary": "Indore — Madhya Pradesh's commercial capital and India's cleanest city for seven consecutive years (Swachh Bharat Survey) — is one of India's great success stories in urban governance. The Holkar dynasty ruled Indore, producing the remarkable Ahilyabai Holkar (1725-1795) — one of India's greatest rulers, whose 30-year reign was marked by exceptional governance, temple renovation across India (Kashi Vishwanath, Somnath, Gaya), and infrastructure building. Indore's vibrant street food culture — particularly the Sarafa Bazaar that transforms from a jewellery market into one of India's finest food streets at night — has made it a culinary destination. The city's commercial dynamism, with its textile trade, financial services, and growing IT sector, earn it the 'Mini Mumbai' sobriquet."
+        },
+        {
+          "id": "pol_d10_punjab_chandigarh",
+          "location": { "name": "Amritsar — Punjab", "lat": 31.6340, "lng": 74.8723 },
+          "questions": [
+            { "question": "Punjab was partitioned in 1947 between India and Pakistan. The partition caused one of history's largest?", "options": ["Economic collapses", "Mass migrations — approximately 14-18 million people displaced, with enormous communal violence", "Naval battles", "Famines"], "correctIndex": 1 },
+            { "question": "Punjab was further divided in 1966 into three units. What are they?", "options": ["Punjab, Haryana, and Himachal Pradesh (plus Chandigarh as UT)", "Punjab, Haryana, and Rajasthan", "Punjab, Haryana, and Delhi", "Punjab, Chandigarh, and Himachal Pradesh only"], "correctIndex": 0 },
+            { "question": "Punjab's Green Revolution success came primarily from?", "options": ["Foreign aid", "High-yielding varieties of wheat, combined with assured irrigation and minimum support price for farmers", "Mechanised farming technology imported from the USA", "Organic farming methods"], "correctIndex": 1 },
+            { "question": "Punjab's groundwater crisis is severe because?", "options": ["Rainfall has declined sharply", "Over-extraction for paddy cultivation (paddy needs much more water than the region's rainfall provides) has depleted aquifers", "Industry uses most water", "Climate change has reduced river flows"], "correctIndex": 1 },
+            { "question": "The Wagah Border ceremony between India and Pakistan near Amritsar is?", "options": ["A daily flag-lowering ceremony involving elaborate military drills by both sides' Border Security Forces", "A weekly peace meeting between Indian and Pakistani officials", "A monthly trade ceremony", "An annual cultural exchange"], "correctIndex": 0 }
+          ],
+          "summary": "Punjab — 'Land of Five Rivers' — bears the deepest scar of the 1947 Partition: the division of the Punjab province between India and Pakistan caused one of history's largest and most violent mass migrations (14-18 million people displaced, with communal violence killing up to 2 million). In 1966, Indian Punjab was further divided along linguistic lines into Punjab, Haryana, and Himachal Pradesh. Punjab's Green Revolution success (1960s-70s) turned India food-secure — but at the cost of severe groundwater depletion from over-irrigation of paddy (which needs far more water than Punjab's rainfall provides). The daily Wagah Border flag-lowering ceremony — with elaborate military drills by both Indian BSF and Pakistani Rangers — has become one of South Asia's most-watched ritual confrontations, drawing tens of thousands of spectators daily."
+        },
+        {
+          "id": "pol_d10_uttaranchal",
+          "location": { "name": "Nainital — Uttarakhand", "lat": 29.3803, "lng": 79.4636 },
+          "questions": [
+            { "question": "Nainital was a famous British hill station known as the 'Lake District of India.' The lake at its centre is?", "options": ["Naini Lake (kidney-shaped, named after the goddess Naina Devi)", "Bhimtal", "Sattal", "Khurpatal"], "correctIndex": 0 },
+            { "question": "Uttarakhand (earlier Uttaranchal) contains the headwaters of which two of India's most sacred rivers?", "options": ["Indus and Jhelum", "Ganga and Yamuna", "Narmada and Tapti", "Beas and Ravi"], "correctIndex": 1 },
+            { "question": "The Chipko Movement — India's first major environmental movement — originated in Uttarakhand in the 1970s. What was its method?", "options": ["Filing court cases against logging companies", "Women hugging trees to prevent logging — 'chipko' means 'to hug or cling'", "Hunger strikes in Delhi", "Blocking road construction"], "correctIndex": 1 },
+            { "question": "The Chipko Movement was inspired by which historical precedent in Rajasthan?", "options": ["The Non-Cooperation Movement", "The Bishnoi community's sacrifice — 363 people died in 1730 CE hugging khejri trees to prevent a king's men from cutting them", "The Salt March", "The Quit India Movement"], "correctIndex": 1 },
+            { "question": "Uttarakhand's economy is heavily dependent on?", "options": ["Coal mining", "Tourism (pilgrimage and adventure), hydropower, and horticulture (apples, herbs)", "IT services", "Textile manufacturing"], "correctIndex": 1 }
+          ],
+          "summary": "Nainital — 'City of Lakes' in the Kumaon Himalayas — was a favourite British summer retreat and remains one of Uttarakhand's most visited hill stations. Its kidney-shaped Naini Lake is believed to be one of the 64 Shakti Peethas (the eye of the goddess Sati). Uttarakhand is the 'Dev Bhoomi' containing Ganga and Yamuna headwaters. The Chipko Movement, born here in 1973 in Chamoli district when women hugged trees to prevent commercial logging ('chipko' = 'to embrace'), became the inspiration for environmental movements worldwide and directly influenced India's Forest Conservation Act (1980). The movement drew its moral inspiration from the 1730 CE Bishnoi community's sacrifice, when 363 people died to protect khejri trees in Rajasthan."
+        },
+        {
+          "id": "pol_d10_puducherry_rev",
+          "location": { "name": "Kavaratti — Lakshadweep Administration", "lat": 10.5669, "lng": 72.6420 },
+          "questions": [
+            { "question": "Which Indian Prime Minister's visit to Lakshadweep in January 2024 triggered a major tourism surge?", "options": ["Manmohan Singh", "Narendra Modi", "Atal Bihari Vajpayee", "Rajiv Gandhi"], "correctIndex": 1 },
+            { "question": "The Lakshadweep controversy of 2021 involved which administrative proposal?", "options": ["Building a casino on Agatti Island", "The Lakshadweep Administrator's proposed regulations — including the Prevention of Slaughter and Preservation of Animals Regulation (banning beef)", "Connecting islands by a bridge to Kerala", "Allowing non-Indians to buy land on the islands"], "correctIndex": 1 },
+            { "question": "Lakshadweep's exclusive economic zone (EEZ) is vastly larger than its land area. Approximately how large is the EEZ?", "options": ["10,000 sq km", "40,000 sq km", "4 lakh sq km (400,000 sq km)", "10 lakh sq km"], "correctIndex": 2 },
+            { "question": "The Lakshadweep islands are strategically significant because of their location relative to?", "options": ["The India-China boundary", "Major international shipping lanes from the Strait of Hormuz to the Strait of Malacca", "The Andaman Sea maritime boundary", "India's submarine cable landing stations"], "correctIndex": 1 },
+            { "question": "Lakshadweep has which unique linguistic characteristic?", "options": ["Each island has a distinct language unrelated to others", "Malayalam is spoken across all inhabited islands, though with local variations", "Swahili is spoken due to Arab trading contacts", "A mix of Arabic and Malayalam is the official language"], "correctIndex": 1 }
+          ],
+          "summary": "Lakshadweep's 400,000 sq km Exclusive Economic Zone (EEZ) — vastly larger than its 32 sq km of land — makes it strategically vital for India's control of the Arabian Sea's shipping lanes. PM Modi's January 2024 visit (promoting Lakshadweep as an alternative to the Maldives after an India-Maldives diplomatic spat) triggered a surge in permit applications that overwhelmed the administration. A 2021 controversy arose when the appointed Administrator proposed regulations that the islands' overwhelmingly Muslim population saw as culturally threatening, including a proposed beef ban. Lakshadweep's all-inhabited-islands use of Malayalam (reflecting its historical ties to Kerala's Malabar coast) is linguistically unusual for an archipelago. The islands' 97% Muslim population has the highest HDI among Muslim-majority regions in India."
+        }
+      ]
+    }
+  }
+}

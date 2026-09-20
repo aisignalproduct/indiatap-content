@@ -1,0 +1,326 @@
+{
+  "day": 8,
+  "date": "2026-10-08",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d8_wular_lake",
+          "location": { "name": "Wular Lake — Jammu & Kashmir", "lat": 34.3600, "lng": 74.5300 },
+          "questions": [
+            { "question": "Wular Lake is South Asia's largest freshwater lake. Approximately how large is it?", "options": ["100 sq km", "189 sq km", "400 sq km", "600 sq km"], "correctIndex": 1 },
+            { "question": "Wular Lake is fed by which river?", "options": ["Jhelum", "Chenab", "Indus", "Ravi"], "correctIndex": 0 },
+            { "question": "Wular Lake was designated a Ramsar Wetland in which year?", "options": ["1981", "1990", "2000", "2010"], "correctIndex": 0 },
+            { "question": "The Wular Lake's area has shrunk dramatically from its historic size due to?", "options": ["Climate change reducing rainfall", "Encroachment for agriculture, willow plantation, and silt accumulation", "Water diversion for irrigation", "All of the above"], "correctIndex": 3 },
+            { "question": "Wular Lake supports the livelihood of which community primarily?", "options": ["Nomadic Gujjar herders", "Kashmiri fishermen and aquatic plant harvesters", "Shikarawala (houseboat operators)", "Apple orchardists"], "correctIndex": 1 }
+          ],
+          "summary": "Wular Lake in Jammu & Kashmir is South Asia's largest freshwater lake at approximately 189 sq km — though its historic area was over 400 sq km before encroachment for agriculture, willow plantation, and silt accumulation dramatically reduced it. Fed by the Jhelum River, Wular is a Ramsar Wetland since 1981 and a critical habitat for migratory waterfowl. The lake supports thousands of Kashmiri fishermen and aquatic plant harvesters who collect singara (water chestnuts) and nadru (lotus stems). The Tulbul Navigation Project (India) and Wular Barrage Project have been a source of India-Pakistan dispute, with Pakistan claiming they violate the Indus Waters Treaty."
+        },
+        {
+          "id": "geo_d8_tso_moriri",
+          "location": { "name": "Tso Moriri Lake — Ladakh", "lat": 32.9000, "lng": 78.3167 },
+          "questions": [
+            { "question": "Tso Moriri is a high-altitude lake in Ladakh at approximately what elevation?", "options": ["3,000m", "4,522m", "5,200m", "6,000m"], "correctIndex": 1 },
+            { "question": "Tso Moriri is a Ramsar Wetland. It is the breeding ground for which rare bird?", "options": ["Black-necked Crane", "Great Indian Bustard", "Bar-headed Goose", "Himalayan Snowcock"], "correctIndex": 0 },
+            { "question": "The Black-necked Crane is sacred to which communities?", "options": ["Tibetan Buddhist communities of Ladakh", "Kashmiri Muslims", "Hindu communities of Himachal Pradesh", "Christian communities of Nagaland"], "correctIndex": 0 },
+            { "question": "Tso Moriri has no outflow — it is an endorheic (closed) lake. This means its water?", "options": ["Flows into the Indus via an underground channel", "Only leaves through evaporation, making it slightly saline", "Is completely freshwater despite no outflow", "Drains into Pangong Tso"], "correctIndex": 1 },
+            { "question": "The Korzok village on Tso Moriri's shores is one of India's highest permanent settlements at approximately?", "options": ["3,000m", "4,000m", "4,522m", "5,500m"], "correctIndex": 2 }
+          ],
+          "summary": "Tso Moriri ('Mountain Lake') in the Changthang plateau of Ladakh sits at 4,522 metres — one of the world's highest Ramsar Wetlands. As an endorheic lake (no outflow), its water leaves only through evaporation, giving it slightly saline water. The lake is the primary breeding ground in India for the Black-necked Crane — considered sacred by Tibetan Buddhists and one of the world's rarest crane species. The Korzok Monastery on its northern shore, home to the nomadic Changpa community, marks one of India's highest permanently inhabited settlements. The Changpa's Pashmina goats — source of the world's finest Cashmere wool — graze the surrounding high-altitude pastures."
+        },
+        {
+          "id": "geo_d8_konkan_coast",
+          "location": { "name": "Konkan Coast — Maharashtra/Goa", "lat": 16.8524, "lng": 73.6340 },
+          "questions": [
+            { "question": "The Konkan Coast stretches along which states?", "options": ["Gujarat and Maharashtra", "Maharashtra, Goa, and Karnataka", "Goa and Karnataka only", "Maharashtra, Goa, Karnataka, and Kerala"], "correctIndex": 3 },
+            { "question": "The Konkan coast is known for which distinctive geographic feature formed by the Western Ghats meeting the sea?", "options": ["Coral reefs", "A narrow coastal strip between the Western Ghats escarpment and the Arabian Sea", "River deltas", "Extensive mangrove forests only"], "correctIndex": 1 },
+            { "question": "Which crop is the Konkan coast most famous for?", "options": ["Rice", "Coconut", "Alphonso mango (the 'king of mangoes')", "Cashew"], "correctIndex": 2 },
+            { "question": "The Ratnagiri and Devgad districts of Maharashtra produce which GI-tagged mango variety?", "options": ["Totapuri", "Alphonso (Hapus)", "Dasheri", "Langra"], "correctIndex": 1 },
+            { "question": "The Konkan region was historically important for which maritime tradition?", "options": ["It was not historically maritime", "The Angre (Kanhoji Angre) naval power that challenged European dominance in the 18th century", "Portuguese spice trade only", "Arab dhow trade exclusively"], "correctIndex": 1 }
+          ],
+          "summary": "The Konkan coast — the narrow strip between the Western Ghats' sheer escarpment and the Arabian Sea — runs through Maharashtra, Goa, Karnataka, and Kerala. The Ghats' abrupt descent to the sea creates one of the wettest coastal environments on Earth during the monsoon, nurturing the famous Alphonso (Hapus) mango. Ratnagiri and Devgad districts of Maharashtra produce the GI-tagged Alphonso — considered the world's finest mango variety, commanding premium prices globally. The 18th-century Maratha admiral Kanhoji Angre controlled the Konkan coast and repeatedly defeated Dutch, English, and Portuguese fleets — representing one of the most successful naval challenges to European maritime dominance in Asian history."
+        },
+        {
+          "id": "geo_d8_bhitarkanika",
+          "location": { "name": "Bhitarkanika Mangroves — Odisha", "lat": 20.7500, "lng": 86.8833 },
+          "questions": [
+            { "question": "Bhitarkanika is India's second-largest mangrove ecosystem after?", "options": ["Pichavaram (Tamil Nadu)", "Sundarbans (West Bengal)", "Coringa (Andhra Pradesh)", "Gulf of Kutch mangroves"], "correctIndex": 1 },
+            { "question": "Bhitarkanika National Park is a Ramsar Wetland and is famous for housing India's largest population of?", "options": ["Saltwater crocodile (Crocodylus porosus)", "Gharial", "Mugger crocodile", "Chinese softshell turtle"], "correctIndex": 0 },
+            { "question": "The Gahirmatha Marine Sanctuary adjacent to Bhitarkanika hosts the world's largest nesting of which turtle?", "options": ["Leatherback sea turtle", "Green sea turtle", "Olive Ridley sea turtle", "Hawksbill sea turtle"], "correctIndex": 2 },
+            { "question": "The mass nesting phenomenon of Olive Ridley turtles is called?", "options": ["Arribada", "Mass hatching", "Rookery gathering", "Natal homing"], "correctIndex": 0 },
+            { "question": "The Bhitarkanika area is at the delta of which rivers?", "options": ["Mahanadi and Brahmani", "Brahmani and Baitarani", "Mahanadi and Dhamara", "All of the above — multiple river mouths"], "correctIndex": 1 }
+          ],
+          "summary": "Bhitarkanika in Odisha — India's second-largest mangrove ecosystem — sits at the delta of the Brahmani and Baitarani rivers. Its national park contains India's largest population of saltwater crocodiles (the world's largest living reptile, reaching up to 6 metres). Adjacent Gahirmatha Marine Sanctuary is the world's largest Olive Ridley sea turtle rookery — during the annual mass nesting (arribada) phenomenon, hundreds of thousands of females come ashore simultaneously to nest, creating one of nature's most spectacular events. The 1999 Super Cyclone caused massive damage to Bhitarkanika, but the mangroves also significantly buffered the impact on inland communities — a powerful demonstration of natural coastal protection."
+        },
+        {
+          "id": "geo_d8_thar_indira_gandhi_canal",
+          "location": { "name": "Indira Gandhi Canal — Rajasthan", "lat": 28.6333, "lng": 73.0167 },
+          "questions": [
+            { "question": "The Indira Gandhi Canal is India's longest irrigation canal. How long is it?", "options": ["445 km", "649 km", "1,422 km (including distribution network)", "2,000 km"], "correctIndex": 2 },
+            { "question": "The canal draws water from which river via the Harike Barrage?", "options": ["Sutlej and Beas rivers (combined at Harike)", "Ravi only", "Chenab", "Indus"], "correctIndex": 0 },
+            { "question": "The canal transformed which part of Rajasthan from desert into agricultural land?", "options": ["Eastern Rajasthan", "Northern Rajasthan (Thar Desert — particularly Bikaner, Jaisalmer, Barmer districts)", "Southern Rajasthan", "Central Rajasthan"], "correctIndex": 1 },
+            { "question": "While transforming the Thar, the canal has also caused which unintended ecological problem?", "options": ["Desertification of farming areas", "Waterlogging and soil salinity in command areas", "Flooding of ancient monuments", "Displacement of wildlife"], "correctIndex": 1 },
+            { "question": "The canal was originally called the Rajasthan Canal before being renamed after which Prime Minister?", "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Rajiv Gandhi"], "correctIndex": 2 }
+          ],
+          "summary": "The Indira Gandhi Canal — India's longest irrigation canal at 1,422 km including its distribution network — draws water from the Sutlej-Beas system via the Harike Barrage and carries it into the heart of the Thar Desert, transforming millions of hectares in Bikaner, Jaisalmer, Sri Ganganagar, and Barmer districts from desert into agricultural land. Originally the Rajasthan Canal, it was renamed after Indira Gandhi who championed its completion. While dramatically improving agricultural productivity and reducing poverty in northwest Rajasthan, the project has also caused waterlogging and soil salinity in its command areas — a common problem with large irrigation schemes when drainage is inadequate. The canal remains one of independent India's most transformative water infrastructure projects."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d8_jantar_mantar",
+          "location": { "name": "Jantar Mantar — Jaipur, Rajasthan", "lat": 26.9250, "lng": 75.8236 },
+          "questions": [
+            { "question": "Who built the Jantar Mantar observatories?", "options": ["Akbar", "Maharaja Sawai Jai Singh II", "Maharana Pratap", "Raja Man Singh"], "correctIndex": 1 },
+            { "question": "How many Jantar Mantar observatories did Jai Singh II build across India?", "options": ["2", "3", "5", "7"], "correctIndex": 2 },
+            { "question": "The Samrat Yantra at Jaipur's Jantar Mantar is the world's largest stone sundial. Its gnomon (shadow-casting arm) is approximately how tall?", "options": ["7m", "12m", "27m", "50m"], "correctIndex": 2 },
+            { "question": "Jantar Mantar Jaipur became a UNESCO World Heritage Site in which year?", "options": ["1993", "2000", "2010", "2019"], "correctIndex": 2 },
+            { "question": "The instruments at Jantar Mantar were built to accomplish which primary scientific purpose?", "options": ["Predicting monsoon arrival", "Accurately calculating astronomical positions, time, and compiling astronomical tables", "Determining auspicious dates for royal events", "Navigation for maritime trade"], "correctIndex": 1 }
+          ],
+          "summary": "The Jantar Mantar observatory in Jaipur — UNESCO World Heritage Site since 2010 — is the largest and best-preserved of five such observatories built by Maharaja Sawai Jai Singh II (also the founder of Jaipur) in the early 18th century. Jai Singh, a passionate astronomer who found existing astronomical tables inaccurate, built massive masonry instruments that could make precise naked-eye astronomical measurements. The Samrat Yantra (Supreme Instrument) — a 27-metre triangular gnomon — can measure time to within two seconds and still accurately tracks the sun's position. Jai Singh also translated European and Arabic astronomical texts and corresponded with the Portuguese king — making him one of the pre-telescope era's most sophisticated astronomers."
+        },
+        {
+          "id": "cul_d8_chettinad_architecture",
+          "location": { "name": "Chettinad Mansions — Tamil Nadu", "lat": 10.1447, "lng": 78.8676 },
+          "questions": [
+            { "question": "Chettinad mansions were built by which trading community?", "options": ["Marwari merchants", "Nattukotai Chettiars (Nagarathar) — Tamil trading community", "Chettiar Brahmins", "Mudaliar landowners"], "correctIndex": 1 },
+            { "question": "The Chettiars built these mansions primarily between which years, from wealth earned where?", "options": ["1600-1700, from local trade in Tamil Nadu", "1850-1930, from money lending and trade across Southeast Asia (Burma, Malaysia, Ceylon)", "1700-1800, from Mughal court commerce", "1930-1960, from British-era commerce"], "correctIndex": 1 },
+            { "question": "A distinctive feature of Chettinad mansion construction is the use of which unusual flooring material?", "options": ["Italian marble only", "Egg whites mixed with limestone to create a smooth polished floor", "Teak wood throughout", "Granite with brass inlay"], "correctIndex": 1 },
+            { "question": "Chettinad mansions typically face which direction and have which central feature?", "options": ["South, with a large banyan tree", "East, with a large open courtyard (thinnai and multiple inner courtyards)", "North, with a prayer room facing the Himalayas", "Any direction, based on vastu"], "correctIndex": 1 },
+            { "question": "The Chettinad region is also famous for which culinary tradition?", "options": ["Mild, coconut-based cuisine", "Chettinad cuisine — one of India's most complex spice-heavy culinary traditions", "Pure vegetarian cuisine only", "Street food culture similar to Mumbai"], "correctIndex": 1 }
+          ],
+          "summary": "Chettinad in Tamil Nadu's Sivaganga district contains one of India's most extraordinary concentrations of heritage architecture — hundreds of palatial mansions built by the Nattukotai Chettiars (Nagarathar), a Tamil trading community that accumulated enormous wealth through money-lending and trade across British Burma, Ceylon, Malaysia, and Singapore between 1850 and 1930. The mansions, some with 100+ rooms, incorporate materials from across the world — Burma teak, Belgian glass, Italian marble — combined with local craftsmanship. Their distinctive egg-white lime flooring, polished to a mirror finish, and layered inner courtyards create unique domestic spaces. As the Chettiar community declined and emigrated, many mansions stand empty — a UNESCO-watched endangered heritage category."
+        },
+        {
+          "id": "cul_d8_nek_chand",
+          "location": { "name": "Rock Garden — Chandigarh", "lat": 30.7508, "lng": 76.8096 },
+          "questions": [
+            { "question": "The Rock Garden of Chandigarh was secretly created by which person over many years?", "options": ["Le Corbusier's assistant", "Nek Chand Saini — a road inspector in Chandigarh", "A local farmer", "An American sculptor who worked in Le Corbusier's team"], "correctIndex": 1 },
+            { "question": "Nek Chand built the Rock Garden from?", "options": ["Imported marble and stone", "Industrial and urban waste — broken bangles, ceramics, electrical equipment, bathroom fittings", "Natural river stones only", "Concrete poured over wire frames"], "correctIndex": 1 },
+            { "question": "When authorities discovered the Rock Garden (built illegally on government land), they?", "options": ["Demolished it immediately", "Initially planned demolition but public outcry saved it — it became a government-owned public space", "Arrested Nek Chand", "Adopted it immediately as a tourist site"], "correctIndex": 1 },
+            { "question": "The Rock Garden is now one of the most visited sites in India. How many visitors does it receive annually?", "options": ["100,000", "500,000", "Over 5,000", "1.2 million"], "correctIndex": 3 },
+            { "question": "Nek Chand's Rock Garden is cited internationally as a leading example of which artistic tradition?", "options": ["Modernist sculpture", "Folk art", "Outsider art / Art Brut", "Environmental art"], "correctIndex": 2 }
+          ],
+          "summary": "The Rock Garden of Chandigarh — created secretly over 18 years by road inspector Nek Chand Saini beginning in 1957 — is one of the world's most remarkable examples of outsider art. Working clandestinely on government land (and thus illegally), Nek Chand built an elaborate fantasy kingdom of sculptures, waterfalls, and pathways using nothing but industrial and urban waste: broken bangles, ceramic tiles, discarded electrical equipment, and bathroom fixtures. When authorities discovered the 12-acre site in 1975, they initially planned demolition — but a massive public response led to its protection and formalisation as a paid tourist attraction. Now receiving over 1.2 million visitors annually, it is Chandigarh's most visited site and is cited in art circles worldwide as a masterwork of Art Brut."
+        },
+        {
+          "id": "cul_d8_basilica_bom_jesus",
+          "location": { "name": "Basilica of Bom Jesus — Old Goa", "lat": 15.5009, "lng": 73.9117 },
+          "questions": [
+            { "question": "The Basilica of Bom Jesus enshrines the remains of which Christian saint?", "options": ["St. Thomas (who brought Christianity to India)", "St. Francis Xavier — Jesuit missionary to Asia", "St. Paul", "Blessed Mother Teresa"], "correctIndex": 1 },
+            { "question": "The Basilica was built by the Portuguese in which year?", "options": ["1496", "1605", "1666", "1750"], "correctIndex": 1 },
+            { "question": "St. Francis Xavier's remains are displayed publicly every how many years in a ceremony called the Exposition?", "options": ["Every year", "Every 5 years", "Every 10 years", "Every 15 years"], "correctIndex": 2 },
+            { "question": "Old Goa's churches and convents became a UNESCO World Heritage Site in which year?", "options": ["1982", "1986", "1993", "2000"], "correctIndex": 1 },
+            { "question": "The style of the Basilica of Bom Jesus is?", "options": ["Gothic", "Renaissance and Baroque", "Romanesque", "Indo-Portuguese"], "correctIndex": 1 }
+          ],
+          "summary": "The Basilica of Bom Jesus ('Good Jesus') in Old Goa, completed in 1605, is one of India's most significant Christian heritage sites and part of UNESCO's 'Churches and Convents of Goa' World Heritage Site (1986). It enshrines the remains of St. Francis Xavier — the Jesuit missionary who brought Christianity to India, Japan, and other parts of Asia in the 16th century — in an ornate silver reliquary donated by the Florentine sculptor Giovanni Battista Foggini. Every ten years, the saint's body is displayed to the public in an 'Exposition' that draws millions of pilgrims from across the Catholic world. Old Goa's baroque churches, built at the height of Portuguese colonial power, represent the finest Portuguese colonial religious architecture outside Portugal."
+        },
+        {
+          "id": "cul_d8_krishna_butter_ball",
+          "location": { "name": "Venkateswara Temple — Tirupati, Andhra Pradesh", "lat": 13.6833, "lng": 79.3472 },
+          "questions": [
+            { "question": "The Venkateswara Temple at Tirupati is the world's most visited religious site. Approximately how many pilgrims visit annually?", "options": ["5 million", "20 million", "40 million", "75 million+"], "correctIndex": 3 },
+            { "question": "The temple is also the world's richest religious institution by annual income. It receives approximately how much in donations per year?", "options": ["₹500 crore", "₹4,000 crore", "₹12,000+ crore", "₹50,000 crore"], "correctIndex": 2 },
+            { "question": "Devotees who visit Tirupati often donate what as an offering?", "options": ["Gold coins", "Their hair (tonsuring — the hair is then auctioned to wig manufacturers globally)", "Land and property", "Jewellery"], "correctIndex": 1 },
+            { "question": "Lord Venkateswara at Tirupati is a form of which deity?", "options": ["Shiva", "Brahma", "Vishnu", "Murugan"], "correctIndex": 2 },
+            { "question": "The Tirumala hills on which the temple stands are part of which hill range?", "options": ["Nilgiris", "Seshachalam Hills (Eastern Ghats)", "Javadi Hills", "Velliangiri Hills"], "correctIndex": 1 }
+          ],
+          "summary": "The Venkateswara Temple at Tirumala-Tirupati in Andhra Pradesh's Eastern Ghats is the world's most visited religious site — receiving an estimated 75,000–100,000 pilgrims daily (over 75 million annually) who come to worship Lord Venkateswara, a form of Vishnu. It is simultaneously the world's wealthiest religious institution, receiving over ₹12,000 crore annually in donations — including the famous hair donations: pilgrims tonsure their heads as an offering, and the temple auctions the hair to European and American wig manufacturers, generating substantial revenue. The Tirumala Tirupati Devasthanams (TTD) manages the temple complex and is one of India's largest non-governmental employers, providing education, healthcare, and food (the famous Tirupati laddoo) to millions."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d8_amul_anand",
+          "location": { "name": "Amul — Anand, Gujarat", "lat": 22.5645, "lng": 72.9289 },
+          "questions": [
+            { "question": "Amul is India's largest food products organisation. What does AMUL stand for?", "options": ["Anand Milk Union Limited", "Asian Milk Union Limited", "Anand Milk Utility Laboratory", "All Milk Union Limited"], "correctIndex": 0 },
+            { "question": "Amul was founded in 1946 as part of which movement?", "options": ["The independence movement", "The cooperative dairy movement led by Tribhuvandas Patel and Verghese Kurien", "The Green Revolution", "The White Revolution under Lal Bahadur Shastri"], "correctIndex": 1 },
+            { "question": "Verghese Kurien, often called the 'Father of the White Revolution,' created which national dairy development programme?", "options": ["Project Blue (milk)", "Operation Flood — the world's largest dairy development programme", "Project White", "National Milk Mission"], "correctIndex": 1 },
+            { "question": "The Amul cooperative model is unique because?", "options": ["The government owns and operates it", "It is owned by 3.6 million milk producer members — mostly small and marginal farmers", "It is a foreign-owned multinational", "It is owned by large dairy farmers only"], "correctIndex": 1 },
+            { "question": "India is now the world's largest milk producer. Its annual milk production is approximately?", "options": ["50 million tonnes", "100 million tonnes", "220 million tonnes", "350 million tonnes"], "correctIndex": 2 }
+          ],
+          "summary": "Amul (Anand Milk Union Limited), founded in 1946 in Anand, Gujarat, is one of the world's most successful cooperative enterprises and the cornerstone of India's dairy revolution. Under Verghese Kurien ('Milkman of India'), Amul became the model for Operation Flood (1970-1996) — the world's largest dairy development programme, which transformed India from a milk-deficient country into the world's largest milk producer (now approximately 220 million tonnes annually). Amul is owned by 3.6 million farmer members across 18,700 village cooperatives — most of them smallholders with 2-3 buffaloes — who collectively created a national brand that successfully competed against multinationals. The Amul cooperative model is studied globally as a template for inclusive rural development."
+        },
+        {
+          "id": "eco_d8_visakhapatnam_pharma",
+          "location": { "name": "Visakhapatnam Port — Andhra Pradesh", "lat": 17.6868, "lng": 83.2185 },
+          "questions": [
+            { "question": "Visakhapatnam Port is India's fourth-largest port. It is India's only?", "options": ["Deepwater port", "Landlocked port", "Natural harbour on the eastern coast with deep drafts", "Government-owned port with private terminal operators"], "correctIndex": 2 },
+            { "question": "The Visakhapatnam Steel Plant nearby is India's only what type of plant?", "options": ["Coastal integrated steel plant", "Shore-based integrated steel plant", "Electric arc furnace steel plant", "Stainless steel plant"], "correctIndex": 1 },
+            { "question": "The Eastern Naval Command of the Indian Navy is based in?", "options": ["Chennai", "Kochi", "Visakhapatnam", "Kolkata"], "correctIndex": 2 },
+            { "question": "India's first nuclear submarine (INS Arihant) is based at which location?", "options": ["Mumbai", "Visakhapatnam (Ship Building Centre)", "Kochi", "Karwar"], "correctIndex": 1 },
+            { "question": "The annual storm that devastated Visakhapatnam in 2014 — Cyclone Hudhud — caused approximately what damage?", "options": ["₹500 crore", "₹5,000 crore", "₹21,000+ crore", "₹50,000 crore"], "correctIndex": 2 }
+          ],
+          "summary": "Visakhapatnam ('Vizag') in Andhra Pradesh is India's most strategically significant eastern port city. The port is one of the few natural deep-water harbours on India's east coast. The Eastern Naval Command, headquartered at Vizag, is responsible for India's entire eastern seaboard and the Bay of Bengal — and it is the base for INS Arihant, India's first nuclear-powered ballistic missile submarine (SSBN), built at the Ship Building Centre in a highly classified programme. Vizag's industrial complex includes the Shore-Based Integrated Steel Plant (RINL), the HPCL refinery, and a pharmaceutical cluster. Cyclone Hudhud in 2014 caused over ₹21,000 crore damage to the city — one of India's costliest urban cyclone disasters."
+        },
+        {
+          "id": "eco_d8_textile_surat",
+          "location": { "name": "Surat Textile Hub — Gujarat", "lat": 21.1702, "lng": 72.8311 },
+          "questions": [
+            { "question": "Surat is called the 'Silk City' and handles what percentage of India's synthetic textile production?", "options": ["10%", "30%", "40%", "60%+"], "correctIndex": 3 },
+            { "question": "Surat's textile industry processes primarily which type of fabric?", "options": ["Natural silk exclusively", "Synthetic fabrics (polyester, nylon) — Surat is the world's largest producer of polyester fabric", "Cotton khadi", "Wool and cashmere"], "correctIndex": 1 },
+            { "question": "Surat was one of the major ports of the Mughal Empire. The British East India Company established its first Indian factory in Surat in which year?", "options": ["1600", "1608", "1612", "1650"], "correctIndex": 2 },
+            { "question": "Surat Diamond Bourse, opened in 2023, is the world's largest commercial building by floor space, surpassing?", "options": ["Empire State Building", "The Pentagon", "Burj Khalifa's footprint", "Shanghai Tower"], "correctIndex": 1 },
+            { "question": "The 1994 plague that struck Surat caused mass migration and international concern. The city's subsequent transformation into one of India's cleanest cities was led by?", "options": ["A World Bank intervention", "Commissioner S.R. Rao's comprehensive municipal reform programme", "Central government direct control", "International NGO intervention"], "correctIndex": 1 }
+          ],
+          "summary": "Surat is India's fastest-growing major city — a global textile and diamond hub that has reinvented itself multiple times. The city processes over 60% of India's synthetic textiles (primarily polyester fabric) and 90% of the world's rough diamonds. The British East India Company established its first Indian factory in Surat in 1612, making it the starting point of British India. The 1994 bubonic plague outbreak triggered mass exodus and international stigma — but also a remarkable urban transformation under Municipal Commissioner S.R. Rao, who reformed garbage collection, drainage, and sanitation so thoroughly that Surat now consistently ranks among India's cleanest cities. The Surat Diamond Bourse (2023), the world's largest commercial building by floor space (surpassing the Pentagon), consolidates the diamond trade that employs 700,000 workers."
+        },
+        {
+          "id": "eco_d8_rourkela_steel",
+          "location": { "name": "Rourkela Steel Plant — Odisha", "lat": 22.2604, "lng": 84.8536 },
+          "questions": [
+            { "question": "Rourkela Steel Plant was built with assistance from which country?", "options": ["USSR", "UK", "Germany (West Germany)", "USA"], "correctIndex": 2 },
+            { "question": "Rourkela Steel Plant was established during which Five Year Plan as one of India's flagship industrial projects?", "options": ["First", "Second", "Third", "Fourth"], "correctIndex": 1 },
+            { "question": "Rourkela is primarily known for producing which type of steel products?", "options": ["Long products (rails, rods)", "Flat products (plates, coils, sheets)", "Stainless steel", "Special alloy steel"], "correctIndex": 1 },
+            { "question": "Which NIT (National Institute of Technology) was established alongside Rourkela Steel Plant to supply engineers?", "options": ["NIT Jamshedpur", "NIT Rourkela (then Regional Engineering College)", "IIT Bhubaneswar", "NIT Silchar"], "correctIndex": 1 },
+            { "question": "The river on which Rourkela is located is?", "options": ["Mahanadi", "Brahmani", "Baitarani", "Subarnarekha"], "correctIndex": 1 }
+          ],
+          "summary": "Rourkela Steel Plant in Odisha — established during the Second Five Year Plan with West German technical and financial assistance, commissioned in 1959 — is one of the three iconic public sector steel plants built by Nehru's government to kickstart India's industrial revolution (alongside Bhilai with Soviet help and Durgapur with British assistance). Rourkela specialises in flat products (plates, coils, sheets) used in shipbuilding, automotive, and construction sectors. The plant township also became the site of the Regional Engineering College (now NIT Rourkela) — the government's recognition that an industrial complex needed a technical training institution alongside it. The Brahmani River provides the plant's water supply."
+        },
+        {
+          "id": "eco_d8_nhpc_north_east",
+          "location": { "name": "North East Gas Grid — Assam", "lat": 26.1445, "lng": 91.7362 },
+          "questions": [
+            { "question": "The Assam Gas Cracker Project at Lepetkata produces which chemical from natural gas?", "options": ["Ammonia for fertilisers", "Plastics and polymers (ethylene and propylene)", "Chlorine", "Methanol"], "correctIndex": 1 },
+            { "question": "Assam's Digboi has which historical distinction?", "options": ["India's oldest oil refinery (1901) and the site of Asia's first oil well", "India's first natural gas discovery", "India's first coal mine", "India's oldest railway line outside Bengal"], "correctIndex": 0 },
+            { "question": "The Northeast Gas Grid aims to connect all eight northeastern states. Its primary fuel source for the region is?", "options": ["Imported LNG from Kochi", "Natural gas from Tripura and Assam gas fields", "Coal bed methane", "Biogas from agricultural waste"], "correctIndex": 1 },
+            { "question": "Brahmaputra Cracker and Polymer Limited (BCPL) at Lepetkata is a joint venture between which entities?", "options": ["Only the Government of Assam", "GAIL, Oil India, NRL, and the Government of Assam", "Only central PSUs", "Private sector companies"], "correctIndex": 1 },
+            { "question": "The northeast India region is significant for energy because it has?", "options": ["India's largest coal reserves", "Significant oil, natural gas, and hydropower resources — but infrastructure has historically been inadequate to exploit them", "India's largest solar potential", "The only viable nuclear fuel (thorium) deposits"], "correctIndex": 1 }
+          ],
+          "summary": "Northeast India's energy resources — natural gas in Tripura and Assam, vast hydropower potential in Arunachal Pradesh and other states, and significant oil from Assam's Digboi fields (site of Asia's first oil well, 1889, and India's oldest refinery, 1901) — have historically been underutilised due to inadequate infrastructure and geographical isolation. The Assam Gas Cracker Project (BCPL) at Lepetkata, a joint venture between GAIL, Oil India, NRL, and the Assam government, converts natural gas into polymers (plastics) — the region's first petrochemical plant. The North East Gas Grid initiative aims to provide all eight northeastern states with piped natural gas supply, reducing dependence on expensive LPG cylinders and supporting industrial development."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d8_milad_un_nabi",
+          "location": { "name": "Id-ul-Zuha (Eid ul-Adha) — Lucknow, Uttar Pradesh", "lat": 26.8467, "lng": 80.9462 },
+          "questions": [
+            { "question": "Eid ul-Adha commemorates which event from Islamic tradition?", "options": ["Prophet Muhammad's birth", "The Prophet's night journey to heaven", "Ibrahim's (Abraham's) willingness to sacrifice his son as commanded by God", "The revelation of the Quran"], "correctIndex": 2 },
+            { "question": "The ritual sacrifice (Qurbani) on Eid ul-Adha involves?", "options": ["Sacrificing a goat, sheep, cow, or camel — with the meat distributed to family, neighbours, and the poor", "Sacrificing only goats", "A symbolic 'sacrifice' with no actual animal slaughter", "Only cattle sacrifice is permitted"], "correctIndex": 0 },
+            { "question": "Lucknow is famous for its distinctive Nawabi culture. The Nawabs of Lucknow were from which dynasty?", "options": ["Mughal dynasty directly", "Awadhi Nawabs (Nawabs of Awadh)", "Hyderabad Nizam's family", "Tipu Sultan's dynasty"], "correctIndex": 1 },
+            { "question": "Lucknow's 'Tehzeeb' (culture of refinement) is expressed through which art form unique to the city?", "options": ["Kathak dance, Nawabi cuisine (biryani, korma), Chikankari embroidery, and Urdu poetry", "Classical Hindustani music only", "Miniature painting", "Classical Sanskrit recitation"], "correctIndex": 0 },
+            { "question": "The Bara Imambara in Lucknow, built in 1784, is famous for which architectural feature?", "options": ["Its height — tallest building in colonial India", "Its central hall (asafi hall) — one of the world's largest arched chambers without any supporting beams", "Its golden dome", "Its subterranean water storage system"], "correctIndex": 1 }
+          ],
+          "summary": "Lucknow — capital of Uttar Pradesh and the historic seat of the Nawabs of Awadh — is India's most refined Urdu and Islamic cultural centre. The Nawabi culture of 'Tehzeeb' (refinement and courtesy) shaped Lucknow's distinctive identity: its Kathak dance tradition, its cuisine (Biryani, Galouti kebab, Nihari), its Chikankari embroidery, and its Urdu poetry. The Bara Imambara (1784), built by Nawab Asaf-ud-Daula during a famine as a public works project to employ the poor, contains one of the world's largest arched halls without supporting beams — and the labyrinthine 'Bhool Bhulaiya' (maze) within its upper galleries. During Eid ul-Adha, Lucknow's old city celebrations combine Islamic tradition with the distinctive Lucknawi refinement that softens festival customs."
+        },
+        {
+          "id": "evt_d8_bonalu",
+          "location": { "name": "Bonalu Festival — Hyderabad, Telangana", "lat": 17.3850, "lng": 78.4867 },
+          "questions": [
+            { "question": "Bonalu is a festival of which Telugu community celebrated primarily in Hyderabad and Telangana?", "options": ["All communities equally", "Specifically Telangana communities — a folk festival honouring the Mother Goddess Mahankali", "Brahmin communities", "Muslim communities"], "correctIndex": 1 },
+            { "question": "The word 'Bonalu' derives from the Telugu word for?", "options": ["Festival", "Offering (of cooked rice and other food in a pot)", "Mother", "Drum"], "correctIndex": 1 },
+            { "question": "Bonalu celebrates the return of the Goddess after preventing which calamity?", "options": ["A flood", "The plague that struck Hyderabad in 1813", "A drought", "A military defeat"], "correctIndex": 1 },
+            { "question": "The procession during Bonalu features women balancing pots (Bonam) on their heads. These pots contain?", "options": ["Empty pots as symbolic offerings", "Cooked rice, curd, and jaggery — an offering to the goddess", "Flowers and incense", "Water from the Musi River"], "correctIndex": 1 },
+            { "question": "Bonalu is primarily celebrated at which Hyderabad temple?", "options": ["Birla Mandir", "Chilkur Balaji Temple", "Ujjaini Mahankali Temple, Secunderabad", "Thousand Pillar Temple"], "correctIndex": 2 }
+          ],
+          "summary": "Bonalu — a traditional Telangana folk festival celebrated over three weekends in the Telugu months of Ashadha and Shravan (July-August) — honours the Mother Goddess Mahankali. The festival originated in Secunderabad's Ujjaini Mahankali Temple to thank the goddess for ending the plague of 1813. Women dress in red, balance decorated pots (Bonam) filled with cooked rice, curd, and jaggery on their heads, and walk in procession to the temple. The Rangam (oracle) — a priest who goes into a trance and delivers prophecies from the Goddess — is a dramatic and spiritually significant element. Bonalu was declared Telangana's state festival in 2014 when the new state was formed, asserting a distinct Telangana cultural identity."
+        },
+        {
+          "id": "evt_d8_tribal_haat",
+          "location": { "name": "Craft Haat — Dilli Haat, Delhi", "lat": 28.5720, "lng": 77.2067 },
+          "questions": [
+            { "question": "Dilli Haat in New Delhi was established to give craftspeople direct market access without?", "options": ["Taxation", "Middlemen who typically take a large share of the retail price", "Competition from imports", "Government interference"], "correctIndex": 1 },
+            { "question": "Dilli Haat features crafts from how many Indian states?", "options": ["10", "25", "All 28 states and 8 UTs", "Only northern states"], "correctIndex": 2 },
+            { "question": "The GI (Geographical Indication) tag protects traditional Indian crafts. Which of these is a GI-tagged craft?", "options": ["Generic embroidery", "Kanjivaram silk saree from Tamil Nadu", "Any handloom fabric", "Machine-made jari work"], "correctIndex": 1 },
+            { "question": "India's handloom sector employs approximately how many people, making it the second-largest employer after agriculture?", "options": ["500,000", "2 million", "43 lakh (4.3 million)", "1 crore (10 million)"], "correctIndex": 2 },
+            { "question": "Which Indian state has the highest number of GI-tagged products?", "options": ["Tamil Nadu", "Uttar Pradesh", "Karnataka", "Rajasthan"], "correctIndex": 0 }
+          ],
+          "summary": "Dilli Haat — established in 1994 in New Delhi — is India's most successful model for giving traditional craftspeople direct access to urban consumers, eliminating middlemen who typically capture 60-70% of retail value. The haat rotates craftspeople from all 28 states and 8 Union Territories through its stalls, creating a permanent showcase of India's extraordinary craft diversity. India's traditional crafts sector employs approximately 43 lakh (4.3 million) artisans — the second-largest employment sector after agriculture — but faces existential threats from cheap machine-made imitations. The GI (Geographical Indication) tag system, modelled on European protections for products like Champagne and Parma ham, protects Indian crafts including Kanjivaram silk, Pashmina, Darjeeling tea, and Kolhapuri chappals. Tamil Nadu has the most GI-tagged products of any Indian state."
+        },
+        {
+          "id": "evt_d8_kalbelia_dance",
+          "location": { "name": "Kalbelia Dance — Rajasthan", "lat": 26.9124, "lng": 75.7873 },
+          "questions": [
+            { "question": "The Kalbelia dance is performed by which Rajasthani community?", "options": ["Rajput warrior community", "Kalbelia (snake charmer) community of Rajasthan", "Marwari trading community", "Bhil tribal community"], "correctIndex": 1 },
+            { "question": "The Kalbelia dance was inscribed on UNESCO's Intangible Cultural Heritage list in which year?", "options": ["2005", "2010", "2015", "2019"], "correctIndex": 1 },
+            { "question": "The most celebrated Kalbelia dancer who brought international fame to the tradition was?", "options": ["Shobhana", "Gulabi Sapera", "Kumudini Lakhia", "Mrinalini Sarabhai"], "correctIndex": 1 },
+            { "question": "The Kalbelia costume for women is distinctive for being entirely?", "options": ["White with gold embroidery", "Black with silver and mirror embroidery", "Red with gold work", "Blue and silver"], "correctIndex": 1 },
+            { "question": "The Kalbelia community traditionally made their living as?", "options": ["Farmers", "Snake charmers and traders of snake venom and traditional medicine", "Soldiers in Rajput armies", "Silk weavers"], "correctIndex": 1 }
+          ],
+          "summary": "The Kalbelia dance — UNESCO Intangible Cultural Heritage since 2010 — originates with the Kalbelia community of Rajasthan, traditionally snake charmers and traders of snake-related traditional medicines. As snake charming became illegal and marginalised, the Kalbelia community's survival strategy pivoted to their dance tradition. The Kalbelia dance mimics the sinuous movements of a serpent — women in distinctive black embroidered costumes spin with extraordinary speed and grace while male musicians play the been (pungi flute) and dholak drum. Gulabi Sapera, the community's most celebrated dancer, brought Kalbelia to international stages in the 1990s-2000s, transforming a marginalised community's tradition into a globally recognised art form."
+        },
+        {
+          "id": "evt_d8_chhath_puja",
+          "location": { "name": "Chhath Puja — Patna, Bihar", "lat": 25.5941, "lng": 85.1376 },
+          "questions": [
+            { "question": "Chhath Puja is dedicated to which deity?", "options": ["Lord Shiva", "Surya (the Sun God) and Chhathi Maiya (Goddess Usha)", "Lord Vishnu", "Goddess Ganga"], "correctIndex": 1 },
+            { "question": "Chhath Puja is unique among Hindu festivals because?", "options": ["It requires a temple visit", "It is performed on riverbanks facing the setting and rising sun — no priest or idol is required", "It involves elaborate fire rituals", "It is performed only by men"], "correctIndex": 1 },
+            { "question": "Chhath Puja lasts for how many days?", "options": ["1", "2", "4", "7"], "correctIndex": 2 },
+            { "question": "Chhath is primarily associated with which states?", "options": ["Rajasthan and Gujarat", "Bihar, Jharkhand, UP and the diaspora wherever Bihari communities settle", "West Bengal and Odisha", "Maharashtra and Gujarat"], "correctIndex": 1 },
+            { "question": "The prasad offered during Chhath includes which food item made from jaggery and wheat?", "options": ["Kheer", "Thekua (a sweet fried cake)", "Pongal", "Modak"], "correctIndex": 1 }
+          ],
+          "summary": "Chhath Puja — Bihar's most important festival — is a four-day worship of Surya (the Sun God) and Chhathi Maiya that requires no temple, no priest, and no idol. Devotees (primarily women) observe rigorous fasting for 36 hours and stand in rivers or ponds at sunset and sunrise to offer arghya (water offerings) directly to the sun. The festival's most photographed moment — thousands of devotees standing waist-deep in the Ganga at Patna or the Yamuna at Delhi's banks, holding traditional baskets of prasad, as the orange sun touches the horizon — is one of India's most powerful visual spectacles. Chhath has spread wherever Bihari and Purvanchali communities have migrated — from Mauritius to the USA, the festival is celebrated wherever these diasporas settle."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d8_ap_amaravati",
+          "location": { "name": "Amaravati — Andhra Pradesh Capital", "lat": 16.5733, "lng": 80.3567 },
+          "questions": [
+            { "question": "Andhra Pradesh was bifurcated in which year to create Telangana?", "options": ["2012", "2013", "2014", "2015"], "correctIndex": 2 },
+            { "question": "The proposed new capital Amaravati is planned on the banks of which river?", "options": ["Godavari", "Krishna", "Tungabhadra", "Penna"], "correctIndex": 1 },
+            { "question": "Ancient Amaravati (near the proposed capital) was famous for which Buddhist monument?", "options": ["A massive monastery", "The Amaravati Stupa — one of ancient India's greatest Buddhist structures", "A rock-cut cave complex", "A pillar of Ashoka"], "correctIndex": 1 },
+            { "question": "Andhra Pradesh has India's longest coastline. Approximately how long is it?", "options": ["600 km", "974 km", "1,300 km", "1,600 km"], "correctIndex": 1 },
+            { "question": "After losing Hyderabad to Telangana, Andhra Pradesh's executive capital functions are being conducted from?", "options": ["Vijayawada", "Visakhapatnam", "Amaravati (partially) and Visakhapatnam as an alternative", "Kurnool"], "correctIndex": 2 }
+          ],
+          "summary": "Andhra Pradesh's bifurcation in 2014 — creating Telangana — was one of independent India's most contentious state reorganisations. Losing Hyderabad to Telangana left Andhra Pradesh without a capital. The proposed new capital Amaravati on the Krishna River — named after the nearby ancient Buddhist site where the Amaravati Stupa (2nd century BCE) once stood — became a major political flashpoint: one government planned it as a global-standard new city, the next scaled it back dramatically. The capital question remains partially unresolved, with different state functions distributed across multiple cities. Ancient Amaravati's Buddhist sculptures are now housed in museums worldwide, including the British Museum."
+        },
+        {
+          "id": "pol_d8_mp_bhopal",
+          "location": { "name": "Bhopal — Madhya Pradesh Capital", "lat": 23.2599, "lng": 77.4126 },
+          "questions": [
+            { "question": "Bhopal became internationally infamous due to which industrial disaster?", "options": ["A dam burst in 1979", "The Union Carbide gas leak of December 1984 — the world's worst industrial disaster", "A coal mine collapse in 1966", "A chemical factory fire in 1991"], "correctIndex": 1 },
+            { "question": "The Bhopal gas tragedy killed how many people immediately and how many from long-term effects?", "options": ["500 immediately, 5,000 long-term", "2,259 immediately (officially), with estimates of 15,000-25,000 total deaths", "10,000 immediately", "100 immediately, 1,000 long-term"], "correctIndex": 1 },
+            { "question": "Madhya Pradesh is India's largest state by area. What is its approximate area?", "options": ["200,000 sq km", "308,000 sq km", "400,000 sq km", "500,000 sq km"], "correctIndex": 1 },
+            { "question": "The Bhimkund in Madhya Pradesh and the Bhimbetka rock shelters are in which broader region?", "options": ["Malwa Plateau", "Vindhya Range foothills", "Satpura Range", "Chota Nagpur Plateau"], "correctIndex": 1 },
+            { "question": "Bhopal is known for which traditional craft?", "options": ["Madhubani painting", "Zardozi and Bagh print textiles", "Dhokra metalwork", "Pattachitra"], "correctIndex": 1 }
+          ],
+          "summary": "Bhopal — Madhya Pradesh's capital — is indelibly associated with the Union Carbide gas leak of December 3, 1984 — the world's worst industrial disaster. Methyl isocyanate gas escaping from the plant's storage tank killed at least 2,259 people immediately (some estimates put total deaths at 15,000-25,000 from long-term effects). Contaminated soil and groundwater continue to affect communities around the abandoned plant decades later. The disaster prompted fundamental changes to industrial safety regulation globally. Beyond this tragedy, Bhopal is a city of lakes (created by the 11th-century Paramara king Raja Bhoj), significant Mughal-era monuments, and traditional crafts including Zardozi embroidery and Bagh print textiles. Madhya Pradesh, India's largest state by area at 308,000 sq km, is rich in forests, minerals, and heritage sites."
+        },
+        {
+          "id": "pol_d8_goa_panaji",
+          "location": { "name": "Panaji — Goa Capital", "lat": 15.4909, "lng": 73.8278 },
+          "questions": [
+            { "question": "Goa's liberation from Portuguese rule occurred via which Indian military operation?", "options": ["Operation Polo", "Operation Vijay", "Operation Cactus", "Operation Meghdoot"], "correctIndex": 1 },
+            { "question": "In which year was Goa liberated?", "options": ["1947", "1954", "1961", "1965"], "correctIndex": 2 },
+            { "question": "Goa achieved full statehood (separated from Daman and Diu) in which year?", "options": ["1961", "1975", "1987", "1991"], "correctIndex": 2 },
+            { "question": "Goa has India's highest per capita income among states. Its economy is driven primarily by?", "options": ["Agriculture alone", "Tourism, pharmaceuticals, and iron ore mining", "Fishing industry", "IT services"], "correctIndex": 1 },
+            { "question": "The Portuguese-era Fontainhas quarter of Panaji is famous for?", "options": ["Its modern architecture", "Its Latin Quarter of narrow lanes with tile-faced 19th-century Portuguese houses", "Its spice markets", "Its beachfront promenade"], "correctIndex": 1 }
+          ],
+          "summary": "Goa — liberated from 451 years of Portuguese rule by Indian military force (Operation Vijay) in December 1961 — achieved full statehood in 1987. India's smallest state by area (3,702 sq km), Goa has the country's highest per capita income, driven by its enormous tourism industry (over 7 million visitors annually), pharmaceutical manufacturing, and iron ore mining (though iron ore exports have been repeatedly restricted due to environmental concerns). Panaji's Fontainhas Latin Quarter — narrow cobblestone lanes flanked by tile-faced Portuguese colonial houses in yellow, blue, and green — is one of India's most distinctive urban heritage neighbourhoods. The Kochi-Goa coastal stretch has become India's most popular domestic tourism destination."
+        },
+        {
+          "id": "pol_d8_sikkim_statehood",
+          "location": { "name": "Pelling — Sikkim", "lat": 27.2980, "lng": 88.2350 },
+          "questions": [
+            { "question": "Sikkim became India's 22nd state through what process in 1975?", "options": ["Voluntary merger after independence", "A UN-supervised referendum followed by a vote in the Sikkim Assembly", "Military annexation without consultation", "A treaty with the Chogyal (king)"], "correctIndex": 1 },
+            { "question": "Sikkim's merger with India is still contested by which country?", "options": ["Nepal", "Bhutan", "China — which did not recognise Sikkim as part of India until 2003", "Bangladesh"], "correctIndex": 2 },
+            { "question": "Pelling in West Sikkim offers views of which mountain?", "options": ["Everest", "K2", "Kangchenjunga", "Nanda Devi"], "correctIndex": 2 },
+            { "question": "Sikkim became India's first fully organic state in which year?", "options": ["2006", "2010", "2016", "2020"], "correctIndex": 2 },
+            { "question": "The Kanchenjunga National Park and Biosphere Reserve in Sikkim became a UNESCO World Heritage Site in which year?", "options": ["2000", "2012", "2016", "2021"], "correctIndex": 2 }
+          ],
+          "summary": "Sikkim's integration into India in 1975 is one of modern history's most contested territorial incorporations. After a referendum (in which Sikkimese voted to join India) and a vote in the Sikkim Assembly, India's parliament passed the 36th Constitutional Amendment making Sikkim India's 22nd state. China did not recognise Sikkim as Indian territory until 2003 — a recognition that came partly through diplomatic negotiations. Pelling in West Sikkim offers some of the Himalayas' most dramatic mountain views, particularly of Kangchenjunga (8,586m), India's highest peak. The Kanchenjunga National Park became a UNESCO World Heritage Site in 2016 — one of the few UNESCO sites in India for its 'Outstanding Universal Value' in both natural heritage and its association with Tibetan Buddhist culture."
+        },
+        {
+          "id": "pol_d8_haryana_panchkula",
+          "location": { "name": "Panchkula — Haryana", "lat": 30.6942, "lng": 76.8606 },
+          "questions": [
+            { "question": "Haryana was created from Punjab in which year?", "options": ["1960", "1966", "1970", "1975"], "correctIndex": 1 },
+            { "question": "Haryana and Punjab share which capital city?", "options": ["Ludhiana", "Amritsar", "Chandigarh", "Patiala"], "correctIndex": 2 },
+            { "question": "Haryana is India's leading state in?", "options": ["Tea production", "Per capita milk production and sports (wrestling, boxing) achievement", "Software exports", "Rice production"], "correctIndex": 1 },
+            { "question": "The Kurukshetra battlefield — site of the Mahabharata war — is in Haryana. The Brahma Sarovar at Kurukshetra is significant for which bathing occasion?", "options": ["Kumbh Mela", "Solar eclipse bathing — considered one of the most auspicious in Hinduism", "Navratri", "Dussehra"], "correctIndex": 1 },
+            { "question": "Haryana's Green Revolution success was largely due to which crop's mass adoption?", "options": ["Cotton", "Sugarcane", "High-yielding varieties of wheat and paddy", "Oilseeds"], "correctIndex": 2 }
+          ],
+          "summary": "Haryana — carved from Punjab in 1966 along linguistic lines — shares Chandigarh as capital with Punjab in an arrangement that continues to generate periodic political friction (Haryana desires its own capital, Chandigarh). Haryana has been central to India's agricultural transformation: Green Revolution high-yielding wheat and paddy varieties, adopted first in Punjab-Haryana, made India food self-sufficient in the 1970s-80s. Kurukshetra in Haryana — believed to be the Mahabharata's battlefield — draws millions to the Brahma Sarovar tank during solar eclipses, considered one of Hinduism's most auspicious bathing occasions. Haryana consistently produces disproportionate numbers of Olympic wrestling and boxing champions from its rural belt."
+        }
+      ]
+    }
+  }
+}

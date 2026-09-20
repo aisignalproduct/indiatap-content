@@ -1,0 +1,326 @@
+{
+  "day": 27,
+  "date": "2026-10-27",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d27_renuka_lake",
+          "location": { "name": "Renuka Lake, Himachal Pradesh", "lat": 30.6167, "lng": 77.4500 },
+          "questions": [
+            { "question": "Renuka Lake is the largest natural lake in which Indian state?", "options": ["Himachal Pradesh", "Uttarakhand", "Jammu and Kashmir", "Sikkim"], "correctIndex": 0 },
+            { "question": "Renuka Lake is associated with the mythological mother of which sage?", "options": ["Parashurama", "Vashishtha", "Vishwamitra", "Agastya"], "correctIndex": 0 },
+            { "question": "Renuka Lake's crescent shape is said by legend to resemble?", "options": ["A woman lying down", "A crescent moon only", "A coiled serpent", "A flying bird"], "correctIndex": 0 },
+            { "question": "Renuka Lake hosts an annual fair held in which month?", "options": ["November", "January", "July", "March"], "correctIndex": 0 },
+            { "question": "The area around Renuka Lake also includes a small?", "options": ["Zoo and wildlife sanctuary", "Nuclear facility", "Space observatory", "Military base"], "correctIndex": 0 }
+          ],
+          "summary": "Renuka Lake, in Himachal Pradesh, is the state's largest natural lake, considered sacred and associated with the mythological figure Renuka, mother of the sage Parashurama. The lake's crescent shape is said by legend to resemble a woman lying down. Renuka Lake hosts an annual fair held in November, drawing pilgrims for religious observances alongside cultural performances, and the surrounding area also includes a small zoo and wildlife sanctuary, adding an ecological dimension to its religious significance."
+        },
+        {
+          "id": "geo_d27_bhimtal",
+          "location": { "name": "Bhimtal Lake, Uttarakhand", "lat": 29.3500, "lng": 79.5667 },
+          "questions": [
+            { "question": "Bhimtal Lake is named after which Pandava brother from the Mahabharata?", "options": ["Bhima", "Arjuna", "Yudhishthira", "Nakula"], "correctIndex": 0 },
+            { "question": "Bhimtal Lake is located in which region of Uttarakhand?", "options": ["Kumaon", "Garhwal", "Terai", "Bhabar"], "correctIndex": 0 },
+            { "question": "Bhimtal Lake features a small island home to?", "options": ["An aquarium", "A temple only", "A fort", "A palace"], "correctIndex": 0 },
+            { "question": "Bhimtal has developed as a quieter alternative to which more commercialized nearby destination?", "options": ["Nainital", "Mussoorie", "Dehradun", "Rishikesh"], "correctIndex": 0 },
+            { "question": "Bhimtal's surrounding hills are covered in which type of forest?", "options": ["Pine and oak forests", "Mangrove forests", "Bamboo forests", "Rainforest"], "correctIndex": 0 }
+          ],
+          "summary": "Bhimtal Lake, in Uttarakhand's Kumaon region, is named after Bhima, one of the Pandava brothers, believed by local legend to have visited during the Pandavas' exile. The lake features a small island home to an aquarium built within a historic structure. Bhimtal has developed as a quieter alternative to the more heavily commercialized nearby Nainital, and its surrounding pine and oak forested hills contribute to its appeal as a peaceful hill-station destination within Uttarakhand's Kumaon tourism circuit."
+        },
+        {
+          "id": "geo_d27_sasthamkotta",
+          "location": { "name": "Sasthamkotta Lake, Kerala", "lat": 9.0333, "lng": 76.6167 },
+          "questions": [
+            { "question": "Sasthamkotta Lake is notable as Kerala's largest?", "options": ["Freshwater lake", "Saltwater lagoon", "Glacial lake", "Artificial reservoir"], "correctIndex": 0 },
+            { "question": "Sasthamkotta Lake serves as a crucial drinking water source for which district?", "options": ["Kollam district", "Ernakulam district", "Thrissur district", "Kozhikode district"], "correctIndex": 0 },
+            { "question": "Sasthamkotta Lake is named after a temple dedicated to which deity?", "options": ["Sastha (Ayyappa)", "Krishna", "Shiva", "Devi"], "correctIndex": 0 },
+            { "question": "Sasthamkotta Lake is recognized under which international wetland designation?", "options": ["Ramsar site", "UNESCO World Heritage Site", "Biosphere Reserve only", "Special Economic Zone"], "correctIndex": 0 },
+            { "question": "Unlike many similar Kerala lagoon systems, Sasthamkotta remains a freshwater body despite its proximity to?", "options": ["The coast", "Mountains", "Deserts", "Industrial zones"], "correctIndex": 0 }
+          ],
+          "summary": "Sasthamkotta Lake, in Kerala, is the state's largest freshwater lake, serving as a crucial drinking water source for the surrounding Kollam district. The lake is named after a temple dedicated to Sastha (Ayyappa) situated on its banks. Sasthamkotta is recognized as a Ramsar wetland of international importance, and its unique feature of remaining freshwater despite coastal proximity, unlike many similar Kerala lagoon systems that experience saltwater intrusion, has made it a particular focus of environmental study."
+        },
+        {
+          "id": "geo_d27_ana_sagar",
+          "location": { "name": "Ana Sagar Lake, Ajmer", "lat": 26.4667, "lng": 74.6333 },
+          "questions": [
+            { "question": "Ana Sagar Lake was built in the 12th century by which ruler?", "options": ["Anaji Chauhan", "Prithviraj Chauhan", "Akbar", "Aurangzeb"], "correctIndex": 0 },
+            { "question": "Anaji Chauhan was the grandfather of which famous Rajput king?", "options": ["Prithviraj Chauhan", "Rana Pratap", "Rana Sanga", "Rao Jodha"], "correctIndex": 0 },
+            { "question": "Marble pavilions called the Baradari were added to Ana Sagar's banks during the reign of which Mughal emperor?", "options": ["Shah Jahan", "Akbar", "Aurangzeb", "Humayun"], "correctIndex": 0 },
+            { "question": "Ana Sagar Lake is located in which Rajasthan city?", "options": ["Ajmer", "Jaipur", "Udaipur", "Jodhpur"], "correctIndex": 0 },
+            { "question": "Ana Sagar's proximity to which historically significant shrine has made it a convenient stop for pilgrims?", "options": ["Ajmer Sharif Dargah", "Golden Temple", "Vaishno Devi", "Somnath Temple"], "correctIndex": 0 }
+          ],
+          "summary": "Ana Sagar Lake, in Ajmer, Rajasthan, is an artificial lake built in the 12th century by Anaji Chauhan, grandfather of the famous king Prithviraj Chauhan, from whom the lake takes its name. Later additions included marble pavilions known as the Baradari, built during the reign of Mughal emperor Shah Jahan. Ana Sagar has historically served practical water supply purposes alongside recreational uses, and its proximity to the Ajmer Sharif Dargah has made it a convenient stop for pilgrims visiting the shrine."
+        },
+        {
+          "id": "geo_d27_fateh_sagar",
+          "location": { "name": "Fateh Sagar Lake, Udaipur", "lat": 24.6023, "lng": 73.6797 },
+          "questions": [
+            { "question": "Fateh Sagar Lake is named after which Maharana who rebuilt it in the 19th century?", "options": ["Fateh Singh", "Udai Singh", "Pratap Singh", "Jai Singh"], "correctIndex": 0 },
+            { "question": "Fateh Sagar Lake features three small islands, one of which houses a public garden called?", "options": ["Nehru Park", "Lodhi Gardens", "Buddha Jayanti Park", "Rose Garden"], "correctIndex": 0 },
+            { "question": "Fateh Sagar Lake is connected to which more famous nearby lake?", "options": ["Lake Pichola", "Ana Sagar", "Dal Lake", "Chilika Lake"], "correctIndex": 0 },
+            { "question": "Udaipur's network of interconnected lakes has earned it the popular nickname?", "options": ["City of Lakes", "City of Gardens", "City of Palaces only", "City of Forts only"], "correctIndex": 0 },
+            { "question": "Fateh Sagar Lake is located in which Rajasthan city?", "options": ["Udaipur", "Jaipur", "Jodhpur", "Ajmer"], "correctIndex": 0 }
+          ],
+          "summary": "Fateh Sagar Lake, in Udaipur, Rajasthan, is an artificial lake originally constructed in the 17th century and later rebuilt in the 19th century by Maharana Fateh Singh, after whom it is named. The lake features three small islands, one housing a public garden called Nehru Park. Fateh Sagar is connected to the more famous nearby Lake Pichola, together forming part of Udaipur's network of interconnected lakes that have earned the city its popular nickname as the 'City of Lakes.'"
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d27_palitana",
+          "location": { "name": "Palitana Jain Temples", "lat": 21.5167, "lng": 71.8167 },
+          "questions": [
+            { "question": "The Palitana Jain Temples are located atop which hill?", "options": ["Shatrunjaya hill", "Girnar hill", "Abu hill", "Palani hill"], "correctIndex": 0 },
+            { "question": "Palitana is considered the largest cluster of Jain temples in the?", "options": ["World", "Only Gujarat", "Only India", "Only Asia"], "correctIndex": 0 },
+            { "question": "Reaching Palitana's temples requires climbing thousands of?", "options": ["Steps", "Escalators", "Ladders", "Ramps only"], "correctIndex": 0 },
+            { "question": "What unusual rule applies to Palitana, given the site's sacred significance?", "options": ["No permanent residences are allowed atop the hill", "No photography is allowed anywhere", "No pilgrims under 18 are allowed", "No non-Jains may visit"], "correctIndex": 0 },
+            { "question": "Palitana Jain Temples are located in which Indian state?", "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Maharashtra"], "correctIndex": 0 }
+          ],
+          "summary": "The Palitana Jain Temples, atop Shatrunjaya hill in Gujarat, form the largest cluster of Jain temples in the world, comprising over 900 marble temples built across several centuries. Reaching the complex requires climbing thousands of steps, a physically demanding pilgrimage undertaken as an act of devotion. The site holds such profound sacred significance that no permanent residences are allowed atop the hill, requiring even priests to descend each evening, and Palitana's temples together represent a monumental collective architectural achievement."
+        },
+        {
+          "id": "cul_d27_statue_of_unity",
+          "location": { "name": "Statue of Unity, Gujarat", "lat": 21.8380, "lng": 73.7191 },
+          "questions": [
+            { "question": "The Statue of Unity is a memorial to which historical figure?", "options": ["Sardar Vallabhbhai Patel", "Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar"], "correctIndex": 0 },
+            { "question": "The Statue of Unity is recognized as the world's?", "options": ["Tallest statue", "Oldest statue", "Heaviest statue", "Widest statue"], "correctIndex": 0 },
+            { "question": "Approximately how tall is the Statue of Unity?", "options": ["182 meters", "50 meters", "100 meters", "300 meters"], "correctIndex": 0 },
+            { "question": "The Statue of Unity overlooks which river, near the Sardar Sarovar Dam?", "options": ["Narmada River", "Tapi River", "Godavari River", "Mahi River"], "correctIndex": 0 },
+            { "question": "In which year was the Statue of Unity completed?", "options": ["2018", "2010", "2005", "2022"], "correctIndex": 0 }
+          ],
+          "summary": "The Statue of Unity, in Gujarat, is the world's tallest statue, standing at 182 meters, built as a memorial to Sardar Vallabhbhai Patel, credited with unifying India's princely states after independence. Completed in 2018, the statue overlooks the Narmada River near the Sardar Sarovar Dam. The statue's interior includes a viewing gallery offering panoramic views of the surrounding valley, and its construction, involving unprecedented engineering scale, has become both a major tourist attraction and subject of public debate over cost."
+        },
+        {
+          "id": "cul_d27_chausath_yogini_bhedaghat",
+          "location": { "name": "Chausath Yogini Temple, Bhedaghat", "lat": 23.1360, "lng": 79.8280 },
+          "questions": [
+            { "question": "The Chausath Yogini Temple near Bhedaghat is dedicated to how many yogini goddesses?", "options": ["64", "27", "108", "8"], "correctIndex": 0 },
+            { "question": "The Bhedaghat Chausath Yogini Temple overlooks which river gorge?", "options": ["Narmada River gorge", "Chambal River gorge", "Betwa River gorge", "Yamuna River gorge"], "correctIndex": 0 },
+            { "question": "Chausath Yogini temples represent a form of which religious architectural tradition?", "options": ["Tantric Hindu temple architecture", "Islamic architecture", "Buddhist stupa architecture", "Jain temple architecture"], "correctIndex": 0 },
+            { "question": "Chausath Yogini temples across central India are generally dated to roughly which centuries?", "options": ["9th to 11th centuries", "3rd to 5th centuries", "15th to 17th centuries", "18th to 20th centuries"], "correctIndex": 0 },
+            { "question": "The Bhedaghat Chausath Yogini Temple is located in which Indian state?", "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Chhattisgarh"], "correctIndex": 0 }
+          ],
+          "summary": "The Chausath Yogini Temple, near Bhedaghat in Madhya Pradesh, is one of several circular temples dedicated to sixty-four yogini goddesses found across India, distinct from the similarly named temple at Mitaoli. Perched on a hilltop overlooking the Narmada River gorge, the temple's construction dates to roughly the 9th to 11th centuries, reflecting a distinctive Tantric Hindu temple architectural tradition. The temple's remote, less-visited status has left it a quiet destination for visitors interested in this unique architectural style."
+        },
+        {
+          "id": "cul_d27_vishwa_shanti_stupa",
+          "location": { "name": "Vishwa Shanti Stupa, Rajgir", "lat": 25.0281, "lng": 85.4212 },
+          "questions": [
+            { "question": "The Vishwa Shanti Stupa in Rajgir was built by which Japanese Buddhist organization?", "options": ["Nipponzan Myohoji", "Soka Gakkai", "Nichiren Shu", "Zen Buddhist Society"], "correctIndex": 0 },
+            { "question": "The Vishwa Shanti Stupa is located atop which hill?", "options": ["Ratnagiri Hill", "Vulture Peak", "Griddhakuta Hill", "Sonagiri Hill"], "correctIndex": 0 },
+            { "question": "Rajgir holds particular Buddhist significance due to its association with?", "options": ["The Buddha's teaching activities", "The Buddha's birth", "The Buddha's death", "The Buddha's first sermon"], "correctIndex": 0 },
+            { "question": "Visitors typically reach the Vishwa Shanti Stupa via a ropeway or?", "options": ["A trekking path", "A boat", "A train", "An underground tunnel"], "correctIndex": 0 },
+            { "question": "The Vishwa Shanti Stupa in Rajgir is located in which Indian state?", "options": ["Bihar", "Uttar Pradesh", "Jharkhand", "West Bengal"], "correctIndex": 0 }
+          ],
+          "summary": "The Vishwa Shanti Stupa, or World Peace Pagoda, in Rajgir, Bihar, is a Buddhist monument built in the 20th century atop Ratnagiri Hill by the Japanese Buddhist organization Nipponzan Myohoji. The stupa's location holds particular significance given Rajgir's historical association with the Buddha's teaching activities during his lifetime. Visitors typically reach the stupa via a ropeway or trekking path, and the modern construction reflects continued contemporary international engagement with India's Buddhist heritage."
+        },
+        {
+          "id": "cul_d27_st_francis_church",
+          "location": { "name": "St. Francis Church, Kochi", "lat": 9.9658, "lng": 76.2422 },
+          "questions": [
+            { "question": "St. Francis Church in Kochi was originally constructed by which group?", "options": ["Portuguese Franciscan friars", "British colonists", "Dutch traders", "French missionaries"], "correctIndex": 0 },
+            { "question": "St. Francis Church gained historical significance as the original burial site of which explorer?", "options": ["Vasco da Gama", "Christopher Columbus", "Ferdinand Magellan", "Marco Polo"], "correctIndex": 0 },
+            { "question": "Vasco da Gama died in Kochi in which year?", "options": ["1524", "1498", "1600", "1750"], "correctIndex": 0 },
+            { "question": "St. Francis Church has changed religious denominations, transitioning between Catholic, Dutch Reformed, and?", "options": ["Anglican administration", "Orthodox administration", "Lutheran administration", "Baptist administration"], "correctIndex": 0 },
+            { "question": "St. Francis Church is located within which historic area of Kochi?", "options": ["Fort Kochi", "Mattancherry", "Willingdon Island", "Ernakulam"], "correctIndex": 0 }
+          ],
+          "summary": "St. Francis Church, in Kochi, Kerala, is one of the oldest European-built churches in India, originally constructed in the early 16th century by Portuguese Franciscan friars. The church gained significance as the original burial site of explorer Vasco da Gama, who died in Kochi in 1524, before his remains were later exhumed and returned to Portugal. Over its history, the church transitioned between Catholic, Dutch Reformed, and Anglican administration, and its simple architecture has made it an important heritage site within Kochi's Fort Kochi area."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d27_cipla_baddi",
+          "location": { "name": "Cipla, Baddi", "lat": 30.9581, "lng": 76.7914 },
+          "questions": [
+            { "question": "Cipla's Baddi facility is located in which Indian state?", "options": ["Himachal Pradesh", "Punjab", "Haryana", "Uttarakhand"], "correctIndex": 0 },
+            { "question": "Cipla gained international recognition in the early 2000s for offering low-cost generic?", "options": ["Antiretroviral drugs (HIV/AIDS treatment)", "Cancer treatment drugs", "Diabetes medications", "Vaccines"], "correctIndex": 0 },
+            { "question": "In which decade was Cipla founded?", "options": ["1930s", "1950s", "1970s", "1990s"], "correctIndex": 0 },
+            { "question": "Baddi's development as a pharmaceutical hub reflects Himachal Pradesh's strategy of offering?", "options": ["Tax incentives", "Free land only", "Military protection", "Foreign investment bans"], "correctIndex": 0 },
+            { "question": "Cipla's corporate identity is particularly associated with?", "options": ["Affordable medicine production", "Luxury pharmaceuticals only", "Military medical supplies", "Cosmetic products only"], "correctIndex": 0 }
+          ],
+          "summary": "Cipla's manufacturing facility in Baddi, Himachal Pradesh, is part of the company's network supporting its position as one of India's largest pharmaceutical manufacturers. Founded in the 1930s, Cipla gained international recognition in the early 2000s for offering low-cost generic antiretroviral drugs to developing countries, expanding access to HIV treatment. Baddi's development as a pharmaceutical hub reflects Himachal Pradesh's strategy of attracting investment through tax incentives, positioning the hill state as a significant center for generic drug production."
+        },
+        {
+          "id": "eco_d27_ludhiana_hosiery",
+          "location": { "name": "Ludhiana Hosiery Hub, Punjab", "lat": 30.9010, "lng": 75.8573 },
+          "questions": [
+            { "question": "Ludhiana is particularly known as a hub for which type of manufacturing?", "options": ["Hosiery and knitwear", "Automobiles", "Steel", "Electronics"], "correctIndex": 0 },
+            { "question": "Ludhiana's textile industry developed significantly following?", "options": ["Partition", "Independence in 1947 alone", "The Green Revolution", "Economic liberalization"], "correctIndex": 0 },
+            { "question": "Ludhiana's hosiery cluster operates largely through?", "options": ["Small and medium-sized family-owned enterprises", "Only large corporate factories", "Only government-owned units", "Only foreign-owned companies"], "correctIndex": 0 },
+            { "question": "Ludhiana is located in which Indian state?", "options": ["Punjab", "Haryana", "Himachal Pradesh", "Rajasthan"], "correctIndex": 0 },
+            { "question": "Ludhiana's textile products are known for both domestic sales and significant?", "options": ["Export activity", "Only local barter", "Only government procurement", "Only military supply"], "correctIndex": 0 }
+          ],
+          "summary": "Ludhiana, in Punjab, has developed into one of India's most significant hosiery and knitwear manufacturing hubs, home to thousands of small enterprises producing garments for domestic and export markets. The industry developed significantly following Partition, as displaced skilled artisans established new businesses. Ludhiana's cluster operates largely through small, family-owned enterprises rather than large corporate factories, and the city's continued prominence has made 'Made in Ludhiana' a recognized quality marker within India's textile trade."
+        },
+        {
+          "id": "eco_d27_tirupur",
+          "location": { "name": "Tirupur Textile Cluster, Tamil Nadu", "lat": 11.1085, "lng": 77.3411 },
+          "questions": [
+            { "question": "Tirupur is recognized as India's largest hub for which type of exports?", "options": ["Knitwear (cotton garments)", "Automobiles", "Electronics", "Pharmaceuticals"], "correctIndex": 0 },
+            { "question": "Tirupur's textile industry primarily produces which type of garments for export?", "options": ["T-shirts and casual garments", "Formal suits", "Traditional sarees", "Winter coats"], "correctIndex": 0 },
+            { "question": "Tirupur's textile industry growth accelerated significantly from which decade onward?", "options": ["1980s and 90s", "1950s", "1960s", "2000s"], "correctIndex": 0 },
+            { "question": "Tirupur's textile industry has faced environmental scrutiny regarding water usage and?", "options": ["Pollution from dyeing operations", "Deforestation", "Air pollution from factories only", "Soil erosion"], "correctIndex": 0 },
+            { "question": "Tirupur is located in which Indian state?", "options": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Kerala"], "correctIndex": 0 }
+          ],
+          "summary": "Tirupur, in Tamil Nadu, has emerged as India's largest knitwear export hub, producing a significant share of the country's cotton knitwear exports, primarily t-shirts supplied to international brands. The industry's growth accelerated significantly from the 1980s and 90s onward, transforming a small town into a major global textile center. Tirupur has faced periodic environmental scrutiny regarding water usage and pollution from dyeing operations, prompting sustainability efforts, and the city's continued dominance reflects textile manufacturing's importance to India's export economy."
+        },
+        {
+          "id": "eco_d27_panipat_textile",
+          "location": { "name": "Panipat Textile Hub, Haryana", "lat": 29.3909, "lng": 76.9635 },
+          "questions": [
+            { "question": "Panipat is particularly known for producing which type of recycled product?", "options": ["Shoddy yarn and blankets", "New cotton fabric only", "Silk sarees", "Leather goods"], "correctIndex": 0 },
+            { "question": "Panipat's textile recycling operations process textile waste sourced from?", "options": ["Domestic and international sources", "Only domestic sources", "Only agricultural byproducts", "Only industrial metal scrap"], "correctIndex": 0 },
+            { "question": "Panipat's recycling-focused industry represents an example of which broader economic concept?", "options": ["Circular economy practices", "Command economy", "Barter economy", "Gift economy"], "correctIndex": 0 },
+            { "question": "Besides recycling, Panipat's textile industry also includes historic handloom weaving of?", "options": ["Carpets and rugs", "Only silk sarees", "Only cotton t-shirts", "Only wool sweaters"], "correctIndex": 0 },
+            { "question": "Panipat is located in which Indian state?", "options": ["Haryana", "Punjab", "Uttar Pradesh", "Rajasthan"], "correctIndex": 0 }
+          ],
+          "summary": "Panipat, in Haryana, is a major center for India's textile recycling industry, particularly known for producing 'shoddy' yarn and blankets from recycled textile waste sourced domestically and internationally. The city's operations represent an important example of circular economy practices within India's textile sector. Panipat's industry also includes historic handloom weaving traditions producing carpets and rugs, reflecting the city's dual identity as both a traditional craft center and modern recycling hub."
+        },
+        {
+          "id": "eco_d27_kanpur_leather",
+          "location": { "name": "Kanpur Leather Cluster, Uttar Pradesh", "lat": 26.4499, "lng": 80.3319 },
+          "questions": [
+            { "question": "Kanpur has historically been a significant center for manufacturing which product?", "options": ["Leather goods", "Automobiles", "Electronics", "Pharmaceuticals"], "correctIndex": 0 },
+            { "question": "Kanpur's leather industry traces its origins back to which historical period?", "options": ["British colonial period", "Mughal period", "Post-independence 1990s", "Ancient Vedic period"], "correctIndex": 0 },
+            { "question": "During colonial rule, Kanpur supplied leather goods for military and commercial purposes across the?", "options": ["British Empire", "Mughal Empire", "Portuguese Empire", "French colonies"], "correctIndex": 0 },
+            { "question": "Kanpur's leather tanneries have faced environmental scrutiny particularly regarding pollution of which river?", "options": ["Ganga", "Yamuna", "Godavari", "Narmada"], "correctIndex": 0 },
+            { "question": "Kanpur is located in which Indian state?", "options": ["Uttar Pradesh", "Bihar", "Madhya Pradesh", "Rajasthan"], "correctIndex": 0 }
+          ],
+          "summary": "Kanpur, in Uttar Pradesh, has historically been one of India's most significant leather manufacturing centers, home to a large cluster of tanneries supplying domestic and international markets. The industry traces its origins to the British colonial period, when Kanpur supplied leather goods across the British Empire. Kanpur's tanneries have faced significant environmental scrutiny regarding pollution of the Ganga River, prompting cleanup initiatives, reflecting the difficult balance between industrial employment and environmental sustainability."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d27_phoolon_wali_holi",
+          "location": { "name": "Phoolon Wali Holi, Vrindavan", "lat": 27.5820, "lng": 77.7064 },
+          "questions": [
+            { "question": "Phoolon Wali Holi is celebrated at which temple in Vrindavan?", "options": ["Banke Bihari Temple", "ISKCON Temple", "Prem Mandir", "Radha Raman Temple"], "correctIndex": 0 },
+            { "question": "What do participants throw during Phoolon Wali Holi, instead of colored powders?", "options": ["Flower petals", "Water balloons", "Rice grains", "Sweets"], "correctIndex": 0 },
+            { "question": "Phoolon Wali Holi typically precedes the main Holi celebration by?", "options": ["Several days", "One month", "One year", "A single hour"], "correctIndex": 0 },
+            { "question": "Phoolon Wali Holi connects to devotional themes involving Krishna and which other figure?", "options": ["Radha", "Sita", "Draupadi", "Rukmini"], "correctIndex": 0 },
+            { "question": "Phoolon Wali Holi is celebrated in which Indian town?", "options": ["Vrindavan", "Mathura proper", "Barsana", "Nandgaon"], "correctIndex": 0 }
+          ],
+          "summary": "Phoolon Wali Holi, celebrated at the Banke Bihari Temple in Vrindavan, is a distinctive variation of Holi in which participants throw flower petals instead of colored powders, creating a fragrant, visually striking celebration. The festival typically precedes main Holi by several days, connecting to devotional themes of Krishna and Radha's playful divine love, with flowers symbolizing purity considered appropriate for temple settings. The tradition has gained increasing popularity among tourists, adding to Vrindavan's reputation for diverse regional Holi traditions."
+        },
+        {
+          "id": "evt_d27_ganga_dussehra",
+          "location": { "name": "Ganga Dussehra, Haridwar", "lat": 29.9457, "lng": 78.1642 },
+          "questions": [
+            { "question": "Ganga Dussehra marks the descent of the Ganga to earth, brought down through the penance of which king?", "options": ["King Bhagiratha", "King Dasharatha", "King Janaka", "King Ashoka"], "correctIndex": 0 },
+            { "question": "Ganga Dussehra typically falls in which Hindu month?", "options": ["Jyeshtha", "Shravan", "Kartik", "Chaitra"], "correctIndex": 0 },
+            { "question": "The name \"Dussehra\" in Ganga Dussehra combines words meaning ten and?", "options": ["Removal of sins", "Blessing", "Prosperity", "Victory"], "correctIndex": 0 },
+            { "question": "Ganga Dussehra is marked by ritual bathing in the Ganga at which town's ghats?", "options": ["Haridwar", "Rishikesh", "Varanasi", "Prayagraj"], "correctIndex": 0 },
+            { "question": "According to mythology, Ganga's descent was meant to purify the ashes of King Bhagiratha's?", "options": ["Ancestors", "Enemies", "Subjects", "Priests"], "correctIndex": 0 }
+          ],
+          "summary": "Ganga Dussehra, celebrated prominently in Haridwar, marks the descent of the goddess Ganga to earth, brought down through the penance of King Bhagiratha to purify his ancestors' ashes. The festival falls in the Hindu month of Jyeshtha and is marked by ritual bathing at Haridwar's ghats, believed to hold particularly potent spiritual benefits. Devotees traditionally address ten aspects of purification, reflecting the festival's name, and Haridwar's celebrations reflect the Ganga's enduring central place in Hindu devotion across northern India."
+        },
+        {
+          "id": "evt_d27_mahashivratri_somnath",
+          "location": { "name": "Mahashivratri, Somnath", "lat": 20.8880, "lng": 70.4013 },
+          "questions": [
+            { "question": "Mahashivratri is a night dedicated to which deity?", "options": ["Shiva", "Vishnu", "Brahma", "Ganesha"], "correctIndex": 0 },
+            { "question": "Mahashivratri is observed through all-night vigils, fasting, and?", "options": ["Continuous prayer", "Feasting only", "Silent meditation only", "Dance competitions"], "correctIndex": 0 },
+            { "question": "According to tradition, Mahashivratri commemorates Shiva's cosmic dance of creation, preservation, and?", "options": ["Destruction", "Rebirth only", "Illusion", "Transformation only"], "correctIndex": 0 },
+            { "question": "Various regional legends also associate Mahashivratri with Shiva's marriage to?", "options": ["Parvati", "Ganga", "Lakshmi", "Saraswati"], "correctIndex": 0 },
+            { "question": "Somnath Temple, where Mahashivratri is celebrated with particular grandeur, is located in which state?", "options": ["Gujarat", "Rajasthan", "Maharashtra", "Madhya Pradesh"], "correctIndex": 0 }
+          ],
+          "summary": "Mahashivratri, celebrated with particular grandeur at the Somnath Temple in Gujarat, marks the night dedicated to Shiva, observed through all-night vigils, fasting, and continuous prayer. According to tradition, the festival commemorates Shiva's cosmic dance of creation, preservation, and destruction, with various regional legends also associating it with his marriage to Parvati. Somnath's celebrations, given the temple's dramatic history of destruction and reconstruction, carry particular symbolic weight, framing the festival as an affirmation of the temple's enduring resilience."
+        },
+        {
+          "id": "evt_d27_annakut_nathdwara",
+          "location": { "name": "Annakut Utsav, Nathdwara", "lat": 24.9333, "lng": 73.8167 },
+          "questions": [
+            { "question": "Annakut Utsav commemorates Krishna lifting which hill to protect villagers from a storm?", "options": ["Govardhan Hill", "Mount Kailash", "Mount Meru", "Vindhya Hill"], "correctIndex": 0 },
+            { "question": "Annakut Utsav is typically observed on which day, relative to Diwali?", "options": ["The day after Diwali", "The day before Diwali", "One week after Diwali", "One month after Diwali"], "correctIndex": 0 },
+            { "question": "Annakut Utsav at Nathdwara centers on which temple?", "options": ["Shrinathji Temple", "Guruvayur Temple", "Dwarkadhish Temple", "Jagannath Temple"], "correctIndex": 0 },
+            { "question": "The Shrinathji Temple is significant within which Vaishnavite tradition, founded by Vallabhacharya?", "options": ["Pushtimarg", "Gaudiya Vaishnavism", "Sri Vaishnavism", "Warkari tradition"], "correctIndex": 0 },
+            { "question": "After the ritual presentation, the offered food during Annakut is typically distributed to devotees as?", "options": ["Prasad", "Bhog only", "Naivedyam only", "Kheer only"], "correctIndex": 0 }
+          ],
+          "summary": "Annakut Utsav, celebrated at the Shrinathji Temple in Nathdwara, Rajasthan, is a major festival dedicated to Krishna, marked by offering an enormous variety of food dishes symbolizing the day Krishna lifted Govardhan Hill to protect villagers. Observed the day after Diwali, the festival involves preparing hundreds of distinct dishes representing divine abundance. Nathdwara's temple, significant within the Pushtimarg tradition founded by Vallabhacharya, draws large crowds, and the offered food is distributed to devotees as prasad."
+        },
+        {
+          "id": "evt_d27_naraka_chaturdashi",
+          "location": { "name": "Naraka Chaturdashi, Goa", "lat": 15.4909, "lng": 73.8278 },
+          "questions": [
+            { "question": "Naraka Chaturdashi marks the mythological defeat of which demon by Krishna?", "options": ["Narakasura", "Ravana", "Mahishasura", "Hiranyakashipu"], "correctIndex": 0 },
+            { "question": "Goa's distinctive Naraka Chaturdashi tradition involves constructing and burning large?", "options": ["Effigies of the demon", "Wooden boats", "Paper lanterns", "Sand sculptures"], "correctIndex": 0 },
+            { "question": "Goa's Narakasura effigies are typically built from bamboo, paper, and other?", "options": ["Combustible materials", "Metal alloys", "Stone blocks", "Glass panels"], "correctIndex": 0 },
+            { "question": "Communities across Goa compete to build the most elaborate effigies, often incorporating?", "options": ["Current events or popular culture references", "Only ancient Vedic symbols", "Only royal family portraits", "Only foreign flags"], "correctIndex": 0 },
+            { "question": "Naraka Chaturdashi is observed on the eve of which major festival?", "options": ["Diwali", "Holi", "Navratri", "Dussehra"], "correctIndex": 0 }
+          ],
+          "summary": "Naraka Chaturdashi, celebrated distinctively in Goa, marks the mythological defeat of the demon Narakasura by Krishna, observed through the unique tradition of constructing and publicly burning large effigies on the eve of Diwali. Communities compete to build the most elaborate and creative effigies, often incorporating current events, turning the tradition into a showcase of artistic creativity. The effigies, built from bamboo and paper, are paraded and burned before dawn, symbolizing the destruction of evil to mark Diwali's arrival."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d27_rte_act",
+          "location": { "name": "Right to Education Act, New Delhi", "lat": 28.6165, "lng": 77.2090 },
+          "questions": [
+            { "question": "The Right to Education Act was passed by Indian Parliament in which year?", "options": ["2009", "1995", "2014", "2000"], "correctIndex": 0 },
+            { "question": "The Right to Education Act established free and compulsory education as a right for children in which age range?", "options": ["Six to fourteen years", "Three to six years", "Fourteen to eighteen years", "Birth to five years"], "correctIndex": 0 },
+            { "question": "The act required private schools to reserve a percentage of seats for children from?", "options": ["Economically disadvantaged backgrounds", "Government official families only", "Foreign nationals only", "Religious minorities exclusively"], "correctIndex": 0 },
+            { "question": "Implementation of the Right to Education Act has faced challenges including teacher shortages and?", "options": ["Inadequate rural school infrastructure", "Excess funding", "Overqualified teachers", "Too few students"], "correctIndex": 0 },
+            { "question": "The Right to Education Act represents a significant effort to expand access to?", "options": ["Basic education", "Higher education only", "Vocational training only", "Military training"], "correctIndex": 0 }
+          ],
+          "summary": "The Right of Children to Free and Compulsory Education Act, passed in 2009, established free and compulsory education as a fundamental right for children between six and fourteen years across India. The act mandated infrastructure and staffing requirements, including private schools reserving seats for economically disadvantaged children. Implementation has faced challenges including teacher shortages and inadequate rural infrastructure, but the act represents one of India's most significant post-independence efforts to expand access to basic education."
+        },
+        {
+          "id": "pol_d27_mgnrega",
+          "location": { "name": "MGNREGA, New Delhi", "lat": 28.6100, "lng": 77.2130 },
+          "questions": [
+            { "question": "MGNREGA guarantees at least how many days of paid manual work per year to rural households?", "options": ["100 days", "30 days", "200 days", "365 days"], "correctIndex": 0 },
+            { "question": "MGNREGA was enacted in which year?", "options": ["2005", "1995", "2014", "2000"], "correctIndex": 0 },
+            { "question": "MGNREGA aims to provide social security and reduce which type of poverty?", "options": ["Rural poverty", "Only urban poverty", "Only industrial worker poverty", "Only student poverty"], "correctIndex": 0 },
+            { "question": "Besides employment, MGNREGA aims to create durable rural infrastructure assets like roads and?", "options": ["Water conservation structures", "Shopping malls", "Airports", "Military bases"], "correctIndex": 0 },
+            { "question": "MGNREGA has been widely studied internationally as an example of a large-scale?", "options": ["Rights-based employment guarantee approach", "Military conscription program", "Currency reform", "Trade agreement"], "correctIndex": 0 }
+          ],
+          "summary": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) guarantees at least 100 days of paid manual work per year to rural households, representing one of the world's largest employment guarantee programs. Enacted in 2005, the program aims to reduce rural poverty while creating durable infrastructure like roads and water conservation structures. Despite challenges including delayed wage payments and corruption concerns, MGNREGA has been widely studied internationally as an example of a large-scale rights-based employment guarantee approach."
+        },
+        {
+          "id": "pol_d27_andaman_governance",
+          "location": { "name": "Andaman and Nicobar Governance, Port Blair", "lat": 11.6234, "lng": 92.7265 },
+          "questions": [
+            { "question": "The Andaman and Nicobar Islands are administered directly by a centrally appointed?", "options": ["Lieutenant Governor", "Chief Minister", "Elected Legislature", "State Governor with cabinet"], "correctIndex": 0 },
+            { "question": "Unlike Andaman and Nicobar, which Union Territory has its own Legislative Assembly?", "options": ["Puducherry", "Lakshadweep", "Chandigarh", "Daman and Diu"], "correctIndex": 0 },
+            { "question": "Andaman and Nicobar's governance model most closely resembles which other centrally administered territory?", "options": ["Lakshadweep", "Delhi", "Jammu and Kashmir", "Ladakh"], "correctIndex": 0 },
+            { "question": "The strategic importance of Andaman and Nicobar's governance is tied to its location along major?", "options": ["Indian Ocean shipping routes", "European trade routes", "Arctic shipping lanes", "Pacific fishing zones"], "correctIndex": 0 },
+            { "question": "Port Blair is the capital of which Indian Union Territory?", "options": ["Andaman and Nicobar Islands", "Lakshadweep", "Puducherry", "Daman and Diu"], "correctIndex": 0 }
+          ],
+          "summary": "Port Blair, the capital of the Andaman and Nicobar Islands, oversees a Union Territory administered directly by a centrally appointed Lieutenant Governor, without an elected legislature. Unlike Puducherry, which has its own Legislative Assembly, Andaman and Nicobar's governance more closely resembles Lakshadweep's centrally administered model. The islands' strategic location along major Indian Ocean shipping routes has historically justified closer central government oversight given national defense and border security considerations."
+        },
+        {
+          "id": "pol_d27_daman_diu_merger",
+          "location": { "name": "Daman-Diu/DNH Merger, Daman", "lat": 20.4283, "lng": 72.8397 },
+          "questions": [
+            { "question": "In which year did Daman and Diu merge with Dadra and Nagar Haveli?", "options": ["2020", "2000", "2014", "1987"], "correctIndex": 0 },
+            { "question": "The merger created a single administrative unit called?", "options": ["Dadra and Nagar Haveli and Daman and Diu", "Greater Gujarat Territory", "Western Coastal Union Territory", "Portuguese India Territory"], "correctIndex": 0 },
+            { "question": "The merger aimed to improve administrative efficiency by consolidating two small, geographically separate?", "options": ["Union Territories", "States", "Districts only", "Municipalities only"], "correctIndex": 0 },
+            { "question": "Daman and Diu share a historical background as former colonial possessions of which European power?", "options": ["Portugal", "Britain", "France", "Netherlands"], "correctIndex": 0 },
+            { "question": "Daman and Diu, along with Goa, were integrated into India through military action in which year?", "options": ["1961", "1947", "1975", "1987"], "correctIndex": 0 }
+          ],
+          "summary": "Daman, part of the former separate Union Territory of Daman and Diu, became part of a newly merged Union Territory in 2020, when the Indian government combined Daman and Diu with the neighboring Dadra and Nagar Haveli. The merger aimed to improve administrative efficiency by consolidating two small, geographically separate territories. Both share a historical background as former Portuguese colonial possessions, integrated into India through military action in 1961 alongside Goa, reflecting a broader pattern of periodic administrative reorganization."
+        },
+        {
+          "id": "pol_d27_pesa_bastar",
+          "location": { "name": "PESA Act, Bastar", "lat": 19.1000, "lng": 81.9500 },
+          "questions": [
+            { "question": "The PESA Act was passed in which year?", "options": ["1996", "1985", "2005", "1972"], "correctIndex": 0 },
+            { "question": "PESA extends the provisions of which system to tribal-dominated Scheduled Areas?", "options": ["Panchayati Raj local self-governance", "National Green Tribunal jurisdiction", "Election Commission oversight", "Central Vigilance Commission"], "correctIndex": 0 },
+            { "question": "PESA recognizes the authority of which village-level bodies to safeguard local customs?", "options": ["Gram Sabhas", "District Collectors", "State Legislatures", "Municipal Corporations"], "correctIndex": 0 },
+            { "question": "PESA gives Gram Sabhas input on matters including land acquisition and?", "options": ["Mineral resource extraction", "Foreign trade policy", "Currency management", "Military recruitment"], "correctIndex": 0 },
+            { "question": "Bastar, closely associated with PESA discussions, is located in which Indian state?", "options": ["Chhattisgarh", "Madhya Pradesh", "Odisha", "Jharkhand"], "correctIndex": 0 }
+          ],
+          "summary": "Bastar, in Chhattisgarh, sits within the Scheduled Areas covered by the Panchayat (Extension to Scheduled Areas) Act, or PESA, passed in 1996 to extend Panchayati Raj self-governance to tribal-dominated regions. The act recognizes the authority of Gram Sabhas, village assemblies, to safeguard local customs and provide input on land acquisition and mineral extraction. PESA's implementation has faced challenges, with tribal rights advocates arguing states have not fully complied, reflecting ongoing tensions in India's mineral-rich tribal belt."
+        }
+      ]
+    }
+  }
+}

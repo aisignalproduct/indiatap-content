@@ -1,0 +1,326 @@
+{
+  "day": 13,
+  "date": "2026-10-13",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d13_sela_pass",
+          "location": { "name": "Sela Pass, Arunachal Pradesh", "lat": 27.5167, "lng": 92.1167 },
+          "questions": [
+            { "question": "Sela Pass is located in which Indian state?", "options": ["Sikkim", "Arunachal Pradesh", "Himachal Pradesh", "Ladakh"], "correctIndex": 1 },
+            { "question": "Approximately what elevation is Sela Pass at?", "options": ["About 1,500 m", "About 2,800 m", "About 4,170 m", "About 6,000 m"], "correctIndex": 2 },
+            { "question": "Sela Pass connects the rest of Arunachal Pradesh to which region?", "options": ["Tawang", "Itanagar", "Ziro", "Pasighat"], "correctIndex": 0 },
+            { "question": "Sela Pass's name is associated with a legend tied to which historical event?", "options": ["1962 Indo-China war", "1971 Indo-Pak war", "Independence in 1947", "Partition of Bengal"], "correctIndex": 0 },
+            { "question": "What newly built structure has improved all-weather connectivity near Sela Pass?", "options": ["Sela Tunnel", "Atal Tunnel", "Rohtang Tunnel", "Jawahar Tunnel"], "correctIndex": 0 }
+          ],
+          "summary": "Sela Pass, at an elevation of about 4,170 meters in Arunachal Pradesh, connects the Tawang region to the rest of the state and is one of the highest motorable mountain passes in India. It remains snow-covered for much of the year and holds strategic significance as a key route toward the India-China border area. The pass is also revered locally, associated with a legend of a soldier's fiancee, Sela, after whom it is named, tied to the 1962 Indo-China war. A newly built tunnel nearby, the Sela Tunnel, has since improved all-weather connectivity, reducing dependence on the high-altitude pass road."
+        },
+        {
+          "id": "geo_d13_kaas_plateau",
+          "location": { "name": "Kaas Plateau, Maharashtra", "lat": 17.7167, "lng": 73.8167 },
+          "questions": [
+            { "question": "Kaas Plateau is located near which city in Maharashtra?", "options": ["Pune", "Satara", "Kolhapur", "Nashik"], "correctIndex": 1 },
+            { "question": "Kaas Plateau is especially famous for its seasonal?", "options": ["Snowfall", "Wildflower blooms", "Waterfalls", "Bird migration"], "correctIndex": 1 },
+            { "question": "Kaas Plateau is recognized internationally as a?", "options": ["UNESCO World Heritage Site", "Biosphere Reserve only", "Ramsar site", "National Capital Region"], "correctIndex": 0 },
+            { "question": "Roughly how many plant species have been recorded at Kaas Plateau?", "options": ["About 100", "About 850", "About 2,000", "About 50"], "correctIndex": 1 },
+            { "question": "Kaas Plateau is part of which larger biodiversity hotspot?", "options": ["Eastern Ghats", "Western Ghats", "Himalayas", "Aravalli Range"], "correctIndex": 1 }
+          ],
+          "summary": "Kaas Plateau, near Satara in Maharashtra, is a UNESCO World Heritage Site famed for its spectacular seasonal wildflower blooms, transforming the volcanic, laterite plateau into carpets of color for a few weeks each monsoon season. Over 850 plant species have been recorded here, including many rare and endemic ones found nowhere else, earning it the nickname 'Valley of Flowers of Maharashtra.' Because of its ecological fragility, visitor numbers are regulated with permits during the peak flowering period. The plateau is part of the Western Ghats biodiversity hotspot and sits close to important water reservoirs supplying the region."
+        },
+        {
+          "id": "geo_d13_kolleru_lake",
+          "location": { "name": "Kolleru Lake, Andhra Pradesh", "lat": 16.6167, "lng": 81.2000 },
+          "questions": [
+            { "question": "Kolleru Lake lies between the deltas of which two rivers?", "options": ["Godavari and Krishna", "Kaveri and Krishna", "Godavari and Mahanadi", "Krishna and Tungabhadra"], "correctIndex": 0 },
+            { "question": "Kolleru Lake is an important habitat for large flocks of?", "options": ["Flamingos only", "Pelicans and painted storks", "Penguins", "Ostriches"], "correctIndex": 1 },
+            { "question": "Kolleru Lake is recognized under which international wetland designation?", "options": ["Ramsar site", "UNESCO Heritage Site", "Biosphere Reserve only", "National Park"], "correctIndex": 0 },
+            { "question": "Kolleru Lake acts as a natural what during the monsoon?", "options": ["Flood-balancing reservoir", "Drinking water source only", "Irrigation canal", "Hydropower dam"], "correctIndex": 0 },
+            { "question": "Kolleru Lake has faced environmental pressure mainly from?", "options": ["Aquaculture and agricultural encroachment", "Industrial mining", "Urban high-rises", "Oil drilling"], "correctIndex": 0 }
+          ],
+          "summary": "Kolleru Lake, between the Krishna and Godavari river deltas in Andhra Pradesh, is one of India's largest freshwater lakes and an important wetland for migratory birds, including large flocks of pelicans and painted storks. Designated a Ramsar wetland of international importance, the lake faces ongoing environmental pressure from encroachment by aquaculture and agriculture in its catchment area. It serves as a natural flood-balancing reservoir for the surrounding delta region during monsoon season. Conservation efforts, including the demolition of illegal fish farms within its boundaries, have aimed to restore the lake's ecological health."
+        },
+        {
+          "id": "geo_d13_bara_shigri_glacier",
+          "location": { "name": "Bara Shigri Glacier, Himachal Pradesh", "lat": 32.2000, "lng": 77.6000 },
+          "questions": [
+            { "question": "Bara Shigri Glacier is located in which Himachal Pradesh district?", "options": ["Kullu", "Lahaul and Spiti", "Kangra", "Chamba"], "correctIndex": 1 },
+            { "question": "Approximately how long is Bara Shigri Glacier?", "options": ["About 5 km", "About 28 km", "About 60 km", "About 100 km"], "correctIndex": 1 },
+            { "question": "Bara Shigri Glacier feeds which river?", "options": ["Beas River", "Chandra River", "Sutlej River", "Ravi River"], "correctIndex": 1 },
+            { "question": "The Chandra River, fed by Bara Shigri, is part of which larger river system?", "options": ["Indus", "Chenab", "Ganga", "Yamuna"], "correctIndex": 1 },
+            { "question": "Scientists monitor Bara Shigri as an indicator of?", "options": ["Volcanic activity", "Climate change impacts on glaciers", "Earthquake risk", "Groundwater depletion"], "correctIndex": 1 }
+          ],
+          "summary": "Bara Shigri Glacier, in the Lahaul and Spiti district of Himachal Pradesh, is the largest glacier in the state and one of the longest in the Indian Himalayas, stretching roughly 28 kilometers. It feeds the Chandra River, part of the larger Chenab river system that eventually flows into Pakistan. Reaching the glacier requires a demanding multi-day trek through remote high-altitude terrain, making it a destination mainly for experienced mountaineers and researchers. Scientists monitor Bara Shigri closely as an indicator of climate change impacts on Himalayan glacial systems."
+        },
+        {
+          "id": "geo_d13_zanskar_valley",
+          "location": { "name": "Zanskar Valley, Ladakh", "lat": 33.5000, "lng": 76.9500 },
+          "questions": [
+            { "question": "Zanskar Valley is located in which Union Territory?", "options": ["Jammu and Kashmir", "Ladakh", "Himachal Pradesh", "Sikkim"], "correctIndex": 1 },
+            { "question": "The famous winter trek across the frozen Zanskar River is called?", "options": ["Chadar Trek", "Valley of Flowers Trek", "Roopkund Trek", "Kedarkantha Trek"], "correctIndex": 0 },
+            { "question": "Zanskar Valley's culture is centered around ancient monasteries following which tradition?", "options": ["Tibetan Buddhism", "Sufi Islam", "Vaishnavism", "Jainism"], "correctIndex": 0 },
+            { "question": "What has historically isolated Zanskar Valley for much of the year?", "options": ["Snow-blocked mountain passes", "Ocean tides", "Dense jungle", "Desert sandstorms"], "correctIndex": 0 },
+            { "question": "Zanskar's traditional economy has relied mainly on?", "options": ["Fishing", "Subsistence farming during summer", "Oil extraction", "Diamond mining"], "correctIndex": 1 }
+          ],
+          "summary": "Zanskar Valley, a remote high-altitude region in Ladakh, is known for its stark, dramatic landscape surrounded by towering peaks and for the Zanskar River, which freezes solid enough in winter to allow the famous 'Chadar Trek' across its frozen surface. Historically isolated for much of the year due to snow-blocked passes, the valley has preserved a strong Tibetan Buddhist culture centered around ancient monasteries like Phuktal and Karsha. Zanskar's population has traditionally relied on subsistence farming during the brief summer growing season. Improved road access in recent years has gradually reduced the region's extreme seasonal isolation."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d13_hawa_mahal",
+          "location": { "name": "Hawa Mahal, Jaipur", "lat": 26.9239, "lng": 75.8267 },
+          "questions": [
+            { "question": "Who built Hawa Mahal?", "options": ["Maharaja Sawai Pratap Singh", "Maharaja Man Singh", "Maharaja Jai Singh II", "Maharana Pratap"], "correctIndex": 0 },
+            { "question": "What does \"Hawa Mahal\" mean?", "options": ["Palace of Winds", "Palace of Gold", "Palace of Mirrors", "Palace of Flowers"], "correctIndex": 0 },
+            { "question": "How many small windows (jharokhas) does Hawa Mahal's facade have?", "options": ["100", "500", "953", "1,200"], "correctIndex": 2 },
+            { "question": "Hawa Mahal's honeycomb facade primarily allowed whom to observe street life unseen?", "options": ["Royal women", "Foreign traders", "Soldiers", "Priests"], "correctIndex": 0 },
+            { "question": "Hawa Mahal's five-story facade is shaped to resemble?", "options": ["A lotus", "A crown honoring Lord Krishna", "A peacock", "A temple spire"], "correctIndex": 1 }
+          ],
+          "summary": "Hawa Mahal, or the 'Palace of Winds,' in Jaipur, Rajasthan, was built in 1799 by Maharaja Sawai Pratap Singh, designed with a honeycomb facade of 953 small windows called jharokhas. The structure allowed royal women to observe street life and festivals from behind screened windows without being seen, in keeping with purdah customs of the era. Its unique five-story facade, shaped like a crown to honor Lord Krishna, catches cooling breezes that give the palace its name. Made of pink and red sandstone, it remains one of the most photographed landmarks in Rajasthan's 'Pink City.'"
+        },
+        {
+          "id": "cul_d13_chausath_yogini_temple",
+          "location": { "name": "Chausath Yogini Temple, Mitaoli", "lat": 26.2833, "lng": 77.9167 },
+          "questions": [
+            { "question": "The Chausath Yogini Temple at Mitaoli is dedicated to how many yogini goddesses?", "options": ["8", "27", "64", "108"], "correctIndex": 2 },
+            { "question": "The Chausath Yogini Temple is located in which state?", "options": ["Uttar Pradesh", "Madhya Pradesh", "Rajasthan", "Bihar"], "correctIndex": 1 },
+            { "question": "What is distinctive about the temple's architectural design?", "options": ["It is circular/open-air", "It is underground", "It has no roof structures at all", "It is built entirely of wood"], "correctIndex": 0 },
+            { "question": "Some historians speculate the temple's design may have inspired which famous building?", "options": ["India Gate", "Parliament House", "Red Fort", "Rashtrapati Bhavan"], "correctIndex": 1 },
+            { "question": "The Chausath Yogini Temple sits near which river?", "options": ["Chambal River", "Yamuna River", "Betwa River", "Narmada River"], "correctIndex": 0 }
+          ],
+          "summary": "The Chausath Yogini Temple at Mitaoli, Madhya Pradesh, built around the 9th-10th century, is a striking circular open-air temple dedicated to 64 yogini goddesses, each once housed in individual small shrines arranged along its circular wall. Its unusual circular design, unlike most Indian temples, has led some architectural historians to suggest it inspired the layout of India's Parliament House in New Delhi, though this remains debated. The temple sits atop a hill near the Chambal River, offering panoramic views of the surrounding ravines. Its remote location has helped preserve its structure, though many original idols have been lost or relocated over the centuries."
+        },
+        {
+          "id": "cul_d13_kailasanatha_temple",
+          "location": { "name": "Kailasanatha Temple, Kanchipuram", "lat": 12.8342, "lng": 79.7036 },
+          "questions": [
+            { "question": "The Kailasanatha Temple is located in which city?", "options": ["Thanjavur", "Kanchipuram", "Madurai", "Trichy"], "correctIndex": 1 },
+            { "question": "Which Pallava king built the Kailasanatha Temple?", "options": ["Mahendravarman I", "Narasimhavarman II", "Nandivarman II", "Simhavishnu"], "correctIndex": 1 },
+            { "question": "The Kailasanatha Temple is considered an early example of which architectural style?", "options": ["Dravidian", "Indo-Islamic", "Nagara", "Gothic"], "correctIndex": 0 },
+            { "question": "What material is the Kailasanatha Temple primarily constructed from?", "options": ["Marble", "Sandstone", "Granite", "Brick"], "correctIndex": 1 },
+            { "question": "Kailasanatha Temple functions mainly today as a?", "options": ["Active daily worship site", "Protected monument", "Government office", "Shopping complex"], "correctIndex": 1 }
+          ],
+          "summary": "The Kailasanatha Temple in Kanchipuram, Tamil Nadu, built in the early 8th century under Pallava king Narasimhavarman II, is considered one of the earliest and finest examples of Dravidian temple architecture, predating even some more famous South Indian temples. Constructed primarily from sandstone, it features intricately carved cells around its courtyard, each once containing sculpted depictions of Shiva in different forms. Unlike many still-active temples, Kailasanatha functions mainly as a protected monument today rather than a site of daily worship, which has helped preserve its original carvings, and it served as an architectural template influencing later Chola and other South Indian temple designs."
+        },
+        {
+          "id": "cul_d13_warangal_fort",
+          "location": { "name": "Warangal Fort, Telangana", "lat": 17.9151, "lng": 79.6162 },
+          "questions": [
+            { "question": "Warangal Fort was the capital of which dynasty?", "options": ["Kakatiya dynasty", "Chola dynasty", "Vijayanagara Empire", "Bahmani Sultanate"], "correctIndex": 0 },
+            { "question": "The Kakatiya dynasty ruled primarily over which region?", "options": ["Deccan region", "Gangetic plains", "Coastal Odisha", "Himalayan foothills"], "correctIndex": 0 },
+            { "question": "Warangal Fort is especially known for its carved stone?", "options": ["Gateways (Kirti Toranas)", "Underground tunnels", "Rotating domes", "Glass windows"], "correctIndex": 0 },
+            { "question": "Warangal Fort eventually fell to which power?", "options": ["Delhi Sultanate", "British East India Company", "Mughal Empire", "Maratha Empire"], "correctIndex": 0 },
+            { "question": "The Kakatiya rulers are especially remembered for advancing which type of infrastructure?", "options": ["Irrigation tank systems", "Road networks", "Naval fleets", "Mining technology"], "correctIndex": 0 }
+          ],
+          "summary": "Warangal Fort, in Telangana, was the capital of the Kakatiya dynasty, which ruled much of the Deccan region between the 12th and 14th centuries before falling to the Delhi Sultanate. The fort is renowned for its four massive ornately carved stone gateways, or 'Kakatiya Kirti Toranas,' which have survived as some of the finest examples of Kakatiya sculpture even though the main structures around them are largely in ruins. Concentric walls, including one built of earth and another of stone, once provided multiple layers of defense for the citadel, and the Kakatiya rulers are also remembered for advancing irrigation infrastructure across the region through large tank systems still in use today."
+        },
+        {
+          "id": "cul_d13_somnath_temple",
+          "location": { "name": "Somnath Temple, Gujarat", "lat": 20.8880, "lng": 70.4013 },
+          "questions": [
+            { "question": "Somnath Temple is one of the twelve shrines dedicated to which deity, known as Jyotirlingas?", "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"], "correctIndex": 1 },
+            { "question": "Somnath Temple was notably plundered in 1026 by?", "options": ["Mahmud of Ghazni", "Timur", "Nadir Shah", "Aurangzeb"], "correctIndex": 0 },
+            { "question": "Who played a key role in championing Somnath Temple's post-independence reconstruction?", "options": ["Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Mahatma Gandhi", "Rajendra Prasad"], "correctIndex": 1 },
+            { "question": "Somnath Temple is located in which state?", "options": ["Maharashtra", "Gujarat", "Rajasthan", "Goa"], "correctIndex": 1 },
+            { "question": "Somnath Temple's history is notably marked by repeated?", "options": ["Destruction and reconstruction", "Ownership disputes only", "Natural disasters only", "Relocation"], "correctIndex": 0 }
+          ],
+          "summary": "The Somnath Temple, on the coast of Gujarat, is one of the twelve Jyotirlinga shrines dedicated to Shiva and holds deep religious significance despite a turbulent history of repeated destruction and reconstruction. Historical records describe the temple being plundered and demolished multiple times by invaders, most notably by Mahmud of Ghazni in 1026, only to be rebuilt again and again by successive rulers and devotees. The current structure was rebuilt after independence, with Sardar Vallabhbhai Patel playing a key role in championing its reconstruction as a symbol of national resilience, and its dramatic history has made Somnath one of the most visited pilgrimage sites in western India."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d13_neyveli_lignite",
+          "location": { "name": "Neyveli Lignite Corporation, Tamil Nadu", "lat": 11.6167, "lng": 79.4833 },
+          "questions": [
+            { "question": "Neyveli Lignite Corporation is located in which state?", "options": ["Tamil Nadu", "Andhra Pradesh", "Karnataka", "Kerala"], "correctIndex": 0 },
+            { "question": "What type of fuel does Neyveli primarily mine?", "options": ["Lignite (brown coal)", "Anthracite", "Natural gas", "Uranium"], "correctIndex": 0 },
+            { "question": "Neyveli's power plants burn lignite directly mainly to reduce?", "options": ["Transportation costs", "Water usage", "Labor costs", "Land use"], "correctIndex": 0 },
+            { "question": "Neyveli Lignite Corporation is now officially known as?", "options": ["NLC India Limited", "NTPC Limited", "Coal India Limited", "SAIL"], "correctIndex": 0 },
+            { "question": "In recent years, NLC India has diversified into which additional energy sector?", "options": ["Nuclear power", "Solar and renewable energy", "Hydroelectric only", "Tidal power"], "correctIndex": 1 }
+          ],
+          "summary": "Neyveli Lignite Corporation, in Tamil Nadu, operates one of India's largest lignite (brown coal) mining and thermal power operations, supplying electricity to southern India since the 1950s. The site includes vast open-cast mines alongside integrated power plants that burn the extracted lignite directly, reducing transportation costs compared to conventional coal supply chains. Neyveli's development transformed the surrounding area into a major planned industrial township, complete with housing and infrastructure for its workforce, and the company, now known as NLC India Limited, has also diversified into solar and other renewable energy projects in recent years."
+        },
+        {
+          "id": "eco_d13_jsw_vijayanagar",
+          "location": { "name": "JSW Vijayanagar Steel Works, Karnataka", "lat": 15.1667, "lng": 76.6500 },
+          "questions": [
+            { "question": "JSW Vijayanagar Steel Works is located in which state?", "options": ["Karnataka", "Andhra Pradesh", "Tamil Nadu", "Telangana"], "correctIndex": 0 },
+            { "question": "JSW Vijayanagar Works is located near which mineral-rich belt?", "options": ["Bellary-Hospet iron ore belt", "Jharia coal belt", "Kolar gold fields", "Panna diamond belt"], "correctIndex": 0 },
+            { "question": "Which company built the Vijayanagar Steel Works?", "options": ["JSW Group", "Tata Steel", "SAIL", "Adani Group"], "correctIndex": 0 },
+            { "question": "When did construction of Vijayanagar Works begin?", "options": ["1960s", "1990s", "2005", "2015"], "correctIndex": 1 },
+            { "question": "A key advantage of Vijayanagar Works' location is proximity to?", "options": ["Rich iron ore deposits", "Offshore oil fields", "Major seaports", "Coal mines only"], "correctIndex": 0 }
+          ],
+          "summary": "JSW Steel's Vijayanagar Works, near Toranagallu in Karnataka's Bellary district, is one of India's largest single-location steel plants, built by the JSW Group starting in the 1990s to take advantage of nearby rich iron ore deposits. The plant has grown through repeated capacity expansions into a major integrated facility producing a wide range of steel products for construction, automotive, and infrastructure sectors. Its location near the iron-ore-rich Bellary-Hospet belt gives it a significant logistical advantage over coastal steel plants dependent on imported ore, and the complex has become a major employer and driver of industrial growth in the region."
+        },
+        {
+          "id": "eco_d13_damodar_valley_corp",
+          "location": { "name": "Damodar Valley Corporation, Maithon Dam", "lat": 23.7500, "lng": 86.4167 },
+          "questions": [
+            { "question": "The Damodar Valley Corporation was modeled partly on which American project?", "options": ["Tennessee Valley Authority", "Hoover Dam Authority", "Army Corps of Engineers", "Bureau of Reclamation"], "correctIndex": 0 },
+            { "question": "In which year was the Damodar Valley Corporation established?", "options": ["1935", "1948", "1962", "1975"], "correctIndex": 1 },
+            { "question": "The Damodar River was historically nicknamed the?", "options": ["Sorrow of Bengal", "River of Gold", "Tears of Bihar", "Ganga's Sister"], "correctIndex": 0 },
+            { "question": "What unusual feature does Maithon Dam have?", "options": ["An underground hydroelectric power station", "A floating power station", "A solar-only power plant", "No power generation at all"], "correctIndex": 0 },
+            { "question": "The Damodar Valley Corporation spans parts of which two states?", "options": ["Jharkhand and West Bengal", "Bihar and Odisha", "Chhattisgarh and Jharkhand", "West Bengal and Odisha"], "correctIndex": 0 }
+          ],
+          "summary": "The Damodar Valley Corporation, established in 1948 and modeled partly on the American Tennessee Valley Authority, was one of independent India's earliest multipurpose river valley projects, spanning parts of Jharkhand and West Bengal. Its dams, including the Maithon Dam, were built to control devastating floods along the Damodar River, historically nicknamed the 'Sorrow of Bengal' for its destructive annual flooding. Beyond flood control, the project generates hydroelectric power, supports irrigation, and supplies water for industrial use in the region, and Maithon Dam also features one of the few underground hydroelectric power stations in India, built inside the hill itself."
+        },
+        {
+          "id": "eco_d13_mumbai_high",
+          "location": { "name": "Mumbai High Offshore Oilfield", "lat": 19.5000, "lng": 71.8000 },
+          "questions": [
+            { "question": "Mumbai High is primarily what type of resource field?", "options": ["Coal field", "Offshore oilfield", "Diamond field", "Uranium field"], "correctIndex": 1 },
+            { "question": "Which company operates Mumbai High?", "options": ["Reliance Industries", "ONGC", "Indian Oil Corporation", "Cairn India"], "correctIndex": 1 },
+            { "question": "Approximately how far off Mumbai's coast is Mumbai High located?", "options": ["About 20 km", "About 160 km", "About 500 km", "About 1,000 km"], "correctIndex": 1 },
+            { "question": "In which decade was Mumbai High discovered?", "options": ["1950s", "1960s", "1980s", "1990s"], "correctIndex": 1 },
+            { "question": "Mumbai High suffered a major disaster in which year?", "options": ["1991", "2005", "2012", "2018"], "correctIndex": 1 }
+          ],
+          "summary": "Mumbai High, located roughly 160 kilometers off the coast of Mumbai in the Arabian Sea, is India's largest offshore oilfield, discovered in the late 1960s and brought into production in the 1970s. Operated by the Oil and Natural Gas Corporation (ONGC), it remains one of the country's most significant sources of domestic crude oil and natural gas. The field's platforms endure a harsh marine environment, and it suffered a major fire disaster in 2005 that killed several workers and temporarily halted production. Despite being decades old, Mumbai High continues to be upgraded with enhanced recovery techniques to sustain output from its aging reservoirs."
+        },
+        {
+          "id": "eco_d13_zawar_mines",
+          "location": { "name": "Zawar Mines, Rajasthan", "lat": 24.5833, "lng": 73.7167 },
+          "questions": [
+            { "question": "Zawar is located near which Rajasthan city?", "options": ["Jaipur", "Udaipur", "Jodhpur", "Bikaner"], "correctIndex": 1 },
+            { "question": "Zawar is historically significant for ancient production of which metal?", "options": ["Iron", "Zinc", "Gold", "Copper"], "correctIndex": 1 },
+            { "question": "Which company currently mines at Zawar?", "options": ["Hindustan Zinc Limited", "Coal India", "NMDC", "SAIL"], "correctIndex": 0 },
+            { "question": "Hindustan Zinc Limited is part of which larger conglomerate?", "options": ["Tata Group", "Vedanta Group", "Adani Group", "Reliance Group"], "correctIndex": 1 },
+            { "question": "Archaeological evidence of zinc smelting at Zawar dates back roughly how far?", "options": ["200 years", "500 years", "Over 2,000 years", "10,000 years"], "correctIndex": 2 }
+          ],
+          "summary": "Zawar, near Udaipur in Rajasthan, is home to one of the world's oldest known zinc smelting sites, with archaeological evidence of zinc production dating back over 2,000 years, long before Europeans mastered the process. Today the region continues to be mined by Hindustan Zinc Limited, part of the Vedanta Group, making it a key hub of India's modern zinc and lead production. Ancient smelting furnaces and slag heaps discovered at the site provide valuable insight into early Indian metallurgical techniques far ahead of their time globally, and Zawar remains a rare example of continuous mining activity linking ancient and modern industrial history."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d13_chapchar_kut",
+          "location": { "name": "Chapchar Kut, Lunglei, Mizoram", "lat": 22.8833, "lng": 92.7333 },
+          "questions": [
+            { "question": "Chapchar Kut is traditionally celebrated after which agricultural activity?", "options": ["Harvesting rice", "Clearing jungle undergrowth for jhum cultivation", "Planting tea", "Fishing season"], "correctIndex": 1 },
+            { "question": "Which dance is most associated with Chapchar Kut celebrations?", "options": ["Cheraw (bamboo dance)", "Kathak", "Bharatanatyam", "Garba"], "correctIndex": 0 },
+            { "question": "Chapchar Kut is a major festival of which Indian state?", "options": ["Nagaland", "Mizoram", "Manipur", "Tripura"], "correctIndex": 1 },
+            { "question": "Chapchar Kut was originally linked to which set of traditions before wide Christian conversion?", "options": ["Mizo animist traditions", "Hindu Vedic rituals", "Buddhist practices", "Islamic customs"], "correctIndex": 0 },
+            { "question": "Chapchar Kut today functions mainly as a?", "options": ["Purely religious ritual", "Cultural and social celebration", "Political rally", "Trade fair only"], "correctIndex": 1 }
+          ],
+          "summary": "Chapchar Kut is one of Mizoram's most important festivals, traditionally celebrated after the clearing of jungle undergrowth ('jhum' cultivation) in preparation for the sowing season, with the town of Lunglei among the key centers of celebration. The festival features traditional Mizo dances, most notably the 'Cheraw' bamboo dance, where dancers step rhythmically between clapping bamboo poles. Once linked closely to Mizo animist traditions before widespread Christian conversion, Chapchar Kut has since evolved into more of a cultural and social celebration, bringing together Mizo communities to showcase traditional attire, music, and communal food celebrating a fresh agricultural cycle."
+        },
+        {
+          "id": "evt_d13_pola_festival",
+          "location": { "name": "Pola Festival, Nagpur, Maharashtra", "lat": 21.1458, "lng": 79.0882 },
+          "questions": [
+            { "question": "Pola Festival primarily honors which animals?", "options": ["Elephants", "Bullocks and oxen", "Horses", "Camels"], "correctIndex": 1 },
+            { "question": "Pola is especially celebrated in which region of Maharashtra?", "options": ["Konkan", "Vidarbha", "Marathwada", "Khandesh"], "correctIndex": 1 },
+            { "question": "Pola Festival is centered around which city?", "options": ["Pune", "Nagpur", "Nashik", "Aurangabad"], "correctIndex": 1 },
+            { "question": "During Pola, farmers typically do what to their bullocks?", "options": ["Decorate them with ornaments and paint their horns", "Sell them at market", "Race them competitively", "Keep them indoors all day"], "correctIndex": 0 },
+            { "question": "Pola Festival typically falls around which season?", "options": ["End of monsoon season", "Peak summer", "Deep winter", "Spring equinox"], "correctIndex": 0 }
+          ],
+          "summary": "Pola is a festival celebrated mainly by farming communities in the Vidarbha region of Maharashtra, centered around Nagpur, dedicated to honoring bullocks and oxen for their role in agricultural labor throughout the year. On this day, farmers decorate their bullocks with colorful ornaments, paint their horns, and parade them through villages before offering them a rest from work as a mark of gratitude. The festival typically falls around the end of the monsoon season, timed to coincide with a lull in fieldwork after sowing is complete, reflecting the deep cultural bond between Maharashtra's rural farming communities and their draft animals."
+        },
+        {
+          "id": "evt_d13_nagaur_cattle_fair",
+          "location": { "name": "Nagaur Cattle Fair, Rajasthan", "lat": 27.2000, "lng": 73.7333 },
+          "questions": [
+            { "question": "The Nagaur Cattle Fair is held in which Indian state?", "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Punjab"], "correctIndex": 1 },
+            { "question": "The Nagaur Fair primarily involves trading of?", "options": ["Livestock such as cattle and camels", "Textiles only", "Gemstones", "Spices"], "correctIndex": 0 },
+            { "question": "Nagaur is particularly known for a distinctive breed of?", "options": ["White bullocks", "Black horses", "Grey camels", "Brown goats"], "correctIndex": 0 },
+            { "question": "Besides trading, the Nagaur Fair also features?", "options": ["Traditional games and folk music", "Space exhibitions", "Film screenings only", "Stock market trading"], "correctIndex": 0 },
+            { "question": "The Nagaur Fair is particularly important for which communities?", "options": ["Rural and pastoral communities", "Urban IT workers", "Coastal fishing communities", "Mountaineering clubs"], "correctIndex": 0 }
+          ],
+          "summary": "The Nagaur Cattle Fair, held annually in Rajasthan, is one of India's largest livestock fairs, drawing thousands of traders to buy and sell cattle, camels, horses, and bullocks known for their strength and breeding quality. Alongside livestock trading, the fair features traditional games, tug-of-war contests, and folk music performances that turn the event into a broader cultural gathering. Nagaur is particularly known for a distinctive breed of white bullocks prized for their strength and used historically for plowing and pulling carts across Rajasthan's arid terrain, and the fair remains an important economic and social event for the region's rural and pastoral communities."
+        },
+        {
+          "id": "evt_d13_purulia_chhau",
+          "location": { "name": "Purulia Chhau Festival, West Bengal", "lat": 23.3333, "lng": 86.3667 },
+          "questions": [
+            { "question": "Purulia's Chhau dance is best described as a form of?", "options": ["Masked martial dance-drama", "Classical vocal music", "Puppet theatre", "Silent meditation ritual"], "correctIndex": 0 },
+            { "question": "Chhau dance performances commonly narrate stories from which epics?", "options": ["Ramayana and Mahabharata", "Quran", "Bible", "Guru Granth Sahib"], "correctIndex": 0 },
+            { "question": "Besides Purulia, which other regions have their own styles of Chhau dance?", "options": ["Seraikella (Jharkhand) and Mayurbhanj (Odisha)", "Kerala and Tamil Nadu", "Punjab and Haryana", "Assam and Manipur"], "correctIndex": 0 },
+            { "question": "What is Purulia's Chhau style particularly known for?", "options": ["Especially large and expressive masks", "No masks at all", "Underwater performances", "Silent mime only"], "correctIndex": 0 },
+            { "question": "Chhau dance is recognized by UNESCO as part of India's?", "options": ["Intangible Cultural Heritage", "World Heritage Site list", "Natural Heritage list", "Memory of the World Register"], "correctIndex": 0 }
+          ],
+          "summary": "The Chhau dance festival of Purulia, West Bengal, showcases a distinctive form of masked martial dance-drama that blends elements of folk dance, martial arts, and acrobatics to narrate stories from the Ramayana, Mahabharata, and local legends. Dancers wear elaborate, brightly painted masks and vivid costumes, moving through vigorous, athletic sequences accompanied by traditional drums and reed instruments. Chhau also has related regional forms in Seraikella, Jharkhand, and Mayurbhanj, Odisha, each with distinct stylistic traits, though Purulia's version is particularly known for its especially large and expressive masks, and UNESCO recognizes Chhau dance as part of India's Intangible Cultural Heritage."
+        },
+        {
+          "id": "evt_d13_torgya_festival",
+          "location": { "name": "Torgya Festival, Tawang, Arunachal Pradesh", "lat": 27.5859, "lng": 91.8594 },
+          "questions": [
+            { "question": "The Torgya Festival is held at which monastery?", "options": ["Tawang Monastery", "Rumtek Monastery", "Hemis Monastery", "Key Monastery"], "correctIndex": 0 },
+            { "question": "Torgya Festival features elaborate masked dances known as?", "options": ["Cham dances", "Cheraw dances", "Kalbelia dances", "Garba dances"], "correctIndex": 0 },
+            { "question": "The Torgya Festival is primarily meant to?", "options": ["Ward off evil spirits before the new year", "Celebrate a military victory", "Mark a royal coronation", "Honor a harvest"], "correctIndex": 0 },
+            { "question": "Tawang Monastery is associated with which native community?", "options": ["Monpa community", "Khasi community", "Bodo community", "Naga community"], "correctIndex": 0 },
+            { "question": "Torgya Festival celebrations typically culminate in?", "options": ["Ritual burning of an effigy symbolizing evil", "A royal procession", "A cricket match", "A boat race"], "correctIndex": 0 }
+          ],
+          "summary": "The Torgya Festival, held at Tawang Monastery in Arunachal Pradesh, is a Buddhist ritual festival marked by elaborate masked 'cham' dances performed by monks to ward off evil spirits and negative energies before the new year. Tawang Monastery, one of the largest Buddhist monasteries in India, serves as the primary venue, drawing monks and devotees from across the region for the multi-day ceremony. The dances depict various deities and demons, accompanied by traditional horns, drums, and cymbals, culminating in the ritual burning of an effigy symbolizing the destruction of evil, reflecting the deep Tibetan Buddhist heritage of the Monpa community native to the Tawang region."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d13_hyderabad_telangana",
+          "location": { "name": "Hyderabad, Telangana capital", "lat": 17.3850, "lng": 78.4867 },
+          "questions": [
+            { "question": "Telangana was formed as a separate state in which year?", "options": ["2000", "2010", "2014", "2019"], "correctIndex": 2 },
+            { "question": "Telangana was carved out of which state?", "options": ["Karnataka", "Andhra Pradesh", "Maharashtra", "Odisha"], "correctIndex": 1 },
+            { "question": "Telangana became which numbered state of India?", "options": ["26th", "28th", "29th", "30th"], "correctIndex": 2 },
+            { "question": "Under the special arrangement after Telangana's formation, Hyderabad served as capital for how many years jointly?", "options": ["Up to 5 years", "Up to 10 years", "Up to 15 years", "Permanently"], "correctIndex": 1 },
+            { "question": "Telangana's formation movement was largely driven by demands rooted in?", "options": ["Perceived regional neglect under united Andhra Pradesh", "A border dispute with Karnataka", "A religious movement", "A language dispute with Tamil Nadu"], "correctIndex": 0 }
+          ],
+          "summary": "Hyderabad became the capital of Telangana when the state was carved out of Andhra Pradesh in June 2014, making it India's 29th state and one formed primarily along regional-identity lines after a long agitation movement. Under a special arrangement, Hyderabad also served as the joint capital for both Telangana and residual Andhra Pradesh for up to ten years, until Andhra Pradesh developed its own capital. The city's status as a major IT and pharmaceutical hub made the capital-sharing arrangement particularly significant for the region's economy, and Telangana's formation followed decades of demands rooted in perceived neglect under united Andhra Pradesh."
+        },
+        {
+          "id": "pol_d13_puducherry_assembly",
+          "location": { "name": "Puducherry Legislative Assembly", "lat": 11.9139, "lng": 79.8145 },
+          "questions": [
+            { "question": "Puducherry is unusual among Union Territories because it has its own?", "options": ["Elected Legislative Assembly", "Independent currency", "Separate armed forces", "National anthem"], "correctIndex": 0 },
+            { "question": "Puducherry was historically a colonial territory of which European power?", "options": ["Portugal", "France", "Britain", "Netherlands"], "correctIndex": 1 },
+            { "question": "Puducherry formally merged with India in which year?", "options": ["1947", "1954", "1962", "1975"], "correctIndex": 1 },
+            { "question": "Puducherry's special legislature was granted under an Act of Parliament in which year?", "options": ["1950", "1963", "1980", "2000"], "correctIndex": 1 },
+            { "question": "Puducherry's territory is unusually structured because it includes areas separated across how many regions?", "options": ["Two", "Three", "Four", "Six"], "correctIndex": 2 }
+          ],
+          "summary": "Puducherry is one of the few Union Territories in India granted its own elected Legislative Assembly and Council of Ministers, giving it a level of self-governance closer to that of a full state despite its formal UT status. This arrangement traces back to Puducherry's unique history as a former French colonial territory, merged with India in 1954 and later granted a special legislature under a 1963 Act of Parliament. The assembly building in Puducherry town oversees governance across the territory's four geographically separated regions, including areas within Tamil Nadu, Kerala, and Andhra Pradesh, making Puducherry's arrangement one of the more unusual examples of Indian federal administration."
+        },
+        {
+          "id": "pol_d13_jk_assembly_srinagar",
+          "location": { "name": "Jammu and Kashmir Legislative Assembly, Srinagar", "lat": 34.0748, "lng": 74.8092 },
+          "questions": [
+            { "question": "Jammu and Kashmir's special constitutional status was revoked in which year?", "options": ["2014", "2016", "2019", "2022"], "correctIndex": 2 },
+            { "question": "Following the 2019 reorganization, Jammu and Kashmir became a?", "options": ["Fully independent state", "Union Territory with its own legislature", "Union Territory with no legislature", "Merged into Punjab"], "correctIndex": 1 },
+            { "question": "Which other Union Territory was carved out of the former state of Jammu and Kashmir in 2019?", "options": ["Ladakh", "Himachal Pradesh", "Punjab", "Sikkim"], "correctIndex": 0 },
+            { "question": "Elections to the reconstituted Jammu and Kashmir assembly were held in which year?", "options": ["2019", "2020", "2022", "2024"], "correctIndex": 3 },
+            { "question": "Srinagar has traditionally served as which kind of capital for the region?", "options": ["Summer capital", "Permanent sole capital", "Judicial capital only", "Winter capital"], "correctIndex": 0 }
+          ],
+          "summary": "The Jammu and Kashmir Legislative Assembly, historically alternating sessions between Srinagar in summer and Jammu in winter, governs a region whose political status has undergone major change following the 2019 revocation of its special constitutional status and its reorganization into two Union Territories. Since then, Jammu and Kashmir has functioned as a Union Territory with its own legislature, distinct from Ladakh, which was carved out without one. Elections to the reconstituted assembly were held in 2024, marking a significant step in restoring elected representative government to the region after years of central administration."
+        },
+        {
+          "id": "pol_d13_election_commission",
+          "location": { "name": "Election Commission of India, New Delhi", "lat": 28.6167, "lng": 77.2167 },
+          "questions": [
+            { "question": "The Election Commission of India is headquartered at which building in New Delhi?", "options": ["Nirvachan Sadan", "Rail Bhavan", "Shastri Bhavan", "Vigyan Bhavan"], "correctIndex": 0 },
+            { "question": "In which year was the Election Commission of India established?", "options": ["1947", "1950", "1962", "1975"], "correctIndex": 1 },
+            { "question": "The Election Commission became a multi-member body in which year?", "options": ["1950", "1975", "1989", "2004"], "correctIndex": 2 },
+            { "question": "The Election Commission oversees elections to which of the following?", "options": ["Lok Sabha, Rajya Sabha, and state legislatures", "Only municipal elections", "Only the Presidential election", "Only Rajya Sabha elections"], "correctIndex": 0 },
+            { "question": "The Election Commission's independence from executive control is considered a safeguard for India's?", "options": ["Democratic process", "Judicial system", "Military command", "Foreign policy"], "correctIndex": 0 }
+          ],
+          "summary": "The Election Commission of India, headquartered at Nirvachan Sadan in New Delhi, is a constitutional body responsible for administering elections to the Lok Sabha, Rajya Sabha, state legislatures, and the offices of President and Vice President. Established in 1950, it operates as an independent body designed to ensure free and fair elections, overseeing everything from voter list preparation to the model code of conduct during campaigns. Originally headed by a single Chief Election Commissioner, the Commission became a multi-member body in 1989 to strengthen its decision-making capacity, and its independence from executive control is considered a cornerstone safeguard for India's democratic process."
+        },
+        {
+          "id": "pol_d13_parliament_house",
+          "location": { "name": "Parliament House (Sansad Bhavan), New Delhi", "lat": 28.6167, "lng": 77.2091 },
+          "questions": [
+            { "question": "The old Parliament House in New Delhi was completed in which year?", "options": ["1911", "1927", "1947", "1950"], "correctIndex": 1 },
+            { "question": "Who were the architects of the old Parliament House?", "options": ["Edwin Lutyens and Herbert Baker", "Le Corbusier and Pierre Jeanneret", "Charles Correa alone", "Laurie Baker alone"], "correctIndex": 0 },
+            { "question": "The old Parliament House's structure is notably shaped?", "options": ["Circular/colonnaded", "Square", "Pyramidal", "Triangular"], "correctIndex": 0 },
+            { "question": "A new Parliament House building was inaugurated in which year?", "options": ["2014", "2019", "2023", "2025"], "correctIndex": 2 },
+            { "question": "The new Parliament House was built as part of which redevelopment project?", "options": ["Central Vista redevelopment", "Smart Cities Mission", "Namami Gange Project", "Digital India Project"], "correctIndex": 0 }
+          ],
+          "summary": "The old Parliament House (Sansad Bhavan) in New Delhi, designed by British architects Edwin Lutyens and Herbert Baker, was completed in 1927 and served as the seat of India's central legislature both before and after independence. Its distinctive circular colonnaded structure originally housed the Council of State, Central Legislative Assembly, and Chamber of Princes during British rule, later becoming home to the Rajya Sabha and Lok Sabha. In 2023, a new Parliament House building was inaugurated nearby as part of the Central Vista redevelopment project, with legislative functions shifting to the new structure while the old building continues to be preserved as a symbol of India's transition to parliamentary democracy."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "day": 15,
+  "date": "2026-10-15",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d15_munnar_tea",
+          "location": { "name": "Munnar Tea Gardens, Kerala", "lat": 10.0889, "lng": 77.0595 },
+          "questions": [
+            { "question": "Munnar is especially known for its extensive plantations of?", "options": ["Coffee", "Tea", "Rubber", "Cardamom"], "correctIndex": 1 },
+            { "question": "Munnar is located in which Kerala district?", "options": ["Idukki", "Wayanad", "Palakkad", "Kottayam"], "correctIndex": 0 },
+            { "question": "Munnar's tea industry was developed initially by which group?", "options": ["British planters", "Dutch traders", "Portuguese colonists", "French settlers"], "correctIndex": 0 },
+            { "question": "Which rare flower near Munnar blooms only once every twelve years?", "options": ["Neelakurinji", "Rhododendron", "Lotus", "Dzukou lily"], "correctIndex": 0 },
+            { "question": "Munnar lies close to which national park?", "options": ["Eravikulam National Park", "Periyar National Park", "Silent Valley", "Bandipur"], "correctIndex": 0 }
+          ],
+          "summary": "Munnar, in Kerala's Idukki district, is renowned for its sprawling tea plantations that carpet the rolling hills of the Western Ghats, developed initially by British planters in the late 19th century. The region's high elevation and cool climate create ideal conditions for high-quality tea cultivation, and Munnar remains one of India's most visited hill destinations. It also lies close to Eravikulam National Park, home to the endangered Nilgiri tahr and the rare Neelakurinji flower, which blooms in a striking blue-purple only once every twelve years. Munnar's colonial-era tea heritage is preserved in several tea museums documenting the industry's history."
+        },
+        {
+          "id": "geo_d15_auli",
+          "location": { "name": "Auli, Uttarakhand", "lat": 30.5300, "lng": 79.5700 },
+          "questions": [
+            { "question": "Auli is primarily known in India as a destination for?", "options": ["Skiing", "Scuba diving", "Desert safaris", "Surfing"], "correctIndex": 0 },
+            { "question": "Auli is located in which Uttarakhand district?", "options": ["Chamoli", "Nainital", "Dehradun", "Almora"], "correctIndex": 0 },
+            { "question": "Auli's cable car connects the ski slopes to which nearby town?", "options": ["Joshimath", "Rishikesh", "Haridwar", "Mussoorie"], "correctIndex": 0 },
+            { "question": "Auli offers views of which major Himalayan peak?", "options": ["Nanda Devi", "Kangchenjunga", "K2", "Annapurna"], "correctIndex": 0 },
+            { "question": "Auli serves as a gateway to pilgrimage routes leading to which shrine?", "options": ["Badrinath", "Kedarnath", "Amarnath", "Vaishno Devi"], "correctIndex": 0 }
+          ],
+          "summary": "Auli, in Uttarakhand's Chamoli district, is one of India's premier skiing destinations, with slopes offering views of Himalayan peaks including Nanda Devi. Developed for winter sports starting in the 1980s, Auli features a cable car connecting the nearby town of Joshimath to the ski slopes. Beyond skiing, Auli's meadows and coniferous forests make it a popular trekking destination outside the winter season, and the region also holds religious significance as a gateway to important Himalayan pilgrimage routes, including those leading to Badrinath and the Valley of Flowers."
+        },
+        {
+          "id": "geo_d15_coringa_mangrove",
+          "location": { "name": "Coringa Mangrove, Andhra Pradesh", "lat": 16.7500, "lng": 82.2500 },
+          "questions": [
+            { "question": "Coringa Wildlife Sanctuary is located in the delta of which river?", "options": ["Krishna", "Godavari", "Kaveri", "Mahanadi"], "correctIndex": 1 },
+            { "question": "Coringa's mangroves form India's second largest such ecosystem after which one?", "options": ["Sundarbans", "Bhitarkanika", "Pichavaram", "Coringa itself"], "correctIndex": 0 },
+            { "question": "Mangroves like those at Coringa act as a natural buffer against?", "options": ["Cyclones and coastal erosion", "Earthquakes", "Volcanic eruptions", "Drought"], "correctIndex": 0 },
+            { "question": "Coringa is an important habitat for which endangered animal?", "options": ["Fishing cat", "Snow leopard", "Asiatic lion", "Indian rhinoceros"], "correctIndex": 0 },
+            { "question": "Coringa's mangrove ecosystem has faced degradation mainly due to?", "options": ["Aquaculture expansion", "Volcanic activity", "Glacial melt", "Urban high-rises"], "correctIndex": 0 }
+          ],
+          "summary": "The Coringa Wildlife Sanctuary, in the Godavari river delta of Andhra Pradesh, protects one of India's largest mangrove ecosystems after the Sundarbans, forming a vital breeding ground for numerous fish and crustacean species. The mangroves act as a natural buffer against cyclones and coastal erosion, protecting nearby fishing communities from storm surges. The sanctuary is also an important habitat for the endangered fishing cat and hosts a variety of migratory and resident bird species, with conservation efforts aimed at restoring degraded mangrove patches affected by aquaculture expansion."
+        },
+        {
+          "id": "geo_d15_great_himalayan_np",
+          "location": { "name": "Great Himalayan National Park, Himachal Pradesh", "lat": 31.7167, "lng": 77.5333 },
+          "questions": [
+            { "question": "The Great Himalayan National Park is located in which Himachal Pradesh district?", "options": ["Kullu", "Shimla", "Kangra", "Chamba"], "correctIndex": 0 },
+            { "question": "The Great Himalayan National Park is recognized as a?", "options": ["UNESCO World Heritage Site", "Ramsar site only", "Biosphere Reserve only", "Special Economic Zone"], "correctIndex": 0 },
+            { "question": "Which endangered big cat is found in the Great Himalayan National Park?", "options": ["Bengal tiger", "Snow leopard", "Asiatic lion", "Clouded leopard"], "correctIndex": 1 },
+            { "question": "The park's conservation approach places strong emphasis on?", "options": ["Community-based conservation with local villages", "Complete exclusion of all human activity", "Commercial tourism development", "Military administration"], "correctIndex": 0 },
+            { "question": "Exploring the park's interior typically requires?", "options": ["Multi-day treks", "A short drive", "A cable car ride", "A boat journey"], "correctIndex": 0 }
+          ],
+          "summary": "The Great Himalayan National Park, in Himachal Pradesh's Kullu district, is a UNESCO World Heritage Site protecting a vast area of high-altitude forests, alpine meadows, and glaciers across a significant elevation range. It shelters numerous endangered species, including the snow leopard, Himalayan brown bear, and musk deer, alongside rich birdlife. The park was established with a strong emphasis on community-based conservation, involving local villages in sustainable resource management, and its remote, roadless interior requires multi-day treks to explore, helping preserve its largely undisturbed ecosystem."
+        },
+        {
+          "id": "geo_d15_jog_falls",
+          "location": { "name": "Jog Falls, Karnataka", "lat": 14.2250, "lng": 74.8123 },
+          "questions": [
+            { "question": "Jog Falls is located on which river?", "options": ["Kaveri River", "Sharavathi River", "Tungabhadra River", "Krishna River"], "correctIndex": 1 },
+            { "question": "Approximately how high is Jog Falls?", "options": ["About 50 m", "About 253 m", "About 500 m", "About 1,000 m"], "correctIndex": 1 },
+            { "question": "Jog Falls consists of how many distinct named cascades?", "options": ["Two", "Three", "Four", "Six"], "correctIndex": 2 },
+            { "question": "Jog Falls' flow is significantly influenced by releases from which dam?", "options": ["Linganamakki Dam", "Bhakra Dam", "Hirakud Dam", "Tehri Dam"], "correctIndex": 0 },
+            { "question": "Jog Falls is best seen in its dramatic full force during?", "options": ["Monsoon season", "Peak summer", "Deep winter", "Spring"], "correctIndex": 0 }
+          ],
+          "summary": "Jog Falls, on the Sharavathi River in Karnataka, is among India's highest waterfalls, with water plunging roughly 253 meters in a series of four distinct cascades known as Raja, Rani, Rocket, and Roarer. The falls' flow is heavily influenced by water releases from the nearby Linganamakki Dam, meaning its dramatic full force is best seen during and shortly after monsoon season. Before major hydroelectric development along the Sharavathi, Jog Falls flowed with greater year-round volume, but dam regulation has since altered its natural flow patterns significantly."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d15_mahakaleshwar_temple",
+          "location": { "name": "Mahakaleshwar Temple, Ujjain", "lat": 23.1828, "lng": 75.7681 },
+          "questions": [
+            { "question": "Mahakaleshwar Temple is dedicated to which deity?", "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"], "correctIndex": 1 },
+            { "question": "Mahakaleshwar Temple is famous for its unique pre-dawn ritual called?", "options": ["Bhasma Aarti", "Maha Aarti", "Sandhya Aarti", "Ganga Aarti"], "correctIndex": 0 },
+            { "question": "The Mahakaleshwar linga is considered \"Swayambhu,\" meaning?", "options": ["Self-manifested", "Man-made", "Foreign-imported", "Newly consecrated"], "correctIndex": 0 },
+            { "question": "Mahakaleshwar Temple is located in which city?", "options": ["Indore", "Ujjain", "Bhopal", "Gwalior"], "correctIndex": 1 },
+            { "question": "Ujjain hosts which major rotating pilgrimage gathering?", "options": ["Simhastha Kumbh Mela", "Pushkar Fair", "Magh Mela", "Sonepur Fair"], "correctIndex": 0 }
+          ],
+          "summary": "The Mahakaleshwar Temple in Ujjain, Madhya Pradesh, is one of the twelve Jyotirlinga shrines dedicated to Shiva and is unique for its 'Bhasma Aarti,' a pre-dawn ritual in which the deity is anointed with sacred ash. The temple's linga is considered 'Swayambhu,' or self-manifested, adding to its special religious significance among Shiva devotees. Ujjain itself holds deep astronomical and religious importance, historically serving as a reference point for Indian timekeeping, and the temple also plays a central role in the Simhastha Kumbh Mela, one of the four rotating sites of this major pilgrimage gathering."
+        },
+        {
+          "id": "cul_d15_dwarkadhish_temple",
+          "location": { "name": "Dwarkadhish Temple, Dwarka", "lat": 22.2442, "lng": 68.9685 },
+          "questions": [
+            { "question": "Dwarkadhish Temple is dedicated to which deity?", "options": ["Krishna", "Shiva", "Rama", "Ganesha"], "correctIndex": 0 },
+            { "question": "Dwarkadhish Temple is one of the four sites forming which sacred pilgrimage circuit?", "options": ["Char Dham", "Panch Kedar", "Jyotirlinga circuit", "Shakti Peethas"], "correctIndex": 0 },
+            { "question": "According to legend, Dwarka was established by Krishna after leaving which city?", "options": ["Mathura", "Ayodhya", "Hastinapur", "Indraprastha"], "correctIndex": 0 },
+            { "question": "Some underwater archaeological explorations near Dwarka have investigated the theory that the ancient city was?", "options": ["Submerged by the sea", "Buried by a landslide", "Destroyed by fire", "Relocated inland"], "correctIndex": 0 },
+            { "question": "Dwarkadhish Temple is located in which Indian state?", "options": ["Maharashtra", "Gujarat", "Rajasthan", "Goa"], "correctIndex": 1 }
+          ],
+          "summary": "The Dwarkadhish Temple in Dwarka, Gujarat, dedicated to Lord Krishna, is one of the Char Dham, the four most sacred Hindu pilgrimage sites in India, alongside Badrinath, Puri, and Rameswaram. According to legend, Dwarka was the kingdom established by Krishna after he left Mathura, and the ancient city is believed by some to have since been submerged by the sea, with underwater archaeological explorations offering some supporting evidence. The temple's main structure dates back several centuries and features a towering five-story spire visible from a distance."
+        },
+        {
+          "id": "cul_d15_undavalli_caves",
+          "location": { "name": "Undavalli Caves, Andhra Pradesh", "lat": 16.4667, "lng": 80.5667 },
+          "questions": [
+            { "question": "The Undavalli Caves are located near which city?", "options": ["Visakhapatnam", "Vijayawada", "Tirupati", "Guntur"], "correctIndex": 1 },
+            { "question": "The Undavalli Caves were originally built by which dynasty?", "options": ["Vishnukundina dynasty", "Chola dynasty", "Chalukya dynasty", "Pallava dynasty"], "correctIndex": 0 },
+            { "question": "Undavalli Caves feature a massive monolithic sculpture of which deity?", "options": ["Vishnu (reclining)", "Shiva", "Buddha", "Ganesha"], "correctIndex": 0 },
+            { "question": "The Undavalli Caves originally had strong influences from which religious tradition before becoming a Hindu shrine?", "options": ["Buddhism", "Jainism", "Zoroastrianism", "Sikhism"], "correctIndex": 0 },
+            { "question": "The Undavalli Caves are structured in what architectural form?", "options": ["Multi-storied and terraced into a hillside", "Underground tunnels only", "Floating structures", "Freestanding towers"], "correctIndex": 0 }
+          ],
+          "summary": "The Undavalli Caves, near Vijayawada in Andhra Pradesh, are a group of rock-cut cave temples dating back to the 4th-5th century, originally built by Vishnukundina kings with strong Buddhist influences before being converted into a Hindu shrine. The caves are notable for a massive monolithic sculpture of Lord Vishnu in a reclining posture, carved directly from a single rock. Multi-storied and terraced into the hillside, the caves reflect an architectural style that blends Buddhist vihara design with later Hindu iconography."
+        },
+        {
+          "id": "cul_d15_kumbhalgarh_fort",
+          "location": { "name": "Kumbhalgarh Fort, Rajasthan", "lat": 25.1487, "lng": 73.5866 },
+          "questions": [
+            { "question": "Kumbhalgarh Fort is known for having one of the world's longest?", "options": ["Underground tunnels", "Continuous fortification walls", "Aqueducts", "Staircases"], "correctIndex": 1 },
+            { "question": "Approximately how long is Kumbhalgarh's fortification wall?", "options": ["About 5 km", "About 15 km", "About 36 km", "About 100 km"], "correctIndex": 2 },
+            { "question": "Which ruler built Kumbhalgarh Fort in the 15th century?", "options": ["Maharana Kumbha", "Maharana Pratap", "Rana Sanga", "Akbar"], "correctIndex": 0 },
+            { "question": "Kumbhalgarh Fort is historically notable for sheltering which future ruler as a child?", "options": ["Maharana Pratap", "Akbar", "Rana Sanga", "Prithviraj Chauhan"], "correctIndex": 0 },
+            { "question": "Kumbhalgarh Fort is part of which UNESCO World Heritage listing?", "options": ["Hill Forts of Rajasthan", "Great Living Chola Temples", "Group of Monuments at Hampi", "Sun Temple Konark"], "correctIndex": 0 }
+          ],
+          "summary": "Kumbhalgarh Fort, in the Aravalli Hills of Rajasthan, is renowned for having one of the longest continuous fortification walls in the world, stretching over 36 kilometers around the hilltop citadel. Built in the 15th century by Maharana Kumbha of Mewar, the fort served as a crucial refuge for Mewar rulers during times of conflict, most notably sheltering a young Maharana Pratap. Its massive walls, wide enough for several horses to ride abreast, encircle numerous temples, palaces, and gardens, and as part of the 'Hill Forts of Rajasthan' UNESCO World Heritage Site, it remains a symbol of Mewar's historical resilience."
+        },
+        {
+          "id": "cul_d15_kanheri_caves",
+          "location": { "name": "Kanheri Caves, Mumbai", "lat": 19.2100, "lng": 72.9100 },
+          "questions": [
+            { "question": "The Kanheri Caves are located within which Mumbai park?", "options": ["Sanjay Gandhi National Park", "Elephanta Island", "Marine Drive Park", "Borivali Lake Park"], "correctIndex": 0 },
+            { "question": "The Kanheri Caves are primarily associated with which religious tradition?", "options": ["Buddhism", "Hinduism", "Jainism", "Zoroastrianism"], "correctIndex": 0 },
+            { "question": "Roughly how many caves make up the Kanheri complex?", "options": ["About 10", "About 30", "Over 100", "Over 500"], "correctIndex": 2 },
+            { "question": "The Kanheri Caves were carved over a period spanning roughly which centuries?", "options": ["1st century BCE to 10th century CE", "5th to 8th century CE", "12th to 15th century CE", "3rd century BCE only"], "correctIndex": 0 },
+            { "question": "The Kanheri Caves likely benefited from proximity to ancient?", "options": ["Trade routes", "Naval bases", "Royal palaces", "Mining sites"], "correctIndex": 0 }
+          ],
+          "summary": "The Kanheri Caves, within Mumbai's Sanjay Gandhi National Park, form one of the largest groups of rock-cut Buddhist caves in India, with over 100 caves carved between roughly the 1st century BCE and the 10th century CE. The site served as an important Buddhist monastic and educational center, with evidence suggesting it supported significant scholarly activity due to its position near ancient trade routes. Many caves feature intricately carved sculptures, including images of the Buddha and Bodhisattvas, alongside inscriptions that provide valuable historical insight into the region's ancient trade and religious life."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d15_balco_korba",
+          "location": { "name": "BALCO, Korba, Chhattisgarh", "lat": 22.3595, "lng": 82.7501 },
+          "questions": [
+            { "question": "BALCO is primarily involved in the production of?", "options": ["Steel", "Aluminium", "Cement", "Fertilizer"], "correctIndex": 1 },
+            { "question": "BALCO is based in which city?", "options": ["Raipur", "Korba", "Bilaspur", "Durg"], "correctIndex": 1 },
+            { "question": "BALCO was partially privatized in 2001 under which conglomerate?", "options": ["Vedanta Group", "Tata Group", "Adani Group", "Reliance Group"], "correctIndex": 0 },
+            { "question": "Korba's location gives BALCO access to low-cost power due to nearby?", "options": ["Coal deposits", "Oil fields", "Solar farms", "Wind corridors"], "correctIndex": 0 },
+            { "question": "BALCO's privatization was considered a notable event during India's era of?", "options": ["Economic reform and disinvestment", "Colonial industrialization", "Post-independence nationalization", "Wartime rationing"], "correctIndex": 0 }
+          ],
+          "summary": "Bharat Aluminium Company (BALCO), based in Korba, Chhattisgarh, is one of India's major aluminium producers, originally established as a public sector enterprise before its partial privatization in 2001 under the Vedanta Group. Korba's location near rich coal deposits gives BALCO access to relatively low-cost power, a crucial input given aluminium smelting's high energy demands. The company's privatization was among the more high-profile and debated disinvestment deals of India's economic reform era, and BALCO's operations have made Korba an important industrial hub in Chhattisgarh."
+        },
+        {
+          "id": "eco_d15_nalco_angul",
+          "location": { "name": "NALCO, Angul, Odisha", "lat": 20.8500, "lng": 85.1000 },
+          "questions": [
+            { "question": "NALCO is primarily involved in which industry?", "options": ["Steel", "Aluminium", "Textiles", "Petrochemicals"], "correctIndex": 1 },
+            { "question": "NALCO's major operations are located in which state?", "options": ["Odisha", "Jharkhand", "Chhattisgarh", "West Bengal"], "correctIndex": 0 },
+            { "question": "NALCO's integrated production chain includes bauxite mining, alumina refining, and?", "options": ["Aluminium smelting", "Steel rolling", "Cement grinding", "Oil refining"], "correctIndex": 0 },
+            { "question": "In which decade was NALCO established?", "options": ["1960s", "1980s", "2000s", "2010s"], "correctIndex": 1 },
+            { "question": "NALCO's high energy needs for aluminium smelting are met partly through?", "options": ["Captive power plants", "Solar panels only", "Imported electricity", "Wind turbines only"], "correctIndex": 0 }
+          ],
+          "summary": "National Aluminium Company Limited (NALCO), headquartered with major operations in Angul and Damanjodi, Odisha, is one of Asia's largest integrated aluminium complexes, spanning bauxite mining, alumina refining, and aluminium smelting. Established in the 1980s as a public sector enterprise, NALCO leverages Odisha's substantial bauxite reserves, among the richest in India, to support its fully integrated production chain. The company has also invested in captive power plants to meet the enormous energy requirements of aluminium smelting, remaining one of India's key export earners in the metals sector."
+        },
+        {
+          "id": "eco_d15_kudremukh",
+          "location": { "name": "Kudremukh Iron Ore, Karnataka", "lat": 13.2167, "lng": 75.2667 },
+          "questions": [
+            { "question": "Kudremukh Iron Ore Company Limited (KIOCL) primarily mined which resource?", "options": ["Iron ore", "Coal", "Bauxite", "Zinc"], "correctIndex": 0 },
+            { "question": "Kudremukh is located in which state?", "options": ["Karnataka", "Kerala", "Andhra Pradesh", "Tamil Nadu"], "correctIndex": 0 },
+            { "question": "Mining at Kudremukh faced strong opposition due to its impact on?", "options": ["A biodiversity-rich national park", "Urban housing", "Agricultural land", "A historic monument"], "correctIndex": 0 },
+            { "question": "Mining operations at Kudremukh were phased out by when, following judicial intervention?", "options": ["The 1980s", "The mid-1990s", "The mid-2000s", "The 2010s"], "correctIndex": 2 },
+            { "question": "After mining ended, KIOCL shifted its focus toward?", "options": ["Pellet production using other iron ore sources", "Textile manufacturing", "Software services", "Automobile assembly"], "correctIndex": 0 }
+          ],
+          "summary": "Kudremukh, in Karnataka's Western Ghats, was once home to a major iron ore mining operation run by the state-owned Kudremukh Iron Ore Company Limited (KIOCL), established in the 1970s to exploit large low-grade magnetite deposits. Mining operations, however, faced strong opposition due to their impact on the surrounding biodiversity-rich Kudremukh National Park, leading to a phased shutdown of mining activities by the mid-2000s following judicial intervention. KIOCL subsequently shifted its focus toward pellet production using imported and other domestic iron ore rather than mining at Kudremukh itself."
+        },
+        {
+          "id": "eco_d15_sindri_fertilizer",
+          "location": { "name": "Sindri Fertilizer Factory, Jharkhand", "lat": 23.6500, "lng": 86.7000 },
+          "questions": [
+            { "question": "The Sindri Fertilizer Factory was significant as India's first?", "options": ["Large-scale fertilizer plant", "Nuclear plant", "Steel plant", "Oil refinery"], "correctIndex": 0 },
+            { "question": "Sindri Fertilizer Factory is located in which state?", "options": ["Bihar", "Jharkhand", "West Bengal", "Odisha"], "correctIndex": 1 },
+            { "question": "In which year was the Sindri Fertilizer Factory established?", "options": ["1947", "1951", "1965", "1980"], "correctIndex": 1 },
+            { "question": "The Sindri plant's establishment supported India's later push toward which agricultural transformation?", "options": ["Green Revolution", "White Revolution", "Blue Revolution", "Digital Revolution"], "correctIndex": 0 },
+            { "question": "The Sindri Fertilizer Factory eventually closed in which period?", "options": ["1960s", "1980s", "Early 2000s", "2015"], "correctIndex": 2 }
+          ],
+          "summary": "The Sindri Fertilizer Factory, in Jharkhand, was India's first large-scale fertilizer plant, established in 1951 as a flagship project of the country's early industrialization efforts aimed at boosting agricultural productivity. Built with significant government investment shortly after independence, it symbolized India's ambitions toward self-reliance in fertilizer production to support the Green Revolution era that followed. Over subsequent decades, the plant faced operational and financial difficulties, eventually leading to its closure in the early 2000s, though there have been efforts to revive fertilizer production at Sindri in recent years."
+        },
+        {
+          "id": "eco_d15_ankleshwar_oilfield",
+          "location": { "name": "Ankleshwar Oilfield, Gujarat", "lat": 21.6167, "lng": 73.0167 },
+          "questions": [
+            { "question": "The Ankleshwar oilfield discovery in 1960 was significant as India's first major?", "options": ["Offshore oil discovery", "Onshore commercial oil discovery", "Coal discovery", "Natural gas discovery"], "correctIndex": 1 },
+            { "question": "Ankleshwar is located in which Indian state?", "options": ["Rajasthan", "Gujarat", "Maharashtra", "Punjab"], "correctIndex": 1 },
+            { "question": "Which organization made the Ankleshwar oil discovery?", "options": ["Oil and Natural Gas Commission (ONGC)", "Reliance Industries", "Indian Oil Corporation", "Cairn India"], "correctIndex": 0 },
+            { "question": "The Ankleshwar discovery helped reduce India's early dependence on?", "options": ["Imported crude oil", "Imported coal", "Imported steel", "Imported fertilizer"], "correctIndex": 0 },
+            { "question": "Ankleshwar's discovery is often cited alongside which later major oilfield find?", "options": ["Mumbai High", "Kudankulam", "Barmer", "Digboi"], "correctIndex": 0 }
+          ],
+          "summary": "Ankleshwar, in Gujarat, was the site of independent India's first major onshore commercial oil discovery, made by the Oil and Natural Gas Commission in 1960. The find marked a significant milestone in reducing India's early dependence on imported crude oil and helped establish ONGC as a central player in the country's energy sector. Ankleshwar's oilfields have continued producing for decades since, though output has naturally declined as reserves have matured, and the discovery is often cited alongside the later Mumbai High find as one of the foundational successes of India's post-independence petroleum exploration efforts."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d15_attukal_pongala",
+          "location": { "name": "Attukal Pongala, Thiruvananthapuram", "lat": 8.4700, "lng": 76.9500 },
+          "questions": [
+            { "question": "Attukal Pongala is a festival exclusively participated in by?", "options": ["Women", "Children", "Priests only", "Elderly men"], "correctIndex": 0 },
+            { "question": "Attukal Pongala involves preparing a sweet rice offering called?", "options": ["Pongala", "Prasadam only", "Naivedyam", "Kheer"], "correctIndex": 0 },
+            { "question": "Attukal Pongala has been recognized by Guinness World Records as the largest gathering of women for a?", "options": ["Religious ritual", "Political rally", "Sporting event", "Music concert"], "correctIndex": 0 },
+            { "question": "Attukal Pongala is dedicated to which goddess?", "options": ["Bhadrakali", "Durga", "Lakshmi", "Saraswati"], "correctIndex": 0 },
+            { "question": "Attukal Pongala is held in which Indian city?", "options": ["Kochi", "Thiruvananthapuram", "Kozhikode", "Thrissur"], "correctIndex": 1 }
+          ],
+          "summary": "Attukal Pongala, held at the Attukal Bhagavathy Temple in Thiruvananthapuram, Kerala, is a Hindu festival exclusively participated in by women, who prepare a sweet rice offering called 'pongala' in makeshift hearths lining the streets around the temple. The event has been recognized by Guinness World Records as the largest annual gathering of women for a religious ritual, drawing millions of participants each year. The offering is made to the goddess Bhadrakali, and the scale of the festival requires significant civic coordination, temporarily transforming large parts of the city into an open-air ritual space."
+        },
+        {
+          "id": "evt_d15_nag_panchami_shirala",
+          "location": { "name": "Nag Panchami, Battis Shirala, Maharashtra", "lat": 17.1667, "lng": 74.1667 },
+          "questions": [
+            { "question": "Nag Panchami traditionally honors which type of deity?", "options": ["Snake deities", "Sun deities", "Water deities", "Tree deities"], "correctIndex": 0 },
+            { "question": "Battis Shirala is located in which Indian state?", "options": ["Karnataka", "Maharashtra", "Gujarat", "Madhya Pradesh"], "correctIndex": 1 },
+            { "question": "Battis Shirala's Nag Panchami tradition historically involved the capture and worship of?", "options": ["Live cobras", "Live tigers", "Live elephants", "Live peacocks"], "correctIndex": 0 },
+            { "question": "Why did authorities ban the handling of live snakes at Battis Shirala's festival?", "options": ["Wildlife protection concerns", "Religious disputes", "Political pressure", "Lack of funding"], "correctIndex": 0 },
+            { "question": "Battis Shirala is located in which district?", "options": ["Sangli", "Pune", "Kolhapur", "Satara"], "correctIndex": 0 }
+          ],
+          "summary": "Battis Shirala, a village in Maharashtra's Sangli district, is famous for its distinctive Nag Panchami celebrations, historically involving the capture and worship of live cobras that were paraded through the village before being released back into the wild. The tradition, rooted in the broader Hindu festival of Nag Panchami honoring snake deities, drew significant controversy over wildlife protection concerns, leading authorities to ban the handling of live snakes in the early 2000s. Despite the ban, the village continues to hold cultural celebrations around the festival, now often using symbolic representations of snakes instead."
+        },
+        {
+          "id": "evt_d15_desert_festival_jaisalmer",
+          "location": { "name": "Rajasthani Desert Festival, Jaisalmer", "lat": 26.9157, "lng": 70.9083 },
+          "questions": [
+            { "question": "The Desert Festival is held annually in which Rajasthan city?", "options": ["Jodhpur", "Jaisalmer", "Bikaner", "Udaipur"], "correctIndex": 1 },
+            { "question": "The Desert Festival prominently features races involving which animal?", "options": ["Camels", "Horses", "Elephants", "Bullocks"], "correctIndex": 0 },
+            { "question": "Which traditional musician castes are known for performing at the Desert Festival?", "options": ["Manganiyar and Langa", "Bauls and Fakirs", "Gondhali and Bhajani", "Kalbelia only"], "correctIndex": 0 },
+            { "question": "What competition involving headwear is a notable feature of the Desert Festival?", "options": ["Turban-tying competitions", "Hat design contests", "Crown-making shows", "Veil competitions"], "correctIndex": 0 },
+            { "question": "The Desert Festival's celebrations often conclude near which nearby sand dunes?", "options": ["Sam sand dunes", "Khuri dunes only", "Pushkar dunes", "Bikaner dunes"], "correctIndex": 0 }
+          ],
+          "summary": "The Desert Festival of Jaisalmer, held annually in the winter months, celebrates the vibrant culture of Rajasthan's Thar Desert region through camel races, folk music, turban-tying competitions, and traditional puppet shows against the backdrop of Jaisalmer's golden sandstone fort. Organized to promote tourism in the remote desert region, the festival brings together local Rajasthani communities, including traditional performers like the Manganiyar and Langa musician castes, whose folk music traditions have gained international recognition. Camel-related events form a central highlight, with celebrations often concluding at the nearby Sam sand dunes."
+        },
+        {
+          "id": "evt_d15_basant_utsav_santiniketan",
+          "location": { "name": "Basant Utsav, Santiniketan", "lat": 23.6800, "lng": 87.6800 },
+          "questions": [
+            { "question": "Basant Utsav at Santiniketan was established by which poet?", "options": ["Rabindranath Tagore", "Kazi Nazrul Islam", "Michael Madhusudan Dutt", "Bankim Chandra Chatterjee"], "correctIndex": 0 },
+            { "question": "Basant Utsav is celebrated at which institution?", "options": ["Visva-Bharati University", "Jadavpur University", "Presidency University", "Calcutta University"], "correctIndex": 0 },
+            { "question": "Basant Utsav blends traditional Holi celebrations with?", "options": ["Structured cultural performances of dance and music", "Political speeches", "Sporting competitions", "Business conferences"], "correctIndex": 0 },
+            { "question": "Santiniketan is located in which Indian state?", "options": ["West Bengal", "Bihar", "Odisha", "Jharkhand"], "correctIndex": 0 },
+            { "question": "Basant Utsav celebrates the arrival of which season?", "options": ["Spring", "Monsoon", "Autumn", "Winter"], "correctIndex": 0 }
+          ],
+          "summary": "Basant Utsav, celebrated at Visva-Bharati University in Santiniketan, West Bengal, is a spring festival established by poet and Nobel laureate Rabindranath Tagore, blending traditional Holi color celebrations with structured cultural performances of dance, music, and poetry recitation. Unlike the more chaotic color-throwing common elsewhere during Holi, Santiniketan's celebration follows a choreographed format, with students performing Tagore's own dance-dramas and songs dedicated to the arrival of spring, reflecting Tagore's broader vision for Visva-Bharati as an institution blending education with artistic expression."
+        },
+        {
+          "id": "evt_d15_sarhul_khunti",
+          "location": { "name": "Sarhul Festival, Khunti, Jharkhand", "lat": 23.0725, "lng": 85.2780 },
+          "questions": [
+            { "question": "Sarhul is a major festival celebrated by tribal communities in which state?", "options": ["Chhattisgarh", "Jharkhand", "Odisha", "Madhya Pradesh"], "correctIndex": 1 },
+            { "question": "Sarhul marks the blossoming of which tree?", "options": ["Sal tree", "Banyan tree", "Neem tree", "Peepal tree"], "correctIndex": 0 },
+            { "question": "The village priests who perform Sarhul rituals are known as?", "options": ["Pahans", "Purohits", "Ojhas only", "Gurus"], "correctIndex": 0 },
+            { "question": "Sarhul marks the beginning of the new year in which calendar?", "options": ["Traditional tribal calendar", "Gregorian calendar", "Islamic calendar", "Hindu Vikram Samvat calendar"], "correctIndex": 0 },
+            { "question": "Which indigenous communities are notably associated with celebrating Sarhul?", "options": ["Munda, Oraon, and Ho communities", "Bhil and Gond communities", "Naga and Khasi communities", "Toda and Kota communities"], "correctIndex": 0 }
+          ],
+          "summary": "Sarhul is a major spring festival celebrated by tribal communities in Jharkhand, particularly around areas like Khunti, marking the blossoming of the sal tree and the start of the new year in the traditional tribal calendar. The festival involves worship of the sal tree by village priests known as 'pahans,' who perform rituals seeking the community's protection and a good harvest for the coming agricultural season. Traditional dance and music accompany the celebrations, reflecting the deep nature-based spiritual traditions of Jharkhand's indigenous tribal groups, including the Munda, Oraon, and Ho communities."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d15_rbi_mumbai",
+          "location": { "name": "Reserve Bank of India, Mumbai", "lat": 18.9331, "lng": 72.8355 },
+          "questions": [
+            { "question": "The Reserve Bank of India is headquartered in which city?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "correctIndex": 1 },
+            { "question": "In which year was the Reserve Bank of India established?", "options": ["1913", "1935", "1947", "1950"], "correctIndex": 1 },
+            { "question": "The RBI was nationalized in which year?", "options": ["1935", "1947", "1949", "1955"], "correctIndex": 2 },
+            { "question": "As India's central bank, the RBI is primarily responsible for?", "options": ["Monetary policy and currency issuance", "Direct tax collection", "Election administration", "Judicial appointments"], "correctIndex": 0 },
+            { "question": "RBI decisions on interest rates primarily affect?", "options": ["Inflation and lending rates", "Voter turnout", "Court case backlogs", "Weather patterns"], "correctIndex": 0 }
+          ],
+          "summary": "The Reserve Bank of India, headquartered in Mumbai, was established in 1935 under the Reserve Bank of India Act, initially as a privately owned institution before being nationalized in 1949 shortly after independence. As India's central bank, it regulates monetary policy, issues currency, oversees the banking sector, and manages the country's foreign exchange reserves. The RBI's decisions on interest rates and monetary policy have far-reaching effects on inflation, lending rates, and overall economic activity across the country."
+        },
+        {
+          "id": "pol_d15_upsc",
+          "location": { "name": "Union Public Service Commission, New Delhi", "lat": 28.6167, "lng": 77.2246 },
+          "questions": [
+            { "question": "The Union Public Service Commission is primarily responsible for recruiting into?", "options": ["India's premier civil services", "Only the armed forces", "Only state government jobs", "Only judicial positions"], "correctIndex": 0 },
+            { "question": "UPSC's mandate is enshrined in which document?", "options": ["The Constitution of India", "An executive order", "A parliamentary act only", "A state law"], "correctIndex": 0 },
+            { "question": "Which of these services does UPSC recruit for?", "options": ["Indian Administrative Service (IAS)", "Only military officers", "Only judges", "Only diplomats"], "correctIndex": 0 },
+            { "question": "UPSC's Civil Services Examination process typically involves how many main stages?", "options": ["One stage", "Two stages", "Three stages (prelims, mains, interview)", "Five stages"], "correctIndex": 2 },
+            { "question": "UPSC is headquartered in which city?", "options": ["New Delhi", "Mumbai", "Kolkata", "Bengaluru"], "correctIndex": 0 }
+          ],
+          "summary": "The Union Public Service Commission (UPSC), headquartered in New Delhi, is the central agency responsible for recruiting candidates into India's premier civil services, including the Indian Administrative Service (IAS), Indian Foreign Service (IFS), and Indian Police Service (IPS), through its highly competitive annual Civil Services Examination. Established as a constitutional body, UPSC's mandate is enshrined directly in the Constitution of India to ensure merit-based, impartial recruitment free from political interference. UPSC's role in shaping India's bureaucratic leadership makes it a cornerstone institution of the country's administrative machinery."
+        },
+        {
+          "id": "pol_d15_nagaland_statehood",
+          "location": { "name": "Nagaland Statehood, Kohima", "lat": 25.6751, "lng": 94.1086 },
+          "questions": [
+            { "question": "Nagaland became a separate Indian state following which agreement?", "options": ["Sixteen-Point Agreement", "Panchsheel Agreement", "Simla Agreement", "Indus Waters Treaty"], "correctIndex": 0 },
+            { "question": "In which year did Nagaland formally become a state?", "options": ["1956", "1960", "1963", "1972"], "correctIndex": 2 },
+            { "question": "Nagaland became which numbered state of India?", "options": ["14th", "16th", "18th", "22nd"], "correctIndex": 1 },
+            { "question": "Naga customary law receives special protection under which constitutional provision?", "options": ["Article 371A", "Article 370", "Article 356", "Article 226"], "correctIndex": 0 },
+            { "question": "The Sixteen-Point Agreement was signed between the Indian government and which organization?", "options": ["Naga People's Convention", "Mizo National Front", "Assam Sahitya Sabha", "All India Gorkha League"], "correctIndex": 0 }
+          ],
+          "summary": "Kohima, the capital of Nagaland, is closely tied to the state's path to statehood, which followed the 1960 Sixteen-Point Agreement between the Naga People's Convention and the Indian government. Nagaland formally became India's 16th state in December 1963, granting it a degree of administrative autonomy along with special protections for Naga customary law under Article 371A of the Constitution. The agreement and subsequent statehood came after years of tension and armed insurgency in the region, reflecting the evolving political relationship between Naga communities and the Indian state."
+        },
+        {
+          "id": "pol_d15_meghalaya_formation",
+          "location": { "name": "Meghalaya Formation, Shillong", "lat": 25.5788, "lng": 91.8933 },
+          "questions": [
+            { "question": "Meghalaya was carved out as a separate state from which larger state?", "options": ["Assam", "West Bengal", "Bihar", "Nagaland"], "correctIndex": 0 },
+            { "question": "In which year did Meghalaya achieve full statehood?", "options": ["1963", "1972", "1987", "2000"], "correctIndex": 1 },
+            { "question": "Which tribal communities' demands were central to Meghalaya's formation?", "options": ["Khasi, Jaintia, and Garo", "Naga and Mizo", "Bodo and Assamese", "Santhal and Munda"], "correctIndex": 0 },
+            { "question": "Before full statehood, Meghalaya briefly existed as what kind of entity within Assam starting in 1970?", "options": ["An autonomous state", "A union territory", "A district council only", "A military zone"], "correctIndex": 0 },
+            { "question": "Shillong previously also served as the capital of which larger, undivided state?", "options": ["Assam", "Bengal", "Bihar", "Punjab"], "correctIndex": 0 }
+          ],
+          "summary": "Shillong, now the capital of Meghalaya, was carved out of Assam as a separate state in January 1972, reflecting demands from the Khasi, Jaintia, and Garo tribal communities for greater political autonomy. Before full statehood, Meghalaya briefly existed as an autonomous state within Assam starting in 1970, a transitional arrangement that preceded its complete separation. Shillong, previously also the capital of undivided Assam, retained its administrative significance even after the reorganization, part of a broader wave of northeastern state reorganizations addressing ethnic and tribal identity concerns."
+        },
+        {
+          "id": "pol_d15_mizoram_peace_accord",
+          "location": { "name": "Mizoram Peace Accord, Aizawl", "lat": 23.7271, "lng": 92.7176 },
+          "questions": [
+            { "question": "The Mizo Peace Accord, ending a long insurgency, was signed in which year?", "options": ["1972", "1979", "1986", "1995"], "correctIndex": 2 },
+            { "question": "The Mizo Peace Accord was signed between the Indian government and which organization?", "options": ["Mizo National Front", "Naga People's Convention", "United Liberation Front of Assam", "Gorkha National Liberation Front"], "correctIndex": 0 },
+            { "question": "Mizoram achieved full statehood in which year, following the peace accord?", "options": ["1972", "1986", "1987", "2000"], "correctIndex": 2 },
+            { "question": "Mizoram became which numbered state of India?", "options": ["18th", "20th", "22nd", "23rd"], "correctIndex": 3 },
+            { "question": "Who led the Mizo National Front and became Mizoram's first Chief Minister after statehood?", "options": ["Laldenga", "Zoramthanga", "Pu Lalthanhawla", "Rishang Keishing"], "correctIndex": 0 }
+          ],
+          "summary": "Aizawl, the capital of Mizoram, is closely tied to the resolution of one of India's longest-running insurgencies, which ended with the signing of the Mizo Peace Accord in 1986 between the Indian government and the Mizo National Front. The accord followed two decades of armed conflict that began after a 1966 uprising, and it granted Mizoram full statehood in 1987, making it India's 23rd state, along with special constitutional protections under Article 371G. Laldenga, the Mizo National Front leader who signed the accord, subsequently became Mizoram's first Chief Minister after statehood."
+        }
+      ]
+    }
+  }
+}

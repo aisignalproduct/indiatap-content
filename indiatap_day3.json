@@ -1,0 +1,326 @@
+{
+  "day": 3,
+  "date": "2026-10-03",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d3_lonar_crater",
+          "location": { "name": "Lonar Crater Lake — Maharashtra", "lat": 19.9769, "lng": 76.5069 },
+          "questions": [
+            { "question": "Lonar Crater was created by what geological event?", "options": ["Volcanic eruption", "Meteorite impact", "Tectonic subsidence", "Underground collapse"], "correctIndex": 1 },
+            { "question": "Lonar Crater Lake is approximately how old?", "options": ["5,000 years", "50,000 years", "570,000 years", "5 million years"], "correctIndex": 2 },
+            { "question": "The water of Lonar Lake is unusual because it is simultaneously?", "options": ["Hot and cold", "Saline and alkaline", "Freshwater and acidic", "Brackish and sweet"], "correctIndex": 1 },
+            { "question": "Lonar is one of only how many hyper-velocity impact craters in basaltic rock known worldwide?", "options": ["Two", "Four", "Seven", "Twelve"], "correctIndex": 1 },
+            { "question": "NASA-funded researchers study Lonar's unique microorganisms because they serve as analogs for conditions on?", "options": ["Jupiter's moon Europa", "Mars", "Venus", "Saturn's moon Titan"], "correctIndex": 1 }
+          ],
+          "summary": "Lonar Crater Lake in Maharashtra's Buldhana district is one of Earth's most scientifically remarkable geological features — a meteorite impact crater approximately 570,000 years old and 1.8 km in diameter. It is one of only four known hyper-velocity impact craters in basaltic rock globally. The lake water is simultaneously saline and alkaline — a unique chemical environment hosting rare halophilic and alkaliphilic bacteria studied by NASA-funded researchers as analogs for potential microbial life on Mars. Ancient Hindu temples ring the crater rim, and the site was rediscovered for modern science in 1823. A protected Ramsar Wetland since 2020."
+        },
+        {
+          "id": "geo_d3_narmada_amarkantak",
+          "location": { "name": "Narmada River — Amarkantak, Madhya Pradesh", "lat": 22.6747, "lng": 81.7597 },
+          "questions": [
+            { "question": "The Narmada originates at Amarkantak in which state?", "options": ["Chhattisgarh", "Madhya Pradesh", "Maharashtra", "Odisha"], "correctIndex": 1 },
+            { "question": "Unlike most Indian rivers, the Narmada flows in which direction?", "options": ["North to south", "South to north", "East to west", "West to east"], "correctIndex": 2 },
+            { "question": "The Narmada forms the traditional geographic boundary between which two regions of India?", "options": ["North India and South India", "East India and West India", "Central India and Deccan", "Rajasthan and Gujarat"], "correctIndex": 0 },
+            { "question": "Which massive dam built on the Narmada in Gujarat caused significant controversy and displacement?", "options": ["Hirakud Dam", "Tehri Dam", "Sardar Sarovar Dam", "Tungabhadra Dam"], "correctIndex": 2 },
+            { "question": "The Narmada Parikrama — walking the river's entire length — is a sacred Hindu pilgrimage. How long is it?", "options": ["800 km", "1,312 km", "2,600 km", "3,000 km"], "correctIndex": 2 }
+          ],
+          "summary": "The Narmada rises at Amarkantak in Madhya Pradesh at 1,057 metres and flows westward for 1,312 km to the Gulf of Khambhat — unusually flowing against the general eastward tilt of the Indian subcontinent. Considered one of the seven sacred rivers of Hinduism, it forms the traditional boundary between North and South India. The Narmada Parikrama — a 2,600-km circumambulation of the river — is one of Hinduism's most demanding sacred journeys. The Sardar Sarovar Dam in Gujarat, one of the world's largest concrete gravity dams at 163 metres, displaced over 200,000 people and sparked one of India's most significant environmental movements, led by Medha Patkar."
+        },
+        {
+          "id": "geo_d3_andaman_cellular_jail",
+          "location": { "name": "Andaman Islands — Port Blair", "lat": 11.6234, "lng": 92.7265 },
+          "questions": [
+            { "question": "The Andaman Islands are geologically an extension of which Myanmar mountain range?", "options": ["Chin Hills", "Naga Hills", "Arakan Yoma", "Shan Plateau"], "correctIndex": 2 },
+            { "question": "The Cellular Jail in Port Blair earned which grim nickname?", "options": ["The Black Prison", "Kala Pani (Black Waters)", "The Island of No Return", "The Colonial Cage"], "correctIndex": 1 },
+            { "question": "The Andaman Islands are closer to which country than to mainland India?", "options": ["Sri Lanka", "Bangladesh", "Myanmar", "Thailand"], "correctIndex": 2 },
+            { "question": "North Sentinel Island is globally famous for what?", "options": ["Its coral reef diversity", "Being home to one of the world's last uncontacted peoples", "The world's most venomous sea snake", "An undiscovered World War II shipwreck"], "correctIndex": 1 },
+            { "question": "The Barren Island in the Andamans is the only active what in South Asia?", "options": ["Coral atoll", "Subduction zone", "Volcano", "Geyser field"], "correctIndex": 2 }
+          ],
+          "summary": "The Andaman Islands, 1,200 km from mainland India in the Bay of Bengal, are geologically an extension of Myanmar's Arakan Yoma mountain range — placing them closer to Southeast Asia than to India. Port Blair's Cellular Jail ('Kala Pani') was a colonial penal colony where Indian freedom fighters were imprisoned in brutal solitary confinement — its cells, designed so prisoners could never see each other, gave it its name. North Sentinel Island's Sentinelese remain one of Earth's last fully uncontacted peoples, having violently resisted all contact. Barren Island, 135 km northeast of Port Blair, is South Asia's only active volcano, last erupting in 2017."
+        },
+        {
+          "id": "geo_d3_nilgiri_hills",
+          "location": { "name": "Nilgiri Hills — Ooty, Tamil Nadu", "lat": 11.4102, "lng": 76.6950 },
+          "questions": [
+            { "question": "The Nilgiri Biosphere Reserve was India's first UNESCO Biosphere Reserve, designated in which year?", "options": ["1973", "1979", "1986", "2000"], "correctIndex": 1 },
+            { "question": "The Toda people of the Nilgiris are famous for which unique cultural practice?", "options": ["Buffalo herding and distinctive embroidery", "Snake charming", "Iron smelting", "Bamboo craft"], "correctIndex": 0 },
+            { "question": "The Nilgiri Mountain Railway (Toy Train) is a UNESCO World Heritage Site. What is distinctive about its track?", "options": ["It's entirely underground", "It uses rack-and-pinion technology to climb steep gradients", "It runs on solar power", "It is the world's narrowest gauge railway"], "correctIndex": 1 },
+            { "question": "'Nilgiri' means what in Tamil/Sanskrit?", "options": ["Blue mountains", "Green hills", "Misty peaks", "Sacred heights"], "correctIndex": 0 },
+            { "question": "The Nilgiris are the meeting point of which two major biodiversity hotspots?", "options": ["Western Ghats and Eastern Ghats", "Western Ghats and Sri Lanka", "Eastern Ghats and Deccan", "Western Ghats and Indo-Burma"], "correctIndex": 0 }
+          ],
+          "summary": "The Nilgiri Hills ('Blue Mountains') in Tamil Nadu are among India's most ecologically and culturally significant highlands. India's first UNESCO Biosphere Reserve (1979), the Nilgiris host the Toda people — an ancient community whose distinctive barrel-shaped stone temples (thokkals) and intricate embroidery are unique to this landscape. The Nilgiri Mountain Railway, a UNESCO World Heritage Site using rack-and-pinion technology to climb gradients up to 8.33%, connects Mettupalayam to Ooty. The hills form the junction of the Western and Eastern Ghats — creating an extraordinary biodiversity overlap zone with species from both ranges."
+        },
+        {
+          "id": "geo_d3_pichavaram_mangrove",
+          "location": { "name": "Pichavaram Mangrove Forest — Tamil Nadu", "lat": 11.4167, "lng": 79.7833 },
+          "questions": [
+            { "question": "Pichavaram is the world's second-largest mangrove forest. Which is the largest?", "options": ["Bhitarkanika (Odisha)", "Sundarbans (India-Bangladesh)", "Coringa (Andhra Pradesh)", "Godavari mangroves"], "correctIndex": 1 },
+            { "question": "Pichavaram mangroves are located near which town on Tamil Nadu's coast?", "options": ["Rameswaram", "Cuddalore", "Nagapattinam", "Chidambaram"], "correctIndex": 3 },
+            { "question": "During the 2004 Indian Ocean Tsunami, the Pichavaram mangroves played what role?", "options": ["They were completely destroyed", "They reduced tsunami wave height and saved villages behind them", "They had no significant effect", "They amplified the wave force"], "correctIndex": 1 },
+            { "question": "The waterways through Pichavaram mangroves are navigated by which traditional method?", "options": ["Motor boat only", "Country boat (rowing)", "Hovercraft", "Bamboo raft"], "correctIndex": 1 },
+            { "question": "Pichavaram mangroves support which rare bird species that nests here?", "options": ["Indian Skimmer", "Spot-billed Pelican", "Painted Stork", "Indian Roller"], "correctIndex": 1 }
+          ],
+          "summary": "Pichavaram, near Chidambaram in Tamil Nadu, is the world's second-largest mangrove forest — 1,100 hectares of dense Rhizophora and Avicennia mangroves threaded by a labyrinth of canals and waterways. Its significance was dramatically demonstrated during the 2004 Indian Ocean Tsunami: villages behind Pichavaram suffered significantly fewer casualties and less property damage than comparable coastal settlements without mangrove buffers, providing real-world evidence of mangroves' coastal protection function. The forest supports Spot-billed Pelicans in large numbers, along with crocodiles, otters, and over 177 bird species. It is a popular ecotourism destination reached by traditional country boat."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d3_ajanta_caves",
+          "location": { "name": "Ajanta Caves — Maharashtra", "lat": 20.5519, "lng": 75.7033 },
+          "questions": [
+            { "question": "How many rock-cut caves make up the Ajanta complex?", "options": ["12", "20", "30", "45"], "correctIndex": 2 },
+            { "question": "The Ajanta Caves primarily depict the life of which figure?", "options": ["Mahavira", "The Buddha", "Shankaracharya", "Guru Nanak"], "correctIndex": 1 },
+            { "question": "The Ajanta Caves were rediscovered by the outside world in which year?", "options": ["1783", "1819", "1857", "1900"], "correctIndex": 1 },
+            { "question": "The caves overlook a horseshoe-shaped gorge of which river?", "options": ["Godavari", "Tapti", "Waghora", "Purna"], "correctIndex": 2 },
+            { "question": "The paintings at Ajanta used which technique — applying colour on wet or dry plaster?", "options": ["Fresco buono (wet plaster)", "Fresco secco (dry plaster)", "Oil on stone", "Tempera on wood panels"], "correctIndex": 1 }
+          ],
+          "summary": "The 30 rock-cut Buddhist caves at Ajanta in Maharashtra were carved between the 2nd century BCE and 5th century CE, containing some of the world's finest surviving ancient paintings. The murals — depicting Jataka tales, the Buddha's life, and courtly scenes — were applied on dry plaster (fresco secco) using pigments that, despite being 1,500 years old, retain remarkable vibrancy. The caves were sealed after Buddhist patronage declined, rediscovered in 1819 by British officer John Smith during a tiger hunt. UNESCO World Heritage Site since 1983. The paintings profoundly influenced Buddhist art across Asia — their style can be traced in Sri Lanka, Central Asia, and Japan."
+        },
+        {
+          "id": "cul_d3_hampi_vijayanagara",
+          "location": { "name": "Hampi — Karnataka", "lat": 15.3350, "lng": 76.4600 },
+          "questions": [
+            { "question": "Hampi was the capital of which empire?", "options": ["Maratha Empire", "Vijayanagara Empire", "Hoysala Kingdom", "Bahmani Sultanate"], "correctIndex": 1 },
+            { "question": "At its peak in the early 16th century, Hampi was one of the world's largest cities. Its population was approximately?", "options": ["50,000", "200,000", "500,000", "1 million"], "correctIndex": 2 },
+            { "question": "The Vijayanagara Empire was destroyed at the Battle of Talikota in which year?", "options": ["1485", "1520", "1565", "1600"], "correctIndex": 2 },
+            { "question": "The Virupaksha Temple at Hampi, still an active place of worship, is dedicated to?", "options": ["Vishnu", "Brahma", "Shiva", "Murugan"], "correctIndex": 2 },
+            { "question": "The ruins of Hampi are set in a landscape characterised by what distinctive feature?", "options": ["Dense tropical forest", "Enormous ancient granite boulders", "White limestone cliffs", "Red sandstone plateaus"], "correctIndex": 1 }
+          ],
+          "summary": "Hampi on the Tungabhadra River in Karnataka was the magnificent capital of the Vijayanagara Empire — at its early 16th-century peak, one of the world's largest cities with approximately 500,000 residents and a thriving international trade economy described by Portuguese and Arabic visitors. The empire's destruction came in 1565 when a coalition of Deccan Sultanates defeated it at the Battle of Talikota and systematically destroyed the city over several months. Over 1,000 structures survive across a surreal landscape of giant ancient granite boulders — temples, market streets, royal enclosures, elephant stables, and stepped tanks. UNESCO World Heritage Site since 1986."
+        },
+        {
+          "id": "cul_d3_pattadakal",
+          "location": { "name": "Pattadakal — Karnataka", "lat": 15.9480, "lng": 75.8180 },
+          "questions": [
+            { "question": "Pattadakal was the ceremonial capital of which dynasty?", "options": ["Chola", "Pallava", "Chalukya of Badami", "Rashtrakuta"], "correctIndex": 2 },
+            { "question": "Pattadakal's temple complex is unique for combining which two architectural styles?", "options": ["Mughal and Dravidian", "North Indian (Nagara) and South Indian (Dravidian)", "Buddhist and Hindu", "Jain and Hindu"], "correctIndex": 1 },
+            { "question": "The Virupaksha Temple at Pattadakal — the largest — was built to commemorate a victory over which kingdom?", "options": ["Chola Kingdom", "Pallava Kingdom", "Kadamba Kingdom", "Ganga Kingdom"], "correctIndex": 1 },
+            { "question": "Pattadakal became a UNESCO World Heritage Site in which year?", "options": ["1983", "1987", "1992", "2000"], "correctIndex": 0 },
+            { "question": "Pattadakal is located on the banks of which river?", "options": ["Tungabhadra", "Malaprabha", "Krishna", "Ghataprabha"], "correctIndex": 1 }
+          ],
+          "summary": "Pattadakal on the Malaprabha River in Karnataka was the royal coronation site of the Chalukya dynasty of Badami — a place where new kings were crowned amid grand ceremonies. Its nine major temples, built primarily in the 7th–8th centuries CE, represent a unique architectural experiment: the Chalukyas simultaneously used both the northern Nagara and southern Dravidian temple styles, making Pattadakal a living laboratory of Indian temple architecture's two great traditions. The largest temple, Virupaksha, was built by Queen Lokamahadevi to celebrate her husband King Vikramaditya II's victory over the Pallavas. UNESCO World Heritage Site since 1983."
+        },
+        {
+          "id": "cul_d3_Lepakshi_temple",
+          "location": { "name": "Lepakshi Temple — Andhra Pradesh", "lat": 13.8000, "lng": 77.6100 },
+          "questions": [
+            { "question": "The Lepakshi Temple complex was built during which empire's rule?", "options": ["Chola Empire", "Vijayanagara Empire", "Mughal Empire", "Maratha Confederacy"], "correctIndex": 1 },
+            { "question": "Lepakshi is famous for India's largest monolithic Nandi (bull). How tall is it approximately?", "options": ["2 metres", "4.5 metres", "8 metres", "15 metres"], "correctIndex": 1 },
+            { "question": "The temple contains a 'hanging pillar' that famously?", "options": ["Rotates on its axis", "Hangs from the ceiling without touching the ground completely", "Changes colour at sunset", "Produces musical sounds when struck"], "correctIndex": 1 },
+            { "question": "The Lepakshi murals are considered some of the finest surviving examples of which painting tradition?", "options": ["Tanjore painting", "Vijayanagara fresco painting", "Pattachitra", "Madhubani"], "correctIndex": 1 },
+            { "question": "The name 'Lepakshi' is associated with a phrase from which epic — said to have been spoken to a fallen eagle?", "options": ["Mahabharata — 'Rise, bird'", "Ramayana — 'Rise, O bird' (Le Pakshi)", "Bhagavata Purana", "Arthashastra"], "correctIndex": 1 }
+          ],
+          "summary": "Lepakshi in Andhra Pradesh, built during the Vijayanagara Empire in the 16th century CE, is one of South India's most architecturally and artistically remarkable temple complexes. It is home to India's largest monolithic Nandi bull (4.5 metres high, carved from a single granite boulder) and a famous 'hanging pillar' in the temple's outer mandapa — one of its 70 pillars appears to hang without fully resting on the ground, a feat that has puzzled structural engineers. The temple's walls contain some of the finest surviving Vijayanagara-period murals — vibrant depictions of episodes from the Ramayana, Mahabharata, and Puranas painted in natural pigments."
+        },
+        {
+          "id": "cul_d3_dholavira",
+          "location": { "name": "Dholavira — Gujarat", "lat": 23.8867, "lng": 70.2167 },
+          "questions": [
+            { "question": "Dholavira was a major city of which ancient civilisation?", "options": ["Vedic civilisation", "Indus Valley (Harappan) Civilisation", "Dravidian early kingdoms", "Mauryan provincial city"], "correctIndex": 1 },
+            { "question": "Dholavira became a UNESCO World Heritage Site in which year?", "options": ["2000", "2010", "2021", "2023"], "correctIndex": 2 },
+            { "question": "Dholavira is located on Khadir Bet island in which geographical feature?", "options": ["Gulf of Kutch", "Rann of Kutch", "Gulf of Khambhat", "Arabian Sea coast"], "correctIndex": 1 },
+            { "question": "Dholavira is particularly famous for its sophisticated what?", "options": ["Iron smelting technology", "Water harvesting and management system", "Textile production", "Maritime trade infrastructure"], "correctIndex": 1 },
+            { "question": "The famous 'Dholavira Signboard' contains what, making it unique among Indus Valley discoveries?", "options": ["The longest Indus script inscription found so far", "The only deciphered Indus text", "A map of the city", "A list of traded goods"], "correctIndex": 0 }
+          ],
+          "summary": "Dholavira in the Rann of Kutch, Gujarat, was one of the five largest cities of the Indus Valley Civilisation (flourishing 2600–1900 BCE) and is now one of the best-preserved. A UNESCO World Heritage Site since 2021, it is remarkable for its sophisticated water management system — a network of reservoirs, channels, and dams that collected and stored monsoon rainwater to sustain the city through long dry periods. The 'Dholavira Signboard' — a large wooden board bearing ten Indus script characters — is the longest Indus inscription found in a single place and gives tantalising hints of a literate urban culture that remains undeciphered."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d3_vizag_steel",
+          "location": { "name": "Vizag Steel Plant — Andhra Pradesh", "lat": 17.6868, "lng": 83.2185 },
+          "questions": [
+            { "question": "The Vizag Steel Plant is India's only what type of integrated steel plant?", "options": ["Underground steel plant", "Shore-based (coastal) integrated steel plant", "100% electric arc furnace plant", "Export-only steel plant"], "correctIndex": 1 },
+            { "question": "The plant was built with technical assistance from which country?", "options": ["UK", "USA", "USSR / Soviet Union", "Japan"], "correctIndex": 2 },
+            { "question": "The demand for a steel plant at Vizag was a central demand of which political agitation?", "options": ["Andhra agitation (demand for Andhra state)", "Telangana movement", "Jai Andhra movement", "Separate Odisha movement"], "correctIndex": 0 },
+            { "question": "Vizag Steel primarily produces which category of steel products?", "options": ["Flat products (sheets, coils)", "Long products (rails, rods, bars, wire rods)", "Stainless steel", "Tool and alloy steel"], "correctIndex": 1 },
+            { "question": "Commercial production at Vizag Steel began in which year?", "options": ["1980", "1985", "1990", "1995"], "correctIndex": 2 }
+          ],
+          "summary": "The Rashtriya Ispat Nigam Limited's Vizag Steel Plant at Visakhapatnam, commissioned in 1990, is India's only shore-based integrated steel plant — raw materials (iron ore, coal, limestone) arrive by sea directly to the plant's own jetty, eliminating expensive long-distance land transport. Built with Soviet technical assistance, the plant was the fulfilment of a promise made during Andhra Pradesh's statehood agitation — when demands for a Vizag steel plant became a powerful political rallying point. It specialises in long products including rails, bars, and wire rods, with a capacity of 7.3 million tonnes per year."
+        },
+        {
+          "id": "eco_d3_bhilai_steel",
+          "location": { "name": "Bhilai Steel Plant — Chhattisgarh", "lat": 21.2090, "lng": 81.4285 },
+          "questions": [
+            { "question": "Bhilai Steel Plant was built with assistance from which country?", "options": ["UK", "USA", "USSR / Soviet Union", "Germany"], "correctIndex": 2 },
+            { "question": "Bhilai is known as one of India's largest producers of which product?", "options": ["Flat steel sheets", "Railway rails", "Stainless steel", "Automobile-grade steel"], "correctIndex": 1 },
+            { "question": "Bhilai was one of three large integrated steel plants established in which Five Year Plan?", "options": ["First", "Second", "Third", "Fourth"], "correctIndex": 1 },
+            { "question": "Bhilai supplies approximately what percentage of India's total railway track requirements?", "options": ["10%", "25%", "45%", "70%"], "correctIndex": 2 },
+            { "question": "The Bhilai township was designed as a social experiment in what?", "options": ["Maximum worker productivity", "Integrated housing for all castes and religions", "Urban self-sufficiency", "Industrial automation"], "correctIndex": 1 }
+          ],
+          "summary": "The Bhilai Steel Plant in Chhattisgarh, built with Soviet technical and financial assistance and commissioned in 1959, was a flagship project of India's Second Five Year Plan and became a symbol of India-USSR friendship during the Cold War. Alongside Rourkela (German collaboration) and Durgapur (British collaboration), it represented Nehru's vision of large-scale public sector industrialisation. Bhilai specialises in railway rails and supplies approximately 45% of India's total railway track requirements — making it central to Indian Railways' infrastructure. The plant township, designed with integrated housing for workers of all backgrounds, was intended as a model of post-caste Indian society."
+        },
+        {
+          "id": "eco_d3_paradip_port",
+          "location": { "name": "Paradip Port — Odisha", "lat": 20.3167, "lng": 86.6094 },
+          "questions": [
+            { "question": "Paradip Port is at the confluence of which river and the Bay of Bengal?", "options": ["Brahmani", "Subarnarekha", "Mahanadi", "Rushikulya"], "correctIndex": 2 },
+            { "question": "Paradip handles India's largest volumes of which commodity?", "options": ["Container cargo", "Coal imports", "Iron ore exports", "Fertiliser imports"], "correctIndex": 1 },
+            { "question": "The Paradip Refinery is operated by which company?", "options": ["ONGC", "HPCL", "IOCL (Indian Oil Corporation)", "BPCL"], "correctIndex": 2 },
+            { "question": "Paradip Port was developed from the 1960s on the recommendation of which engineer?", "options": ["M. Visvesvaraya", "Nalini Ranjan Sarkar", "Dr K.L. Rao", "B.R. Ambedkar"], "correctIndex": 1 },
+            { "question": "The Paradip Refinery processes approximately how much crude oil per year?", "options": ["5 million tonnes", "15 million tonnes", "30 million tonnes", "50 million tonnes"], "correctIndex": 1 }
+          ],
+          "summary": "Paradip Port at the mouth of the Mahanadi River in Odisha is one of India's busiest major ports by cargo throughput, specialising in bulk commodities — particularly coal imports for Odisha and Jharkhand's steel and power sectors. Developed from the 1960s, it has grown into a complete energy and industrial hub: the adjacent IOCL Paradip Refinery processes 15 million tonnes of crude oil annually, supplied directly by tankers from the Middle East and Africa. The port-refinery complex, combined with nearby Paradip Phosphates (fertiliser manufacturing), makes Paradip one of India's most important industrial coastal nodes outside the western coast."
+        },
+        {
+          "id": "eco_d3_bsnl_telecom",
+          "location": { "name": "IIT Bombay — Mumbai, Maharashtra", "lat": 19.1334, "lng": 72.9133 },
+          "questions": [
+            { "question": "IIT Bombay was established in which year?", "options": ["1947", "1951", "1958", "1965"], "correctIndex": 2 },
+            { "question": "IIT Bombay was established with assistance from which country's UNESCO funding?", "options": ["USA", "USSR", "UK", "UNESCO (Soviet Union specifically)"], "correctIndex": 3 },
+            { "question": "India has how many IITs (Indian Institutes of Technology) as of 2024?", "options": ["7", "16", "23", "31"], "correctIndex": 2 },
+            { "question": "IIT Bombay's Techfest is Asia's largest what?", "options": ["Science and technology festival", "Engineering career fair", "Robotics competition", "Startup incubator event"], "correctIndex": 0 },
+            { "question": "IIT graduates who co-founded major global tech companies include founders of?", "options": ["Google and Apple", "Sun Microsystems and Hotmail (and many others)", "Microsoft and Facebook", "Amazon and Netflix"], "correctIndex": 1 }
+          ],
+          "summary": "IIT Bombay, established in 1958 with UNESCO assistance funded by the Soviet Union, is one of India's premier engineering institutions and a global brand in technical education. The IIT system — now comprising 23 institutions across India — was established by Nehru to create a world-class engineering and scientific workforce for industrial development. IIT graduates have disproportionately contributed to the global technology economy: alumni founded Sun Microsystems, Hotmail, IndiGo airline, and hold senior positions in Apple, Google, and Microsoft. IIT Bombay's Techfest is Asia's largest science and technology festival, drawing participants from 50+ countries."
+        },
+        {
+          "id": "eco_d3_tata_consultancy",
+          "location": { "name": "TCS Headquarters — Mumbai, Maharashtra", "lat": 19.0760, "lng": 72.8777 },
+          "questions": [
+            { "question": "Tata Consultancy Services (TCS) was founded in which year?", "options": ["1961", "1968", "1975", "1984"], "correctIndex": 1 },
+            { "question": "TCS is the largest IT services company in India. It is the world's?", "options": ["Largest IT company by revenue", "Second largest IT services company by market cap", "Tenth largest technology company globally", "First Indian company to be listed on NYSE"], "correctIndex": 1 },
+            { "question": "TCS employs approximately how many people globally?", "options": ["100,000", "300,000", "600,000", "1 million"], "correctIndex": 2 },
+            { "question": "What percentage of India's software exports does TCS account for?", "options": ["5%", "12%", "25%", "40%"], "correctIndex": 1 },
+            { "question": "TCS is part of which Indian conglomerate?", "options": ["Reliance Industries", "Mahindra Group", "Tata Group", "Birla Group"], "correctIndex": 2 }
+          ],
+          "summary": "Tata Consultancy Services, founded in 1968 as a division of the Tata Group, is India's largest company by market capitalisation and the world's second-largest IT services company. With approximately 600,000 employees in 50+ countries, TCS accounts for roughly 12% of India's total software export revenues. The company's rise from a small data processing unit to a global technology powerhouse mirrors India's broader IT revolution — driven by a combination of English-language skills, a large engineering talent pool, and significant cost advantages. TCS's consistently high employee retention and the Tata Group's long-term ownership model distinguish it from many global peers."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d3_thrissur_pooram",
+          "location": { "name": "Thrissur Pooram — Kerala", "lat": 10.5276, "lng": 76.2144 },
+          "questions": [
+            { "question": "Thrissur Pooram is held at which temple's grounds?", "options": ["Guruvayur Temple", "Vadakkunnathan Temple", "Sabarimala", "Padmanabhaswamy Temple"], "correctIndex": 1 },
+            { "question": "The festival features two rival groups of temples, each sponsoring how many caparisoned elephants?", "options": ["5", "10", "15", "20"], "correctIndex": 1 },
+            { "question": "The pre-dawn fireworks at Thrissur Pooram — called vedikettu — begin at approximately?", "options": ["9 pm", "Midnight", "3–4 am", "Sunrise"], "correctIndex": 2 },
+            { "question": "Thrissur Pooram was organised in its current form by which Cochin king?", "options": ["Martanda Varma", "Saktan Thampuran (Rama Varma)", "Paliyath Achan", "Vira Kerala Varma"], "correctIndex": 1 },
+            { "question": "Thrissur Pooram falls during which Malayalam month?", "options": ["Chingam (Aug-Sep)", "Karkidakam (Jul-Aug)", "Medam (Apr-May)", "Karkkadakam (Jul-Aug)"], "correctIndex": 2 }
+          ],
+          "summary": "Thrissur Pooram — held annually at the Vadakkunnathan Temple in Thrissur during the Malayalam month of Medam (April-May) — is Kerala's most spectacular temple festival and arguably India's greatest elephant pageant. Two rival groups of temples, each sponsoring ten magnificently caparisoned elephants carrying golden parasols, fans, and yak-tail fly-whisks, face off in the Thekkinkadu Maidan in a competition of precision and grandeur. The pre-dawn vedikettu (fireworks display), beginning around 3 am, produces a thunderous spectacle lasting hours. Organised by Cochin king Saktan Thampuran in the 18th century as a festival for all communities regardless of religion, it draws crowds exceeding a million people."
+        },
+        {
+          "id": "evt_d3_diwali_ayodhya",
+          "location": { "name": "Diwali — Ayodhya, Uttar Pradesh", "lat": 26.7922, "lng": 82.1998 },
+          "questions": [
+            { "question": "Diwali is the Festival of Lights. What does it primarily celebrate?", "options": ["Lord Rama's birth", "Lord Rama's return to Ayodhya after 14 years and defeating Ravana", "Lord Krishna defeating Narakasura", "All of the above — regional variations differ"], "correctIndex": 3 },
+            { "question": "Diwali falls on the new moon (Amavasya) of which Hindu month?", "options": ["Ashwin", "Kartik", "Margashirsha", "Phalgun"], "correctIndex": 1 },
+            { "question": "The Ram Mandir in Ayodhya, consecrated in January 2024, is built at the site believed to be?", "options": ["Rama's favourite battlefield", "Rama's birthplace (Ram Janmabhoomi)", "The site of Rama-Ravana's final battle", "The site of Sita's exile"], "correctIndex": 1 },
+            { "question": "Ayodhya's 2023 Diwali set a world record for?", "options": ["Largest fireworks display", "Most diyas (oil lamps) lit simultaneously — over 2.2 million", "Largest procession", "Most people attending a single religious event"], "correctIndex": 1 },
+            { "question": "The river flowing through Ayodhya is?", "options": ["Ganga", "Yamuna", "Sarayu", "Gomti"], "correctIndex": 2 }
+          ],
+          "summary": "Ayodhya on the Sarayu River in Uttar Pradesh is one of Hinduism's seven sacred cities (sapta puri) and the birthplace of Lord Rama according to the Ramayana. Diwali — celebrated in October-November — marks Rama's return to Ayodhya after 14 years of exile and his defeat of Ravana with the lighting of oil lamps (diyas) to guide his way. The consecration of the Ram Mandir in January 2024 transformed Ayodhya into one of India's most visited pilgrimage destinations. The 2023 Ayodhya Diwali set a Guinness World Record with over 2.2 million diyas lit simultaneously on the Sarayu River ghats — a breathtaking spectacle seen from space."
+        },
+        {
+          "id": "evt_d3_pongal_tamil",
+          "location": { "name": "Pongal — Thanjavur, Tamil Nadu", "lat": 10.7869, "lng": 79.1378 },
+          "questions": [
+            { "question": "Pongal is Tamil Nadu's most important harvest festival. How many days does it last?", "options": ["One day", "Two days", "Four days", "Seven days"], "correctIndex": 2 },
+            { "question": "The word 'Pongal' refers to what?", "options": ["Harvest celebration", "A rice dish cooked until it overflows — symbolising abundance", "The Tamil New Year", "A devotional offering to the Sun"], "correctIndex": 1 },
+            { "question": "Which day of Pongal is dedicated to cattle?", "options": ["Bhogi Pongal (Day 1)", "Thai Pongal (Day 2)", "Mattu Pongal (Day 3)", "Kaanum Pongal (Day 4)"], "correctIndex": 2 },
+            { "question": "The bull-taming sport held during Pongal is called?", "options": ["Kabbadi", "Jallikattu", "Silambam", "Kalaripayattu"], "correctIndex": 1 },
+            { "question": "Pongal is celebrated when the sun moves into which zodiac sign (Makara)?", "options": ["Capricorn — around January 14-15", "Aries — around April 14", "Cancer — around June 21", "Libra — around September 23"], "correctIndex": 0 }
+          ],
+          "summary": "Pongal is Tamil Nadu's most important festival — a four-day harvest celebration around January 14-15 marking the sun's entry into Capricorn (Makar Sankranti). The central ritual is cooking the Pongal rice dish in a new clay pot until it boils over, symbolising prosperity and abundance. Mattu Pongal (Day 3) honours cattle — the animals crucial to farming — with garlands, paint, and offerings. Jallikattu, the traditional bull-taming sport held during Pongal, was at the centre of a major controversy in 2017 when its ban was challenged by massive protests across Tamil Nadu. Pongal is celebrated by Tamil communities worldwide as a marker of cultural identity."
+        },
+        {
+          "id": "evt_d3_great_rann_festival",
+          "location": { "name": "Rann Utsav — Dhordo, Gujarat", "lat": 23.8667, "lng": 70.9167 },
+          "questions": [
+            { "question": "Rann Utsav is held in which season?", "options": ["Monsoon (Jul-Sep)", "Winter (Nov-Feb)", "Summer (Apr-Jun)", "Post-monsoon (Oct-Nov)"], "correctIndex": 1 },
+            { "question": "The Rann Utsav is particularly famous for which visual experience?", "options": ["Migratory flamingos", "The white salt desert illuminated by the full moon", "Sand dune formations", "Wild ass herds"], "correctIndex": 1 },
+            { "question": "Dhordo village, the base for Rann Utsav, is in which district of Gujarat?", "options": ["Rajkot", "Jamnagar", "Kutch", "Bhuj"], "correctIndex": 2 },
+            { "question": "The handicrafts of the Kutch region showcased at Rann Utsav include which famous textile art?", "options": ["Bandhani (tie-dye) and embroidery", "Ikat weaving", "Batik printing", "Kantha quilting"], "correctIndex": 0 },
+            { "question": "The Great Rann of Kutch — the festival's backdrop — is approximately how large?", "options": ["5,000 sq km", "12,000 sq km", "27,900 sq km", "50,000 sq km"], "correctIndex": 2 }
+          ],
+          "summary": "Rann Utsav, held each winter (November-February) at Dhordo village on the edge of the Great Rann of Kutch, is one of India's most atmospheric cultural festivals. The 27,900 sq km Great Rann — the world's largest salt desert — transforms into a luminous white expanse under the full moon, creating an otherworldly landscape that draws thousands of visitors. The festival celebrates the cultural richness of the Kutch region: its extraordinary embroidery traditions (Kutchi embroidery is globally renowned), bandhani (tie-dye) textiles, lacquerware, and distinctive mud architecture. The Indian Wild Ass Sanctuary within the adjacent Little Rann protects the last wild population of the Indian Wild Ass (khur)."
+        },
+        {
+          "id": "evt_d3_manipur_sangai",
+          "location": { "name": "Sangai Festival — Imphal, Manipur", "lat": 24.8170, "lng": 93.9368 },
+          "questions": [
+            { "question": "The Sangai Festival is named after Manipur's state animal. What is the Sangai?", "options": ["A rare species of deer (Cervus eldi eldi)", "A mountain goat", "A type of wild boar", "A river dolphin"], "correctIndex": 0 },
+            { "question": "The Sangai deer is found only in Manipur, living on?", "options": ["Mountain slopes", "Floating phumdis (vegetation mats) on Loktak Lake", "Dense forest floor", "Riverbanks"], "correctIndex": 1 },
+            { "question": "The Sangai Festival showcases Manipuri arts. Which dance form is most associated with Manipur?", "options": ["Bharatanatyam", "Kathak", "Manipuri dance (Ras Leela tradition)", "Odissi"], "correctIndex": 2 },
+            { "question": "Loktak Lake — the Sangai's habitat — is the largest freshwater lake in?", "options": ["India", "Northeast India", "South Asia", "Asia"], "correctIndex": 1 },
+            { "question": "The Sangai Festival also promotes Manipur's indigenous martial art. What is it called?", "options": ["Thang-ta", "Kalaripayattu", "Silambam", "Gatka"], "correctIndex": 0 }
+          ],
+          "summary": "The Sangai Festival, held annually in November at Imphal, is Manipur's largest cultural showcase — named for the Sangai, a brow-antlered deer (Rucervus eldii eldii) found nowhere else on Earth. This critically endangered deer lives exclusively on the floating phumdis (masses of vegetation) on Loktak Lake — the largest freshwater lake in Northeast India. The festival promotes Manipuri classical dance (rooted in the Vaishnava Ras Leela tradition — recognised as one of India's eight classical dance forms), Thang-ta martial arts, polo (Manipur is considered the birthplace of modern polo), and traditional crafts including Moirangphee weaving. The Sangai population, reduced to fewer than 100 in the 1970s, has recovered to approximately 260 through conservation efforts."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d3_chhattisgarh_raipur",
+          "location": { "name": "Raipur — Chhattisgarh Capital", "lat": 21.2514, "lng": 81.6296 },
+          "questions": [
+            { "question": "Chhattisgarh was carved from which state?", "options": ["Madhya Pradesh", "Uttar Pradesh", "Odisha", "Maharashtra"], "correctIndex": 0 },
+            { "question": "Chhattisgarh was formed in which year?", "options": ["1998", "2000", "2002", "2004"], "correctIndex": 1 },
+            { "question": "'Chhattisgarh' literally refers to how many forts in the region?", "options": ["24", "36", "48", "60"], "correctIndex": 1 },
+            { "question": "Chhattisgarh is India's leading producer of which mineral?", "options": ["Iron ore", "Coal", "Bauxite", "Manganese"], "correctIndex": 1 },
+            { "question": "Bastar district's tribal communities are famous globally for which art form?", "options": ["Madhubani painting", "Warli art", "Dhokra (lost-wax metal casting)", "Pattachitra"], "correctIndex": 2 }
+          ],
+          "summary": "Chhattisgarh — 'Thirty-Six Forts' — was carved from southeastern Madhya Pradesh in November 2000, fulfilling demands from its predominantly tribal and Adivasi population for self-governance. Despite containing some of India's richest deposits of coal, iron ore, limestone, and bauxite — placing it at the centre of India's steel and power industries — the state consistently ranks among India's poorest, reflecting the resource curse of wealth concentrated in extractive industries without equitable distribution. Bastar district's tribal Dhokra metalwork, a 5,000-year-old lost-wax casting tradition, is internationally celebrated in craft and art circles. The state has been the primary theatre of Maoist (Naxalite) insurgency."
+        },
+        {
+          "id": "pol_d3_jharkhand_ranchi",
+          "location": { "name": "Ranchi — Jharkhand Capital", "lat": 23.3441, "lng": 85.3096 },
+          "questions": [
+            { "question": "Jharkhand was carved from which state?", "options": ["Orissa", "Bihar", "West Bengal", "Madhya Pradesh"], "correctIndex": 1 },
+            { "question": "Jharkhand was formed in which year?", "options": ["1998", "2000", "2002", "2004"], "correctIndex": 1 },
+            { "question": "'Jharkhand' means?", "options": ["Land of forests", "Land of minerals", "Tribal homeland", "Land of waterfalls"], "correctIndex": 0 },
+            { "question": "Jharkhand contains over what percentage of India's mineral wealth?", "options": ["10%", "20%", "30%", "40%"], "correctIndex": 3 },
+            { "question": "MS Dhoni, India's World Cup-winning captain, hails from which Jharkhand city?", "options": ["Jamshedpur", "Dhanbad", "Ranchi", "Bokaro"], "correctIndex": 2 }
+          ],
+          "summary": "Jharkhand — 'Land of Forests' — was carved from Bihar in November 2000, fulfilling a 50-year demand from the Santhal, Munda, and Oraon tribal communities for a homeland with self-governance. The state contains over 40% of India's mineral wealth — coal, iron ore, copper, mica, and uranium — yet consistently ranks among India's lowest on human development indicators, a stark example of the resource curse. Ranchi, the capital, sits on the Chota Nagpur Plateau and serves as the summer retreat of Jharkhand. It is the hometown of MS Dhoni — India's most successful cricket captain by trophies won — and has a string of scenic waterfalls in the surrounding plateau landscape."
+        },
+        {
+          "id": "pol_d3_uttarakhand_dehradun",
+          "location": { "name": "Dehradun — Uttarakhand Capital", "lat": 30.3165, "lng": 78.0322 },
+          "questions": [
+            { "question": "Uttarakhand was carved from which state?", "options": ["Himachal Pradesh", "Uttar Pradesh", "Haryana", "Punjab"], "correctIndex": 1 },
+            { "question": "Uttarakhand achieved full statehood in which year?", "options": ["1998", "2000", "2002", "2004"], "correctIndex": 1 },
+            { "question": "Uttarakhand contains the headwaters of which two major rivers?", "options": ["Indus and Brahmaputra", "Ganga and Yamuna", "Narmada and Godavari", "Beas and Ravi"], "correctIndex": 1 },
+            { "question": "The Forest Research Institute in Dehradun is a grand colonial building in which architectural style?", "options": ["Gothic Revival", "Mughal", "Greco-Roman", "Art Deco"], "correctIndex": 2 },
+            { "question": "Uttarakhand's Char Dham includes Badrinath, Kedarnath, Gangotri and?", "options": ["Yamunotri", "Haridwar", "Rishikesh", "Hemkund Sahib"], "correctIndex": 0 }
+          ],
+          "summary": "Uttarakhand, carved from the hill districts of Uttar Pradesh in November 2000, is known as 'Dev Bhoomi' (Land of the Gods) — its terrain contains the Char Dham (Badrinath, Kedarnath, Gangotri, Yamunotri), the sources of the Ganga and Yamuna, and hundreds of Himalayan temples and shrines. Dehradun, at the Himalayan foothills, is the capital and a major educational hub — the Indian Military Academy, Forest Research Institute, ONGC headquarters, and numerous boarding schools give it a distinctive character. The Forest Research Institute (1906) in Greco-Roman style is one of India's grandest colonial buildings and remains one of the world's premier forestry research institutions."
+        },
+        {
+          "id": "pol_d3_karnataka_bengaluru",
+          "location": { "name": "Bengaluru — Karnataka Capital", "lat": 12.9716, "lng": 77.5946 },
+          "questions": [
+            { "question": "The name 'Bangalore' was officially changed to 'Bengaluru' in which year?", "options": ["1999", "2006", "2010", "2014"], "correctIndex": 1 },
+            { "question": "Karnataka was formed as a state consolidating Kannada-speaking regions in which year?", "options": ["1947", "1950", "1956", "1960"], "correctIndex": 2 },
+            { "question": "Bengaluru hosts which major public sector aerospace and defence organisation?", "options": ["ISRO and HAL both", "HAL only", "DRDO only", "BEL only"], "correctIndex": 0 },
+            { "question": "Bengaluru's tech industry is centred in which area?", "options": ["Whitefield and Electronic City", "Old city (Pete area)", "Yelahanka", "Jayanagar"], "correctIndex": 0 },
+            { "question": "The primary challenge threatening Bengaluru's growth and reputation is?", "options": ["Earthquakes", "Severe water stress and infrastructure deficit", "Cyclones", "Flooding from the sea"], "correctIndex": 1 }
+          ],
+          "summary": "Bengaluru — renamed from Bangalore in 2006 — is India's fastest-growing major city and the country's technology capital. Karnataka state was formed in 1956 by the States Reorganisation Act, consolidating all Kannada-speaking regions. Bengaluru's unique ecosystem — public sector aerospace (HAL, ISRO, BEL, DRDO) alongside private IT (Infosys, Wipro, and 250+ global tech company India offices) — generates approximately 40% of India's software export revenues. The city faces an acute water crisis (the Cauvery supply is inadequate for its booming population), endemic traffic gridlock, and rapid unplanned urban sprawl that increasingly threaten its attractiveness as a destination for global investment."
+        },
+        {
+          "id": "pol_d3_assam_dispur",
+          "location": { "name": "Dispur — Assam Capital", "lat": 26.1445, "lng": 91.7362 },
+          "questions": [
+            { "question": "Dispur is located within the urban area of which larger city?", "options": ["Dibrugarh", "Jorhat", "Guwahati", "Silchar"], "correctIndex": 2 },
+            { "question": "Assam's most economically important industry (besides agriculture) is?", "options": ["Coal mining", "Tea cultivation and petroleum", "Silk weaving only", "Fishing"], "correctIndex": 1 },
+            { "question": "The Assam Accord of 1985 addressed which longstanding issue?", "options": ["Oil revenue sharing", "Language policy (Assamese vs Bengali)", "Illegal immigration from Bangladesh", "Tribal land rights"], "correctIndex": 2 },
+            { "question": "Manas National Park in Assam is UNESCO World Heritage Site and also a?", "options": ["Marine Protected Area", "Tiger Reserve and Elephant Reserve", "Biosphere Reserve and UNESCO site only", "UNESCO Intangible Cultural Heritage site"], "correctIndex": 1 },
+            { "question": "Assam's distinctive one-horned rhinoceros population is concentrated primarily in?", "options": ["Manas National Park", "Dibru-Saikhowa", "Kaziranga National Park", "Orang National Park"], "correctIndex": 2 }
+          ],
+          "summary": "Dispur, a township within Guwahati's urban fabric, serves as Assam's administrative capital — a government zone adjacent to the state's main commercial city. Assam is India's most important tea-producing state (Assam tea is a globally distinct variety known for its malty strength) and a significant petroleum producer with oil fields around Digboi, where India's first oil well was drilled in 1889. The Assam Accord (1985), signed between Rajiv Gandhi and the All Assam Students' Union after six years of agitation, sought to address illegal immigration from Bangladesh — an issue that continues to shape Assamese politics through the National Register of Citizens (NRC) process."
+        }
+      ]
+    }
+  }
+}

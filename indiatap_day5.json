@@ -1,0 +1,326 @@
+{
+  "day": 5,
+  "date": "2026-10-05",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d5_lakshadweep",
+          "location": { "name": "Lakshadweep Islands — Arabian Sea", "lat": 10.5667, "lng": 72.6417 },
+          "questions": [
+            { "question": "Lakshadweep is India's smallest Union Territory. What is its total land area?", "options": ["12 sq km", "32 sq km", "72 sq km", "102 sq km"], "correctIndex": 1 },
+            { "question": "How many of Lakshadweep's 36 islands are inhabited?", "options": ["5", "11", "18", "24"], "correctIndex": 1 },
+            { "question": "What type of islands are the Lakshadweep?", "options": ["Volcanic islands", "Continental shelf islands", "Coral atolls", "Barrier islands"], "correctIndex": 2 },
+            { "question": "What percentage of Lakshadweep's population follows Islam?", "options": ["50%", "75%", "90%", "96%"], "correctIndex": 3 },
+            { "question": "Which sea separates the Lakshadweep Islands from the Kerala coast?", "options": ["Laccadive Sea", "Arabian Sea directly", "Bay of Bengal", "Palk Strait"], "correctIndex": 0 }
+          ],
+          "summary": "Lakshadweep — 'One Hundred Thousand Islands' in Sanskrit — is India's smallest Union Territory, comprising 36 coral atolls with a total land area of just 32 sq km, scattered 200–440 km off Kerala's coast in the Arabian Sea. Only 11 of the 36 islands are inhabited, with a total population under 65,000 — nearly 97% Muslim, reflecting ancient trade connections with Arab merchants. The islands are among India's most pristine marine ecosystems, with coral reefs supporting extraordinary biodiversity. Kavaratti serves as the administrative capital. The islands' vulnerability to sea-level rise is existential — at just 1–2 metres above sea level, even modest sea-level increase could submerge them entirely."
+        },
+        {
+          "id": "geo_d5_tsangpo_gorge",
+          "location": { "name": "Brahmaputra Great Bend — Arunachal Pradesh", "lat": 28.3600, "lng": 95.4000 },
+          "questions": [
+            { "question": "Where does the Brahmaputra (Tsangpo) make its dramatic turn from Tibet into India?", "options": ["Near Tawang", "At the Great Bend near Namcha Barwa peak, Arunachal Pradesh", "Near Dibrugarh", "At the Assam plains"], "correctIndex": 1 },
+            { "question": "The Tsangpo Gorge is considered the world's deepest river canyon. Approximately how deep is it?", "options": ["1,000m", "2,500m", "5,000m", "7,000m"], "correctIndex": 2 },
+            { "question": "The Namcha Barwa peak near the Great Bend stands at approximately what height?", "options": ["5,000m", "6,200m", "7,782m", "8,012m"], "correctIndex": 2 },
+            { "question": "China's planned hydropower dam near the Great Bend, if built, would be the world's largest. What is its projected capacity?", "options": ["5,000 MW", "10,000 MW", "60,000 MW", "15,000 MW"], "correctIndex": 2 },
+            { "question": "The Great Bend area of Arunachal Pradesh was first explored by which British surveyors?", "options": ["Nathaniel Kindersley and Thomas Burr", "Kinthup (a Sikkimese explorer sent by British India)", "Francis Younghusband", "Thomas Holdich"], "correctIndex": 1 }
+          ],
+          "summary": "The Brahmaputra's Great Bend near Namcha Barwa (7,782m) in Arunachal Pradesh is one of Earth's most dramatic geographic features — the river makes a sharp U-turn from its eastward Tibetan course, plunging through the world's deepest river gorge (approximately 5,000m deep) before emerging into the Assam plains. This virtually inaccessible gorge was first mapped by the Sikkimese explorer Kinthup, sent by British India in the 1880s. China's planned Motuo Dam at the Great Bend — projected at 60,000 MW, three times the Three Gorges Dam's capacity — has raised major concerns in India about downstream water security and potential weaponisation of the river's flow."
+        },
+        {
+          "id": "geo_d5_eastern_ghats",
+          "location": { "name": "Eastern Ghats — Araku Valley, Andhra Pradesh", "lat": 18.3274, "lng": 82.8750 },
+          "questions": [
+            { "question": "How do the Eastern Ghats differ structurally from the Western Ghats?", "options": ["The Eastern Ghats are higher", "The Eastern Ghats are discontinuous and broken by river valleys; the Western Ghats are a continuous escarpment", "The Eastern Ghats run east-west; the Western Ghats run north-south", "The Eastern Ghats are younger geologically"], "correctIndex": 1 },
+            { "question": "The Araku Valley in the Eastern Ghats is famous for producing which agricultural product?", "options": ["Tea", "Tribal coffee (Araku coffee)", "Rice", "Turmeric"], "correctIndex": 1 },
+            { "question": "The Eastern Ghats are home to which of India's oldest tribal communities?", "options": ["Santhal and Munda", "Gond, Kondh, and Savara tribes", "Bhil and Grasiya", "Toda and Irula"], "correctIndex": 1 },
+            { "question": "The Borra Caves in the Eastern Ghats of Andhra Pradesh contain which geological formations?", "options": ["Granite boulders", "Stalagmites and stalactites (limestone caves)", "Volcanic rock columns", "Ancient fossils"], "correctIndex": 1 },
+            { "question": "Which river cuts through the Eastern Ghats at the famous Papikonda gorge in Andhra Pradesh?", "options": ["Mahanadi", "Krishna", "Godavari", "Pennar"], "correctIndex": 2 }
+          ],
+          "summary": "The Eastern Ghats are a discontinuous chain of hills running parallel to India's eastern coast — unlike the Western Ghats' continuous escarpment, the Eastern Ghats are repeatedly cut through by major eastward-flowing rivers (Mahanadi, Godavari, Krishna, Kaveri) creating dramatic gorges. The Araku Valley in Andhra Pradesh's Eastern Ghats is a tribal coffee-growing region — Araku coffee, grown by Adivasi communities at 900–1,100 metres, has won international awards and commands premium prices globally. The Borra Caves in the Ananthagiri Hills contain spectacular limestone formations over a million years old. The Eastern Ghats are home to significant populations of Gond, Kondh, and Savara tribal communities."
+        },
+        {
+          "id": "geo_d5_loktak_lake",
+          "location": { "name": "Loktak Lake — Manipur", "lat": 24.5200, "lng": 93.7800 },
+          "questions": [
+            { "question": "Loktak is the largest freshwater lake in Northeast India. It is famous for its unique floating islands called?", "options": ["Phumdis", "Kumaris", "Jalakas", "Varanasi"], "correctIndex": 0 },
+            { "question": "The world's only floating national park is within Loktak Lake. What is it called?", "options": ["Keibul Lamjao National Park", "Loktak Wildlife Sanctuary", "Manipur Floating Reserve", "Phumdi National Park"], "correctIndex": 0 },
+            { "question": "Which critically endangered deer species lives exclusively on the phumdis of Loktak Lake?", "options": ["Swamp Deer (Barasingha)", "Sangai (Brow-antlered Deer)", "Hangul (Kashmir Stag)", "Spotted Deer"], "correctIndex": 1 },
+            { "question": "The Loktak Hydroelectric Project at Ithai Barrage has had which environmental impact?", "options": ["Improved water quality significantly", "Increased phumdi area dangerously, threatening the Sangai", "Reduced flooding in Imphal valley", "No significant environmental impact"], "correctIndex": 1 },
+            { "question": "What are phumdis primarily composed of?", "options": ["Floating tree trunks", "Masses of vegetation, soil, and organic matter accumulated over centuries", "Volcanic rock formations", "Sand and sediment deposits"], "correctIndex": 1 }
+          ],
+          "summary": "Loktak Lake in Manipur — the largest freshwater lake in Northeast India — is renowned for its phumdis: floating masses of vegetation, soil, and organic matter that form islands across its surface. Keibul Lamjao National Park, entirely floating on phumdis, is the world's only floating national park and the last refuge of the Sangai (Cervus eldi eldi) — a brow-antlered deer unique to Manipur. The Sangai population, reduced to fewer than 14 animals in the 1970s, has recovered to approximately 260. The Ithai Barrage hydroelectric project has raised lake levels, paradoxically causing phumdis to grow too thick — threatening to destroy the ecosystem they support. Loktak was designated a Ramsar Wetland in 1990."
+        },
+        {
+          "id": "geo_d5_coorg_coffee",
+          "location": { "name": "Coorg (Kodagu) — Karnataka", "lat": 12.4244, "lng": 75.7382 },
+          "questions": [
+            { "question": "Coorg (Kodagu) is India's largest coffee-producing district. Which two types of coffee are primarily grown?", "options": ["Arabica and Robusta", "Arabica and Liberica", "Robusta and Excelsa", "Arabica only"], "correctIndex": 0 },
+            { "question": "The Kaveri River originates in Coorg at which specific site?", "options": ["Madikeri", "Talakaveri", "Virajpet", "Kushalnagar"], "correctIndex": 1 },
+            { "question": "The indigenous people of Coorg are called?", "options": ["Gowdas", "Kodavas", "Vokkaligas", "Nairs"], "correctIndex": 1 },
+            { "question": "Coorg is known as the 'Scotland of India' primarily because of?", "options": ["Its whisky production", "Its rolling misty hills, lush greenery, and cool climate", "Its golf courses", "Its bagpipe-playing military tradition"], "correctIndex": 1 },
+            { "question": "The Kodava community of Coorg is unusual in India for having the right to bear which items without a license?", "options": ["Bows and arrows", "Traditional arms (firearms)", "Ceremonial swords", "All of the above in traditional ceremonies"], "correctIndex": 1 }
+          ],
+          "summary": "Coorg (Kodagu) in the Western Ghats of Karnataka is India's most productive coffee-growing region — the misty hills between 900 and 1,500 metres produce both Arabica and Robusta beans on over 100,000 estates, from small tribal plots to large colonial-era plantations. The Kaveri River rises at Talakaveri in Coorg's Brahmagiri Hills. The indigenous Kodava people have a unique culture — matriarchal elements, distinctive traditional dress, and the hereditary right to bear arms (firearms) without a licence, a privilege traceable to their warrior tradition. Coorg's rolling hills, spice estates, and wildlife (including elephant corridors) make it Karnataka's most visited hill district."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d5_golden_temple",
+          "location": { "name": "Golden Temple (Harmandir Sahib) — Amritsar", "lat": 31.6200, "lng": 74.8765 },
+          "questions": [
+            { "question": "The official name of the Golden Temple is?", "options": ["Darbar Sahib", "Harmandir Sahib", "Akal Takht", "Guru Granth Sahib Bhavan"], "correctIndex": 1 },
+            { "question": "The Golden Temple's upper floors are covered with approximately how much gold?", "options": ["100 kg", "200 kg", "400 kg", "750 kg"], "correctIndex": 2 },
+            { "question": "The langar (community kitchen) at the Golden Temple serves approximately how many people daily?", "options": ["10,000", "50,000", "100,000", "500,000"], "correctIndex": 2 },
+            { "question": "The Golden Temple is open from all four sides — this architectural choice symbolises?", "options": ["The four directions of the compass", "Welcome to people of all castes, creeds, and religions", "The four Vedas", "The four Sikh Gurus who built it"], "correctIndex": 1 },
+            { "question": "Operation Blue Star in 1984, which stormed the Golden Temple complex, targeted which militant leader?", "options": ["Jarnail Singh Bhindranwale", "Longowal", "Badal", "Tohra"], "correctIndex": 0 }
+          ],
+          "summary": "Harmandir Sahib (Golden Temple) in Amritsar is Sikhism's holiest shrine. Guru Arjan Dev, the fifth Sikh Guru, constructed it in 1604 at the centre of a sacred pool (Amrit Sarovar — from which Amritsar takes its name). Maharaja Ranjit Singh plated its upper storeys with 400 kg of pure gold in the early 19th century. The temple is open from all four sides — symbolising universal welcome regardless of faith. Its langar (free community kitchen) feeds approximately 100,000 people daily — the world's largest free kitchen, operating 24 hours without interruption. Operation Blue Star in June 1984, ordered by PM Indira Gandhi to flush out militants led by Bhindranwale, caused massive damage and triggered profound trauma in the Sikh community."
+        },
+        {
+          "id": "cul_d5_mysore_palace",
+          "location": { "name": "Mysore Palace — Karnataka", "lat": 12.3052, "lng": 76.6552 },
+          "questions": [
+            { "question": "The current Mysore Palace was completed in which year after the previous one burned down?", "options": ["1875", "1897", "1912", "1935"], "correctIndex": 2 },
+            { "question": "The Mysore Palace was designed by which British architect?", "options": ["Edwin Lutyens", "William Emerson", "Henry Irwin", "Herbert Baker"], "correctIndex": 2 },
+            { "question": "The Mysore Palace is illuminated by how many light bulbs on special occasions?", "options": ["9,000", "32,000", "97,000", "200,000"], "correctIndex": 2 },
+            { "question": "The Mysore Dasara procession features which spectacular element?", "options": ["A flotilla of decorated boats", "An elephant carrying the golden howdah with the palace deity", "A parade of vintage cars", "A display of the royal jewel collection"], "correctIndex": 1 },
+            { "question": "Mysore Palace is India's second most visited monument after?", "options": ["Red Fort", "Qutb Minar", "Taj Mahal", "Victoria Memorial"], "correctIndex": 2 }
+          ],
+          "summary": "Mysore Palace — seat of the Wodeyar dynasty for over six centuries — is India's second most visited monument, drawing over 6 million visitors annually. The current palace, designed by British architect Henry Irwin in Indo-Saracenic style, was completed in 1912 after the original wooden structure burned down during a wedding celebration. Its 97,000 light bulbs illuminate the facade every Sunday evening and throughout the Dasara festival — when a caparisoned elephant carries the solid gold howdah (elephant throne, weighing 750 kg) of the palace deity through the city in Karnataka's most spectacular procession. The palace interior, with its painted glass ceiling, inlaid floors, and ivory-encrusted throne hall, is one of India's finest royal interiors."
+        },
+        {
+          "id": "cul_d5_thanjavur_paintings",
+          "location": { "name": "Thanjavur Art — Tamil Nadu", "lat": 10.7869, "lng": 79.1378 },
+          "questions": [
+            { "question": "Thanjavur paintings are distinctive for their use of what material to create a relief effect?", "options": ["Gold leaf applied over chalk and glue paste", "Brass inlay", "Carved wood frame", "Silver foil on silk"], "correctIndex": 0 },
+            { "question": "Thanjavur paintings primarily depict which subject matter?", "options": ["Battle scenes and royal portraits", "Hindu deities — especially Vishnu, Krishna, and the Devi", "Landscapes and nature", "Buddhist iconography"], "correctIndex": 1 },
+            { "question": "Thanjavur paintings flourished most under which dynasty's patronage?", "options": ["Pallava dynasty", "Chola dynasty", "Maratha rulers of Thanjavur", "Vijayanagara kings"], "correctIndex": 2 },
+            { "question": "The characteristic gold leaf in Thanjavur paintings is decorated with semi-precious stones. Which stone is most commonly used?", "options": ["Ruby", "Emerald", "Glass pieces and gems in a distinctive local style", "Diamond"], "correctIndex": 2 },
+            { "question": "Thanjavur paintings received a GI (Geographical Indication) tag in which year?", "options": ["2000", "2007", "2013", "2019"], "correctIndex": 1 }
+          ],
+          "summary": "Thanjavur paintings — a South Indian classical art form that originated in the Thanjavur region of Tamil Nadu under the patronage of the Maratha rulers of Thanjavur (18th–19th centuries) — are distinctive for their vibrant surface painting combined with relief work: chalk paste and glue are applied under the surface to create a raised three-dimensional effect, then covered with gold leaf and decorated with glass pieces, semi-precious stones, and beads. The subjects are almost exclusively Hindu deities — particularly Krishna, Vishnu, and the Goddess in various forms — depicted in a formal, frontal, jewellery-rich style. The art form received a Geographical Indication tag in 2007 and is now produced by artisan communities in and around Thanjavur."
+        },
+        {
+          "id": "cul_d5_adalaj_vav",
+          "location": { "name": "Adalaj Stepwell — Gujarat", "lat": 23.1648, "lng": 72.5800 },
+          "questions": [
+            { "question": "The Adalaj Vav (stepwell) was built in which year?", "options": ["1099", "1449", "1499", "1549"], "correctIndex": 2 },
+            { "question": "Adalaj Vav was built by which queen?", "options": ["Rudabai — wife of the local Vaghela chieftain", "Rani Sipri", "Rani Vir Bai", "Queen Rani Durgavati"], "correctIndex": 0 },
+            { "question": "The Adalaj stepwell descends how many floors below ground?", "options": ["2", "3", "5", "7"], "correctIndex": 2 },
+            { "question": "Stepwells (vav/baoli) in Gujarat and Rajasthan served which primary purpose beyond water supply?", "options": ["Military defence", "Social gathering, rest, and shelter from heat", "Religious ceremonies only", "Tax collection centres"], "correctIndex": 1 },
+            { "question": "Adalaj Vav is notable for blending which two architectural styles?", "options": ["Mughal and Rajput", "Indo-Islamic and Solanki (Hindu)", "Persian and Buddhist", "Dravidian and Nagara"], "correctIndex": 1 }
+          ],
+          "summary": "The Adalaj Vav (stepwell) near Ahmedabad, built in 1499 by Queen Rudabai in memory of her husband, is one of Gujarat's finest examples of the stepwell tradition — a uniquely Indian architectural form designed to access groundwater through a stepped descent. The Adalaj Vav descends five levels below ground, with each landing serving as a social space for travellers, women collecting water, and communities escaping the intense heat. Its architecture brilliantly blends the indigenous Solanki Hindu style with Indo-Islamic elements introduced by the Sultanate period — creating an atmosphere of peaceful synthesis. The stepwell remains cool even in peak summer, functioning as natural air conditioning through the evaporation of water."
+        },
+        {
+          "id": "cul_d5_elephanta_caves",
+          "location": { "name": "Elephanta Caves — Mumbai Harbour", "lat": 18.9633, "lng": 72.9315 },
+          "questions": [
+            { "question": "The Elephanta Caves are located on an island in Mumbai Harbour. How far is the island from the Gateway of India?", "options": ["2 km", "5 km", "10 km", "25 km"], "correctIndex": 2 },
+            { "question": "The Elephanta Caves are dedicated primarily to which deity?", "options": ["Vishnu", "Brahma", "Shiva", "Durga"], "correctIndex": 2 },
+            { "question": "The most famous sculpture at Elephanta is the Trimurti — a three-faced bust. What do the three faces represent?", "options": ["Brahma, Vishnu, and Shiva", "Three aspects of Shiva: creator (Brahma face), preserver (Vishnu face), and destroyer", "Past, present, and future", "Three phases of the moon"], "correctIndex": 1 },
+            { "question": "Portuguese soldiers stationed on the island damaged many of the cave sculptures. When did the Portuguese control Elephanta?", "options": ["14th century", "16th–17th century", "18th century", "19th century"], "correctIndex": 1 },
+            { "question": "Elephanta became a UNESCO World Heritage Site in which year?", "options": ["1980", "1987", "1993", "2000"], "correctIndex": 1 }
+          ],
+          "summary": "The Elephanta Caves on Gharapuri Island in Mumbai Harbour — reached by ferry from the Gateway of India — are a UNESCO World Heritage Site housing some of the finest Shaivite rock-cut sculpture in India. Carved primarily in the 5th–6th centuries CE, the complex's crowning achievement is the Trimurti: a 6-metre three-faced bust of Shiva depicting his aspects as creator, preserver, and destroyer — regarded as one of the greatest works of Indian sculpture. Portuguese soldiers stationed on the island in the 16th–17th centuries used the sculptures for target practice, causing significant damage. The island was named 'Elephanta' by the Portuguese after a large stone elephant at the landing (now at the Bhau Daji Lad Museum, Mumbai)."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d5_bandra_worli",
+          "location": { "name": "Bandra-Worli Sea Link — Mumbai", "lat": 18.9956, "lng": 72.8180 },
+          "questions": [
+            { "question": "The Bandra-Worli Sea Link (Rajiv Gandhi Sea Link) is how long?", "options": ["2.3 km", "5.6 km", "8.5 km", "12 km"], "correctIndex": 1 },
+            { "question": "The sea link uses how many steel cables holding up its cable-stayed sections?", "options": ["64", "104", "200", "900"], "correctIndex": 1 },
+            { "question": "The Bandra-Worli Sea Link was inaugurated in which year?", "options": ["2003", "2006", "2009", "2012"], "correctIndex": 2 },
+            { "question": "Before the sea link, the journey between Bandra and Worli during peak hours took approximately how long?", "options": ["10 minutes", "30 minutes", "45–60 minutes", "90+ minutes"], "correctIndex": 2 },
+            { "question": "The sea link reduced the Bandra-Worli journey to approximately how many minutes?", "options": ["5 minutes", "8–10 minutes", "20 minutes", "30 minutes"], "correctIndex": 1 }
+          ],
+          "summary": "The Bandra-Worli Sea Link (officially Rajiv Gandhi Sea Link), opened in 2009, is a 5.6-km cable-stayed bridge crossing Mahim Bay in Mumbai — one of India's most complex and expensive infrastructure projects, taking nearly a decade to build. The bridge uses 900 tonnes of steel wire in its cable stays — if laid end to end, equal to the circumference of the Earth. It reduced the peak-hour journey between Bandra and Worli from 45–60 minutes to just 8–10 minutes. The sea link is part of Mumbai's broader coastal road project and represents India's growing ambition in large-scale urban infrastructure, though its toll charges have limited its use by ordinary commuters."
+        },
+        {
+          "id": "eco_d5_pharma_hyderabad",
+          "location": { "name": "Hyderabad Pharma City — Telangana", "lat": 17.3850, "lng": 78.4867 },
+          "questions": [
+            { "question": "Hyderabad is known as 'Pharma City' and 'Genome Valley.' What percentage of India's bulk drug production comes from here?", "options": ["10%", "25%", "35%", "50%"], "correctIndex": 2 },
+            { "question": "Which globally significant pharmaceutical company — one of the world's largest vaccine manufacturers — is headquartered in Hyderabad?", "options": ["Sun Pharma", "Cipla", "Dr. Reddy's Laboratories", "Bharat Biotech"], "correctIndex": 3 },
+            { "question": "During the COVID-19 pandemic, Hyderabad-based firms produced which major vaccines?", "options": ["Pfizer-BioNTech only", "Covaxin (Bharat Biotech) and COVISHIELD (Serum Institute — actually Pune)", "AstraZeneca only", "Johnson & Johnson only"], "correctIndex": 1 },
+            { "question": "India is called the 'pharmacy of the world' because it produces approximately what percentage of global generic drugs by volume?", "options": ["5%", "10%", "20%", "40%"], "correctIndex": 2 },
+            { "question": "The Genome Valley near Hyderabad primarily houses which type of companies?", "options": ["IT companies", "Biotechnology and life sciences companies", "Defence manufacturing", "Space technology firms"], "correctIndex": 1 }
+          ],
+          "summary": "Hyderabad's pharmaceutical and biotechnology cluster — including the Genome Valley — is one of the world's most significant concentrations of drug manufacturing capacity. Approximately 35% of India's bulk drug production comes from Hyderabad, and the city hosts Dr. Reddy's Laboratories, Bharat Biotech (developer of Covaxin, India's indigenous COVID-19 vaccine), and dozens of global pharmaceutical companies' India operations. India produces approximately 20% of global generic drugs by volume — earning the title 'Pharmacy of the World' — supplying affordable medicines to developing countries globally. The Genome Valley's biotechnology park is one of Asia's largest dedicated biotech clusters."
+        },
+        {
+          "id": "eco_d5_konkan_railway",
+          "location": { "name": "Konkan Railway — Maharashtra/Goa/Karnataka", "lat": 15.3647, "lng": 74.1240 },
+          "questions": [
+            { "question": "How long is the Konkan Railway from Roha to Mangaluru?", "options": ["350 km", "741 km", "1,000 km", "1,400 km"], "correctIndex": 1 },
+            { "question": "Konkan Railway passes through how many tunnels approximately?", "options": ["50", "91", "150", "250"], "correctIndex": 1 },
+            { "question": "The Konkan Railway was built under which official's leadership?", "options": ["S. Ramakrishnan", "Madhav Rao Scindia", "E. Sreedharan", "T.N. Seshan"], "correctIndex": 2 },
+            { "question": "Which is India's longest rail tunnel, located on the Konkan Railway?", "options": ["Pir Panjal Tunnel", "Arpalli Tunnel", "Karbude Tunnel (6.5 km)", "Bhor Ghat Tunnel"], "correctIndex": 2 },
+            { "question": "Konkan Railway used an innovative financing method. What was it?", "options": ["World Bank loan", "Public bond issue directly to citizens", "ADB grant", "Government equity only"], "correctIndex": 1 }
+          ],
+          "summary": "The Konkan Railway (1998) — 741 km from Roha in Maharashtra to Mangaluru in Karnataka — is one of India's most challenging engineering achievements, cutting through the extremely rugged Western Ghats coastal terrain with 91 tunnels (including India's longest rail tunnel at Karbude, 6.5 km) and 2,000 bridges. Built under E. Sreedharan ('Metro Man'), the same official who later led the Delhi Metro, it was partly financed through a public bond issue — a pioneering model for Indian infrastructure. The railway transformed the isolated Konkan coast, dramatically reducing travel times and opening up one of India's most beautiful coastal regions to commerce and tourism."
+        },
+        {
+          "id": "eco_d5_surat_diamonds",
+          "location": { "name": "Surat Diamond Industry — Gujarat", "lat": 21.1702, "lng": 72.8311 },
+          "questions": [
+            { "question": "Surat processes approximately what percentage of the world's rough diamonds?", "options": ["20%", "50%", "70%", "90%"], "correctIndex": 2 },
+            { "question": "The Surat Diamond Bourse, inaugurated in 2023, is the world's largest what?", "options": ["Diamond auction house", "Corporate office building by floor space", "Gem and jewellery market", "Diamond testing laboratory"], "correctIndex": 1 },
+            { "question": "Most rough diamonds processed in Surat come from which country?", "options": ["South Africa", "Russia", "Botswana", "All three — global sourcing through Antwerp and Dubai"], "correctIndex": 3 },
+            { "question": "Surat's diamond industry employs approximately how many workers?", "options": ["50,000", "200,000", "700,000", "1 million+"], "correctIndex": 2 },
+            { "question": "Surat's meteoric rise in diamond cutting started in which decade, after a Gujarati merchant community established the trade?", "options": ["1930s", "1950s", "1970s", "1990s"], "correctIndex": 1 }
+          ],
+          "summary": "Surat in Gujarat processes approximately 90% of the world's rough diamonds — making the city responsible for cutting and polishing almost every diamond that ends up in jewellery globally, regardless of where it was mined. The industry employs approximately 700,000 workers, mostly from Saurashtra, who came to Surat starting in the 1950s when Gujarati merchant communities established the cutting trade. The Surat Diamond Bourse, inaugurated in December 2023, is the world's largest corporate office building by floor space — surpassing the Pentagon — built to consolidate the diamond trade in one complex. Lab-grown diamonds are increasingly being produced in Surat, transforming the global diamond market."
+        },
+        {
+          "id": "eco_d5_iit_kanpur",
+          "location": { "name": "IIT Kanpur — Uttar Pradesh", "lat": 26.5123, "lng": 80.2329 },
+          "questions": [
+            { "question": "IIT Kanpur was established with assistance from which consortium of American universities?", "options": ["Ivy League universities", "MIT and Caltech", "The Kanpur Indo-American Programme (KIAP) — 9 US universities", "Harvard and Yale"], "correctIndex": 2 },
+            { "question": "IIT Kanpur was established in which year?", "options": ["1951", "1959", "1963", "1970"], "correctIndex": 1 },
+            { "question": "IIT Kanpur is notable for having India's first what on campus?", "options": ["Computer centre (1963)", "Nuclear reactor", "Wind tunnel", "Satellite ground station"], "correctIndex": 0 },
+            { "question": "The IIT system was established based on the recommendations of which committee?", "options": ["Kothari Commission", "Mudaliar Commission", "Sarkar Committee (N.R. Sarkar)", "Radhakrishnan Commission"], "correctIndex": 2 },
+            { "question": "IIT Kanpur's alumni include founders of which major Indian company?", "options": ["Tata Consultancy Services", "Flipkart (Sachin Bansal and Binny Bansal are alumni)", "IndiGo airline", "Infosys"], "correctIndex": 1 }
+          ],
+          "summary": "IIT Kanpur, established in 1959 with support from a consortium of nine American universities (the Kanpur Indo-American Programme — KIAP), was envisioned as India's MIT. It installed India's first computer on a university campus in 1963 — an IBM 1620 — which helped establish the country's earliest programming culture. IIT Kanpur pioneered research-driven undergraduate education in India and has produced exceptional alumni including Flipkart co-founders Sachin and Binny Bansal, who built India's first billion-dollar e-commerce company. The IIT system, born from the Sarkar Committee's recommendations in the late 1940s, represents one of independent India's most consequential institutional investments."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d5_eid_hyderabad",
+          "location": { "name": "Eid ul-Fitr — Hyderabad, Telangana", "lat": 17.3850, "lng": 78.4867 },
+          "questions": [
+            { "question": "Eid ul-Fitr marks the end of which Islamic holy month?", "options": ["Muharram", "Dhul Hijjah", "Ramadan", "Sha'ban"], "correctIndex": 2 },
+            { "question": "The traditional Eid prayer is offered where?", "options": ["Inside mosques only", "At designated open-air Eidgahs or large mosques", "At home with family", "At the local cemetery"], "correctIndex": 1 },
+            { "question": "Hyderabad's Eid celebrations are famous for which iconic dish?", "options": ["Biryani", "Haleem", "Nihari", "Both Haleem and Biryani"], "correctIndex": 3 },
+            { "question": "The Charminar area of Hyderabad during Eid is famous for?", "options": ["The largest Eid prayer gathering", "All-night shopping in the Laad Bazar for bangles and clothes", "A massive charity food distribution", "A traditional music concert"], "correctIndex": 1 },
+            { "question": "What is the charitable giving associated with Eid ul-Fitr called?", "options": ["Zakat", "Sadaqah", "Zakat ul-Fitr (Fitrana)", "Khums"], "correctIndex": 2 }
+          ],
+          "summary": "Eid ul-Fitr — celebrated by over 200 million Indian Muslims — marks the end of Ramadan with communal prayers at Eidgahs, family gatherings, gift-giving, and feasting. Hyderabad's Eid celebrations have a distinctive flavour shaped by its Nizami heritage: the Charminar's Laad Bazar stays open through the night in the final days of Ramadan, with families shopping for glass bangles and embroidered clothes. Hyderabad Haleem — a slow-cooked meat and wheat porridge unique to the city, with a GI tag — is a Ramadan and Eid staple. Zakat ul-Fitr (charitable giving before the Eid prayer) ensures that poorer community members can participate in the celebrations, embodying Islam's emphasis on communal welfare."
+        },
+        {
+          "id": "evt_d5_losar_sikkim",
+          "location": { "name": "Losar — Gangtok, Sikkim", "lat": 27.3389, "lng": 88.6065 },
+          "questions": [
+            { "question": "Losar is the new year of which Buddhist community?", "options": ["Theravada Buddhists of Kerala", "Tibetan Buddhist communities of Sikkim, Ladakh, and Arunachal Pradesh", "Sri Lankan Buddhist monks", "Mahayana Buddhists of West Bengal"], "correctIndex": 1 },
+            { "question": "The elaborate mask dance performed by monks during Losar is called?", "options": ["Chhau", "Cham dance", "Kathak", "Mohiniyattam"], "correctIndex": 1 },
+            { "question": "Losar falls in which approximate English month?", "options": ["October-November", "December-January", "February-March", "April-May"], "correctIndex": 2 },
+            { "question": "The Rumtek Monastery near Gangtok is the seat of which school of Tibetan Buddhism?", "options": ["Gelug", "Nyingma", "Kagyu", "Sakya"], "correctIndex": 2 },
+            { "question": "Losar celebrations include the preparation of which traditional dish made from tsampa (roasted barley)?", "options": ["Khapse (fried pastry)", "Guthuk — a noodle soup eaten on Losar eve", "Momos (dumplings)", "Thukpa (noodle broth)"], "correctIndex": 1 }
+          ],
+          "summary": "Losar — the Tibetan Buddhist New Year — is the most important festival for Sikkim's Bhutia and Lepcha Buddhist communities, falling in February-March. Celebrations at Rumtek Monastery (seat of the Kagyu school of Tibetan Buddhism near Gangtok) and other monasteries across Sikkim feature the Cham dance — elaborate masked performances by monks in which deities defeat evil forces. The Guthuk soup eaten on Losar eve contains dough balls with hidden objects (a stone, coal, chilli) whose discovery reveals the eater's character for the coming year. Sikkim's monastery circuit — including Pemayangtse, Tashiding, and Enchey — becomes especially vibrant during Losar as the diaspora returns."
+        },
+        {
+          "id": "evt_d5_lathmar_holi",
+          "location": { "name": "Lathmar Holi — Barsana, Uttar Pradesh", "lat": 27.6467, "lng": 77.3850 },
+          "questions": [
+            { "question": "Lathmar Holi at Barsana involves what unique ritual?", "options": ["Men throwing coloured powder at women", "Women beating men with sticks (lathis) while men shield themselves", "Children collecting sweets from houses", "A procession of bulls through the town"], "correctIndex": 1 },
+            { "question": "Barsana is associated with which figure from Hindu mythology?", "options": ["Sita — birthplace", "Radha — associated with her childhood", "Draupadi — her swayamvar site", "Mirabai — her temple"], "correctIndex": 1 },
+            { "question": "Lathmar Holi traditionally takes place how many days before the main Holi festival?", "options": ["1 day before", "A week before", "A few days before (it is part of Braj Holi celebrations spanning several weeks)", "One month before"], "correctIndex": 2 },
+            { "question": "The Braj region where Lathmar Holi is celebrated most intensely includes which towns?", "options": ["Mathura, Vrindavan, Barsana, Nandgaon", "Agra, Mathura, Vrindavan", "Allahabad, Varanasi, Mathura", "Delhi, Mathura, Agra"], "correctIndex": 0 },
+            { "question": "The tradition of women beating men in Lathmar Holi is said to recreate which mythological episode?", "options": ["Draupadi's disrobing", "Krishna visiting Radha's village of Barsana and being chased away by the gopinis", "Rama's exile", "Arjuna's disguise as Brihannala"], "correctIndex": 1 }
+          ],
+          "summary": "Lathmar Holi at Barsana in Uttar Pradesh — the village traditionally associated with Radha — is one of India's most distinctive and joyous festivals. Women from Barsana beat men (from neighbouring Nandgaon, Krishna's village) with decorated wooden sticks (lathis) while the men try to protect themselves with leather shields and shields of song. The tradition recreates the mythological episode of Krishna's visit to Radha's village, where the gopinis (cowgirls) chased him away in playful revenge. Lathmar Holi takes place days before the main Holi festival and forms part of the month-long Braj Holi celebrations — one of the most vivid and photographed festival traditions in India."
+        },
+        {
+          "id": "evt_d5_bharatanatyam",
+          "location": { "name": "Bharatanatyam — Thanjavur, Tamil Nadu", "lat": 10.7869, "lng": 79.1378 },
+          "questions": [
+            { "question": "Bharatanatyam is one of India's classical dance forms. It originated in which tradition?", "options": ["Royal court entertainment", "Devadasi tradition (temple dance) of Tamil Nadu", "Folk dance of rural Tamil Nadu", "Buddhist ceremonial dance"], "correctIndex": 1 },
+            { "question": "Which classical text is Bharatanatyam's theoretical foundation?", "options": ["Arthashastra", "Natyashastra", "Manusmriti", "Kamandakiya Nitisara"], "correctIndex": 1 },
+            { "question": "The 'Abhinaya Darpana' — an important manual for Bharatanatyam — describes how many hand gestures (mudras)?", "options": ["28", "64", "108", "200"], "correctIndex": 0 },
+            { "question": "Who is credited with reforming and reviving Bharatanatyam for the modern stage in the 1930s?", "options": ["Rukmini Devi Arundale", "Balasaraswati", "Yamini Krishnamurthy", "Mrinalini Sarabhai"], "correctIndex": 0 },
+            { "question": "Bharatanatyam has how many elements in its performance structure?", "options": ["Three (Nritta, Nritya, Natya)", "Five", "Seven", "Nine (Navarasas only)"], "correctIndex": 0 }
+          ],
+          "summary": "Bharatanatyam — one of India's eight classical dance forms — originated in the temple dance (Devadasi) tradition of Tamil Nadu's temples, particularly in the Thanjavur region. Rooted in the Natyashastra (the ancient treatise on performing arts attributed to Bharata Muni), it combines pure dance (Nritta), expressive dance (Nritya), and dramatic representation (Natya). Its distinctive features include bent knees (aramandi position), intricate footwork, and 28 hand gestures (mudras) used to narrate stories from Hindu mythology. Rukmini Devi Arundale, founder of Kalakshetra Chennai, transformed Bharatanatyam from a temple/courtesan tradition to a respected concert art form in the 1930s, enabling its global spread."
+        },
+        {
+          "id": "evt_d5_ganga_aarti",
+          "location": { "name": "Ganga Aarti — Varanasi, Uttar Pradesh", "lat": 25.3109, "lng": 83.0106 },
+          "questions": [
+            { "question": "The Ganga Aarti at Varanasi is performed at which ghat?", "options": ["Manikarnika Ghat", "Assi Ghat", "Dashashwamedh Ghat", "Harishchandra Ghat"], "correctIndex": 2 },
+            { "question": "The Ganga Aarti is performed how often?", "options": ["Weekly on Sundays", "During festivals only", "Every evening at sunset, daily without exception", "On full moon nights only"], "correctIndex": 2 },
+            { "question": "The priests performing the Ganga Aarti use which primary ritual object?", "options": ["Conch shells", "Large brass lamps (deepams) with multiple flames", "Incense sticks", "Copper vessels with Ganga water"], "correctIndex": 1 },
+            { "question": "Varanasi (Kashi) is believed to be the city of which deity?", "options": ["Vishnu", "Brahma", "Shiva (Lord of Kashi)", "Rama"], "correctIndex": 2 },
+            { "question": "Dying in Varanasi is considered auspicious in Hinduism because?", "options": ["The weather is good for cremation", "Shiva himself whispers the Taraka mantra in the dying person's ear, granting moksha", "The Ganga water purifies all sins at death", "The oldest cremation ground (Manikarnika) ensures spiritual merit"], "correctIndex": 1 }
+          ],
+          "summary": "The Ganga Aarti at Dashashwamedh Ghat in Varanasi — performed every evening at sunset without exception, 365 days a year — is one of Hinduism's most spectacular and moving rituals. Priests in saffron robes perform a precisely choreographed sequence of flame, incense, flower, and water offerings to the river while thousands of devotees watch from boats and the ghat steps. Varanasi (ancient Kashi) is Lord Shiva's city — believed to be the oldest continuously inhabited city on Earth. Hindu tradition holds that dying in Varanasi guarantees moksha (liberation from the cycle of rebirth) because Shiva himself whispers the Taraka mantra in the dying person's ear — a belief that draws hundreds of thousands of pilgrims to the city annually."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d5_mizoram_aizawl",
+          "location": { "name": "Aizawl — Mizoram Capital", "lat": 23.7307, "lng": 92.7173 },
+          "questions": [
+            { "question": "Mizoram became a full Indian state in which year?", "options": ["1972", "1980", "1987", "1990"], "correctIndex": 2 },
+            { "question": "Mizoram has the second-highest literacy rate in India, after?", "options": ["Goa", "Kerala", "Sikkim", "Tripura"], "correctIndex": 1 },
+            { "question": "The Mizo people are predominantly?", "options": ["Hindu", "Muslim", "Christian", "Buddhist"], "correctIndex": 2 },
+            { "question": "The 1986 Mizoram Peace Accord ended an insurgency led by?", "options": ["MNF (Mizo National Front)", "NSCN", "ULFA", "PLA"], "correctIndex": 0 },
+            { "question": "Aizawl is built on a narrow ridge at approximately what altitude?", "options": ["500m", "900m", "1,132m", "1,800m"], "correctIndex": 2 }
+          ],
+          "summary": "Mizoram, carved from Assam in 1987 after the Mizo Peace Accord ended a 20-year insurgency by the Mizo National Front, is one of India's most peaceful and socially distinctive northeastern states. Over 87% of its population is Christian — a result of Welsh Baptist missionary activity from the 1890s — giving it a cultural character markedly different from the rest of India. Mizoram has the second-highest literacy rate in India (after Kerala) at over 91%. Aizawl, the capital, is built dramatically on a ridge at 1,132 metres with houses stacked vertically on steep slopes. The state's Young Mizo Association — a voluntary social organisation — effectively manages community affairs with a reach that surpasses most government departments."
+        },
+        {
+          "id": "pol_d5_andaman_port_blair",
+          "location": { "name": "Port Blair — Andaman & Nicobar Islands Capital", "lat": 11.6234, "lng": 92.7265 },
+          "questions": [
+            { "question": "The Andaman and Nicobar Islands are administered as a Union Territory. Which is the only UT in India with a tribal population forming its original inhabitants?", "options": ["Dadra and Nagar Haveli", "Andaman and Nicobar Islands", "Lakshadweep", "Puducherry"], "correctIndex": 1 },
+            { "question": "The Andaman and Nicobar Islands were occupied by Japan during?", "options": ["World War I", "World War II (1942-1945)", "The 1971 Bangladesh Liberation War", "They were never occupied"], "correctIndex": 1 },
+            { "question": "Netaji Subhas Chandra Bose hoisted the Indian national flag for the first time on Indian soil at Port Blair in?", "options": ["1942", "1943", "1945", "1947"], "correctIndex": 1 },
+            { "question": "The 2004 tsunami devastated which part of the Andaman and Nicobar Islands most severely?", "options": ["North Andaman", "Car Nicobar and Indira Point (Great Nicobar)", "Port Blair", "Middle Andaman"], "correctIndex": 1 },
+            { "question": "Indira Point at the southern tip of Great Nicobar Island is significant because?", "options": ["It is the southernmost point of India", "It is the nearest Indian point to the equator", "It has the world's largest coral atoll", "Both a and b"], "correctIndex": 3 }
+          ],
+          "summary": "Port Blair, the capital of the Andaman and Nicobar Islands, is the administrative hub of India's most strategically positioned Union Territory — 1,200 km from the mainland, yet controlling shipping lanes through the Strait of Malacca. During World War II, the Japanese occupied the islands (1942-1945), and Netaji Subhas Chandra Bose symbolically hoisted the Indian tricolour at Port Blair in 1943. The 2004 Indian Ocean tsunami was catastrophic for the islands — particularly Car Nicobar and the southern Nicobars, where entire villages were swept away. Indira Point at the southern tip of Great Nicobar, India's southernmost and closest-to-equator point, was permanently submerged by the tsunami's aftermath."
+        },
+        {
+          "id": "pol_d5_jaipur_rajasthan",
+          "location": { "name": "Jaipur — Rajasthan Capital", "lat": 26.9124, "lng": 75.7873 },
+          "questions": [
+            { "question": "Jaipur is called the 'Pink City.' Why?", "options": ["Its red sandstone buildings appear pink in certain light", "It was painted pink to welcome Prince Albert in 1876 — the colour of hospitality", "Pink is the sacred colour of Rajput warriors", "Its soil has a distinctive pink tint"], "correctIndex": 1 },
+            { "question": "Jaipur was founded in 1727 by which ruler?", "options": ["Man Singh I", "Prithviraj Chauhan", "Jai Singh II", "Ram Singh II"], "correctIndex": 2 },
+            { "question": "Jaipur is the only city in the world to be built on which city-planning principle that it is still recognisable by?", "options": ["Concentric ring roads", "Vastu Shastra grid plan (a 3×3 grid of sectors)", "Pentagon-shaped city blocks", "Radial boulevard design from a central palace"], "correctIndex": 1 },
+            { "question": "The Jaipur Literature Festival, held annually in January, is the world's largest?", "options": ["Literary festival by attendance", "Free literary festival", "Festival featuring Indian literature", "Outdoor book fair"], "correctIndex": 1 },
+            { "question": "Rajasthan was formed by the merger of how many princely states?", "options": ["10", "19", "22", "35"], "correctIndex": 2 }
+          ],
+          "summary": "Jaipur, founded in 1727 by Maharaja Jai Singh II — the astronomer-king who also built the Jantar Mantar observatories — was India's first planned city, laid out on a Vastu Shastra grid of nine rectangular sectors. Its distinctive pink colour dates to 1876 when the entire city was painted pink (the colour of hospitality in Rajput tradition) to welcome Prince Albert, Queen Victoria's son. Today Jaipur is the capital of Rajasthan — India's largest state by area, formed by the merger of 22 princely states in 1949-56. The Jaipur Literature Festival, held every January, is the world's largest free literary festival, drawing 400,000+ visitors and hundreds of authors from around the world."
+        },
+        {
+          "id": "pol_d5_bhubaneswar_odisha",
+          "location": { "name": "Bhubaneswar — Odisha Capital", "lat": 20.2961, "lng": 85.8245 },
+          "questions": [
+            { "question": "Bhubaneswar is called the 'Temple City of India.' Approximately how many ancient temples does it have?", "options": ["Over 100", "Over 500", "Over 700", "Over 1,000"], "correctIndex": 2 },
+            { "question": "Odisha was previously known by which name until 2011?", "options": ["Kalinga", "Utkal", "Orissa", "Utkala Pradesh"], "correctIndex": 2 },
+            { "question": "The Kalinga War, which deeply affected Emperor Ashoka, was fought in the territory of present-day Odisha near which site?", "options": ["Bhubaneswar", "Dhauli (near Bhubaneswar)", "Puri", "Cuttack"], "correctIndex": 1 },
+            { "question": "Bhubaneswar is being developed as a Smart City. The new planned township adjacent to it is called?", "options": ["New Bhubaneswar", "INFOCITY", "New Town Bhubaneswar", "EKAMRA Nagar"], "correctIndex": 3 },
+            { "question": "The Lingaraja Temple in Bhubaneswar — the city's most important — is dedicated to which deity?", "options": ["Jagannath (Vishnu)", "Shiva as Lingaraja", "Durga", "Surya (Sun God)"], "correctIndex": 1 }
+          ],
+          "summary": "Bhubaneswar — Odisha's capital and 'Temple City of India' — once had over 700 ancient temples within its precincts, of which approximately 500 survive. The Lingaraja Temple (11th century CE), dedicated to Shiva as Lingaraja ('King of the Universe'), is the largest and most significant. The Dhauli Hills nearby mark the site of the Kalinga War (261 BCE) — Emperor Ashoka's most brutal conquest, after which the sight of 100,000 dead so horrified him that he renounced warfare and embraced Buddhism. Odisha was renamed from 'Orissa' to 'Odisha' in 2011 (the Odia spelling reflecting local pronunciation). EKAMRA Nagar is Bhubaneswar's new planned township for IT and smart city development."
+        },
+        {
+          "id": "pol_d5_kolkata_wb",
+          "location": { "name": "Kolkata — West Bengal Capital", "lat": 22.5726, "lng": 88.3639 },
+          "questions": [
+            { "question": "Kolkata was the capital of British India until which year?", "options": ["1905", "1911", "1920", "1947"], "correctIndex": 1 },
+            { "question": "The East India Company established its first major trading post in Kolkata (then a group of villages) in which year?", "options": ["1690", "1730", "1757", "1800"], "correctIndex": 0 },
+            { "question": "Kolkata is known as the 'Cultural Capital of India' primarily due to its contributions to?", "options": ["Classical music", "Bengali literature, cinema, and the Bengal Renaissance", "Classical dance", "Traditional crafts"], "correctIndex": 1 },
+            { "question": "The Bengal Famine of 1943, which killed approximately 2-3 million people, occurred during whose tenure as Bengal's Governor?", "options": ["Lord Mountbatten", "Lord Linlithgow (Viceroy) — the British policy context", "Winston Churchill's wartime government", "All of the above contributed to the policy failures"], "correctIndex": 3 },
+            { "question": "The Howrah Bridge, one of Kolkata's most iconic landmarks, is what type of bridge?", "options": ["Cable-stayed bridge", "Suspension bridge", "Cantilever truss bridge", "Arch bridge"], "correctIndex": 2 }
+          ],
+          "summary": "Kolkata — the 'City of Joy' and cultural capital of India — was the centre of the British Indian Empire from the East India Company's 1690 trading post until the capital transferred to Delhi in 1911. The Bengal Renaissance of the 19th century — with figures like Raja Ram Mohan Roy, Tagore, Vivekananda, and Bankim Chandra Chatterjee — made Kolkata the intellectual epicentre of modern India's social and cultural reform. The 1943 Bengal Famine, caused by wartime policy failures that diverted food from Bengal, killed 2-3 million people. The Howrah Bridge (completed 1943), a cantilever truss bridge spanning the Hooghly River, remains one of the world's busiest bridges — carrying approximately 100,000 vehicles and 150,000 pedestrians daily."
+        }
+      ]
+    }
+  }
+}

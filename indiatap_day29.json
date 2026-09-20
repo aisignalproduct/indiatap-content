@@ -1,0 +1,326 @@
+{
+  "day": 29,
+  "date": "2026-10-29",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d29_baralacha_la",
+          "location": { "name": "Baralacha La, Himachal Pradesh", "lat": 32.7500, "lng": 77.4167 },
+          "questions": [
+            { "question": "Baralacha La connects the Lahaul-Spiti region with which Union Territory?", "options": ["Ladakh", "Jammu and Kashmir", "Sikkim", "Uttarakhand"], "correctIndex": 0 },
+            { "question": "Baralacha La is situated at approximately what elevation?", "options": ["4,890 meters", "1,500 meters", "2,500 meters", "8,000 meters"], "correctIndex": 0 },
+            { "question": "Baralacha La marks a significant point for which geographic feature?", "options": ["A watershed", "A coastline", "A desert boundary", "A forest edge"], "correctIndex": 0 },
+            { "question": "Baralacha La remains accessible mainly during which season?", "options": ["Summer", "Winter", "Monsoon", "Spring only"], "correctIndex": 0 },
+            { "question": "Baralacha La has historically served as a route for nomadic herders moving livestock between seasonal?", "options": ["Grazing grounds", "Trading posts", "Religious sites", "Military camps"], "correctIndex": 0 }
+          ],
+          "summary": "Baralacha La, in Himachal Pradesh, is a high-altitude mountain pass at approximately 4,890 meters, serving as a critical link connecting the Lahaul-Spiti region with Ladakh. The pass marks a significant watershed point, with rivers flowing from its vicinity feeding into different major river systems. Baralacha La remains snowbound for much of the year, accessible mainly during a limited summer window, and has historically served as an important route for nomadic herders moving livestock between seasonal grazing grounds."
+        },
+        {
+          "id": "geo_d29_chang_la",
+          "location": { "name": "Chang La, Ladakh", "lat": 34.0000, "lng": 77.9333 },
+          "questions": [
+            { "question": "Chang La connects Leh with which popular high-altitude lake destination?", "options": ["Pangong Tso", "Tso Moriri", "Tso Kar", "Dal Lake"], "correctIndex": 0 },
+            { "question": "Chang La's elevation exceeds approximately how many meters?", "options": ["5,300 meters", "2,000 meters", "3,000 meters", "8,000 meters"], "correctIndex": 0 },
+            { "question": "Chang La presents challenging travel conditions primarily due to?", "options": ["Thin oxygen levels at high altitude", "Extreme heat", "Dense jungle terrain", "Heavy monsoon rains"], "correctIndex": 0 },
+            { "question": "Chang La is named after a revered local?", "options": ["Saint", "King", "General", "Poet"], "correctIndex": 0 },
+            { "question": "Chang La is located in which Indian Union Territory?", "options": ["Ladakh", "Jammu and Kashmir", "Himachal Pradesh", "Sikkim"], "correctIndex": 0 }
+          ],
+          "summary": "Chang La, in Ladakh, is one of the world's higher motorable mountain passes, situated on the route connecting Leh with the popular Pangong Tso lake. At an elevation exceeding 5,300 meters, the pass presents challenging conditions due to thin oxygen levels, requiring acclimatization for travelers. Chang La is named after a revered local saint, with a small shrine near the pass, and basic facilities including a tea stall have been established to serve the substantial seasonal traffic traveling between Leh and Pangong Tso."
+        },
+        {
+          "id": "geo_d29_nathu_la",
+          "location": { "name": "Nathu La, Sikkim", "lat": 27.3862, "lng": 88.8419 },
+          "questions": [
+            { "question": "Nathu La lies along the ancient Silk Route connecting India with?", "options": ["Tibet", "Nepal", "Bhutan", "Myanmar"], "correctIndex": 0 },
+            { "question": "Nathu La was reopened for limited border trade in which year?", "options": ["2006", "1990", "2015", "1975"], "correctIndex": 0 },
+            { "question": "Nathu La is located on the border between India and which country?", "options": ["China", "Nepal", "Bhutan", "Myanmar"], "correctIndex": 0 },
+            { "question": "Nathu La has periodically served as a route for pilgrims undertaking which Yatra?", "options": ["Kailash Mansarovar Yatra", "Char Dham Yatra", "Amarnath Yatra", "Kanwar Yatra"], "correctIndex": 0 },
+            { "question": "Nathu La is located in which Indian state?", "options": ["Sikkim", "West Bengal", "Arunachal Pradesh", "Assam"], "correctIndex": 0 }
+          ],
+          "summary": "Nathu La, in Sikkim, is a historic mountain pass along the ancient Silk Route connecting India with Tibet, situated on the India-China border. Closed for decades following bilateral tensions, the pass was reopened in 2006 for limited border trade, marking a symbolic step in improving relations. Nathu La has also periodically served as a route for pilgrims undertaking the Kailash Mansarovar Yatra, and its dramatic setting combined with historical significance has made it an increasingly popular destination for tourists visiting this symbolic border location."
+        },
+        {
+          "id": "geo_d29_bumla_pass",
+          "location": { "name": "Bumla Pass, Arunachal Pradesh", "lat": 27.7000, "lng": 91.8667 },
+          "questions": [
+            { "question": "Bumla Pass is located near which town in Arunachal Pradesh?", "options": ["Tawang", "Itanagar", "Ziro", "Along"], "correctIndex": 0 },
+            { "question": "Bumla Pass holds significant historical importance related to which conflict?", "options": ["The 1962 Indo-China war", "The 1971 Indo-Pak war", "World War II", "The 1999 Kargil War"], "correctIndex": 0 },
+            { "question": "Bumla Pass historically served as a trade route between India and?", "options": ["Tibet", "Nepal", "Bhutan", "Myanmar"], "correctIndex": 0 },
+            { "question": "Access to Bumla Pass generally requires?", "options": ["Special permits", "No restrictions at all", "Foreign visa only", "Military enlistment"], "correctIndex": 0 },
+            { "question": "Bumla Pass is located in which Indian state?", "options": ["Arunachal Pradesh", "Sikkim", "Assam", "Nagaland"], "correctIndex": 0 }
+          ],
+          "summary": "Bumla Pass, near Tawang in Arunachal Pradesh, is a historic mountain pass along the disputed India-China border, holding significant importance given its role during the 1962 Indo-China war. The pass historically served as a trade route between India and Tibet before border tensions led to its closure. Given its proximity to sensitive military installations, access generally requires special permits, and the pass occasionally hosts joint military ceremonies between Indian and Chinese forces during commemorative occasions."
+        },
+        {
+          "id": "geo_d29_nohkalikai",
+          "location": { "name": "Nohkalikai Falls, Meghalaya", "lat": 25.2801, "lng": 91.6961 },
+          "questions": [
+            { "question": "Nohkalikai Falls is recognized as India's tallest?", "options": ["Plunge waterfall", "Tiered waterfall", "Underground waterfall", "Seasonal stream"], "correctIndex": 0 },
+            { "question": "Nohkalikai Falls is located near which Meghalaya town, known as one of the wettest places on earth?", "options": ["Cherrapunji", "Shillong", "Tura", "Jowai"], "correctIndex": 0 },
+            { "question": "Nohkalikai Falls drops from a height of over how many meters?", "options": ["340 meters", "50 meters", "100 meters", "1,000 meters"], "correctIndex": 0 },
+            { "question": "The waterfall's name is linked to a tragic local legend involving a woman named?", "options": ["Ka Likai", "Ka Pah Syntiew", "Ka Mei Rangkasan", "Ka Khasi"], "correctIndex": 0 },
+            { "question": "Nohkalikai Falls' flow and volume vary dramatically due to Meghalaya's intense?", "options": ["Monsoon season", "Winter snowfall", "Desert heat", "Coastal tides"], "correctIndex": 0 }
+          ],
+          "summary": "Nohkalikai Falls, near Cherrapunji in Meghalaya, is India's tallest plunge waterfall, with water dropping from over 340 meters into a turquoise pool below, fed by rainwater given the region's status as one of the wettest places on earth. The waterfall's name carries a tragic local legend involving a woman named Ka Likai, part of Khasi oral tradition. The falls' flow varies dramatically with the seasons, transforming into a powerful cascade during monsoon season, making it one of Meghalaya's most visited natural attractions."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d29_nahargarh_fort",
+          "location": { "name": "Nahargarh Fort, Jaipur", "lat": 26.9373, "lng": 75.8154 },
+          "questions": [
+            { "question": "Nahargarh Fort was built to protect which city?", "options": ["Jaipur", "Jodhpur", "Udaipur", "Ajmer"], "correctIndex": 0 },
+            { "question": "Nahargarh Fort's name is popularly linked to a legend involving the spirit of a prince named?", "options": ["Nahar Singh", "Man Singh", "Jai Singh", "Sawai Singh"], "correctIndex": 0 },
+            { "question": "Nahargarh Fort was built to protect the capital of which ruling dynasty?", "options": ["Kachwaha rulers of Amber", "Sisodia rulers of Mewar", "Rathore rulers of Marwar", "Bhati rulers of Jaisalmer"], "correctIndex": 0 },
+            { "question": "Nahargarh Fort later served as a site for hosting foreign dignitaries during which era?", "options": ["The colonial era", "The Gupta era", "The Mauryan era", "The Vedic era"], "correctIndex": 0 },
+            { "question": "Jaipur is popularly known by which nickname, visible from Nahargarh Fort's elevated position?", "options": ["Pink City", "Blue City", "White City", "Golden City"], "correctIndex": 0 }
+          ],
+          "summary": "Nahargarh Fort, overlooking Jaipur, Rajasthan, was built in the 18th century as part of the city's defensive ring, protecting the newly established capital of the Kachwaha rulers of Amber. The fort's name is popularly linked to a legend involving the spirit of a prince named Nahar Singh. Nahargarh later served as a royal retreat and, during the colonial era, as a site for hosting foreign dignitaries, and its elevated position offers panoramic views over Jaipur, known as the 'Pink City.'"
+        },
+        {
+          "id": "cul_d29_panhala_fort",
+          "location": { "name": "Panhala Fort, Maharashtra", "lat": 16.8100, "lng": 74.1094 },
+          "questions": [
+            { "question": "Panhala Fort is historically significant for its association with which Maratha king?", "options": ["Chhatrapati Shivaji", "Sambhaji", "Rajaram", "Shahu"], "correctIndex": 0 },
+            { "question": "Panhala Fort was besieged by forces of which Sultanate?", "options": ["Adilshahi Sultanate of Bijapur", "Qutb Shahi Sultanate", "Nizam Shahi Sultanate", "Bahmani Sultanate"], "correctIndex": 0 },
+            { "question": "Panhala is particularly remembered for Shivaji's daring escape in which year?", "options": ["1660", "1600", "1700", "1750"], "correctIndex": 0 },
+            { "question": "Shivaji's escape from Panhala is celebrated for the sacrifice of his companion?", "options": ["Baji Prabhu Deshpande", "Tanaji Malusare", "Netaji Palkar", "Kondaji Farzand"], "correctIndex": 0 },
+            { "question": "Panhala Fort is located near which Maharashtra city?", "options": ["Kolhapur", "Pune", "Nashik", "Nagpur"], "correctIndex": 0 }
+          ],
+          "summary": "Panhala Fort, near Kolhapur in Maharashtra, is one of the largest hill forts in the Deccan, historically significant for its association with Chhatrapati Shivaji, who took refuge there during conflict with the Adilshahi Sultanate of Bijapur. Panhala is particularly remembered for Shivaji's daring 1660 escape while surrounded by Adilshahi forces, celebrated for the sacrifice of his companion Baji Prabhu Deshpande, who held off pursuers to enable the escape, making Panhala an important pilgrimage site for Maratha heritage."
+        },
+        {
+          "id": "cul_d29_raigad_fort",
+          "location": { "name": "Raigad Fort, Maharashtra", "lat": 18.2331, "lng": 73.4400 },
+          "questions": [
+            { "question": "Raigad Fort served as the capital of which empire?", "options": ["Maratha Empire", "Vijayanagara Empire", "Mughal Empire", "Chola Empire"], "correctIndex": 0 },
+            { "question": "Chhatrapati Shivaji was formally crowned at Raigad Fort in which year?", "options": ["1674", "1600", "1700", "1750"], "correctIndex": 0 },
+            { "question": "Raigad Fort houses the remains of Shivaji's?", "options": ["Samadhi (memorial)", "Throne room only", "Personal library", "Armory only"], "correctIndex": 0 },
+            { "question": "Raigad Fort was historically accessible only through a single heavily fortified?", "options": ["Pathway", "Tunnel", "Bridge", "River crossing"], "correctIndex": 0 },
+            { "question": "A more recent addition has made Raigad Fort significantly more accessible to visitors, called a?", "options": ["Ropeway", "Highway", "Railway", "Airport"], "correctIndex": 0 }
+          ],
+          "summary": "Raigad Fort, in Maharashtra, served as the capital of the Maratha Empire under Chhatrapati Shivaji, who was formally crowned there in 1674, marking a significant milestone for the independent Maratha kingdom. The fort's strategic hilltop location, accessible only through a single fortified pathway, made it a nearly impregnable stronghold. Raigad houses Shivaji's samadhi, an important pilgrimage site, and a more recent ropeway has made the historic hilltop complex significantly more accessible to visitors."
+        },
+        {
+          "id": "cul_d29_gomateshwara_karkala",
+          "location": { "name": "Gomateshwara Statue, Karkala", "lat": 13.2167, "lng": 74.9833 },
+          "questions": [
+            { "question": "The Gomateshwara statue at Karkala depicts which Jain figure?", "options": ["Bahubali", "Mahavira", "Parshvanatha", "Neminatha"], "correctIndex": 0 },
+            { "question": "The Karkala statue is smaller than the more famous statue at which other Karnataka site?", "options": ["Shravanabelagola", "Halebidu", "Belur", "Hampi"], "correctIndex": 0 },
+            { "question": "The Karkala Gomateshwara statue was built in which century?", "options": ["15th century", "10th century", "18th century", "5th century"], "correctIndex": 0 },
+            { "question": "The Karkala statue periodically undergoes a ceremonial anointing ritual called?", "options": ["Mahamastakabhisheka", "Kumbhabhishekam", "Panchamrit Abhishekam", "Rudrabhisheka"], "correctIndex": 0 },
+            { "question": "The Gomateshwara statue at Karkala is located in which Indian state?", "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Kerala"], "correctIndex": 0 }
+          ],
+          "summary": "The Gomateshwara statue at Karkala, in Karnataka, is a monolithic Jain sculpture of Bahubali, similar in significance to the more famous statue at Shravanabelagola, though considerably smaller at approximately 13 meters. Built in the 15th century under local Jain rulers' patronage, the statue reflects the broader tradition of monolithic Bahubali sculptures across Karnataka. Karkala's statue periodically undergoes the Mahamastakabhisheka anointing ritual, though on a smaller scale than the internationally recognized ceremony at Shravanabelagola."
+        },
+        {
+          "id": "cul_d29_chamundi_hill",
+          "location": { "name": "Chamundi Hill Temple, Mysuru", "lat": 12.2725, "lng": 76.6730 },
+          "questions": [
+            { "question": "The Chamundeshwari Temple is dedicated to which goddess, a form of Durga?", "options": ["Chamundeshwari", "Kamakshi", "Meenakshi", "Mahalakshmi"], "correctIndex": 0 },
+            { "question": "Chamundeshwari served as the tutelary deity of which ruling dynasty?", "options": ["Wadiyar dynasty", "Hoysala dynasty", "Vijayanagara dynasty", "Chalukya dynasty"], "correctIndex": 0 },
+            { "question": "Pilgrims traditionally climb approximately how many stone steps to reach the temple?", "options": ["A thousand", "A hundred", "Ten thousand", "Fifty"], "correctIndex": 0 },
+            { "question": "According to legend, Chamundeshwari defeated which demon?", "options": ["Mahishasura", "Ravana", "Kansa", "Hiranyakashipu"], "correctIndex": 0 },
+            { "question": "The Chamundeshwari Temple is located near which Karnataka city?", "options": ["Mysuru", "Bengaluru", "Hubballi", "Mangaluru"], "correctIndex": 0 }
+          ],
+          "summary": "The Chamundeshwari Temple, atop Chamundi Hill near Mysuru, Karnataka, is dedicated to the goddess Chamundeshwari, a form of Durga, and holds historical significance as the tutelary deity of the Wadiyar dynasty. Pilgrims traditionally climb approximately a thousand stone steps to reach the temple, passing a large Nandi bull statue. According to legend, Chamundeshwari defeated the demon Mahishasura, and the temple's continued royal patronage has made it one of Mysuru's most significant religious landmarks."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d29_mrpl",
+          "location": { "name": "MRPL, Karnataka", "lat": 12.8000, "lng": 74.8167 },
+          "questions": [
+            { "question": "Mangalore Refinery and Petrochemicals Limited (MRPL) is located in which Indian state?", "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "MRPL primarily processes crude oil into?", "options": ["Petroleum products", "Steel products", "Textile fibers", "Agricultural fertilizers"], "correctIndex": 0 },
+            { "question": "MRPL benefits from its coastal location near which city's port infrastructure?", "options": ["Mangaluru", "Chennai", "Kochi", "Visakhapatnam"], "correctIndex": 0 },
+            { "question": "MRPL later came under greater ownership by which public sector company?", "options": ["ONGC", "Indian Oil Corporation", "Bharat Petroleum", "Reliance Industries"], "correctIndex": 0 },
+            { "question": "MRPL's operations contribute significantly to meeting fuel demand across which region?", "options": ["Southern India", "Northern India", "Northeastern India", "Western India"], "correctIndex": 0 }
+          ],
+          "summary": "Mangalore Refinery and Petrochemicals Limited (MRPL), in Karnataka, is a major public sector oil refinery processing crude oil for domestic and export markets, benefiting from its coastal location near Mangaluru's port infrastructure. Established as a joint venture that later came under greater ONGC ownership, MRPL reflects the pattern of public sector oil companies expanding refining capacity. The refinery's operations contribute significantly to meeting fuel demand across southern India, supporting transportation and industrial energy needs."
+        },
+        {
+          "id": "eco_d29_bina_refinery",
+          "location": { "name": "Bina Refinery, Madhya Pradesh", "lat": 24.1833, "lng": 78.2000 },
+          "questions": [
+            { "question": "The Bina Refinery is located in which Indian state?", "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Gujarat"], "correctIndex": 0 },
+            { "question": "The Bina Refinery's inland location required the development of dedicated?", "options": ["Pipeline infrastructure", "Port facilities", "Railway lines only", "Airport terminals"], "correctIndex": 0 },
+            { "question": "The Bina Refinery was established as a joint venture between an Indian public sector company and a?", "options": ["Foreign oil company", "Domestic private startup", "State government agency", "Foreign government directly"], "correctIndex": 0 },
+            { "question": "Bina's refinery reflects broader trends of international partnership in India's energy sector during which period?", "options": ["The 2000s and 2010s", "The 1950s", "The 1970s", "The 1990s"], "correctIndex": 0 },
+            { "question": "The Bina Refinery primarily supports fuel supply chains across which region?", "options": ["Central India", "Coastal India only", "Northeastern India", "Southern India only"], "correctIndex": 0 }
+          ],
+          "summary": "The Bina Refinery, in Madhya Pradesh, is a joint venture oil refinery processing crude oil for central India, representing significant investment in a region less associated with refining infrastructure than coastal states. The refinery's inland location required dedicated pipeline infrastructure from coastal terminals, and its establishment as a joint venture between an Indian public sector company and a foreign oil company reflected international partnership trends in India's energy sector during the 2000s and 2010s."
+        },
+        {
+          "id": "eco_d29_paradeep_refinery",
+          "location": { "name": "Paradeep Refinery, Odisha", "lat": 20.3167, "lng": 86.6167 },
+          "questions": [
+            { "question": "The Paradeep Refinery is located in which Indian state?", "options": ["Odisha", "West Bengal", "Andhra Pradesh", "Tamil Nadu"], "correctIndex": 0 },
+            { "question": "The Paradeep Refinery was developed by which public sector company?", "options": ["Indian Oil Corporation", "ONGC", "Bharat Petroleum", "Reliance Industries"], "correctIndex": 0 },
+            { "question": "The Paradeep Refinery is located near which existing port infrastructure?", "options": ["Paradip Port", "Chennai Port", "Mumbai Port", "Kandla Port"], "correctIndex": 0 },
+            { "question": "Paradeep's development required navigating complex negotiations with?", "options": ["Local communities", "Foreign governments", "International courts", "Military authorities"], "correctIndex": 0 },
+            { "question": "The Paradeep Refinery complements Odisha's existing steel and which other sector?", "options": ["Mining sector", "Textile sector", "Software sector", "Agricultural sector"], "correctIndex": 0 }
+          ],
+          "summary": "The Paradeep Refinery, in Odisha, is a major public sector oil refinery developed by Indian Oil Corporation, located near existing Paradip Port infrastructure for coastal logistics. The refinery represents significant capacity expansion for meeting India's growing fuel demand. Paradeep's development required navigating complex negotiations with local communities and environmental requirements, and its operations complement Odisha's existing steel and mining sectors with expanded petroleum processing along its eastern coastline."
+        },
+        {
+          "id": "eco_d29_ioc_panipat",
+          "location": { "name": "IOC Panipat Refinery, Haryana", "lat": 29.4297, "lng": 76.9540 },
+          "questions": [
+            { "question": "Indian Oil Corporation's Panipat refinery is located in which Indian state?", "options": ["Haryana", "Punjab", "Uttar Pradesh", "Rajasthan"], "correctIndex": 0 },
+            { "question": "The Panipat refinery primarily supplies fuel to which region?", "options": ["National Capital Region and northern India", "Southern India", "Northeastern India", "Coastal Gujarat"], "correctIndex": 0 },
+            { "question": "Panipat's refinery, being inland, requires pipeline connections to?", "options": ["Coastal crude oil import terminals", "Nuclear power plants", "Agricultural warehouses", "Military bases"], "correctIndex": 0 },
+            { "question": "Panipat's refinery operations exist alongside the city's separate identity as a major hub for?", "options": ["Textile recycling", "Software development", "Automobile manufacturing", "Diamond cutting"], "correctIndex": 0 },
+            { "question": "The Panipat refinery reflects Indian Oil Corporation's strategy of developing which type of refining capacity?", "options": ["Inland refining capacity", "Only offshore refining", "Only export-focused refining", "Only military fuel refining"], "correctIndex": 0 }
+          ],
+          "summary": "Indian Oil Corporation's refinery at Panipat, in Haryana, is a significant inland refining facility supplying fuel to the National Capital Region, requiring pipeline connections to coastal crude oil terminals given its landlocked location. The refinery has undergone several capacity expansions reflecting growing fuel demand across northern India. Panipat's refinery operations complement the city's separate identity as a major textile recycling hub, illustrating how one city can host distinctly different major industrial sectors."
+        },
+        {
+          "id": "eco_d29_gg_singh_refinery",
+          "location": { "name": "Guru Gobind Singh Refinery, Bathinda", "lat": 30.2110, "lng": 74.9455 },
+          "questions": [
+            { "question": "The Guru Gobind Singh Refinery is located in which Indian state?", "options": ["Punjab", "Haryana", "Rajasthan", "Himachal Pradesh"], "correctIndex": 0 },
+            { "question": "The Guru Gobind Singh Refinery was established through a joint venture involving Hindustan Petroleum Corporation Limited and?", "options": ["Mittal Energy", "Reliance Industries", "Adani Group", "Tata Group"], "correctIndex": 0 },
+            { "question": "The refinery is named after which historical Sikh figure?", "options": ["The tenth Sikh Guru (Guru Gobind Singh)", "Guru Nanak", "Guru Arjan Dev", "Guru Hargobind"], "correctIndex": 0 },
+            { "question": "The Guru Gobind Singh Refinery primarily serves fuel demand across Punjab and neighboring?", "options": ["Northern Indian states", "Southern Indian states", "Northeastern states", "Coastal states"], "correctIndex": 0 },
+            { "question": "The refinery is located in which Punjab city?", "options": ["Bathinda", "Amritsar", "Ludhiana", "Jalandhar"], "correctIndex": 0 }
+          ],
+          "summary": "The Guru Gobind Singh Refinery, in Bathinda, Punjab, is a major refinery established through a joint venture involving Hindustan Petroleum Corporation Limited and Mittal Energy. Named after the tenth Sikh Guru, the refinery reflects its location in a state with deep historical Sikh associations. The facility primarily serves fuel demand across Punjab and neighboring northern Indian states, requiring dedicated pipeline infrastructure given Bathinda's inland location, and its selection reflected the city's central position and transportation connectivity."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d29_maghi_mela",
+          "location": { "name": "Maghi Mela, Muktsar", "lat": 30.4762, "lng": 74.5161 },
+          "questions": [
+            { "question": "Maghi Mela commemorates the sacrifice of which group of Sikh warriors?", "options": ["Chali Mukte (Forty Liberated Ones)", "Panj Pyare", "Akali Nihangs", "Khalsa founders"], "correctIndex": 0 },
+            { "question": "The Chali Mukte died defending Guru Gobind Singh in a battle in which year?", "options": ["1705", "1699", "1739", "1600"], "correctIndex": 0 },
+            { "question": "According to tradition, the Chali Mukte had earlier deserted the Guru but returned to?", "options": ["Fight and sacrifice their lives in his defense", "Negotiate peace", "Seek forgiveness only", "Join a different army"], "correctIndex": 0 },
+            { "question": "Muktsar's name means?", "options": ["Place of liberation", "City of warriors", "Land of sacrifice", "Garden of peace"], "correctIndex": 0 },
+            { "question": "Maghi Mela's commemorative gatherings are held at which Gurudwara?", "options": ["Gurudwara Tuti Gandhi Sahib", "Golden Temple", "Anandpur Sahib", "Damdama Sahib"], "correctIndex": 0 }
+          ],
+          "summary": "Maghi Mela, held annually in Muktsar, Punjab, commemorates the historic sacrifice of the 'Chali Mukte,' or Forty Liberated Ones, Sikh warriors who died defending Guru Gobind Singh in a 1705 battle. According to tradition, these soldiers had earlier deserted the Guru but returned to fight and sacrifice their lives, with the Guru forgiving them before battle, giving Muktsar its name meaning 'place of liberation.' The festival draws Sikh pilgrims for prayers and processions at Gurudwara Tuti Gandhi Sahib."
+        },
+        {
+          "id": "evt_d29_natyanjali",
+          "location": { "name": "Chidambaram Natyanjali Festival", "lat": 11.3994, "lng": 79.6947 },
+          "questions": [
+            { "question": "The Natyanjali Festival is held at which temple in Chidambaram?", "options": ["Nataraja Temple", "Meenakshi Temple", "Brihadeeswara Temple", "Kamakshi Temple"], "correctIndex": 0 },
+            { "question": "The Natyanjali Festival honors Shiva in which specific form?", "options": ["Nataraja (cosmic dancer)", "Pashupati", "Bhairava", "Rudra"], "correctIndex": 0 },
+            { "question": "The Natyanjali Festival typically coincides with which major festival?", "options": ["Maha Shivratri", "Diwali", "Navratri", "Ganesh Chaturthi"], "correctIndex": 0 },
+            { "question": "Performances during Natyanjali are considered a direct form of?", "options": ["Worship", "Secular entertainment only", "Political expression", "Commercial promotion"], "correctIndex": 0 },
+            { "question": "Chidambaram's temple sculptures are historically linked to the codification of which classical dance form?", "options": ["Bharatanatyam", "Kathak", "Odissi", "Kathakali"], "correctIndex": 0 }
+          ],
+          "summary": "The Natyanjali Festival, held at the Nataraja Temple in Chidambaram, Tamil Nadu, is a classical dance festival honoring Shiva as Nataraja, the cosmic dancer, drawing renowned dancers from across India. The festival typically coincides with Maha Shivratri, celebrating Chidambaram's historical connection to Bharatanatyam's codified dance postures. Performances take place within the temple complex as a direct form of worship rather than secular art, and the festival has grown into an important annual event for classical dancers."
+        },
+        {
+          "id": "evt_d29_republic_day",
+          "location": { "name": "Republic Day Parade, New Delhi", "lat": 28.6139, "lng": 77.2295 },
+          "questions": [
+            { "question": "The Republic Day Parade commemorates the date India's Constitution came into effect in which year?", "options": ["1950", "1947", "1930", "1935"], "correctIndex": 0 },
+            { "question": "The Republic Day Parade is held annually on which date?", "options": ["January 26th", "August 15th", "October 2nd", "November 14th"], "correctIndex": 0 },
+            { "question": "The Republic Day Parade features state-specific cultural displays known as?", "options": ["Tableaux", "Floats only", "Murals", "Statues"], "correctIndex": 0 },
+            { "question": "The Republic Day Parade traditionally culminates in a flypast by which force?", "options": ["The Indian Air Force", "The Indian Navy", "The Indian Army", "The Border Security Force"], "correctIndex": 0 },
+            { "question": "Each year's Republic Day Parade features a chief guest, typically a foreign?", "options": ["Head of state or government", "Business executive", "Religious leader", "Sports champion"], "correctIndex": 0 }
+          ],
+          "summary": "The Republic Day Parade, held annually on January 26th along Kartavya Path in New Delhi, commemorates the date India's Constitution came into effect in 1950. The parade features military units, state-specific cultural tableaux, and school performances, culminating in an Indian Air Force flypast. Each year features a chief guest, typically a foreign head of state, reflecting India's diplomatic priorities, and the parade's elaborate planning reflects its status as one of India's most significant annual national events."
+        },
+        {
+          "id": "evt_d29_independence_day",
+          "location": { "name": "Independence Day, Red Fort", "lat": 28.6562, "lng": 77.2410 },
+          "questions": [
+            { "question": "India's Independence Day is celebrated annually on which date?", "options": ["August 15th", "January 26th", "October 2nd", "November 14th"], "correctIndex": 0 },
+            { "question": "The tradition of the Prime Minister's Independence Day address from the Red Fort was established by which leader in 1947?", "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel", "Rajendra Prasad"], "correctIndex": 0 },
+            { "question": "The Red Fort's selection as the Independence Day venue reflects its historical significance as a former seat of?", "options": ["Mughal power", "British colonial administration", "Maratha rule", "Portuguese governance"], "correctIndex": 0 },
+            { "question": "The Prime Minister's Independence Day speech typically reviews government achievements and outlines?", "options": ["Future policy priorities", "Military strategy only", "Foreign trade agreements only", "Currency reforms only"], "correctIndex": 0 },
+            { "question": "Independence Day celebrations across India include flag hoisting ceremonies at schools, government offices, and?", "options": ["Public spaces nationwide", "Only military bases", "Only foreign embassies", "Only religious sites"], "correctIndex": 0 }
+          ],
+          "summary": "India's Independence Day, celebrated on August 15th, is marked in New Delhi by the Prime Minister hoisting the flag and addressing the nation from the Red Fort, a tradition established by Jawaharlal Nehru in 1947. The Red Fort's selection reflects its historical significance as a former seat of Mughal power and symbolic association with India's transition to independence. The speech typically reviews government achievements and outlines future priorities, while celebrations nationwide include flag hoisting ceremonies at schools and offices."
+        },
+        {
+          "id": "evt_d29_kargil_vijay_diwas",
+          "location": { "name": "Kargil Vijay Diwas, Kargil", "lat": 34.5539, "lng": 76.1349 },
+          "questions": [
+            { "question": "Kargil Vijay Diwas is observed annually on which date?", "options": ["July 26th", "August 15th", "January 26th", "October 2nd"], "correctIndex": 0 },
+            { "question": "Kargil Vijay Diwas commemorates India's victory in the 1999 war against?", "options": ["Pakistan", "China", "Bangladesh", "Nepal"], "correctIndex": 0 },
+            { "question": "The Kargil War Memorial, a key site for commemoration ceremonies, is located in?", "options": ["Dras", "Leh", "Srinagar", "Jammu"], "correctIndex": 0 },
+            { "question": "Kargil Vijay Diwas commemorates the recapture of strategic high-altitude positions that had been?", "options": ["Infiltrated by Pakistani forces", "Abandoned voluntarily", "Sold to a foreign power", "Damaged by an earthquake"], "correctIndex": 0 },
+            { "question": "Kargil Vijay Diwas is significant given its relatively recent occurrence and extensive?", "options": ["Media coverage", "Foreign intervention", "Economic impact", "Religious significance"], "correctIndex": 0 }
+          ],
+          "summary": "Kargil Vijay Diwas, observed annually on July 26th, commemorates India's victory in the 1999 Kargil War against Pakistan, marking the recapture of infiltrated high-altitude positions. Commemorations include ceremonies at the Kargil War Memorial in Dras, honoring soldiers who lost their lives in the intense combat. The observance has become an important occasion for reflecting on military sacrifice, with events held across India, reflecting the war's significance in India's contemporary military history given its extensive media coverage."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d29_bihar_scs",
+          "location": { "name": "Bihar Special Category Status, Patna", "lat": 25.5941, "lng": 85.1376 },
+          "questions": [
+            { "question": "Bihar has long sought which classification, granting enhanced central financial assistance?", "options": ["Special Category Status", "Union Territory status", "Autonomous district status", "Special Economic Zone status"], "correctIndex": 0 },
+            { "question": "Special Category Status has historically been granted primarily to which type of states?", "options": ["Northeastern and hill states", "Coastal states", "Southern states", "Union Territories"], "correctIndex": 0 },
+            { "question": "Bihar's political leadership has sought Special Category Status to accelerate industrial investment and?", "options": ["Infrastructure development", "Military recruitment", "Foreign trade agreements", "Currency reform"], "correctIndex": 0 },
+            { "question": "The central government has repeatedly declined Bihar's request, citing existing?", "options": ["Criteria that the state does not meet", "Lack of political interest", "Foreign policy concerns", "Military restrictions"], "correctIndex": 0 },
+            { "question": "Patna is the capital of which Indian state?", "options": ["Bihar", "Jharkhand", "Uttar Pradesh", "West Bengal"], "correctIndex": 0 }
+          ],
+          "summary": "Patna, the capital of Bihar, has long been at the center of the state's demand for Special Category Status, which would grant enhanced central financial assistance to address persistent economic underdevelopment. Historically granted primarily to northeastern and hill states, this status has been sought by Bihar to accelerate industrial investment and infrastructure development. The central government has repeatedly declined the request citing existing criteria, leading to persistent political friction reflecting broader debates within India's fiscal federalism framework."
+        },
+        {
+          "id": "pol_d29_ap_scs",
+          "location": { "name": "Andhra Pradesh Special Category Status, Amaravati", "lat": 16.5062, "lng": 80.6480 },
+          "questions": [
+            { "question": "Andhra Pradesh's demand for Special Category Status is tied to a commitment reportedly made during which 2014 event?", "options": ["Telangana's bifurcation", "India's independence", "The Green Revolution", "Economic liberalization"], "correctIndex": 0 },
+            { "question": "Special Category Status was intended to compensate Andhra Pradesh for revenue loss associated with losing which city?", "options": ["Hyderabad", "Vijayawada", "Visakhapatnam", "Tirupati"], "correctIndex": 0 },
+            { "question": "The central government cited changes in the overall classification framework following recommendations from which body?", "options": ["Finance Commission", "Election Commission", "Planning Commission", "Sarkaria Commission"], "correctIndex": 0 },
+            { "question": "The unresolved Special Category Status issue has been cited as a factor in the slower development of?", "options": ["Amaravati as a capital city", "Vijayawada's port", "Visakhapatnam's steel plant", "Tirupati's temple"], "correctIndex": 0 },
+            { "question": "Amaravati is the planned new capital of which Indian state?", "options": ["Andhra Pradesh", "Telangana", "Tamil Nadu", "Karnataka"], "correctIndex": 0 }
+          ],
+          "summary": "Amaravati, Andhra Pradesh's planned new capital, is closely tied to the state's demand for Special Category Status, reportedly promised during Telangana's 2014 bifurcation to compensate for the revenue loss of losing Hyderabad. The central government's decision not to formally grant this status, citing changes following Finance Commission recommendations, became a significant political controversy. The unresolved issue has been cited as a contributing factor in Amaravati's slower-than-anticipated development as a fully functioning capital."
+        },
+        {
+          "id": "pol_d29_delimitation",
+          "location": { "name": "Delimitation Commission of India, New Delhi", "lat": 28.6170, "lng": 77.2120 },
+          "questions": [
+            { "question": "The Delimitation Commission of India is responsible for redrawing the boundaries of?", "options": ["Parliamentary and state legislative constituencies", "International borders", "Municipal ward boundaries only", "Religious pilgrimage routes"], "correctIndex": 0 },
+            { "question": "The Delimitation Commission's constituency changes are based on updated?", "options": ["Population data", "Foreign trade statistics", "Currency valuations", "Military strength assessments"], "correctIndex": 0 },
+            { "question": "A freeze on delimitation based on updated population figures has been in place since which decade?", "options": ["1970s", "1950s", "1990s", "2000s"], "correctIndex": 0 },
+            { "question": "The delimitation freeze reflects concerns that states with successful family planning programs might otherwise lose?", "options": ["Parliamentary representation", "Foreign aid", "Military bases", "Trade privileges"], "correctIndex": 0 },
+            { "question": "The Delimitation Commission is headquartered in which city during its operational periods?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "correctIndex": 0 }
+          ],
+          "summary": "The Delimitation Commission of India, periodically constituted and headquartered in New Delhi, redraws parliamentary and state legislative constituency boundaries based on updated population data. A freeze on delimitation has been in place since the 1970s, extended multiple times due to concerns that states with successful family planning programs might otherwise lose parliamentary representation. This ongoing freeze reflects the complex political sensitivities in balancing proportional representation against penalizing successful demographic outcomes."
+        },
+        {
+          "id": "pol_d29_cat",
+          "location": { "name": "Central Administrative Tribunal, New Delhi", "lat": 28.6230, "lng": 77.2160 },
+          "questions": [
+            { "question": "The Central Administrative Tribunal primarily adjudicates disputes related to?", "options": ["Central government employee recruitment and service conditions", "Corporate tax disputes", "Environmental protection", "Criminal appeals"], "correctIndex": 0 },
+            { "question": "CAT was established under a constitutional amendment passed in which year?", "options": ["1985", "1970", "2000", "1950"], "correctIndex": 0 },
+            { "question": "CAT's jurisdiction covers matters including promotions, disciplinary actions, and?", "options": ["Pension disputes", "Foreign trade licenses", "Currency disputes", "Military recruitment"], "correctIndex": 0 },
+            { "question": "Which category of government employees remains outside CAT's purview?", "options": ["Members of the armed forces", "Postal workers", "Railway employees", "Tax officials"], "correctIndex": 0 },
+            { "question": "The Central Administrative Tribunal is headquartered in which city?", "options": ["New Delhi", "Mumbai", "Bengaluru", "Chennai"], "correctIndex": 0 }
+          ],
+          "summary": "The Central Administrative Tribunal (CAT), headquartered in New Delhi with benches across various cities, adjudicates disputes related to central government employee recruitment and service conditions. Established under a 1985 constitutional amendment, CAT reduces the burden on regular courts by handling service-related litigation efficiently. The tribunal's jurisdiction covers promotions, disciplinary actions, and pension disputes, though members of the armed forces remain outside its purview, reflecting India's pattern of specialized administrative tribunals."
+        },
+        {
+          "id": "pol_d29_belagavi_dispute",
+          "location": { "name": "Karnataka-Maharashtra Border Dispute, Belagavi", "lat": 15.8497, "lng": 74.4977 },
+          "questions": [
+            { "question": "Belagavi is at the center of a longstanding border dispute between Karnataka and which other state?", "options": ["Maharashtra", "Andhra Pradesh", "Tamil Nadu", "Kerala"], "correctIndex": 0 },
+            { "question": "The Belagavi dispute traces back to the boundary determination made during which year's reorganization?", "options": ["1956", "1966", "2000", "1947"], "correctIndex": 0 },
+            { "question": "Maharashtra's claims to Belagavi are primarily based on the region's?", "options": ["Marathi-speaking population", "Historical Maratha military presence", "Religious composition", "Economic ties"], "correctIndex": 0 },
+            { "question": "The Belagavi dispute has been referred to which judicial body?", "options": ["Supreme Court of India", "International Court of Justice", "Karnataka High Court only", "Bombay High Court only"], "correctIndex": 0 },
+            { "question": "Belagavi is located in which Indian state, according to current administrative boundaries?", "options": ["Karnataka", "Maharashtra", "Goa", "Telangana"], "correctIndex": 0 }
+          ],
+          "summary": "Belagavi, in Karnataka, sits at the center of one of India's longest-running interstate boundary disputes with Maharashtra, dating to the 1956 States Reorganisation when the town was allocated to Karnataka despite a significant Marathi-speaking population. Maharashtra has periodically pressed claims citing linguistic composition, while Karnataka maintains its constitutional claim based on the original boundary determination. The matter has been referred to the Supreme Court of India, remaining under consideration without final resolution for an extended period."
+        }
+      ]
+    }
+  }
+}

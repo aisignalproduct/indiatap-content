@@ -1,0 +1,326 @@
+{
+  "day": 6,
+  "date": "2026-10-06",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d6_spiti_valley",
+          "location": { "name": "Spiti Valley — Himachal Pradesh", "lat": 32.2461, "lng": 78.0338 },
+          "questions": [
+            { "question": "Spiti Valley is sometimes called 'Little Tibet.' At what average altitude does it sit?", "options": ["2,000m", "3,000m", "3,800m", "5,000m"], "correctIndex": 2 },
+            { "question": "The Key Monastery (Ki Gompa) in Spiti is perched on a hill at approximately 4,166m. It belongs to which school of Tibetan Buddhism?", "options": ["Nyingma", "Kagyu", "Gelug", "Sakya"], "correctIndex": 2 },
+            { "question": "The Spiti River is a tributary of which major river?", "options": ["Beas", "Ravi", "Sutlej", "Chenab"], "correctIndex": 2 },
+            { "question": "Spiti is a cold desert. Its annual precipitation is approximately?", "options": ["Under 200mm", "400mm", "800mm", "1,200mm"], "correctIndex": 0 },
+            { "question": "The Kibber Wildlife Sanctuary in Spiti is known for its population of which endangered predator?", "options": ["Indian Wolf", "Clouded Leopard", "Snow Leopard", "Tibetan Fox"], "correctIndex": 2 }
+          ],
+          "summary": "Spiti Valley in Himachal Pradesh — 'Little Tibet' at an average altitude of 3,800 metres — is one of India's most remote and spectacularly beautiful cold deserts. Receiving under 200mm of precipitation annually, it is a high-altitude rain shadow desert, yet supports Buddhist monastic communities that have maintained their traditions for over 1,000 years. Key Monastery (Ki Gompa), perched dramatically on a hillside above the Spiti River, is the valley's largest Gelug monastery and a medieval marvel of Himalayan architecture. The Kibber Wildlife Sanctuary hosts one of India's highest-density snow leopard populations — an elusive predator that has made Spiti a destination for wildlife enthusiasts and researchers worldwide."
+        },
+        {
+          "id": "geo_d6_kaziranga_assam",
+          "location": { "name": "Kaziranga National Park — Assam", "lat": 26.5800, "lng": 93.1700 },
+          "questions": [
+            { "question": "Kaziranga National Park protects approximately what percentage of the world's Indian one-horned rhinoceroses?", "options": ["30%", "50%", "65%", "80%"], "correctIndex": 2 },
+            { "question": "Kaziranga is on the floodplains of which river?", "options": ["Lohit", "Brahmaputra", "Barak", "Subansiri"], "correctIndex": 1 },
+            { "question": "Kaziranga has the world's highest density of which big cat?", "options": ["Leopard", "Tiger", "Clouded Leopard", "Snow Leopard"], "correctIndex": 1 },
+            { "question": "Kaziranga became a UNESCO World Heritage Site in which year?", "options": ["1974", "1985", "1992", "2000"], "correctIndex": 1 },
+            { "question": "During Brahmaputra floods, Kaziranga animals migrate to higher ground. A special protection measure then is?", "options": ["Trucks transport animals to safe ground", "Shoot-at-sight order in buffer areas to prevent poaching", "Fences keep animals inside", "Helicopters monitor from above only"], "correctIndex": 1 }
+          ],
+          "summary": "Kaziranga National Park in Assam, on the south bank of the Brahmaputra, protects approximately 2,200 Indian one-horned rhinoceroses — about 65% of the global wild population. Established after Lady Curzon's 1904 visit found no rhinos, it became a UNESCO World Heritage Site in 1985. Kaziranga also has the world's highest density of Bengal tigers and significant elephant and wild buffalo populations. During the annual Brahmaputra floods — which inundate most of the park — animals migrate to Karbi Anglong Hills; a special shoot-at-sight order protects them in buffer zones from opportunistic poachers who exploit the disruption."
+        },
+        {
+          "id": "geo_d6_pir_panjal",
+          "location": { "name": "Pir Panjal Range — Jammu & Kashmir", "lat": 33.5000, "lng": 74.5000 },
+          "questions": [
+            { "question": "The Pir Panjal Range is a sub-range of which major mountain system?", "options": ["Karakoram", "Himalayas (Lesser Himalayas)", "Zanskar Range", "Ladakh Range"], "correctIndex": 1 },
+            { "question": "The Pir Panjal Pass connects which two regions?", "options": ["Ladakh and Kargil", "Kashmir Valley and Pir Panjal plateau towards Jammu", "Spiti and Lahaul", "Kishtwar and Bhaderwah"], "correctIndex": 1 },
+            { "question": "India's longest road tunnel, the Banihal-Qazigund (Banihal) tunnel, passes through which range?", "options": ["Zanskar Range", "Pir Panjal Range", "Karakoram", "Greater Himalayan Range"], "correctIndex": 1 },
+            { "question": "The Pir Panjal Range receives heavy snowfall in winter, making the Mughal Road impassable. For how many months is it typically closed?", "options": ["1–2 months", "3–4 months", "5–6 months", "Year-round closures"], "correctIndex": 2 },
+            { "question": "The Gulmarg ski resort, famous for one of the world's highest gondolas, is in the foothills of?", "options": ["Zanskar Range", "Pir Panjal Range", "Greater Himalayan Range", "Karakoram"], "correctIndex": 1 }
+          ],
+          "summary": "The Pir Panjal Range — a sub-range of the Lesser Himalayas running southeast of the Kashmir Valley — acts as a major climatic and geographic barrier between the Kashmir Valley and the Jammu region. Its passes are snowbound for 5–6 months each year, historically making Kashmir's connectivity to the rest of India seasonal. The Banihal Tunnel (now the Banihal-Qazigund tunnel, part of the Udhampur-Srinagar-Baramulla Rail Link) pierces the Pir Panjal to provide year-round rail connectivity. Gulmarg in the Pir Panjal foothills at 2,650m hosts one of the world's highest cable car systems (Gondola Phase 2 reaches 3,980m) and India's premier ski destination."
+        },
+        {
+          "id": "geo_d6_meghalaya_caves",
+          "location": { "name": "Siju Cave — Meghalaya", "lat": 25.4000, "lng": 90.8500 },
+          "questions": [
+            { "question": "Meghalaya is home to the Indian subcontinent's largest cave system. What is the name of the longest cave in India?", "options": ["Siju Cave", "Mawmluh Cave", "Krem Liat Prah-Umim-Labit", "Borra Caves"], "correctIndex": 2 },
+            { "question": "Meghalaya's caves are formed in which type of rock?", "options": ["Basalt", "Granite", "Limestone (karst caves)", "Sandstone"], "correctIndex": 2 },
+            { "question": "The Siju Cave in South Garo Hills is known for its large colony of which creature?", "options": ["Bats (one of Asia's largest bat colonies)", "Cave spiders", "Blind cave fish", "Glowworms"], "correctIndex": 0 },
+            { "question": "The Meghalaya Caves have unique features making them scientifically valuable. Which is most significant?", "options": ["They are all perfectly circular", "They contain undiscovered species and extremely old stalagmites useful for climate records", "They are all exactly the same depth", "They are connected to underground rivers flowing to Bangladesh"], "correctIndex": 1 },
+            { "question": "The Caves Association of Meghalaya records how many known caves in the state?", "options": ["Over 100", "Over 500", "Over 1,700", "Over 5,000"], "correctIndex": 2 }
+          ],
+          "summary": "Meghalaya contains over 1,700 recorded caves — the Indian subcontinent's largest karst cave system. The longest is Krem Liat Prah-Umim-Labit at over 31 km, making it India's longest cave and one of the longest in Asia. Siju Cave in the South Garo Hills is particularly famous for hosting one of Asia's largest bat colonies and for its remarkable stalactite and stalagmite formations. Meghalaya's limestone caves contain ancient stalagmites whose growth rings serve as precise climate records extending back thousands of years — a valuable archive of the Indian monsoon's history. Ongoing exploration by the Meghalaya Adventurers Association regularly discovers new passages and species."
+        },
+        {
+          "id": "geo_d6_kutch_banni",
+          "location": { "name": "Banni Grasslands — Kutch, Gujarat", "lat": 23.7500, "lng": 70.2500 },
+          "questions": [
+            { "question": "The Banni Grasslands in Kutch are one of Asia's largest arid grasslands. What is their approximate area?", "options": ["500 sq km", "2,500 sq km", "5,000 sq km", "10,000 sq km"], "correctIndex": 1 },
+            { "question": "The Banni Grasslands are home to which nomadic pastoral community famous for their exquisite embroidery?", "options": ["Rabaris", "Maldharis", "Mir Mutawa and Jat communities", "All of the above"], "correctIndex": 3 },
+            { "question": "The Banni area has been significantly invaded by which exotic plant species since the 1960s?", "options": ["Eucalyptus", "Prosopis juliflora (Vilayati Babool)", "Lantana camara", "Parthenium"], "correctIndex": 1 },
+            { "question": "The unique Banni cattle breed (Kankrej) is famous for what?", "options": ["Highest milk production of any Indian breed", "Being the draft animal behind the Green Revolution in Gujarat", "Exceptional tolerance to heat and drought", "Both b and c"], "correctIndex": 3 },
+            { "question": "The Banni Grasslands are adjacent to which salt desert?", "options": ["Little Rann of Kutch", "Great Rann of Kutch", "Thar Desert", "Sam Sand Dunes"], "correctIndex": 1 }
+          ],
+          "summary": "The Banni Grasslands in Kutch, Gujarat — approximately 2,500 sq km of arid grassland adjacent to the Great Rann of Kutch — are one of Asia's largest and most ecologically significant dry grasslands. They support diverse nomadic pastoral communities (Rabaris, Jats, and Mir Mutawa) whose exquisite embroidery and mirror-work textiles are globally celebrated. Since the 1960s, the invasive Prosopis juliflora (Vilayati Babool) has taken over vast stretches, destroying the grassland ecology and challenging traditional pastoralism. The Banni supports the Kankrej cattle breed — valued for its drought tolerance — and serves as winter habitat for numerous migratory birds including harriers and cranes."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d6_qutb_minar",
+          "location": { "name": "Qutb Minar Complex — Delhi", "lat": 28.5245, "lng": 77.1855 },
+          "questions": [
+            { "question": "The Qutb Minar is the world's tallest brick minaret. Its height is approximately?", "options": ["52.5m", "62.5m", "72.5m", "82.5m"], "correctIndex": 2 },
+            { "question": "The Quwwat-ul-Islam Mosque at the Qutb complex was built using materials from demolished?", "options": ["Mughal palaces", "27 Hindu and Jain temples", "Buddhist monasteries", "Persian caravanserais"], "correctIndex": 1 },
+            { "question": "The Iron Pillar at the Qutb complex was made during which period?", "options": ["Maurya period (3rd century BCE)", "Gupta period (4th–5th century CE)", "Kushan period (2nd century CE)", "Rajput period (10th century CE)"], "correctIndex": 1 },
+            { "question": "The Iron Pillar's extraordinary resistance to corrosion is now attributed to?", "options": ["A secret protective coating applied by craftsmen", "High phosphorus content in the iron that forms a protective passivation layer", "Being made of a special iron-nickel alloy", "The dry Delhi climate alone"], "correctIndex": 1 },
+            { "question": "Qutb ud-Din Aibak, who began construction of the Qutb Minar, was the founder of which dynasty?", "options": ["Khalji dynasty", "Tughlaq dynasty", "Mamluk (Slave) dynasty — first Delhi Sultanate dynasty", "Lodi dynasty"], "correctIndex": 2 }
+          ],
+          "summary": "The Qutb Minar complex in Delhi — UNESCO World Heritage Site since 1993 — marks the establishment of Islamic rule in India after 1193 CE. The 72.5-metre Qutb Minar, built from fluted red sandstone and marble, was begun by Qutb ud-Din Aibak, founder of the Mamluk (Slave) dynasty. The Quwwat-ul-Islam ('Might of Islam') Mosque, India's first mosque post-conquest, was built using columns from 27 demolished Hindu and Jain temples — their original carvings still visible. The Iron Pillar (4th–5th century CE Gupta era) has stood rust-free for 1,600+ years: modern analysis attributes this to its high phosphorus content, which creates a thin passivating iron hydrogen phosphate layer that inhibits further oxidation."
+        },
+        {
+          "id": "cul_d6_vittala_temple_hampi",
+          "location": { "name": "Vittala Temple — Hampi, Karnataka", "lat": 15.3394, "lng": 76.4706 },
+          "questions": [
+            { "question": "The Vittala Temple at Hampi is most famous for which feature?", "options": ["Its height — tallest in the Vijayanagara Empire", "Musical pillars that produce musical notes when struck", "A floating stone chariot", "Both b and c"], "correctIndex": 3 },
+            { "question": "The stone chariot in the Vittala Temple courtyard is actually what?", "options": ["A functional chariot used in festivals", "A stone shrine/ratha for the Garuda (Vishnu's vehicle)", "A decorative fountain", "The king's processional vehicle replica"], "correctIndex": 1 },
+            { "question": "The musical pillars of the Vittala Temple produce sound due to?", "options": ["Hollow chambers inside", "Different types of stone with different resonant properties", "Tiny bells embedded in the stone", "Air pockets created during construction"], "correctIndex": 1 },
+            { "question": "The Vittala Temple was dedicated to which deity?", "options": ["Shiva", "Brahma", "Vishnu (as Vittala/Vithoba)", "Ganesha"], "correctIndex": 2 },
+            { "question": "The British colonial government cut two pillars of the Vittala Temple to verify the musical pillars claim. The result?", "options": ["No sound was found — it was a myth", "Sound was confirmed but two pillars were permanently damaged", "New sound channels were discovered", "The pillars were found to be hollow"], "correctIndex": 1 }
+          ],
+          "summary": "The Vittala Temple at Hampi — built during the Vijayanagara Empire's peak in the 15th–16th centuries — is among the most architecturally stunning sites in India. Its two most famous features: the musical pillars of the main mandapa (56 pillars that produce musical notes when tapped — each cluster representing a different instrument) and the iconic stone chariot in the courtyard (actually a shrine for Garuda, Vishnu's eagle vehicle — its stone wheels were originally designed to rotate). British colonial inspectors cut two pillars to verify the musical claim, permanently damaging them while confirming the resonant stone phenomenon. The temple's elaborate carvings of celestial musicians, dancers, and mythological scenes represent the apex of Vijayanagara sculptural art."
+        },
+        {
+          "id": "cul_d6_rani_ki_vav",
+          "location": { "name": "Rani-ki-Vav — Patan, Gujarat", "lat": 23.8588, "lng": 72.1008 },
+          "questions": [
+            { "question": "Rani-ki-Vav was built by Queen Udayamati as a memorial to which king?", "options": ["Kumarpal", "Bhimdev I (her husband)", "Mularaja I", "Siddharaj Jayasinh"], "correctIndex": 1 },
+            { "question": "The stepwell descends how many levels below ground?", "options": ["3", "5", "7", "9"], "correctIndex": 2 },
+            { "question": "Rani-ki-Vav was buried under which river's silt for centuries, which protected it?", "options": ["Sabarmati", "Mahi", "Saraswati", "Rupen"], "correctIndex": 2 },
+            { "question": "Which Indian currency note features Rani-ki-Vav on its reverse?", "options": ["₹50 note", "₹100 note", "₹500 note", "₹2000 note"], "correctIndex": 1 },
+            { "question": "UNESCO inscribed Rani-ki-Vav as a World Heritage Site in which year?", "options": ["1993", "2000", "2014", "2021"], "correctIndex": 2 }
+          ],
+          "summary": "Rani-ki-Vav ('Queen's Stepwell') in Patan, Gujarat — UNESCO World Heritage Site since 2014 — was built by Queen Udayamati in the 11th century CE as a memorial to her husband King Bhimdev I of the Solanki dynasty. The stepwell descends seven levels to 30 metres depth and contains approximately 1,500 sculptural panels depicting the Dashavatara (ten avatars of Vishnu) in exquisite detail. Buried under Saraswati River silt for centuries (which preserved it perfectly), it was excavated beginning in the 1980s. It now appears on India's ₹100 note. Stepwells were uniquely Indian infrastructure — simultaneously water storage, community gathering space, cool shelter from heat, and a space for social and ritual activities."
+        },
+        {
+          "id": "cul_d6_jaisalmer_fort",
+          "location": { "name": "Jaisalmer Fort — Rajasthan", "lat": 26.9124, "lng": 70.9108 },
+          "questions": [
+            { "question": "Jaisalmer Fort was built in which year?", "options": ["1156", "1256", "1456", "1556"], "correctIndex": 0 },
+            { "question": "Jaisalmer Fort is one of the world's few 'living forts.' What makes it 'living'?", "options": ["It has trees growing from its walls", "Approximately 3,000 people still reside within its walls", "It changes colour with the seasons", "It is still used as a military garrison"], "correctIndex": 1 },
+            { "question": "Jaisalmer Fort is built from which distinctive stone that gives it a golden appearance?", "options": ["Red sandstone", "White marble", "Yellow Jaisalmer sandstone", "Brown laterite"], "correctIndex": 2 },
+            { "question": "The fort was founded by which Rajput ruler?", "options": ["Rawal Jaisal Singh", "Rao Jodha", "Man Singh I", "Rana Sanga"], "correctIndex": 0 },
+            { "question": "A major structural threat to Jaisalmer Fort in recent decades has been?", "options": ["Termite infestation in the wooden structures", "Tourist footfall erosion", "Water damage — modern water usage and tourism have saturated the sandstone foundations", "Vandalism by visitors"], "correctIndex": 2 }
+          ],
+          "summary": "Jaisalmer Fort — founded by Rawal Jaisal Singh in 1156 CE on Trikuta Hill above the Thar Desert — is one of the world's largest fully intact medieval forts and one of its very few 'living forts,' with approximately 3,000 people still residing within its walls alongside temples, palaces, and Jain shrines. Built from yellow Jaisalmer sandstone that glows gold in the desert sun, giving the city its 'Golden City' nickname. Today the fort faces a structural crisis: modern water supply and increased tourism have saturated the sandstone foundations — a material that survived dry desert conditions for 800 years but is acutely vulnerable to water infiltration. UNESCO has highlighted the fort as a heritage site at risk."
+        },
+        {
+          "id": "cul_d6_puri_jagannath",
+          "location": { "name": "Jagannath Temple — Puri, Odisha", "lat": 19.8045, "lng": 85.8180 },
+          "questions": [
+            { "question": "The Jagannath Temple at Puri is one of the four sacred dhams of Hinduism. Who is the presiding deity?", "options": ["Shiva", "Lord Jagannath (a form of Vishnu/Krishna)", "Brahma", "Surya"], "correctIndex": 1 },
+            { "question": "The Rath Yatra (Chariot Festival) at Puri is held annually. The English word 'juggernaut' is derived from?", "options": ["The size of Puri city", "Jagannath — from the massive temple chariot that could crush people in its path", "A British officer named Juggernaut", "The Sanskrit for 'unstoppable'"], "correctIndex": 1 },
+            { "question": "The Puri Jagannath Temple does not allow non-Hindus to enter. However, the deity can be viewed from outside from which vantage?", "options": ["Raghunandan Library rooftop", "Singha Dwar (main gate) steps", "From the sea beach", "From Nilachakra Darshanika — a viewing tower"], "correctIndex": 0 },
+            { "question": "The Mahaprasad (sacred food) of Jagannath Temple is cooked in what remarkable manner?", "options": ["In a single massive pot for all devotees", "In 752 earthen pots stacked on seven fireplaces — the top pot cooks first", "In silver vessels dedicated to the deity", "Underground in traditional clay ovens"], "correctIndex": 1 },
+            { "question": "Puri is located on the coast of which sea?", "options": ["Arabian Sea", "Laccadive Sea", "Bay of Bengal", "Indian Ocean"], "correctIndex": 2 }
+          ],
+          "summary": "The Jagannath Temple in Puri, Odisha — one of Hinduism's four sacred dhams — is a towering 11th-century shrine to Lord Jagannath ('Lord of the Universe,' a form of Vishnu/Krishna). The annual Rath Yatra (Chariot Festival) draws millions of pilgrims to pull three massive wooden chariots bearing the deities through the city — the English word 'juggernaut' derives from accounts of the enormous chariot that crushed devotees who prostrated beneath it. The temple's Mahaprasad (sacred food) — cooked daily in 752 earthen pots on seven stacked fireplaces, with the top pot cooking first — is considered the world's largest community kitchen. Non-Hindus cannot enter the temple but can view it from the Raghunandan Library rooftop across the street."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d6_nhai_delhi_mumbai",
+          "location": { "name": "Delhi-Mumbai Expressway — Rajasthan Stretch", "lat": 25.0961, "lng": 73.7133 },
+          "questions": [
+            { "question": "The Delhi-Mumbai Expressway, when complete, will be India's longest expressway. How long is it?", "options": ["800 km", "1,060 km", "1,350 km", "1,600 km"], "correctIndex": 2 },
+            { "question": "The expressway passes through how many states?", "options": ["3", "4", "6", "8"], "correctIndex": 2 },
+            { "question": "The expressway is significant for reducing Delhi-Mumbai travel time from approximately 24 hours to?", "options": ["8 hours", "12 hours", "14 hours", "18 hours"], "correctIndex": 1 },
+            { "question": "A key feature of the Delhi-Mumbai Expressway is India's first wildlife corridor elevated over?", "options": ["A tiger reserve in Rajasthan", "A UNESCO Biosphere Reserve", "Ranthambore National Park", "Sariska Tiger Reserve"], "correctIndex": 0 },
+            { "question": "The Delhi-Mumbai Expressway is being built under which government programme?", "options": ["Bharatmala Pariyojana", "PMGSY", "NHDP Phase 7", "Smart Roads India"], "correctIndex": 0 }
+          ],
+          "summary": "The Delhi-Mumbai Expressway — India's longest expressway at 1,350 km when complete — is the flagship project of the Bharatmala Pariyojana road infrastructure programme. Passing through Delhi, Haryana, Rajasthan, Madhya Pradesh, Gujarat, and Maharashtra, it aims to reduce the Delhi-Mumbai travel time to approximately 12 hours (from 24+ hours on existing roads). A notable feature is India's first elevated wildlife corridor over a Rajasthan tiger reserve, allowing animals to cross safely under the expressway. The project is designed to connect eight major economic corridors and unlock development in semi-arid hinterland regions that currently have limited connectivity."
+        },
+        {
+          "id": "eco_d6_ongc_rajasthan",
+          "location": { "name": "Cairn India — Barmer Oil Fields, Rajasthan", "lat": 25.7469, "lng": 71.4057 },
+          "questions": [
+            { "question": "Rajasthan's Barmer oil fields were discovered in which decade, making it India's most significant onshore oil discovery in decades?", "options": ["1980s", "1990s", "2000s", "2010s"], "correctIndex": 2 },
+            { "question": "The Barmer fields were primarily developed by which company?", "options": ["ONGC", "Cairn India (now Vedanta)", "HPCL", "Shell India"], "correctIndex": 1 },
+            { "question": "At peak production, Barmer produced approximately how many barrels of oil per day?", "options": ["10,000", "50,000", "175,000", "500,000"], "correctIndex": 2 },
+            { "question": "The Barmer oil fields are significant because they are?", "options": ["India's first offshore oil fields", "India's largest onshore oil production zone", "The only fields producing light sweet crude in India", "India's deepest oil wells"], "correctIndex": 1 },
+            { "question": "The Rajasthan state government receives royalties from the Barmer fields. This revenue has primarily been used for?", "options": ["Military modernisation", "Social welfare schemes and infrastructure", "Agricultural subsidies only", "Debt repayment"], "correctIndex": 1 }
+          ],
+          "summary": "The Barmer oil fields in Rajasthan — discovered in the 2000s by Cairn India (now operated by Vedanta) — represent India's most significant onshore oil discovery in decades and the country's largest onshore production zone. At peak production they yielded approximately 175,000 barrels per day, reducing India's import dependence. The fields' revenue through royalties and taxes has significantly boosted Rajasthan's state finances, funding social welfare and infrastructure programmes. The discovery demonstrated that India's sedimentary basins still held unexplored conventional oil potential — challenging the prevailing assumption that most easy-to-find domestic oil had already been located."
+        },
+        {
+          "id": "eco_d6_pune_it",
+          "location": { "name": "Pune IT Hub — Maharashtra", "lat": 18.5204, "lng": 73.8567 },
+          "questions": [
+            { "question": "Pune is often called the 'Oxford of the East' due to its universities, but also India's second-largest IT hub after?", "options": ["Mumbai", "Delhi", "Bengaluru", "Hyderabad"], "correctIndex": 2 },
+            { "question": "Which major Indian IT firm was founded in Pune?", "options": ["Wipro", "Infosys", "Persistent Systems", "HCL Technologies"], "correctIndex": 2 },
+            { "question": "The Rajiv Gandhi Infotech Park (Hinjewadi) in Pune houses IT companies employing approximately?", "options": ["50,000 workers", "150,000 workers", "300,000 workers", "500,000 workers"], "correctIndex": 2 },
+            { "question": "Pune is also a major hub for which other industry, making it India's 'Automobile Capital'?", "options": ["Pharmaceuticals", "Automobile manufacturing (Tata Motors, Bajaj, Mercedes-Benz, Volkswagen)", "Steel production", "Textile manufacturing"], "correctIndex": 1 },
+            { "question": "The Film and Television Institute of India (FTII), which has trained many of India's top filmmakers, is located in?", "options": ["Mumbai", "Pune", "Chennai", "Hyderabad"], "correctIndex": 1 }
+          ],
+          "summary": "Pune — Maharashtra's second city — has emerged as India's second-largest IT hub (after Bengaluru) through the growth of the Rajiv Gandhi Infotech Park at Hinjewadi, which employs approximately 300,000 IT professionals. Persistent Systems, founded in Pune, is one of India's mid-tier IT success stories. Simultaneously, Pune is a major automobile hub — Tata Motors' primary car manufacturing plant, Bajaj Auto (world's largest three-wheeler manufacturer), and plants of Mercedes-Benz, Volkswagen, and Fiat are all in the Pune region. The Film and Television Institute of India (FTII), which has trained directors like Adoor Gopalakrishnan and Shekhar Kapur, adds an important cultural dimension to Pune's identity."
+        },
+        {
+          "id": "eco_d6_nhpc_teesta",
+          "location": { "name": "Teesta Hydroelectric Project — Sikkim", "lat": 27.3200, "lng": 88.6100 },
+          "questions": [
+            { "question": "The Teesta River is a tributary of which major river?", "options": ["Ganga", "Brahmaputra", "Meghna", "Yamuna"], "correctIndex": 1 },
+            { "question": "Teesta hydropower projects faced a major setback in 2023. What happened?", "options": ["A dam burst in China blocked the river", "A glacial lake outburst flood (GLOF) destroyed the Teesta III project dam", "Earthquake damaged multiple projects", "India-China border dispute halted construction"], "correctIndex": 1 },
+            { "question": "A glacial lake outburst flood (GLOF) occurs when?", "options": ["A glacier melts rapidly in summer", "A moraine or ice dam holding back a glacial lake suddenly fails, releasing a catastrophic flood", "Two glaciers merge and release meltwater", "Snowmelt overwhelms river capacity"], "correctIndex": 1 },
+            { "question": "The Teesta water-sharing dispute is between India and which country?", "options": ["China", "Nepal", "Bangladesh", "Bhutan"], "correctIndex": 2 },
+            { "question": "The Sikkim GLOF disaster of October 2023 caused approximately how much damage?", "options": ["₹100 crore", "₹1,000 crore", "₹5,000+ crore and over 100 deaths", "₹50,000 crore"], "correctIndex": 2 }
+          ],
+          "summary": "The Teesta River, flowing from Sikkim's glaciers through West Bengal to Bangladesh, has been extensively dammed for hydropower — making it one of India's most heavily exploited Himalayan rivers. In October 2023, a catastrophic glacial lake outburst flood (GLOF) from the South Lhonak glacial lake destroyed the Teesta III dam (520 MW), killed over 100 people, and caused ₹5,000+ crore in damage — India's worst GLOF disaster. The event raised urgent questions about the wisdom of large dam construction in seismically active Himalayan valleys with rapidly changing glacial dynamics due to climate change. The Teesta also remains at the centre of a long-running water-sharing dispute between India and Bangladesh."
+        },
+        {
+          "id": "eco_d6_dhamra_port",
+          "location": { "name": "Dhamra Port — Odisha", "lat": 20.4700, "lng": 86.9000 },
+          "questions": [
+            { "question": "Dhamra Port is operated by which company since its 2014 acquisition?", "options": ["Adani Ports", "L&T", "Tata Steel", "JSW"], "correctIndex": 0 },
+            { "question": "Dhamra Port specialises in handling which commodity primarily?", "options": ["Containers", "Coal and other dry bulk cargo", "Crude oil", "LNG"], "correctIndex": 1 },
+            { "question": "The port faced controversy during construction due to its proximity to which critical habitat?", "options": ["The Chilika Lake bird sanctuary", "Gahirmatha Marine Sanctuary — nesting ground of Olive Ridley sea turtles", "Bhitarkanika mangroves", "Simlipal Tiger Reserve"], "correctIndex": 1 },
+            { "question": "Gahirmatha Beach in Odisha is significant because it hosts the world's largest?", "options": ["Leatherback turtle nesting", "Olive Ridley sea turtle mass nesting (arribada)", "Green turtle nesting", "Loggerhead turtle nesting"], "correctIndex": 1 },
+            { "question": "Dhamra Port's development is significant for Odisha's mineral-rich hinterland because?", "options": ["It exports IT services", "It provides a coastal outlet for iron ore, coal, and other minerals from the mineral belt", "It imports food grains", "It is primarily a passenger port"], "correctIndex": 1 }
+          ],
+          "summary": "Dhamra Port in Odisha, acquired by Adani Ports in 2014, handles primarily dry bulk cargo — coal, iron ore, and other minerals from Odisha and Jharkhand's resource-rich hinterland. During its construction, the port faced fierce opposition from environmentalists due to its proximity to Gahirmatha Marine Sanctuary — the world's largest Olive Ridley sea turtle mass nesting (arribada) site, where hundreds of thousands of turtles come ashore annually to nest. Mitigation measures including modified lighting, restricted vessel movements during nesting season, and buffer zones were implemented. Dhamra has now grown into one of India's significant east coast ports, complementing Paradip in handling Odisha's mineral exports."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d6_nongkrem_dance",
+          "location": { "name": "Nongkrem Dance Festival — Meghalaya", "lat": 25.5788, "lng": 91.8933 },
+          "questions": [
+            { "question": "The Nongkrem Dance festival is celebrated by which Meghalaya tribe?", "options": ["Garo", "Jaintia", "Khasi", "Naga"], "correctIndex": 2 },
+            { "question": "The Nongkrem Dance is essentially a thanksgiving festival for what?", "options": ["A military victory", "A good harvest and the well-being of the Khasi people", "The departure of monsoon", "The birth of the tribal chief's son"], "correctIndex": 1 },
+            { "question": "The Nongkrem festival is held near which city in Meghalaya?", "options": ["Tura", "Jowai", "Shillong", "Nongstoin"], "correctIndex": 2 },
+            { "question": "The dance features young Khasi women in elaborate traditional dress. A distinctive feature of the Khasi marriage/social system is?", "options": ["Patrilineal descent (through the father)", "Matrilineal descent (through the mother)", "Equal bilateral descent", "Patrilocal marriage"], "correctIndex": 1 },
+            { "question": "How many days does the Nongkrem Dance typically last?", "options": ["1", "3", "5", "10"], "correctIndex": 2 }
+          ],
+          "summary": "The Nongkrem Dance Festival, held annually near Shillong, is one of the most important festivals of the Khasi people of Meghalaya — a five-day thanksgiving ceremony for a good harvest and the prosperity of the Khasi tribe. Young Khasi women in elaborate traditional dress (Jainsem — a silk garment) perform graceful circular dances, while young men dance in warrior dress with swords and fly-whisks. The festival reflects the Khasi community's matrilineal social structure — one of the world's few surviving matrilineal systems where property passes through the youngest daughter. The festival takes place at the Smit village near Shillong, the traditional seat of Khasi governance."
+        },
+        {
+          "id": "evt_d6_ladakh_festival",
+          "location": { "name": "Ladakh Festival — Leh", "lat": 34.1526, "lng": 77.5771 },
+          "questions": [
+            { "question": "The Ladakh Festival is held annually in which month?", "options": ["May", "August", "September", "December"], "correctIndex": 2 },
+            { "question": "The festival was started in which year to promote?", "options": ["1984 — to promote Ladakhi culture and tourism", "1994", "2000", "2008"], "correctIndex": 0 },
+            { "question": "The Ladakh Festival features a spectacular polo match played at?", "options": ["A modern stadium", "Leh's traditional polo ground (one of the world's highest)", "Nubra Valley polo field", "Pangong Tso shore"], "correctIndex": 1 },
+            { "question": "The procession at the Ladakh Festival showcases traditional dress from how many villages?", "options": ["7", "14", "28", "50+"], "correctIndex": 2 },
+            { "question": "Ladakhi polo differs from modern polo in what way?", "options": ["Players ride yaks instead of horses", "Teams have more players and there are no handicaps — it is a traditional style", "The ball is made of wood instead of willow", "Games last 3 days"], "correctIndex": 1 }
+          ],
+          "summary": "The Ladakh Festival, launched in 1984 to promote tourism and preserve Ladakhi culture, is held each September in Leh. A ten-day celebration featuring a spectacular opening procession in which representatives from 28+ villages across Ladakh march in their distinct traditional dress and jewellery — creating a living gallery of Ladakh's remarkable cultural diversity. Archery contests, traditional Ladakhi polo (played at one of the world's highest polo grounds, 3,524m), mask dances from various monasteries, and folk music and dance performances make it Ladakh's most comprehensive cultural showcase. The festival coincides with Ladakh's best weather — clear skies, golden harvest fields, and ideal conditions for trekking and wildlife viewing."
+        },
+        {
+          "id": "evt_d6_kochi_biennale",
+          "location": { "name": "Kochi-Muziris Biennale — Kerala", "lat": 9.9312, "lng": 76.2673 },
+          "questions": [
+            { "question": "The Kochi-Muziris Biennale is India's largest contemporary art festival. 'Muziris' in the name refers to?", "options": ["A contemporary art term", "The ancient port city near Kochi, now partially submerged", "A Malayalam word for creativity", "The name of the first biennale venue"], "correctIndex": 1 },
+            { "question": "The first Kochi-Muziris Biennale was held in which year?", "options": ["2006", "2010", "2012", "2015"], "correctIndex": 2 },
+            { "question": "The biennale is hosted in Kochi's historic?", "options": ["Modern art museum", "Fort Kochi and Mattancherry historic quarter", "Bolgatty Island", "Ernakulum town"], "correctIndex": 1 },
+            { "question": "The biennale was founded by which two artists?", "options": ["Subodh Gupta and Bharti Kher", "Riyas Komu and Bose Krishnamachari", "Jitish Kallat and Shilpa Gupta", "Nalini Malani and Vivan Sundaram"], "correctIndex": 1 },
+            { "question": "Fort Kochi's art scene was historically influenced by the presence of which communities?", "options": ["Mughal traders only", "Portuguese, Dutch, Jewish, Chinese, and Arab trading communities", "British colonists only", "Tamil and Kannada migrant communities"], "correctIndex": 1 }
+          ],
+          "summary": "The Kochi-Muziris Biennale — launched in 2012 by artists Riyas Komu and Bose Krishnamachari — is India's largest and most prestigious contemporary art festival, held every two years in Fort Kochi's historic quarter. 'Muziris' refers to the ancient cosmopolitan port city (near modern Kodungallur) that was a global trading hub from the 1st century BCE, visited by Roman, Arab, and Chinese merchants. Fort Kochi itself carries layers of Portuguese, Dutch, Jewish, and British colonial history visible in its architecture. The Biennale fills warehouses, colonial buildings, and public spaces with works by Indian and international artists — drawing 500,000+ visitors and establishing India on the global contemporary art circuit."
+        },
+        {
+          "id": "evt_d6_great_banyan",
+          "location": { "name": "Jagadguru Shankaracharya — Sringeri, Karnataka", "lat": 13.4160, "lng": 75.2520 },
+          "questions": [
+            { "question": "The Sringeri Sharada Peetham was established by which philosopher-saint?", "options": ["Ramanuja", "Madhva", "Adi Shankaracharya", "Ramanujacharya"], "correctIndex": 2 },
+            { "question": "Adi Shankaracharya established four Peethas (religious seats) across India. Sringeri is in the south. The other three are?", "options": ["Puri (east), Dwarka (west), Badrinath (north)", "Varanasi (east), Mathura (west), Haridwar (north)", "Tirupati (east), Nashik (west), Kedarnath (north)", "Rameswaram (east), Ahmedabad (west), Rishikesh (north)"], "correctIndex": 0 },
+            { "question": "Adi Shankaracharya's philosophical school is called?", "options": ["Dvaita (dualism)", "Advaita Vedanta (non-dualism)", "Vishishtadvaita", "Shuddhadvaita"], "correctIndex": 1 },
+            { "question": "Sringeri is located on the banks of which river?", "options": ["Kaveri", "Tunga", "Tungabhadra", "Bhadra"], "correctIndex": 1 },
+            { "question": "Adi Shankaracharya lived approximately in which period?", "options": ["500 BCE", "300 CE", "788–820 CE", "1000–1050 CE"], "correctIndex": 2 }
+          ],
+          "summary": "Sringeri Sharada Peetham in Karnataka, on the banks of the Tunga River, is one of four Amnaya Peethas (religious seats) established by Adi Shankaracharya — the 8th-century philosopher who revitalised Hinduism through his Advaita Vedanta (non-dualism) philosophy. Shankaracharya, born in 788 CE in Kerala, travelled the entire subcontinent debating religious scholars and established four monasteries at the four corners of India: Sringeri (south), Dwarka (west), Puri (east), and Badrinath/Joshimath (north). His Advaita Vedanta — asserting that the individual self (Atman) and the universal consciousness (Brahman) are ultimately one — remains one of Hinduism's most influential philosophical traditions, shaping Indian intellectual life for 1,200 years."
+        },
+        {
+          "id": "evt_d6_tribal_art_bastar",
+          "location": { "name": "Bastar Dussehra — Chhattisgarh", "lat": 19.1154, "lng": 81.9661 },
+          "questions": [
+            { "question": "Bastar Dussehra is unique because, unlike other Dussehra celebrations, it?", "options": ["Lasts 75 days — the longest festival in the world", "Does not burn an effigy of Ravana — it celebrates the local goddess Danteshwari, not Rama's victory", "Is celebrated only by tribal communities", "Both a and b"], "correctIndex": 3 },
+            { "question": "The presiding deity of Bastar Dussehra is?", "options": ["Rama", "Durga", "Danteshwari Mata (local Mother Goddess)", "Ganesha"], "correctIndex": 2 },
+            { "question": "Bastar Dussehra involves a unique chariot procession. The chariot is built from?", "options": ["Iron and steel", "A single massive sal tree trunk", "Bamboo and cane", "Teak wood with brass fittings"], "correctIndex": 2 },
+            { "question": "The Danteshwari Temple, the focal point of Bastar's religious life, is located in?", "options": ["Jagdalpur", "Dantewada", "Kondagaon", "Bijapur"], "correctIndex": 1 },
+            { "question": "Bastar is also famous for which distinctive folk art tradition?", "options": ["Madhubani painting", "Bell metal (Dhokra) craft and tribal terracotta", "Pattachitra", "Warli painting"], "correctIndex": 1 }
+          ],
+          "summary": "Bastar Dussehra in Chhattisgarh is one of India's most extraordinary and ancient festivals — lasting 75 days (typically July-October), it is cited as the world's longest festival. Unlike Dussehra celebrations elsewhere that mark Rama's victory over Ravana, Bastar Dussehra is rooted in the worship of Danteshwari Mata — the local Mother Goddess worshipped by the tribal communities of the Bastar region. The festival involves over a dozen ancient rituals including the construction of a massive bamboo and cane chariot, tribal dances, and offerings. The Danteshwari Temple in Dantewada (derived from 'Danteshwari') is the sacred centre around which the entire cultural life of Bastar's tribal communities revolves."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d6_arunachal_itanagar",
+          "location": { "name": "Itanagar — Arunachal Pradesh Capital", "lat": 27.0844, "lng": 93.6053 },
+          "questions": [
+            { "question": "Arunachal Pradesh borders how many countries?", "options": ["Two (China and Myanmar)", "Three (China, Bhutan and Myanmar)", "Two (China and Bhutan)", "Four (China, Bhutan, Myanmar, Nepal)"], "correctIndex": 1 },
+            { "question": "China claims most of Arunachal Pradesh, calling it 'South Tibet' or?", "options": ["Tawang Province", "Zangnan", "Aksai Chin East", "Yunnan Pradesh"], "correctIndex": 1 },
+            { "question": "Arunachal Pradesh became a full state in which year?", "options": ["1972", "1980", "1987", "1990"], "correctIndex": 2 },
+            { "question": "'Arunachal' means in Sanskrit?", "options": ["Land of the rising sun", "Land of mountains", "Land of 1,000 rivers", "Land of the red panda"], "correctIndex": 0 },
+            { "question": "Arunachal Pradesh is India's largest state in the northeast. It is approximately the size of which European country?", "options": ["Switzerland", "Austria", "Hungary", "Austria and Switzerland combined"], "correctIndex": 2 }
+          ],
+          "summary": "Arunachal Pradesh — 'Land of the Rising Sun' — is India's largest northeastern state, bordered by Bhutan, China (Tibet), and Myanmar. China claims virtually the entire state as 'South Tibet' (Zangnan), a dispute that remains one of the most intractable in the India-China relationship. The state became a Union Territory in 1972 and a full state in 1987. Its Tawang district, site of a crucial 1962 India-China War battle, houses the world's second-largest Buddhist monastery. With over 100 tribal groups and 80% forest cover, Arunachal is India's most ethnically diverse state — a living mosaic of cultures that has been both isolated by geography and defined by it."
+        },
+        {
+          "id": "pol_d6_assam_guwahati",
+          "location": { "name": "Guwahati — Assam Commercial Capital", "lat": 26.1445, "lng": 91.7362 },
+          "questions": [
+            { "question": "Guwahati is the largest city in Northeast India and a major transport hub. It sits on the banks of?", "options": ["Teesta", "Lohit", "Brahmaputra", "Barak"], "correctIndex": 2 },
+            { "question": "The Kamakhya Temple near Guwahati is one of the most important?", "options": ["Shaivite temples in India", "Shakti Peethas (seats of the goddess) in Hinduism", "Vaishnavite temples in Assam", "Buddhist stupas in Northeast India"], "correctIndex": 1 },
+            { "question": "Guwahati is connected to the rest of India primarily via which transport modes?", "options": ["Road only", "Rail and air — the Brahmaputra creates a barrier limiting road connectivity", "River transport primarily", "Air only"], "correctIndex": 1 },
+            { "question": "The National Register of Citizens (NRC) process, completed in Assam in 2019, was intended to identify?", "options": ["All Assamese people", "Illegal immigrants from Bangladesh who entered after March 24, 1971", "All non-Assamese people", "Bengali-speaking Hindus only"], "correctIndex": 1 },
+            { "question": "Guwahati is a gateway to how many northeastern states?", "options": ["4", "6", "7", "8"], "correctIndex": 2 }
+          ],
+          "summary": "Guwahati — Assam's commercial capital on the south bank of the Brahmaputra — is the gateway to all seven northeastern states and the region's largest city. The Kamakhya Temple on Nilachal Hill is one of Hinduism's most important Shakti Peethas — the goddess worshipped here is Kamakhya Devi, associated with fertility and power, drawing pilgrims from across India. Guwahati's position as a logistics hub is critical for India's 'Act East' policy — connecting India's northeast to ASEAN countries through Myanmar. The controversial National Register of Citizens (NRC) process completed in Assam in 2019 aimed to identify illegal immigrants from Bangladesh — leaving approximately 1.9 million people off the list and uncertain about their citizenship status."
+        },
+        {
+          "id": "pol_d6_odisha_bhubaneswar",
+          "location": { "name": "Bhubaneswar New Town — Odisha", "lat": 20.2961, "lng": 85.8245 },
+          "questions": [
+            { "question": "Odisha was renamed from 'Orissa' in which year?", "options": ["2001", "2007", "2011", "2015"], "correctIndex": 2 },
+            { "question": "Bhubaneswar was selected as one of the pilot Smart Cities in India in which year?", "options": ["2014", "2016", "2018", "2020"], "correctIndex": 1 },
+            { "question": "Odisha's coastline is approximately how long — the longest of any Indian state?", "options": ["480 km", "974 km", "1,600 km", "2,400 km"], "correctIndex": 1 },
+            { "question": "Odisha experienced one of independent India's worst cyclones in which year, reshaping its disaster preparedness approach?", "options": ["1971", "1990", "1999 (Super Cyclone Odisha)", "2013"], "correctIndex": 2 },
+            { "question": "The 1999 Super Cyclone that devastated Odisha resulted in which significant policy change?", "options": ["India built a cyclone wall along the coast", "Odisha developed one of the world's most effective cyclone disaster management systems", "The state was given special category status", "The central government took over coastal management"], "correctIndex": 1 }
+          ],
+          "summary": "Odisha — renamed from Orissa in 2011 — has been transformed from one of India's most disaster-prone states into a global model for disaster management. The devastating 1999 Super Cyclone (wind speed 260+ km/h) killed approximately 10,000 people. The state's response was a systematic overhaul: cyclone shelters along the entire coastline, an early warning system, trained disaster response teams, and pre-emptive evacuations. By 2013, when Cyclone Phailin struck with similar force, zero lives were lost among the 900,000 people evacuated. Odisha's model has been studied and replicated worldwide. Bhubaneswar was selected as a pilot Smart City and has seen significant infrastructure investment in its new townships."
+        },
+        {
+          "id": "pol_d6_jammu_winter_capital",
+          "location": { "name": "Jammu — J&K Winter Capital", "lat": 32.7266, "lng": 74.8570 },
+          "questions": [
+            { "question": "Jammu serves as the winter capital of Jammu & Kashmir. Why does the capital shift seasonally?", "options": ["Srinagar gets too cold for administration in winter", "Traditional Dogra administrative practice carried from pre-independence era", "Srinagar floods in winter", "Security concerns in Kashmir Valley during winter"], "correctIndex": 1 },
+            { "question": "Jammu is known as the 'City of Temples.' The most famous temple here is?", "options": ["Vaishno Devi — actually in the Trikuta Hills, Jammu", "Raghunath Temple complex", "Both a and b are in the Jammu region", "Amarnath — also in Jammu division"], "correctIndex": 2 },
+            { "question": "The Vaishno Devi shrine annually draws how many pilgrims?", "options": ["500,000", "3 million", "8+ million", "15 million"], "correctIndex": 2 },
+            { "question": "Jammu is connected to Srinagar by which strategic road?", "options": ["National Highway 44", "Jammu-Srinagar National Highway (NH-44)", "Mughal Road", "Banihal Highway"], "correctIndex": 1 },
+            { "question": "The Dogra dynasty that ruled Jammu and the surrounding region from the 19th century had its capital in?", "options": ["Srinagar", "Jammu", "Leh", "Pathankot"], "correctIndex": 1 }
+          ],
+          "summary": "Jammu — the 'City of Temples' — serves as J&K's winter capital, a tradition dating to the Dogra Maharajas who ruled Jammu and Kashmir from 1846 until 1947. The Dogra practice of shifting the capital seasonally between Srinagar (summer) and Jammu (winter) was adopted by the Indian administration and continues today. Jammu is the base for pilgrims visiting Vaishno Devi — the shrine of the goddess in the Trikuta Hills that draws 8+ million pilgrims annually, making it one of India's most visited religious sites. The Jammu-Srinagar Highway (NH-44), frequently closed by landslides and snow, remains J&K's critical lifeline — its importance is why the Banihal rail tunnel and the broader USBRL project are such strategic priorities."
+        },
+        {
+          "id": "pol_d6_lakshadweep_kavaratti",
+          "location": { "name": "Kavaratti — Lakshadweep Capital", "lat": 10.5669, "lng": 72.6420 },
+          "questions": [
+            { "question": "Lakshadweep is India's smallest Union Territory by area. How large is its total land area?", "options": ["12 sq km", "32 sq km", "72 sq km", "120 sq km"], "correctIndex": 1 },
+            { "question": "How many of Lakshadweep's 36 islands are inhabited?", "options": ["5", "11", "18", "26"], "correctIndex": 1 },
+            { "question": "The islands are geologically which type of formation?", "options": ["Volcanic islands", "Continental shelf islands", "Coral atolls", "Barrier islands"], "correctIndex": 2 },
+            { "question": "Non-Lakshadweep citizens (including mainland Indians) require which document to visit?", "options": ["Passport", "Permit (Entry Permit from Lakshadweep Administration)", "Aadhaar card only", "No permit — free entry"], "correctIndex": 1 },
+            { "question": "The Lakshadweep islands gained prominence in 2024 when India promoted them as an alternative to which destination?", "options": ["Sri Lanka", "Goa", "Maldives", "Andaman Islands"], "correctIndex": 2 }
+          ],
+          "summary": "Kavaratti, the administrative capital of Lakshadweep, is the hub of India's smallest Union Territory — 36 coral atolls with just 32 sq km of land, 200–440 km off Kerala's coast. Only 11 of the 36 islands are inhabited; the remaining are protected for their exceptional coral reef ecosystems. Mainland Indians and foreigners require an Entry Permit to visit. The islands gained extraordinary publicity in early 2024 when Prime Minister Modi's visit prompted a diplomatic standoff with the Maldives and sparked a social media campaign promoting Lakshadweep as an alternative tropical destination — leading to a surge in permit applications that overwhelmed the administration. The islands' long-term viability is threatened by sea-level rise: they sit just 1–2 metres above sea level."
+        }
+      ]
+    }
+  }
+}

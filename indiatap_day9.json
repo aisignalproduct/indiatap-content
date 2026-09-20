@@ -1,0 +1,326 @@
+{
+  "day": 9,
+  "date": "2026-10-09",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d9_dibang_valley",
+          "location": { "name": "Dibang Valley — Arunachal Pradesh", "lat": 28.6500, "lng": 96.0000 },
+          "questions": [
+            { "question": "The Dibang River is a tributary of which major river?", "options": ["Ganga", "Brahmaputra", "Irrawaddy", "Mekong"], "correctIndex": 1 },
+            { "question": "Dibang Wildlife Sanctuary is home to which critically endangered primate found only in this region?", "options": ["Golden Langur", "Hoolock Gibbon", "Mishmi Takin", "Red Panda"], "correctIndex": 1 },
+            { "question": "The Mishmi Hills people of Dibang Valley have resisted outside contact for centuries. The Idu Mishmi community recently gained attention for their?", "options": ["Ancient script discovered in 2019", "Traditional conservation of tigers — the community considers tigers their brothers", "Unique architectural tradition", "Oldest known oral literature in India"], "correctIndex": 1 },
+            { "question": "The proposed Etalin Hydropower Project in Dibang Valley was controversial because?", "options": ["It would flood a town", "It requires felling 2.7 lakh trees in a biodiversity hotspot", "China opposed it", "It would submerge an ancient temple"], "correctIndex": 1 },
+            { "question": "Dibang Valley district has approximately what population density — making it India's least densely populated district?", "options": ["Under 1 person per sq km", "2 persons per sq km", "10 persons per sq km", "50 persons per sq km"], "correctIndex": 0 }
+          ],
+          "summary": "Dibang Valley in Arunachal Pradesh — India's least densely populated district at under 1 person per sq km — is one of the last great wilderness areas in South Asia. The Dibang River drains this high-altitude landscape before joining the Brahmaputra. The valley's extraordinary biodiversity includes Hoolock Gibbons, Red Pandas, Snow Leopards, and the Chinese/Mishmi Takin. The Idu Mishmi community, the valley's indigenous inhabitants, have a unique cultural tradition of considering tigers as brothers — effectively creating a community-based conservation system that has protected tigers in their territory. The proposed Etalin Hydropower Project, which would require felling 2.7 lakh trees, remains highly contested."
+        },
+        {
+          "id": "geo_d9_kutch_creek",
+          "location": { "name": "Flamingo City — Little Rann, Gujarat", "lat": 23.5000, "lng": 71.5000 },
+          "questions": [
+            { "question": "The Little Rann of Kutch hosts the largest breeding colony of Greater Flamingos in India. Approximately how many flamingos nest here?", "options": ["5,000", "50,000", "Over 1 lakh (100,000)", "10 lakh (1 million)"], "correctIndex": 2 },
+            { "question": "Flamingos in the Rann breed on mudflats. What specific condition triggers their breeding?", "options": ["Monsoon floods", "Precise salinity and water depth conditions in seasonal salt pans", "Winter temperatures", "Availability of specific algae"], "correctIndex": 1 },
+            { "question": "The Greater Flamingo's pink colour comes from?", "options": ["Genetic pigmentation", "Carotenoid pigments in their algae and crustacean diet", "Minerals in the salt flat water", "Sun exposure"], "correctIndex": 1 },
+            { "question": "The Little Rann of Kutch Wildlife Sanctuary is also critical habitat for which endangered wild ass?", "options": ["Tibetan Wild Ass (Kiang)", "Indian Wild Ass (Khur/Equus hemionus khur)", "African Wild Ass", "Onager"], "correctIndex": 1 },
+            { "question": "Approximately how many Indian Wild Asses survive in the Little Rann — making it the world's entire population?", "options": ["Under 500", "About 2,000", "Over 6,000", "About 10,000"], "correctIndex": 2 }
+          ],
+          "summary": "The Little Rann of Kutch in Gujarat is one of India's most remarkable wildlife habitats — a seasonal salt desert that transforms dramatically with the monsoon. It is home to the entire world population of Indian Wild Asses (over 6,000 Khur), found nowhere else on Earth. The salt pans and shallow alkaline water bodies become one of Asia's largest flamingo breeding colonies (over 1 lakh Greater Flamingos) when conditions of salinity and water depth are precisely right. The flamingos' pink colour comes from carotenoid pigments in their diet of algae and brine shrimp — flamingos in captivity without this diet turn white. The wild ass population recovered from near-extinction in the 1960s through strict protection."
+        },
+        {
+          "id": "geo_d9_tista_river",
+          "location": { "name": "Teesta River — Sikkim/West Bengal", "lat": 27.3200, "lng": 88.6100 },
+          "questions": [
+            { "question": "The Teesta River is a tributary of which river?", "options": ["Ganga", "Brahmaputra", "Meghna", "Yamuna"], "correctIndex": 1 },
+            { "question": "A glacial lake outburst flood (GLOF) devastated the Teesta valley in October 2023. Which glacial lake burst?", "options": ["Gurudongmar Lake", "Tsomgo Lake", "South Lhonak Lake", "Cholamu Lake"], "correctIndex": 2 },
+            { "question": "The Teesta water-sharing dispute is between India and which country?", "options": ["Nepal", "China", "Bangladesh", "Bhutan"], "correctIndex": 2 },
+            { "question": "The Teesta River flows through Sikkim before entering which Indian state?", "options": ["Assam", "Meghalaya", "West Bengal", "Bihar"], "correctIndex": 2 },
+            { "question": "Climate change is accelerating glacial melt in Sikkim. The state has approximately how many glaciers?", "options": ["10", "50", "Over 80", "Over 300"], "correctIndex": 3 }
+          ],
+          "summary": "The Teesta River — flowing from Sikkim's glaciers through West Bengal to Bangladesh — is one of the Eastern Himalayas' most ecologically rich and politically contested rivers. The October 2023 South Lhonak glacial lake outburst flood (GLOF) sent a catastrophic wall of water down the valley, destroying the Teesta III dam (520 MW) and killing over 100 people. Sikkim has over 300 glaciers, accelerating retreat under climate change. The Teesta water-sharing dispute between India and Bangladesh — unresolved since 1983 — involves Bangladesh's critical need for dry-season irrigation water that India diverts for West Bengal's agriculture. The GLOF disaster has intensified concerns about building large dams in seismically active Himalayan valleys."
+        },
+        {
+          "id": "geo_d9_tungabhadra",
+          "location": { "name": "Tungabhadra River — Karnataka", "lat": 15.3350, "lng": 76.4600 },
+          "questions": [
+            { "question": "The Tungabhadra is formed by the confluence of which two rivers?", "options": ["Tunga and Bhadra", "Tungabhadra and Krishna", "Hemavati and Cauvery", "Vedavati and Hagari"], "correctIndex": 0 },
+            { "question": "The Tungabhadra Dam at Hospet is a major irrigation project serving which districts?", "options": ["Coastal Karnataka districts", "Raichur, Koppal, Bellary and other drought-prone northern Karnataka districts", "Coorg and Dakshina Kannada", "Mysuru and Mandya"], "correctIndex": 1 },
+            { "question": "The Tungabhadra flows past which UNESCO World Heritage Site?", "options": ["Belur and Halebidu", "Pattadakal", "Hampi", "Badami Cave Temples"], "correctIndex": 2 },
+            { "question": "The coracle boats (round wickerwork boats) used on the Tungabhadra at Hampi are locally called?", "options": ["Thoni", "Tuppe", "Nauka", "Vallam"], "correctIndex": 1 },
+            { "question": "The Tungabhadra is a major tributary of which river?", "options": ["Godavari", "Cauvery", "Krishna", "Mahanadi"], "correctIndex": 2 }
+          ],
+          "summary": "The Tungabhadra — formed by the confluence of the Tunga and Bhadra rivers in the Western Ghats — flows northeast through the Deccan Plateau before joining the Krishna. The river flows past Hampi (UNESCO World Heritage Site), where its boulder-strewn banks and distinctive circular coracle boats (tuppe — made from bamboo frames and buffalo hide) are iconic. The Tungabhadra Dam near Hospet (1953) is one of Karnataka's most important irrigation projects, transforming arid northern Karnataka into agricultural land producing cotton, rice, and sugarcane. The dam supplies water to four districts historically prone to severe drought in the Deccan Plateau's rain shadow zone."
+        },
+        {
+          "id": "geo_d9_karakoram_pass",
+          "location": { "name": "Karakoram Pass — Ladakh", "lat": 35.5200, "lng": 77.8400 },
+          "questions": [
+            { "question": "The Karakoram Pass at 5,540m is one of the highest passes on the ancient Silk Road. It connects Ladakh to which region?", "options": ["Tibet", "Xinjiang (Chinese Turkestan)", "Afghanistan", "Pakistan"], "correctIndex": 1 },
+            { "question": "The Karakoram mountain range contains the world's second-highest peak. What is it?", "options": ["Kangchenjunga", "Lhotse", "K2 (8,611m)", "Makalu"], "correctIndex": 2 },
+            { "question": "The Siachen Glacier — the world's longest mountain glacier outside the polar regions — is in which range?", "options": ["Himalayas", "Karakoram", "Hindu Kush", "Zanskar"], "correctIndex": 1 },
+            { "question": "The Karakoram Highway — built by China and Pakistan — connects China's Xinjiang to Pakistan via which pass?", "options": ["Karakoram Pass", "Khunjerab Pass", "Mintaka Pass", "Wakhjir Pass"], "correctIndex": 1 },
+            { "question": "India claims the Line of Actual Control (LAC) with China in the Karakoram region runs along which feature?", "options": ["The traditional watershed", "The 1899 Macartney-MacDonald Line", "The 1962 post-war ceasefire line", "The Karakoram Pass itself"], "correctIndex": 0 }
+          ],
+          "summary": "The Karakoram Pass (5,540m) was a critical node on the Silk Road connecting Central Asia to the Indian subcontinent — caravans of up to 10,000 camels crossed it carrying silk, jade, and spices. The Karakoram Range contains K2 (8,611m) — the world's second-highest peak and by most accounts the most technically demanding 8,000m mountain. The Siachen Glacier, the world's longest mountain glacier outside polar regions at 76 km, is a military flashpoint — Indian and Pakistani forces have faced each other on its icy heights since 1984. The Pakistan-China Karakoram Highway — through the Khunjerab Pass — is the highest paved international road in the world and a crucial corridor of the China-Pakistan Economic Corridor (CPEC)."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d9_belur_halebidu",
+          "location": { "name": "Belur & Halebidu Temples — Karnataka", "lat": 13.1640, "lng": 75.8680 },
+          "questions": [
+            { "question": "Belur and Halebidu temples were built by which dynasty?", "options": ["Chalukya", "Rashtrakuta", "Hoysala", "Vijayanagara"], "correctIndex": 2 },
+            { "question": "The Chennakeshava Temple at Belur was built over how many years?", "options": ["10 years", "50 years", "103 years", "200 years"], "correctIndex": 2 },
+            { "question": "Hoysala temples are distinctive for being built on a star-shaped plan called?", "options": ["Mandala plan", "Jagati (stellate platform)", "Chaturmukha plan", "Panchayatana plan"], "correctIndex": 1 },
+            { "question": "The soft greenish-grey stone used in Hoysala temple sculptures is called?", "options": ["Granite", "Chloritic schist (soapstone) — which softens when freshly quarried allowing intricate carving", "Sandstone", "Basalt"], "correctIndex": 1 },
+            { "question": "The Hoysaleshwara Temple at Halebidu was never completed. Construction was abandoned due to?", "options": ["The death of the king", "The Khalji (Malik Kafur's) invasion of 1311 CE which sacked and looted the temples", "Lack of funds", "A natural disaster"], "correctIndex": 1 }
+          ],
+          "summary": "The Hoysala temples at Belur and Halebidu in Karnataka — built primarily in the 12th–14th centuries — represent the zenith of Hoysala sculptural art. Built on star-shaped platforms (jagati) from chloritic schist (soapstone) that remains soft when freshly quarried, the temples' exterior walls are covered with extraordinary sculptural friezes: bands of elephants, lions, horses, scrolling foliage, mythological scenes, and celestial dancers (shala-bhanjikas) carved in astonishing detail. The Chennakeshava Temple at Belur took 103 years to build. The Hoysaleshwara Temple at Halebidu was never completed — Malik Kafur's 1311 invasion sacked the capital and ended Hoysala patronage. These temples are India's nomination for UNESCO World Heritage Site inscription."
+        },
+        {
+          "id": "cul_d9_padmanabhapuram",
+          "location": { "name": "Padmanabhapuram Palace — Tamil Nadu/Kerala", "lat": 8.2500, "lng": 77.3333 },
+          "questions": [
+            { "question": "Padmanabhapuram Palace is the largest wooden palace in the world. It was the capital of which kingdom?", "options": ["Cochin Kingdom", "Travancore Kingdom", "Calicut Zamorin's Kingdom", "Pandya Kingdom"], "correctIndex": 1 },
+            { "question": "Although Padmanabhapuram is geographically in Tamil Nadu's Kanyakumari district, it is maintained by which state?", "options": ["Tamil Nadu", "Kerala", "Jointly by both states", "Central government"], "correctIndex": 1 },
+            { "question": "The palace was built primarily in which century?", "options": ["12th century", "15th century", "17th century", "19th century"], "correctIndex": 2 },
+            { "question": "Padmanabhapuram Palace is famous for its distinctive flooring made from?", "options": ["Italian marble", "A mixture of charcoal, eggs, sand, coconut water, and jaggery — polished to a mirror finish", "Teak wood", "Granite tiles"], "correctIndex": 1 },
+            { "question": "The palace's name derives from which deity's name?", "options": ["Lord Shiva", "Lord Padmanabha (a form of Vishnu) — the tutelary deity of the Travancore royal family", "Goddess Saraswati", "Lord Murugan"], "correctIndex": 1 }
+          ],
+          "summary": "Padmanabhapuram Palace near Kanyakumari — the largest wooden palace complex in Asia — served as the capital of the Travancore Kingdom from the 17th century. Though geographically in Tamil Nadu, it is maintained by the Kerala government (reflecting that Travancore's royal domain spanned the current state of Kerala). Built primarily from teak, jackfruit, and ironwood, the palace complex features the distinctive Travancore architectural style: sloping tiled roofs, carved wooden screens, and the remarkable floor made from a mixture of charcoal, eggs, coconut water, sand, and jaggery — polished for decades to achieve a mirror-like black lustre. The palace enshrines artwork and artefacts from three centuries of Travancore royal patronage."
+        },
+        {
+          "id": "cul_d9_mysore_zoo",
+          "location": { "name": "Mysuru Palace Art Gallery — Karnataka", "lat": 12.3052, "lng": 76.6552 },
+          "questions": [
+            { "question": "The Mysore Palace contains which type of art collection in its Ambavilasa Hall?", "options": ["Modern Indian art only", "Traditional Mysore paintings and Ravi Varma lithographs alongside royal artefacts", "European oil paintings exclusively", "Buddhist thangkas from Tibet"], "correctIndex": 1 },
+            { "question": "Ravi Varma — whose work is prominently featured in Mysore Palace — was a groundbreaking artist because?", "options": ["He invented oil painting in India", "He was the first Indian artist to depict Hindu goddesses and mythological scenes in a European realistic style, making religious art accessible through lithograph prints", "He was the first woman artist in India", "He painted exclusively for the British Raj"], "correctIndex": 1 },
+            { "question": "The Mysore style of painting (Mysore school) is distinctive for?", "options": ["Abstract patterns", "Its use of gold leaf (gesso work) and fine details in depicting deities", "Watercolour landscapes", "Bold primary colours with no gold work"], "correctIndex": 1 },
+            { "question": "The marriage hall (Kalyana Mantapa) of Mysore Palace has a ceiling made from which material?", "options": ["Gilded teak", "Stained glass imported from Scotland — one of India's finest stained glass ceilings", "Painted Italian marble", "Belgian crystal"], "correctIndex": 1 },
+            { "question": "Who was the Maharaja under whose patronage the current Mysore Palace was built?", "options": ["Krishnaraja Wadiyar IV", "Chamarajendra Wadiyar X", "Jayachamarajendra Wadiyar", "Mummadi Krishnaraja Wadiyar"], "correctIndex": 0 }
+          ],
+          "summary": "The Mysore Palace's artistic heritage is as extraordinary as its architectural grandeur. The Ambavilasa Hall and palace corridors house a remarkable collection including Mysore school paintings (characterised by fine brushwork, gold leaf gesso work, and vibrant depictions of deities), Ravi Varma lithographs (the Kerala artist who democratised Indian religious art by depicting Hindu mythological scenes in European realist style), and three centuries of royal artefacts. The palace's Kalyana Mantapa (marriage hall) features one of India's finest stained glass ceilings — multicoloured peacock motifs — imported from Scotland. Built under Maharaja Krishnaraja Wadiyar IV (1902–1940), who was also a scholar and composer, the palace reflects the Wadiyar dynasty's extraordinary cultural patronage."
+        },
+        {
+          "id": "cul_d9_shekhawati_frescoes",
+          "location": { "name": "Shekhawati Havelis — Rajasthan", "lat": 27.6090, "lng": 75.1515 },
+          "questions": [
+            { "question": "The Shekhawati region of Rajasthan is called 'the world's largest open-air art gallery' for its?", "options": ["Rock carvings", "Elaborate frescoes painted on havelis (mansion walls) by Marwari merchant families", "Street murals by contemporary artists", "Sand sculptures"], "correctIndex": 1 },
+            { "question": "Shekhawati havelis were built by which trading community in the 18th–19th centuries?", "options": ["Portuguese traders", "Marwari (Maheshwari and Agarwal) merchant families who made fortunes in trade", "British East India Company officers", "Mughal court nobles"], "correctIndex": 1 },
+            { "question": "The frescoes are distinctive for depicting which mix of subjects?", "options": ["Religious scenes only", "A mix of Hindu mythology, historical events, portraits of Marwari merchants, and anachronistic modern technology (trains, telephones, cars) as they appeared", "Only portraits of Mughal emperors", "Purely decorative geometric patterns"], "correctIndex": 1 },
+            { "question": "The fresco painting technique used in Shekhawati involves?", "options": ["Oil on canvas attached to walls", "Applying natural mineral pigments on wet lime plaster (fresco technique)", "Chemical paints on dry plaster", "Mosaic tile work"], "correctIndex": 1 },
+            { "question": "The major towns of the Shekhawati region known for their havelis include?", "options": ["Jaisalmer and Jodhpur", "Nawalgarh, Fatehpur, Mandawa, and Jhunjhunu", "Udaipur and Jaipur", "Bikaner and Barmer"], "correctIndex": 1 }
+          ],
+          "summary": "The Shekhawati region of northern Rajasthan — covering parts of Jhunjhunu, Sikar, and Churu districts — contains the world's largest concentration of painted havelis (mansions). Marwari merchant families who made fortunes in trade across India and the world (18th–20th centuries) competed to build increasingly elaborate mansions decorated with frescoes that mixed Hindu mythology, Mughal court scenes, and anachronistic modern technology — trains, telephones, automobiles, and aeroplanes appear in 19th-century paintings, demonstrating the artists' fascination with modernity. The frescoes were painted in natural mineral pigments on wet lime plaster. Many havelis now stand empty as families moved to cities, and the tradition is at risk from neglect, though heritage tourism is beginning to fund restoration."
+        },
+        {
+          "id": "cul_d9_hampi_lotus_mahal",
+          "location": { "name": "Lotus Mahal — Hampi Royal Enclosure", "lat": 15.3365, "lng": 76.4625 },
+          "questions": [
+            { "question": "The Lotus Mahal at Hampi is so named for its?", "options": ["Lotus ponds surrounding it", "Multi-lobed arches resembling a lotus in bloom", "Carvings of lotuses covering its walls", "Its location next to a sacred lotus tank"], "correctIndex": 1 },
+            { "question": "The Lotus Mahal is notable for blending which two architectural styles?", "options": ["Mughal and Chola", "Indo-Islamic and Dravidian", "Buddhist and Hindu", "Rajput and Dravidian"], "correctIndex": 1 },
+            { "question": "The Elephant Stables adjacent to the Lotus Mahal could house how many royal elephants?", "options": ["5", "11", "20", "50"], "correctIndex": 1 },
+            { "question": "The Hampi royal enclosure also contains the Mahanavami Dibba — a massive platform used for?", "options": ["Public executions", "The Dasara celebrations — the king watched the nine-day Dasara festival from this platform", "Storing the royal treasury", "Artillery storage"], "correctIndex": 1 },
+            { "question": "The Vijayanagara Empire at its peak had which estimated annual revenue, making it one of the world's wealthiest medieval states?", "options": ["₹1 crore (contemporary)", "More than Portugal's entire state revenue at the time", "More than the Ottoman Empire's revenue", "More than the Mughal Empire's revenue"], "correctIndex": 1 }
+          ],
+          "summary": "The Lotus Mahal in Hampi's Royal Enclosure is one of the Vijayanagara Empire's most elegant surviving structures — a two-storeyed pavilion whose name comes from its multi-lobed cusped arches that bloom like a lotus. It masterfully blends Dravidian (stepped pyramidal roof) and Indo-Islamic (the cusped arches, introduced through contact with the Deccan Sultanates) architectural elements. The adjacent Elephant Stables — 11 domed chambers of alternating Hindu and Islamic dome styles — could house the royal war elephants that were central to Vijayanagara's military power. The Mahanavami Dibba (platform) nearby hosted the magnificent Dasara celebrations during which the king received tribute from vassal chiefs, generals, and foreign ambassadors — described in wonder by Portuguese and Arabic visitors."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d9_coal_india",
+          "location": { "name": "Coal India Limited — Jharkhand/Odisha coalfields", "lat": 23.6600, "lng": 85.3100 },
+          "questions": [
+            { "question": "Coal India Limited (CIL) is the world's largest coal-producing company. It produces approximately how much coal annually?", "options": ["200 million tonnes", "450 million tonnes", "700 million tonnes", "1 billion tonnes"], "correctIndex": 2 },
+            { "question": "The Jharia coalfields in Jharkhand are India's most important coal belt. They are famous for having?", "options": ["The highest quality steam coal", "Underground coal fires that have burned continuously for over 100 years", "The largest open-cast mine in Asia", "Coal deposits extending below the ocean floor"], "correctIndex": 1 },
+            { "question": "Coal provides approximately what percentage of India's electricity generation?", "options": ["20%", "40%", "70%", "90%"], "correctIndex": 2 },
+            { "question": "India aims to phase down (not eliminate) coal under which international commitment?", "options": ["Paris Agreement 2015", "COP26 Glasgow Agreement 2021 — India committed to net zero by 2070 and reducing coal dependence", "Kyoto Protocol", "Montreal Protocol"], "correctIndex": 1 },
+            { "question": "The Odisha-Jharkhand-Chhattisgarh-West Bengal belt holds approximately what percentage of India's coal reserves?", "options": ["20%", "40%", "Over 80%", "60%"], "correctIndex": 2 }
+          ],
+          "summary": "Coal India Limited — the world's largest coal-producing company — produces approximately 700 million tonnes annually from its mines across the Gondwana coalfields of Jharkhand, Odisha, Chhattisgarh, West Bengal, and Madhya Pradesh. The Jharia coalfields in Jharkhand are India's richest coking coal belt but are dramatically compromised by underground coal fires that have burned continuously for over 100 years — the fires have made vast areas uninhabitable and displaced thousands. Coal provides approximately 70% of India's electricity. India's COP26 pledge — net zero by 2070, peak emissions before 2030, 500 GW non-fossil fuel capacity by 2030 — commits to reducing coal dependence while acknowledging the developmental imperatives of a country still achieving basic electrification."
+        },
+        {
+          "id": "eco_d9_lic",
+          "location": { "name": "LIC Headquarters — Mumbai", "lat": 18.9220, "lng": 72.8347 },
+          "questions": [
+            { "question": "Life Insurance Corporation of India (LIC) was nationalised in which year?", "options": ["1947", "1956", "1969", "1991"], "correctIndex": 1 },
+            { "question": "LIC manages assets worth approximately how much — making it India's largest institutional investor?", "options": ["₹10 lakh crore", "₹25 lakh crore", "₹45+ lakh crore", "₹80 lakh crore"], "correctIndex": 2 },
+            { "question": "LIC's IPO in 2022 was India's largest ever IPO. How much did it raise?", "options": ["₹5,000 crore", "₹21,000 crore", "₹68,000 crore", "₹1 lakh crore"], "correctIndex": 1 },
+            { "question": "LIC's investment portfolio significantly influences India's stock market and economy because?", "options": ["It owns government bonds only", "It is India's largest equity investor and its buying/selling significantly moves markets", "It manages pension funds only", "It invests only in LIC-backed companies"], "correctIndex": 1 },
+            { "question": "LIC has a unique social mandate as a government company. This includes?", "options": ["Providing free life insurance to BPL families", "Acting as a market stabiliser — it often buys equities when markets fall sharply", "Funding rural road construction", "Managing the PM Kisan scheme"], "correctIndex": 1 }
+          ],
+          "summary": "Life Insurance Corporation of India — nationalised in 1956 by merging 245 private insurers — is India's largest financial institution and the country's largest institutional investor, managing assets worth over ₹45 lakh crore. LIC's 2022 IPO, raising ₹21,000 crore, was India's largest ever. As India's dominant life insurer, LIC reaches 290+ million policyholders — particularly in rural areas where private insurers have limited reach. LIC functions as a critical market stabiliser: when stock markets fall sharply, LIC often steps in to buy equities, preventing panic selling cascades. It also holds significant stakes in major Indian companies (SBI, ONGC, BPCL) — making the government's LIC effectively a major shareholder in the private sector through this nationalised insurer."
+        },
+        {
+          "id": "eco_d9_nhpc_sardar_sarovar",
+          "location": { "name": "Sardar Sarovar Dam — Gujarat", "lat": 21.8300, "lng": 73.7500 },
+          "questions": [
+            { "question": "The Sardar Sarovar Dam is India's second-largest dam by volume of concrete. On which river is it built?", "options": ["Tapti", "Mahi", "Narmada", "Sabarmati"], "correctIndex": 2 },
+            { "question": "The dam was named after which Indian leader?", "options": ["Jawaharlal Nehru", "Indira Gandhi", "Sardar Vallabhbhai Patel", "Lal Bahadur Shastri"], "correctIndex": 2 },
+            { "question": "The Narmada Bachao Andolan (NBA) protesting dam-related displacement was led by?", "options": ["Anna Hazare", "Aruna Roy", "Medha Patkar", "Vandana Shiva"], "correctIndex": 2 },
+            { "question": "Approximately how many people were displaced by the Sardar Sarovar Project?", "options": ["10,000", "50,000", "Over 200,000", "Over 1 million"], "correctIndex": 2 },
+            { "question": "The dam's height at completion is?", "options": ["88m", "121m", "163m", "226m"], "correctIndex": 2 }
+          ],
+          "summary": "The Sardar Sarovar Dam on the Narmada in Gujarat — at 163 metres one of India's largest dams — was the centre of one of independent India's most significant environmental and human rights controversies. The Narmada Bachao Andolan led by Medha Patkar — opposing the displacement of over 200,000 people, mostly Adivasi communities — became India's longest-running social movement and drew international attention. The World Bank withdrew funding in 1993 following criticism of the rehabilitation plan. Despite protests, the dam reached its full height in 2017 under PM Modi. The project irrigates 18.45 lakh hectares in Gujarat's drought-prone Saurashtra and Kutch regions and generates 1,450 MW of hydroelectric power. The Narmada dispute shaped India's framework for environmental impact assessment and resettlement policy."
+        },
+        {
+          "id": "eco_d9_tata_steel",
+          "location": { "name": "Tata Steel — Jamshedpur, Jharkhand", "lat": 22.8046, "lng": 86.2029 },
+          "questions": [
+            { "question": "Tata Steel is India's largest private sector steel company. Its Jamshedpur plant was commissioned in which year?", "options": ["1897", "1907", "1919", "1934"], "correctIndex": 1 },
+            { "question": "Tata Steel's most significant international acquisition was Corus in 2007. Corus was a steel company from?", "options": ["Germany", "UK and the Netherlands", "France", "USA"], "correctIndex": 1 },
+            { "question": "The Tata Steel plant at Jamshedpur has an annual crude steel capacity of approximately?", "options": ["1 million tonnes", "3.5 million tonnes", "10 million tonnes", "20 million tonnes"], "correctIndex": 2 },
+            { "question": "Jamshedpur is unique in Indian urban history because?", "options": ["It was the first city built after independence", "It is India's only major city not governed by a municipal corporation — Tata Steel manages civic services through Jusco", "It was built entirely by British engineers", "It was the site of India's first industrial strike"], "correctIndex": 1 },
+            { "question": "Which of these products is Tata Steel's Jamshedpur plant most famous for producing?", "options": ["Automobile-grade flat steel sheets", "The steel used in Indian Railways — rails, wheels, axles", "Stainless steel for kitchenware", "Reinforcement bars for construction"], "correctIndex": 1 }
+          ],
+          "summary": "Tata Steel's Jamshedpur plant — commissioned in 1907 by Jamsetji Nusserwanji Tata — is India's oldest integrated steel plant and the foundation of the Tata Group's industrial empire. With a crude steel capacity of approximately 10 million tonnes per year, it produces railway rails, wheels, and axles that keep Indian Railways running. Jamshedpur remains unique in India — a city of over 1 million people managed entirely by Tata Steel's civic subsidiary Jusco, without a municipal corporation. Tata Steel's 2007 acquisition of the Anglo-Dutch Corus Group for $12.1 billion was India's largest overseas acquisition at that time and signalled Indian industry's global ambitions — though the subsequent global financial crisis made integrating the acquisition extremely challenging."
+        },
+        {
+          "id": "eco_d9_infosys",
+          "location": { "name": "Infosys Campus — Bengaluru, Karnataka", "lat": 12.9345, "lng": 77.6268 },
+          "questions": [
+            { "question": "Infosys was founded in which year by N.R. Narayana Murthy and six colleagues?", "options": ["1975", "1981", "1991", "1994"], "correctIndex": 1 },
+            { "question": "Infosys's initial capital when founded was remarkably small. How much was it?", "options": ["₹10,000", "₹10,000 (borrowed by Narayana Murthy from his wife Sudha Murthy)", "₹1 lakh", "₹10 lakh"], "correctIndex": 1 },
+            { "question": "Infosys was the first Indian company to be listed on which US stock exchange?", "options": ["NYSE", "NASDAQ", "Dow Jones", "S&P 500"], "correctIndex": 1 },
+            { "question": "Infosys campuses are known for which distinctive feature?", "options": ["Maximum security", "Award-winning architecture and world-class amenities that pioneered the 'campus culture' in Indian IT", "Underground data centres", "Exclusively hiring from IITs"], "correctIndex": 1 },
+            { "question": "Infosys currently employs approximately how many people globally?", "options": ["50,000", "130,000", "320,000", "500,000"], "correctIndex": 2 }
+          ],
+          "summary": "Infosys — founded in 1981 by N.R. Narayana Murthy and six colleagues with ₹10,000 borrowed from Sudha Murthy — is one of the most remarkable entrepreneurial success stories in Indian history. Starting as a software services company targeting US clients, Infosys pioneered the Global Delivery Model (developing software offshore in India for delivery to US and European clients) that defined India's IT industry. It was the first Indian company listed on NASDAQ and remains a global IT services giant with approximately 320,000 employees. Its Bengaluru campus — with its award-winning architecture by Hafeez Contractor — helped establish the 'tech campus' culture in Indian IT, signalling that India's software industry could operate at global standards. Infosys's transparency and corporate governance set benchmarks for Indian corporate culture."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d9_pongal_sangranti",
+          "location": { "name": "Lohri — Punjab/Haryana", "lat": 30.9010, "lng": 75.8573 },
+          "questions": [
+            { "question": "Lohri is celebrated primarily in which states?", "options": ["Gujarat and Rajasthan", "Punjab, Haryana, and Himachal Pradesh", "UP and Bihar", "Delhi and Uttarakhand"], "correctIndex": 1 },
+            { "question": "Lohri marks which occasion?", "options": ["Spring arrival", "The winter solstice and the end of winter — celebrating the sun's northward journey (Uttarayan)", "The Sikh New Year", "The harvest of rabi (winter) crops"], "correctIndex": 1 },
+            { "question": "The central ritual of Lohri is?", "options": ["A ritual bath in rivers at midnight", "A bonfire around which people sing, dance Bhangra and Giddha, and throw popcorn, sesame, and puffed rice", "Kite flying throughout the day", "A community feast of sarson ka saag and makki di roti"], "correctIndex": 1 },
+            { "question": "Lohri is particularly significant for families who have had?", "options": ["A death in the family", "A birth or a wedding in the previous year — the first Lohri of a newborn or new bride is especially celebrated", "An abundant harvest", "A new home built"], "correctIndex": 1 },
+            { "question": "The folk songs sung during Lohri praise which legendary Punjabi hero who was a rebel and philanthropist?", "options": ["Hari Singh Nalwa", "Dulla Bhatti", "Banda Singh Bahadur", "Maharaja Ranjit Singh"], "correctIndex": 1 }
+          ],
+          "summary": "Lohri — celebrated on January 13 in Punjab, Haryana, and Himachal Pradesh — marks the end of winter and the beginning of the sun's northward journey (Uttarayan). The central ritual is gathering around a bonfire, tossing popcorn, sesame seeds, puffed rice, and rewri (sesame candy) into the flames while singing traditional songs praising Dulla Bhatti — a 16th-century Punjabi Robin Hood figure who rescued Punjabi girls from Mughal slave traders and helped them get married. Lohri is especially significant for families celebrating a first Lohri after a birth or marriage. The festival transitions directly into Maghi — the Sikh religious observance marking Guru Gobind Singh's birth and the Sikh New Year in the Sikh calendar."
+        },
+        {
+          "id": "evt_d9_hemis_festival",
+          "location": { "name": "Hemis Festival — Ladakh", "lat": 33.8960, "lng": 77.7080 },
+          "questions": [
+            { "question": "The Hemis Festival is held at which monastery in Ladakh?", "options": ["Tikse Monastery", "Key Monastery", "Hemis Monastery", "Diskit Monastery"], "correctIndex": 2 },
+            { "question": "Hemis Monastery belongs to which school of Tibetan Buddhism?", "options": ["Gelug", "Nyingma", "Drukpa Kagyu", "Sakya"], "correctIndex": 2 },
+            { "question": "The Hemis Festival celebrates the birth of which revered Buddhist master?", "options": ["Milarepa", "Guru Padmasambhava (Guru Rinpoche)", "Tsongkhapa", "Marpa"], "correctIndex": 1 },
+            { "question": "The festival features a famous dance. Every 12 years, a special event occurs at Hemis — what is it?", "options": ["A ten-day meditation retreat", "The display of a giant thangka (sacred tapestry) — one of Asia's largest", "A pilgrimage to Pangong Tso", "A dharma debate competition"], "correctIndex": 1 },
+            { "question": "Hemis Monastery is also known for which controversial claim?", "options": ["It holds the world's oldest Buddhist scriptures", "Manuscripts allegedly showing Jesus Christ spent his 'lost years' in India and Tibet", "It was the first Buddhist monastery in India", "It contains relics of Ashoka"], "correctIndex": 1 }
+          ],
+          "summary": "The Hemis Festival — held annually in June-July at Hemis Monastery (the largest and wealthiest monastery in Ladakh, belonging to the Drukpa Kagyu school) — is Ladakh's most spectacular monastic festival. Monks in elaborate costumes and masks perform the Cham dance celebrating the birth of Guru Padmasambhava (Guru Rinpoche), who is credited with spreading Buddhism to Tibet. Every 12 years, the festival coincides with the display of an enormous thangka (sacred embroidered tapestry) — one of Asia's largest — believed to grant liberation to those who behold it. Hemis also features in a controversial 19th-century account by Nicolas Notovitch claiming manuscripts at the monastery recorded Jesus Christ's travels in India during his 'missing years' — a claim consistently rejected by scholars."
+        },
+        {
+          "id": "evt_d9_kerala_boat_race",
+          "location": { "name": "Nehru Trophy Boat Race — Alappuzha, Kerala", "lat": 9.4981, "lng": 76.3388 },
+          "questions": [
+            { "question": "The Nehru Trophy Boat Race is held on which lake in Kerala?", "options": ["Vembanad Lake", "Ashtamudi Lake", "Periyar Lake", "Sasthamkotta Lake"], "correctIndex": 0 },
+            { "question": "The race is named after Jawaharlal Nehru, who first witnessed a snake boat race in 1952. How did he describe it?", "options": ["'A sport of warriors'", "'The world's greatest water sport'", "'Kashmir in Miniature' — confusing it with a Dal Lake event", "'A poem on water'"], "correctIndex": 3 },
+            { "question": "The snake boats (Chundan Vallam) used in the race are approximately how long?", "options": ["10 metres", "20 metres", "30-40 metres", "Up to 40 metres with 100+ oarsmen"], "correctIndex": 3 },
+            { "question": "The snake boats are traditionally owned by?", "options": ["Individual wealthy patrons", "Village communities — each village's boat is a matter of collective pride and identity", "The Kerala government", "Temple trusts"], "correctIndex": 1 },
+            { "question": "The Nehru Trophy race is held on the second Saturday of which month?", "options": ["January", "April", "August", "November"], "correctIndex": 2 }
+          ],
+          "summary": "The Nehru Trophy Boat Race on Vembanad Lake, Alappuzha — held on the second Saturday of August — is Kerala's most spectacular sporting event. Named after Jawaharlal Nehru who, after witnessing the race in 1952, donated a trophy calling it 'a poem on water,' it features the legendary Chundan Vallam (snake boats): up to 40-metre-long decorated racing canoes, each rowed by 100+ oarsmen in precise synchrony to the rhythm of the Vanchipattu (boat song). The snake boats are owned by village communities — the race is a matter of intense local pride. The annual event draws over 150,000 spectators and is central to the broader Onam festival season. India's naval rowing teams have increasingly participated, recognising the extraordinary athleticism required."
+        },
+        {
+          "id": "evt_d9_magh_mela",
+          "location": { "name": "Magh Mela — Prayagraj, Uttar Pradesh", "lat": 25.4358, "lng": 81.8463 },
+          "questions": [
+            { "question": "The Magh Mela is an annual month-long bathing festival at Prayagraj. The larger Kumbh Mela returns every 12 years. What happens at Prayagraj every 6 years?", "options": ["Ardh Kumbh (Half Kumbh)", "Mini Kumbh", "Maha Mela", "Prayag Snan"], "correctIndex": 0 },
+            { "question": "The Magh Mela is held during which Hindu month?", "options": ["Kartik", "Phalgun", "Magh (January-February)", "Chaitra"], "correctIndex": 2 },
+            { "question": "The Magh Mela is significant in Hindu tradition because bathing at the Sangam during Magh is believed to?", "options": ["Cure all physical diseases", "Grant moksha (liberation) equivalent to completing the Char Dham pilgrimage", "Ensure a good monsoon", "Grant fertility"], "correctIndex": 1 },
+            { "question": "The Kalpavas practice during Magh Mela involves?", "options": ["Complete fasting for 30 days", "Living in tents on the Sangam banks for the entire month, taking three daily dips and following strict religious discipline", "Silent meditation for 30 days", "Circumambulating Prayagraj city daily"], "correctIndex": 1 },
+            { "question": "The Prayagraj Sangam where pilgrims bathe is the confluence of which rivers?", "options": ["Ganga and Yamuna", "Ganga, Yamuna, and mythical Saraswati", "Ganga, Yamuna, and Son", "Ganga and Ghaghra"], "correctIndex": 1 }
+          ],
+          "summary": "The Magh Mela at Prayagraj — a month-long bathing festival held annually in January-February at the Sangam (confluence of Ganga, Yamuna, and mythical Saraswati) — is considered a smaller version of the Kumbh Mela but is itself one of India's largest religious gatherings, drawing millions. The Ardh Kumbh (Half Kumbh) occurs every six years; the Maha Kumbh every 12 years. The Kalpavas practice — in which devout pilgrims live for an entire month in tent cities on the Sangam banks, taking three daily dips and observing strict spiritual discipline — is considered equivalent in merit to completing the four sacred Char Dham pilgrimages. The festival creates one of the world's largest temporary cities, with elaborate infrastructure for millions of simultaneous pilgrims."
+        },
+        {
+          "id": "evt_d9_kathakali",
+          "location": { "name": "Kathakali — Kerala", "lat": 10.5276, "lng": 76.2144 },
+          "questions": [
+            { "question": "Kathakali is one of India's major classical dance-drama forms. It originated in which state?", "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"], "correctIndex": 2 },
+            { "question": "Kathakali performances are famous for their elaborate makeup. How long does a performer's full makeup (chutti) take?", "options": ["30 minutes", "1 hour", "3-4 hours", "8-10 hours"], "correctIndex": 2 },
+            { "question": "The stories narrated in Kathakali are primarily drawn from?", "options": ["Contemporary Malayalam literature", "The Mahabharata, Ramayana, and Puranas", "Ancient Buddhist texts", "Historical accounts of Kerala kings"], "correctIndex": 1 },
+            { "question": "A Kathakali performer communicates using?", "options": ["Only facial expressions", "Elaborate hand gestures (mudras), eye movements, facial expressions, and body postures — no words spoken", "Speech and movement equally", "Only body movement"], "correctIndex": 1 },
+            { "question": "Kathakali training begins very young and traditionally takes how many years?", "options": ["2 years", "5 years", "10-12 years of rigorous training", "20 years"], "correctIndex": 2 }
+          ],
+          "summary": "Kathakali — one of India's eight classical dance forms, originating in Kerala in the 17th century — is among the world's most visually spectacular performing arts. Performers take 3-4 hours to apply their elaborate chutti makeup, using natural pigments to transform their faces into stylised representations of heroic (green-faced Pacha characters), demonic (red and black-faced Katti and Tadi characters), and other archetypal roles from the Mahabharata, Ramayana, and Puranas. The art is silent — stories are conveyed entirely through 24 basic hand gestures (mudras), 9 neck positions, eye movements of extraordinary precision, and body language. Training begins in childhood and requires 10-12 years of intensive practice including rigorous physical conditioning. Kerala's Kalamandalam institution preserves and teaches the tradition."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d9_up_lucknow",
+          "location": { "name": "Lucknow — Uttar Pradesh Capital", "lat": 26.8467, "lng": 80.9462 },
+          "questions": [
+            { "question": "Uttar Pradesh is India's most populous state. Its population is approximately?", "options": ["100 million", "150 million", "240 million", "350 million"], "correctIndex": 2 },
+            { "question": "UP has the highest number of Lok Sabha seats. How many does it have?", "options": ["40", "63", "80", "96"], "correctIndex": 2 },
+            { "question": "UP was the political base of which dynasty that dominated Indian politics for decades?", "options": ["Scindia family", "Nehru-Gandhi family", "Rajagopalachari family", "Ambedkar family"], "correctIndex": 1 },
+            { "question": "The Eastern UP cities of Varanasi, Prayagraj, and Ayodhya are significant for which reason?", "options": ["Industrial hubs", "Sacred Hindu cities and the core of Hindu religious geography", "Agricultural trade centres only", "The largest Muslim population centres in India"], "correctIndex": 1 },
+            { "question": "The Lucknow Pact of 1916 was a historic agreement between?", "options": ["India and Britain on self-governance", "The Indian National Congress and the Muslim League — a moment of Hindu-Muslim political unity", "The Congress and the British Liberal Party", "Separate electorate advocates and Congress"], "correctIndex": 1 }
+          ],
+          "summary": "Uttar Pradesh — India's most populous state with approximately 240 million people — is the fulcrum of Indian democracy. Its 80 Lok Sabha seats mean that no national government can be formed without significant UP representation. The state is the heartland of Ganga-Yamuna civilisation — home to Varanasi, Prayagraj, Mathura, Vrindavan, and Ayodhya, the most sacred cities of Hinduism — and also contains significant Muslim heritage in Lucknow and Agra. The Lucknow Pact (1916) between Congress and the Muslim League, negotiated in the city, was an historic though ultimately unsuccessful attempt at Hindu-Muslim political unity. UP has produced the most Indian Prime Ministers of any state — Nehru, Lal Bahadur Shastri, Indira Gandhi (elected from UP), Rajiv Gandhi, V.P. Singh, Chandra Shekhar, and others."
+        },
+        {
+          "id": "pol_d9_pune_mh",
+          "location": { "name": "Pune — Maharashtra", "lat": 18.5204, "lng": 73.8567 },
+          "questions": [
+            { "question": "Pune was historically the capital of which empire?", "options": ["Mughal Empire", "Maratha Empire — Peshwa seat of power", "Nizam of Hyderabad", "British Bombay Presidency"], "correctIndex": 1 },
+            { "question": "The Peshwas ruled from Pune. 'Peshwa' was the title of?", "options": ["The Maratha king (Chhatrapati)", "The Prime Minister of the Maratha Empire who eventually became its de facto ruler", "The Maratha military commander", "The religious head of the Marathas"], "correctIndex": 1 },
+            { "question": "The Battle of Koregaon (1818) near Pune is commemorated annually by which community?", "options": ["Maratha community", "Dalit community — British Mahar regiment soldiers who fought against the Peshwas are commemorated as symbols of anti-caste resistance", "Koli community", "Muslim community"], "correctIndex": 1 },
+            { "question": "Pune is called the 'Oxford of the East' because of?", "options": ["Its British colonial history", "Its concentration of educational institutions — Pune University, Fergusson College, and over 800 educational institutions", "Its cricket tradition", "Its tea gardens"], "correctIndex": 1 },
+            { "question": "Maharashtra has the largest cooperative sector in India. The most famous cooperatives are in?", "options": ["IT sector", "Sugar, dairy, and banking cooperatives — particularly in western Maharashtra's 'Sugar Belt'", "Textile manufacturing", "Diamond cutting"], "correctIndex": 1 }
+          ],
+          "summary": "Pune — Maharashtra's second city — was the seat of Maratha power during its greatest expansion. The Peshwas (hereditary Prime Ministers) ruled the Maratha Confederacy from Pune's Shaniwarwada palace, building an empire that stretched from Bengal to Afghanistan. The Battle of Koregaon (1818) — where the British East India Company's Mahar regiment defeated the last Peshwa's forces — is annually commemorated at a victory pillar by Dalits as a symbol of anti-caste resistance, following B.R. Ambedkar's own pilgrimage there in 1927. Pune's 800+ educational institutions earn it the 'Oxford of the East' title. Maharashtra's cooperative sector — particularly the sugar and dairy cooperatives of western Maharashtra — is India's most developed, representing a model of rural economic organisation."
+        },
+        {
+          "id": "pol_d9_kerala_thrissur",
+          "location": { "name": "Thrissur — Kerala Cultural Capital", "lat": 10.5276, "lng": 76.2144 },
+          "questions": [
+            { "question": "Kerala was formed in 1956 by merging which territories?", "options": ["Malabar, Cochin, and Travancore", "Cochin and Travancore only", "Malabar and Travancore only", "Malabar, Cochin, Travancore, and Lakshadweep"], "correctIndex": 0 },
+            { "question": "Kerala in 1957 elected the world's first democratically elected communist government. The party was?", "options": ["CPI (Communist Party of India)", "CPI(M) (Communist Party of India — Marxist)", "Kerala Socialist Party", "Indian National Congress-Socialist"], "correctIndex": 0 },
+            { "question": "The 'Kerala Model of Development' is famous for achieving high social indicators despite relatively modest income. What are its defining features?", "options": ["High per capita income leading to good indicators", "High literacy, low infant mortality, high life expectancy — achieved through public investment in health and education, not high income", "Foreign remittances funding development", "Tourism-driven development"], "correctIndex": 1 },
+            { "question": "Kerala's economy is significantly supported by remittances from its Gulf diaspora. Approximately how much do Kerala NRI remittances amount to annually?", "options": ["₹5,000 crore", "₹1 lakh crore+", "₹50,000 crore", "₹10,000 crore"], "correctIndex": 1 },
+            { "question": "Thrissur is known as Kerala's cultural capital. The Sangeet Natak Akademi-recognised institutions in Thrissur include?", "options": ["Kerala Kalamandalam — India's only deemed university dedicated to classical performing arts", "Kerala Lalithakala Akademi headquarters", "Both of the above", "The National School of Drama Kerala branch"], "correctIndex": 0 }
+          ],
+          "summary": "Kerala — formed in 1956 by merging Malabar (from British India) with the princely states of Travancore and Cochin — has pioneered India's most ambitious social development model. The 'Kerala Model': high literacy (over 94%), the lowest infant mortality in India (comparable to developed nations), and life expectancy of 75+ years — achieved not through high income but through sustained public investment in education and health since the 19th century (Travancore's enlightened rulers initiated free schooling). In 1957, Kerala became the first state to freely elect a communist government — a global first. Kerala Kalamandalam in Thrissur, India's only deemed university dedicated to classical performing arts (Kathakali, Mohiniyattam, Kuchipudi), preserves the region's extraordinary performing arts heritage. Annual Gulf remittances exceeding ₹1 lakh crore significantly underpin Kerala's consumption economy."
+        },
+        {
+          "id": "pol_d9_aizawl_mzo",
+          "location": { "name": "Champhai — Mizoram Border", "lat": 23.4698, "lng": 93.3272 },
+          "questions": [
+            { "question": "Champhai district in Mizoram shares a border with which country?", "options": ["Bangladesh", "China", "Myanmar", "Bhutan"], "correctIndex": 2 },
+            { "question": "The Mizoram Peace Accord of 1986, ending a 20-year insurgency, is considered one of India's most successful?", "options": ["Military operations", "Peace negotiations — a model for resolving Northeast insurgencies through dialogue", "Economic development programmes", "Border management agreements"], "correctIndex": 1 },
+            { "question": "Mizoram has been significantly impacted by the post-2021 Myanmar military coup. The border area receives?", "options": ["Trade goods from Myanmar", "Military equipment from China via Myanmar", "Refugees from Myanmar's Chin State, many of whom have ethnic and familial ties to Mizoram's Zo community", "Narcotics from Myanmar's Golden Triangle"], "correctIndex": 2 },
+            { "question": "The 'Free Movement Regime' (FMR) along the India-Myanmar border allowed people to move freely up to 16 km on both sides. India suspended the FMR in which year due to refugee and security concerns?", "options": ["2019", "2021", "2023", "2024"], "correctIndex": 3 },
+            { "question": "Mizoram's connection to the post-2021 Myanmar crisis is particularly strong because?", "options": ["Mizoram depends on Myanmar for trade", "The Mizo and Chin peoples of Myanmar share the same ethnic, linguistic, and cultural heritage — the political border cuts across a single people", "China pressured Mizoram through Myanmar", "Mizoram has large investments in Myanmar"], "correctIndex": 1 }
+          ],
+          "summary": "Champhai district in Mizoram sits on the Myanmar border — a frontier that cuts across a single people. The Mizo of Mizoram and the Chin of Myanmar's Chin State share common ancestry, language, and culture; the colonial border was drawn through their territory without regard for this unity. The 2021 Myanmar military coup created a humanitarian crisis directly felt in Mizoram: tens of thousands of Chin refugees fled across the border, welcomed by Mizo communities based on ethnic solidarity — in direct tension with India's official neutrality. India's 2024 suspension of the Free Movement Regime (which had allowed borderland communities to cross up to 16 km without documentation) aimed to better control the influx but disrupted longstanding community ties and livelihoods."
+        },
+        {
+          "id": "pol_d9_rajasthan_jaipur",
+          "location": { "name": "Jaipur — Rajasthan Capital", "lat": 26.9124, "lng": 75.7873 },
+          "questions": [
+            { "question": "Rajasthan is India's largest state by area. How large is it?", "options": ["200,000 sq km", "342,239 sq km", "450,000 sq km", "500,000 sq km"], "correctIndex": 1 },
+            { "question": "Rajasthan was formed in 1949-56 by the merger of how many princely states?", "options": ["10", "16", "19", "22"], "correctIndex": 3 },
+            { "question": "The final merger that completed Rajasthan's formation was with which state?", "options": ["Jodhpur", "Udaipur", "Ajmer (Ajmer-Merwara, a British province)", "Bikaner"], "correctIndex": 2 },
+            { "question": "Rajasthan's water crisis is acute because it lies in?", "options": ["A high-altitude cold desert only", "India's driest region — the Thar Desert — with less than 300mm annual rainfall in most areas", "A cyclone-prone zone", "A flood plain"], "correctIndex": 1 },
+            { "question": "The Rajasthan Royals (IPL cricket team) was the first team from this state. Rajasthan is associated more traditionally with which sport?", "options": ["Polo — Rajasthan's royal families were major polo patrons", "Kabaddi", "Wrestling", "Archery"], "correctIndex": 0 }
+          ],
+          "summary": "Rajasthan — India's largest state by area at 342,239 sq km — was assembled between 1949 and 1956 from 22 princely states, in a complex and diplomatically sensitive process managed by Sardar Vallabhbhai Patel. The final element was the merger of Ajmer-Merwara, a directly governed British province. Rajasthan covers most of the Thar Desert and is India's most water-scarce large state — most areas receive under 300mm of annual rainfall, making water management the central challenge of governance. The Rajasthan canal system (Indira Gandhi Canal) and underground aquifer extraction have partially mitigated this. The state's royal families — particularly from Jaipur, Jodhpur, and Udaipur — were historically major polo patrons, giving Rajasthan a strong association with the sport. The Jaipur Literature Festival (world's largest free literary festival) has made Jaipur a global cultural destination."
+        }
+      ]
+    }
+  }
+}

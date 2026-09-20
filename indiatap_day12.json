@@ -1,0 +1,326 @@
+{
+  "day": 12,
+  "date": "2026-10-12",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d12_umngot_river",
+          "location": { "name": "Umngot River, Dawki, Meghalaya", "lat": 25.1800, "lng": 92.0200 },
+          "questions": [
+            { "question": "The Umngot River is famous for its exceptional?", "options": ["Speed", "Clarity/transparency", "Length", "Depth"], "correctIndex": 1 },
+            { "question": "Near which town is the Umngot River located?", "options": ["Shillong", "Dawki", "Tura", "Jowai"], "correctIndex": 1 },
+            { "question": "Which two entities does the Umngot River region border?", "options": ["India and Bangladesh", "India and Myanmar", "India and Bhutan", "India and Nepal"], "correctIndex": 0 },
+            { "question": "What has periodically affected the river's famous clarity?", "options": ["Volcanic ash", "Upstream mining activity", "Excess rainfall only", "Fishing"], "correctIndex": 1 },
+            { "question": "The Umngot River is located in which Indian state?", "options": ["Assam", "Meghalaya", "Manipur", "Tripura"], "correctIndex": 1 }
+          ],
+          "summary": "The Umngot River near Dawki in Meghalaya's West Jaintia Hills is renowned for its extraordinary clarity, often appearing to make boats look as if they are floating in mid-air. It forms part of the India-Bangladesh border region and is a key crossing point for cross-border trade via the historic Dawki bridge, built during British rule. The river's transparency stems from low sediment levels and a rocky limestone bed, though seasonal changes and upstream mining activity have periodically affected its clarity. Dawki has become an increasingly popular tourist destination for boating and picnicking amid its dramatic limestone hills."
+        },
+        {
+          "id": "geo_d12_magnetic_hill",
+          "location": { "name": "Magnetic Hill, Ladakh", "lat": 34.2323, "lng": 77.1873 },
+          "questions": [
+            { "question": "Magnetic Hill is located along which highway?", "options": ["Srinagar-Jammu Highway", "Leh-Kargil Highway", "Manali-Leh Highway", "Zoji La Highway"], "correctIndex": 1 },
+            { "question": "What strange phenomenon is Magnetic Hill known for?", "options": ["Vehicles appearing to roll uphill", "Sudden temperature drops", "Constant fog", "Glowing rocks at night"], "correctIndex": 0 },
+            { "question": "Scientists explain the Magnetic Hill effect as a type of?", "options": ["Magnetic anomaly", "Optical illusion", "Electromagnetic field", "Gravitational anomaly"], "correctIndex": 1 },
+            { "question": "Magnetic Hill is located in which Union Territory?", "options": ["Jammu and Kashmir", "Ladakh", "Himachal Pradesh", "Punjab"], "correctIndex": 1 },
+            { "question": "What does local folklore often attribute the phenomenon to?", "options": ["Magnetic/mystical properties of the terrain", "Ancient temples nearby", "Underground rivers", "Wind patterns"], "correctIndex": 0 }
+          ],
+          "summary": "Magnetic Hill, located along the Leh-Kargil highway in Ladakh, is famous for a stretch of road where vehicles in neutral gear appear to roll uphill, defying gravity. Scientists attribute this to an optical illusion created by the surrounding landscape's slope and horizon lines, rather than any actual magnetic force. The site has become a popular stop for tourists traveling through Ladakh, marked by a signboard explaining the phenomenon. Local folklore, however, has attributed the effect to magnetic or mystical properties of the terrain, adding to the site's mystique."
+        },
+        {
+          "id": "geo_d12_barren_island",
+          "location": { "name": "Barren Island, Andaman", "lat": 12.2783, "lng": 93.8580 },
+          "questions": [
+            { "question": "Barren Island is home to India's only confirmed?", "options": ["Coral atoll", "Active volcano", "Glacier", "Desert"], "correctIndex": 1 },
+            { "question": "Barren Island lies roughly how far from Port Blair?", "options": ["About 20 km", "About 140 km", "About 500 km", "About 1,000 km"], "correctIndex": 1 },
+            { "question": "Barren Island's volcano notably erupted in which of these years?", "options": ["1857", "1947", "1991", "2005"], "correctIndex": 2 },
+            { "question": "Barren Island is part of which island group?", "options": ["Lakshadweep", "Andaman Islands", "Nicobar Islands only", "Maldives"], "correctIndex": 1 },
+            { "question": "What is Barren Island's protected status?", "options": ["Wildlife sanctuary", "National capital region", "UNESCO city", "Special economic zone"], "correctIndex": 0 }
+          ],
+          "summary": "Barren Island, part of the Andaman archipelago, is home to India's only confirmed active volcano, rising from the Andaman Sea about 140 kilometers from Port Blair. The volcano has erupted multiple times in recent decades, including notable activity in 1991, 2017, and subsequent years, though it remains largely uninhabited due to its remote and hazardous nature. Its stark, blackened landscape contrasts sharply with the lush greenery typical of the rest of the Andaman Islands. The island is protected as a wildlife sanctuary and is generally off-limits for landing, though it can be viewed from boats."
+        },
+        {
+          "id": "geo_d12_chandratal_lake",
+          "location": { "name": "Chandratal Lake, Himachal Pradesh", "lat": 32.4772, "lng": 77.6114 },
+          "questions": [
+            { "question": "What does \"Chandratal\" mean?", "options": ["Lake of the Sun", "Lake of the Moon", "Lake of Stars", "Lake of Ice"], "correctIndex": 1 },
+            { "question": "Chandratal Lake is located in which region of Himachal Pradesh?", "options": ["Kullu Valley", "Spiti region", "Kangra Valley", "Chamba"], "correctIndex": 1 },
+            { "question": "Chandratal Lake is recognized as a wetland of international importance under which designation?", "options": ["Ramsar site", "UNESCO Heritage Site", "Biosphere Reserve only", "National Park"], "correctIndex": 0 },
+            { "question": "What shape is Chandratal Lake known for?", "options": ["Perfect circle", "Crescent shape", "Square", "Triangle"], "correctIndex": 1 },
+            { "question": "Chandratal is linked in legend to which epic?", "options": ["Ramayana", "Mahabharata", "Puranas generally", "Vedas"], "correctIndex": 1 }
+          ],
+          "summary": "Chandratal Lake, meaning 'Lake of the Moon,' sits at about 4,300 meters in the Spiti region of Himachal Pradesh, prized for its crescent shape and vivid color changes throughout the day. Fed by glaciers and snowmelt, it is considered a Ramsar wetland site of international importance for its high-altitude ecosystem. The lake is a popular high-altitude camping and trekking destination, though camping directly on its banks has since been restricted to protect the fragile environment. Ancient legends associate the lake with the Mahabharata, believed by some to be where Yudhishthira ascended to heaven."
+        },
+        {
+          "id": "geo_d12_kanger_valley",
+          "location": { "name": "Kanger Valley, Chhattisgarh", "lat": 18.8000, "lng": 81.9333 },
+          "questions": [
+            { "question": "Kanger Valley National Park is located in which state?", "options": ["Odisha", "Chhattisgarh", "Madhya Pradesh", "Jharkhand"], "correctIndex": 1 },
+            { "question": "Kanger Valley is well known for which underground feature?", "options": ["Salt mines", "Limestone caves", "Coal seams", "Oil reserves"], "correctIndex": 1 },
+            { "question": "What is the name of the famous cave system in Kanger Valley?", "options": ["Kotumsar Caves", "Borra Caves", "Elephanta Caves", "Belum Caves"], "correctIndex": 0 },
+            { "question": "Which bird, the state bird of Chhattisgarh, is found in Kanger Valley?", "options": ["Bastar hill myna", "Indian peacock", "Great hornbill", "Sarus crane"], "correctIndex": 0 },
+            { "question": "Kanger Valley is located in which district?", "options": ["Bastar", "Raipur", "Durg", "Bilaspur"], "correctIndex": 0 }
+          ],
+          "summary": "Kanger Valley National Park in Chhattisgarh's Bastar district is known for its dense sal forests and extensive limestone cave systems, including the Kotumsar Caves, one of India's most well-known natural caverns. The park is also home to rare fauna including the Bastar hill myna, the state bird of Chhattisgarh. Its underground caves feature striking stalactite and stalagmite formations that have formed over thousands of years. The Kanger river, which gives the valley its name, flows through the park, supporting a rich biodiversity found nowhere else in the region."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d12_chittorgarh_fort",
+          "location": { "name": "Chittorgarh Fort, Rajasthan", "lat": 24.8887, "lng": 74.6269 },
+          "questions": [
+            { "question": "Chittorgarh Fort is located in which state?", "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Haryana"], "correctIndex": 1 },
+            { "question": "What historic practice, involving self-immolation to avoid capture, is associated with Chittorgarh?", "options": ["Jauhar", "Sati only", "Satyagraha", "Dharna"], "correctIndex": 0 },
+            { "question": "Which queen is most famously linked to Chittorgarh's legends?", "options": ["Rani Padmini", "Rani Lakshmibai", "Razia Sultana", "Ahilyabai Holkar"], "correctIndex": 0 },
+            { "question": "What victory tower stands within Chittorgarh Fort?", "options": ["Qutub Minar", "Vijay Stambh", "Charminar", "Iron Pillar"], "correctIndex": 1 },
+            { "question": "Chittorgarh Fort is recognized as a?", "options": ["UNESCO World Heritage Site", "Modern art museum", "Wildlife sanctuary", "Space research center"], "correctIndex": 0 }
+          ],
+          "summary": "Chittorgarh Fort in Rajasthan is one of the largest fort complexes in India, spread across a hilltop covering nearly 700 acres, and is steeped in tales of Rajput valor and sacrifice. It witnessed three major sieges and instances of jauhar, where women reportedly chose self-immolation over capture, most famously associated with Rani Padmini. The fort houses several palaces, temples, and towers, including the Vijay Stambh (Victory Tower) built to commemorate a 15th-century military triumph. As a UNESCO World Heritage Site, it remains a powerful symbol of Rajput history and resistance."
+        },
+        {
+          "id": "cul_d12_modhera_sun_temple",
+          "location": { "name": "Modhera Sun Temple, Gujarat", "lat": 23.5860, "lng": 72.1289 },
+          "questions": [
+            { "question": "The Modhera Sun Temple was built by which dynasty?", "options": ["Solanki dynasty", "Chola dynasty", "Chalukya dynasty", "Maurya dynasty"], "correctIndex": 0 },
+            { "question": "What large stepwell stands in front of the Modhera Sun Temple?", "options": ["Surya Kund", "Rani ki Vav", "Adalaj Vav", "Chand Baori"], "correctIndex": 0 },
+            { "question": "Modhera Sun Temple is located in which state?", "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Maharashtra"], "correctIndex": 1 },
+            { "question": "The temple was designed so sunlight would illuminate the shrine on which occasion?", "options": ["Full moon nights", "Equinox days", "Winter solstice only", "Monsoon onset"], "correctIndex": 1 },
+            { "question": "Modhera has recently gained attention as India's first fully what kind of village?", "options": ["Solar-powered village", "Digital-only village", "Cashless village", "Organic village"], "correctIndex": 0 }
+          ],
+          "summary": "The Sun Temple at Modhera, Gujarat, was built in the early 11th century by King Bhima I of the Solanki dynasty, designed so that the sunrise on equinox days would once illuminate the main shrine. It features an intricately carved stepwell, the Surya Kund, in front of the main temple, one of the largest and most elaborately designed stepwells in India. The temple no longer functions as an active place of worship since it was damaged during invasions, but it remains an architectural showcase managed by the Archaeological Survey of India. Modhera has also gained recent attention as India's first fully solar-powered village."
+        },
+        {
+          "id": "cul_d12_mattancherry_palace",
+          "location": { "name": "Mattancherry Palace, Kochi", "lat": 9.9585, "lng": 76.2597 },
+          "questions": [
+            { "question": "Mattancherry Palace is also known by which name?", "options": ["British Palace", "Dutch Palace", "French Palace", "Portuguese Fort"], "correctIndex": 1 },
+            { "question": "Which European power originally built Mattancherry Palace?", "options": ["British", "Dutch", "Portuguese", "French"], "correctIndex": 2 },
+            { "question": "Mattancherry Palace is famous for its?", "options": ["Marble carvings", "Mural paintings", "Glasswork", "Gold inlay"], "correctIndex": 1 },
+            { "question": "The murals at Mattancherry Palace mainly depict scenes from?", "options": ["Hindu epics", "Buddhist Jataka tales", "Christian scriptures", "Islamic calligraphy"], "correctIndex": 0 },
+            { "question": "Mattancherry Palace is located near which historic area of Kochi?", "options": ["Fort Kochi Beach", "Jew Town", "Marine Drive", "Willingdon Island"], "correctIndex": 1 }
+          ],
+          "summary": "Mattancherry Palace, also known as the Dutch Palace, in Kochi, Kerala, was originally built by the Portuguese in the 16th century as a gift to the Raja of Kochi, and later renovated by the Dutch. The palace is renowned for its striking mural paintings depicting Hindu epics like the Ramayana and Mahabharata, covering walls across several rooms. It also houses royal portraits, coronation robes, and palanquins used by the Kochi royal family. Located near the historic Jew Town area, the palace reflects Kochi's long history as a hub of trade and cultural exchange between Indians, Arabs, Chinese, and Europeans."
+        },
+        {
+          "id": "cul_d12_golconda_fort",
+          "location": { "name": "Golconda Fort, Hyderabad", "lat": 17.3833, "lng": 78.4011 },
+          "questions": [
+            { "question": "Golconda Fort was the capital of which dynasty?", "options": ["Qutb Shahi dynasty", "Nizam dynasty", "Bahmani dynasty", "Adil Shahi dynasty"], "correctIndex": 0 },
+            { "question": "Golconda historically became a global center for trade in which precious stone?", "options": ["Emeralds", "Diamonds", "Rubies", "Sapphires"], "correctIndex": 1 },
+            { "question": "Golconda Fort's design is famous for its unusual?", "options": ["Underground tunnels only", "Acoustic system", "Rotating towers", "Floating gardens"], "correctIndex": 1 },
+            { "question": "Golconda Fort is located near which city?", "options": ["Bengaluru", "Hyderabad", "Chennai", "Pune"], "correctIndex": 1 },
+            { "question": "What material is Golconda Fort primarily built on/from?", "options": ["Marble", "Granite hill", "Sandstone plain", "Mud brick"], "correctIndex": 1 }
+          ],
+          "summary": "Golconda Fort, on the outskirts of Hyderabad, was the capital of the Qutb Shahi dynasty before Hyderabad city was founded, and it became famous historically as a global center of diamond trade, including stones like the Koh-i-Noor believed to have passed through its markets. The fort's acoustic design is renowned for allowing a hand clap at its main gate to be heard clearly at the highest pavilion nearly a kilometer away, historically used as an alarm system. Built on a granite hill, its massive walls and layered fortifications made it a formidable defense in its time. Today, the fort is a major heritage site, especially known for its sound-and-light shows recounting its history."
+        },
+        {
+          "id": "cul_d12_bibi_ka_maqbara",
+          "location": { "name": "Bibi Ka Maqbara, Aurangabad", "lat": 19.9057, "lng": 75.3181 },
+          "questions": [
+            { "question": "Bibi Ka Maqbara is often nicknamed the?", "options": ["Mini Taj Mahal", "Deccan Fort", "Golden Tomb", "Southern Qutub"], "correctIndex": 0 },
+            { "question": "Bibi Ka Maqbara was built in memory of whom?", "options": ["Mumtaz Mahal", "Dilras Banu Begum", "Noor Jahan", "Jahanara Begum"], "correctIndex": 1 },
+            { "question": "Which Mughal emperor was the husband of the woman memorialized at Bibi Ka Maqbara?", "options": ["Shah Jahan", "Aurangzeb", "Akbar", "Jahangir"], "correctIndex": 1 },
+            { "question": "Bibi Ka Maqbara is located in which city?", "options": ["Agra", "Aurangabad", "Lucknow", "Delhi"], "correctIndex": 1 },
+            { "question": "What type of garden layout surrounds Bibi Ka Maqbara?", "options": ["English garden", "Mughal charbagh garden", "Japanese Zen garden", "Terraced garden"], "correctIndex": 1 }
+          ],
+          "summary": "Bibi Ka Maqbara, in Aurangabad, Maharashtra, was built in the late 17th century by Prince Azam Shah in memory of his mother, Dilras Banu Begum, the wife of Emperor Aurangzeb. Often nicknamed the 'Mini Taj Mahal' for its clear resemblance to the Taj Mahal in Agra, it was constructed on a smaller scale and with less costly materials, reflecting the declining Mughal treasury of the era. The structure features a central dome, minarets, and formal Mughal charbagh gardens with water channels. It remains one of the most significant Mughal-era monuments in the Deccan region."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d12_numaligarh_refinery",
+          "location": { "name": "Numaligarh Refinery, Assam", "lat": 26.5500, "lng": 93.7300 },
+          "questions": [
+            { "question": "Numaligarh Refinery is located in which state?", "options": ["Assam", "West Bengal", "Bihar", "Odisha"], "correctIndex": 0 },
+            { "question": "The Numaligarh Refinery was commissioned as part of commitments under which agreement?", "options": ["Assam Accord", "Panchsheel Agreement", "Simla Agreement", "Indus Waters Treaty"], "correctIndex": 0 },
+            { "question": "Numaligarh Refinery primarily processes crude oil sourced from?", "options": ["Imported Gulf crude only", "Assam's own oilfields", "Offshore Mumbai High", "Rajasthan oilfields"], "correctIndex": 1 },
+            { "question": "Besides fuels, Numaligarh Refinery is also known for producing?", "options": ["Wax products", "Fertilizers", "Steel", "Cement"], "correctIndex": 0 },
+            { "question": "Numaligarh Refinery operates under which company's ownership?", "options": ["ONGC", "Bharat Petroleum Corporation Limited", "Indian Oil Corporation", "Reliance Industries"], "correctIndex": 1 }
+          ],
+          "summary": "Numaligarh Refinery in Assam, commissioned in the late 1990s as part of the Assam Accord's development commitments, processes crude oil primarily sourced from the state's own oilfields. It has played an important role in boosting the northeastern region's fuel self-sufficiency and industrial development, reducing dependence on refined products transported from other parts of India. The refinery is also known for producing wax products and has expanded capacity over the years to meet growing regional demand, operating under the ownership of Bharat Petroleum Corporation Limited."
+        },
+        {
+          "id": "eco_d12_panna_diamond_mines",
+          "location": { "name": "Panna Diamond Mines, Madhya Pradesh", "lat": 24.7167, "lng": 80.1833 },
+          "questions": [
+            { "question": "Panna is known in India primarily for mining which precious stone?", "options": ["Gold", "Diamonds", "Emeralds", "Sapphires"], "correctIndex": 1 },
+            { "question": "Which state is Panna located in?", "options": ["Rajasthan", "Madhya Pradesh", "Chhattisgarh", "Jharkhand"], "correctIndex": 1 },
+            { "question": "Panna's diamond mining is run by which state-owned company?", "options": ["NMDC", "SAIL", "Coal India", "ONGC"], "correctIndex": 0 },
+            { "question": "Historically, Panna's diamonds were known to supply which courts?", "options": ["Mughal courts", "Roman courts", "British courts", "Persian courts"], "correctIndex": 0 },
+            { "question": "What nearby protected area shares its name with Panna's diamond region?", "options": ["Panna Tiger Reserve", "Kanha National Park", "Bandhavgarh", "Simlipal"], "correctIndex": 0 }
+          ],
+          "summary": "Panna, in Madhya Pradesh, is home to India's only large-scale diamond mining operations, run by the state-owned National Mineral Development Corporation (NMDC). The region's diamonds have been mined for centuries, historically supplying gems to Mughal courts, and today the area also allows small-scale licensed prospecting by local residents in designated pits. Panna's diamonds are typically small but of high quality, and the district also gives its name to the nearby Panna Tiger Reserve, representing a rare and historically significant part of India's mineral economy."
+        },
+        {
+          "id": "eco_d12_dabhol_power_plant",
+          "location": { "name": "Dabhol Power Plant, Maharashtra", "lat": 17.5833, "lng": 73.1667 },
+          "questions": [
+            { "question": "The Dabhol Power Plant is located in which state?", "options": ["Gujarat", "Maharashtra", "Karnataka", "Goa"], "correctIndex": 1 },
+            { "question": "Which American company originally built the Dabhol Power Plant?", "options": ["General Electric", "Enron", "ExxonMobil", "Chevron"], "correctIndex": 1 },
+            { "question": "The Dabhol project became controversial due to disputes over?", "options": ["Land acquisition only", "Pricing and payment defaults", "Environmental clearance only", "Labor strikes"], "correctIndex": 1 },
+            { "question": "After its troubled history, the Dabhol plant was restructured under which entity?", "options": ["Ratnagiri Gas and Power Private Limited", "NTPC directly", "Reliance Power", "Adani Power"], "correctIndex": 0 },
+            { "question": "The Enron scandal that affected Dabhol occurred around which year?", "options": ["1995", "2001", "2010", "2015"], "correctIndex": 1 }
+          ],
+          "summary": "The Dabhol Power Plant, on the coast of Maharashtra, became one of India's most controversial infrastructure projects in the 1990s, originally built by the American energy company Enron in a landmark foreign investment deal. Disputes over pricing and payment defaults led to the project's collapse and Enron's eventual exit following its 2001 bankruptcy scandal in the United States. The plant was later revived and restructured under Ratnagiri Gas and Power Private Limited, with government-owned companies taking over operations, and its troubled history remains a widely studied case in Indian energy policy and foreign investment risk."
+        },
+        {
+          "id": "eco_d12_kandla_port",
+          "location": { "name": "Kandla (Deendayal) Port, Gujarat", "lat": 23.0333, "lng": 70.2167 },
+          "questions": [
+            { "question": "Kandla Port was renamed in 2017 to?", "options": ["Deendayal Port", "Nehru Port", "Patel Port", "Gandhi Port"], "correctIndex": 0 },
+            { "question": "Kandla Port was developed mainly to replace trade capacity lost from which port after Partition?", "options": ["Chittagong", "Karachi", "Colombo", "Dhaka"], "correctIndex": 1 },
+            { "question": "Kandla Port is located in which Indian state?", "options": ["Maharashtra", "Gujarat", "Goa", "Kerala"], "correctIndex": 1 },
+            { "question": "What type of economic zone is associated with Kandla Port?", "options": ["Special Economic Zone (SEZ)", "Nuclear zone", "Agricultural zone", "Tech park only"], "correctIndex": 0 },
+            { "question": "Kandla Port sits on which gulf?", "options": ["Gulf of Khambhat", "Gulf of Kutch", "Gulf of Mannar", "Persian Gulf"], "correctIndex": 1 }
+          ],
+          "summary": "Kandla Port, renamed Deendayal Port in 2017, in Gujarat's Kutch region, was developed after independence to replace the trade capacity India lost when Karachi Port became part of Pakistan during Partition. It has grown into one of India's busiest ports by cargo volume, handling large quantities of crude oil, chemicals, and food grains. The port includes a free trade zone, the Kandla Special Economic Zone, one of India's earliest such zones established to boost export-oriented industry, and its location on the Gulf of Kutch gives it strategic importance for trade with the Middle East and Africa."
+        },
+        {
+          "id": "eco_d12_durgapur_steel_plant",
+          "location": { "name": "Durgapur Steel Plant, West Bengal", "lat": 23.5204, "lng": 87.3119 },
+          "questions": [
+            { "question": "Durgapur Steel Plant is located in which state?", "options": ["Bihar", "Jharkhand", "West Bengal", "Odisha"], "correctIndex": 2 },
+            { "question": "Which country collaborated in establishing Durgapur Steel Plant?", "options": ["Soviet Union", "United Kingdom", "Germany", "United States"], "correctIndex": 1 },
+            { "question": "Durgapur Steel Plant operates under which company?", "options": ["SAIL", "NTPC", "Coal India", "ONGC"], "correctIndex": 0 },
+            { "question": "Durgapur Steel Plant was built as part of which Five-Year Plan?", "options": ["First Five-Year Plan", "Second Five-Year Plan", "Third Five-Year Plan", "Fifth Five-Year Plan"], "correctIndex": 1 },
+            { "question": "Durgapur is part of which industrial belt?", "options": ["Asansol-Durgapur industrial belt", "Mumbai-Pune corridor", "Chennai-Bengaluru corridor", "Delhi-NCR belt"], "correctIndex": 0 }
+          ],
+          "summary": "Durgapur Steel Plant in West Bengal, established with British collaboration and commissioned in the late 1950s, was one of the earliest integrated steel plants built under India's Second Five-Year Plan push for heavy industry. It operates under Steel Authority of India Limited (SAIL) and helped transform Durgapur into a major industrial township within the wider Asansol-Durgapur industrial belt. The plant produces a range of steel products for construction and engineering industries, reflecting Cold War-era India's strategy of diversifying industrial partnerships, and Durgapur remains one of eastern India's key industrial hubs."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d12_surajkund_mela",
+          "location": { "name": "Surajkund Mela, Haryana", "lat": 28.2833, "lng": 77.2833 },
+          "questions": [
+            { "question": "The Surajkund Mela is held near which city?", "options": ["Gurugram", "Faridabad", "Chandigarh", "Panipat"], "correctIndex": 1 },
+            { "question": "In which year did the Surajkund Mela begin?", "options": ["1972", "1987", "1995", "2001"], "correctIndex": 1 },
+            { "question": "Each year, the Surajkund Mela features a designated?", "options": ["Theme state and partner nation", "National animal only", "State flower", "Currency exchange"], "correctIndex": 0 },
+            { "question": "The Surajkund Mela primarily showcases?", "options": ["Traditional crafts and artisans", "Automobile technology", "Space research", "Software products"], "correctIndex": 0 },
+            { "question": "The Surajkund reservoir near the mela is believed to date back to which dynasty?", "options": ["Maurya dynasty", "Tomar dynasty", "Gupta dynasty", "Chola dynasty"], "correctIndex": 1 }
+          ],
+          "summary": "The Surajkund International Crafts Mela, held annually near Faridabad, Haryana, has grown since its start in 1987 into one of the world's largest crafts fairs, showcasing traditional artisans, weavers, and performers from across India and invited partner countries. Each year features a designated 'theme state' and 'partner nation,' giving the fair an international dimension alongside its focus on Indian handicrafts. The mela takes place near the ancient Surajkund reservoir, believed to date back over a thousand years to the Tomar dynasty, and has become an important platform for rural artisans to gain visibility and direct market access."
+        },
+        {
+          "id": "evt_d12_kila_raipur",
+          "location": { "name": "Kila Raipur Rural Olympics, Punjab", "lat": 30.8500, "lng": 75.7300 },
+          "questions": [
+            { "question": "The Kila Raipur Rural Olympics is held near which city?", "options": ["Amritsar", "Ludhiana", "Patiala", "Jalandhar"], "correctIndex": 1 },
+            { "question": "The Kila Raipur festival is popularly nicknamed the?", "options": ["Village Games", "Rural Olympics", "Farmers' Cup", "Punjab Games"], "correctIndex": 1 },
+            { "question": "Which traditional race is a highlight of the Kila Raipur festival?", "options": ["Bullock cart races", "Camel races", "Horse derby", "Elephant races"], "correctIndex": 0 },
+            { "question": "In which year was the Kila Raipur festival started?", "options": ["1920", "1933", "1950", "1965"], "correctIndex": 1 },
+            { "question": "The festival primarily celebrates culture from which Indian state?", "options": ["Haryana", "Punjab", "Rajasthan", "Gujarat"], "correctIndex": 1 }
+          ],
+          "summary": "The Kila Raipur Sports Festival, popularly called the 'Rural Olympics,' is held annually in Kila Raipur village near Ludhiana, Punjab, showcasing traditional rural sports and feats of strength unique to Punjabi village culture. Events range from bullock cart races and tent pegging to unusual displays like pulling vehicles with one's teeth or hair. Started in 1933 to promote physical fitness among Punjab's rural youth, the festival has grown into a major cultural spectacle drawing both domestic and international visitors, reflecting the strong tradition of physical prowess embedded in Punjab's agrarian communities."
+        },
+        {
+          "id": "evt_d12_karthigai_deepam",
+          "location": { "name": "Karthigai Deepam, Thiruvannamalai", "lat": 12.2333, "lng": 79.0667 },
+          "questions": [
+            { "question": "Karthigai Deepam is celebrated prominently at which town?", "options": ["Madurai", "Thiruvannamalai", "Rameswaram", "Kanchipuram"], "correctIndex": 1 },
+            { "question": "A massive lamp is lit atop which hill during Karthigai Deepam?", "options": ["Annamalai Hill", "Nilgiri Hill", "Palani Hill", "Chamundi Hill"], "correctIndex": 0 },
+            { "question": "The ritual of circumambulating the hill during this festival is called?", "options": ["Girivalam", "Parikrama only", "Kavadi", "Rathotsavam"], "correctIndex": 0 },
+            { "question": "Karthigai Deepam symbolizes Lord Shiva's manifestation as a?", "options": ["Column of fire", "Mountain", "River", "Tree"], "correctIndex": 0 },
+            { "question": "Karthigai Deepam is closely linked to which temple?", "options": ["Meenakshi Temple", "Arunachaleswarar Temple", "Brihadeeswara Temple", "Ramanathaswamy Temple"], "correctIndex": 1 }
+          ],
+          "summary": "Karthigai Deepam, celebrated prominently at Thiruvannamalai in Tamil Nadu, is a festival of lights marked by lighting a massive lamp atop Annamalai Hill, visible for miles around and symbolizing Lord Shiva's manifestation as a column of fire. Millions of pilgrims gather to circumambulate the hill on foot, a ritual known as 'Girivalam,' believed to bring spiritual merit. The festival falls in the Tamil month of Karthigai, typically in November-December, and is one of the oldest continuously celebrated festivals in Tamil Nadu, closely linked to the Arunachaleswarar Temple at the base of the hill."
+        },
+        {
+          "id": "evt_d12_mahesh_rath_yatra",
+          "location": { "name": "Mahesh Rath Yatra, Serampore, West Bengal", "lat": 23.0122, "lng": 88.4023 },
+          "questions": [
+            { "question": "The Mahesh Rath Yatra is held in which Indian state?", "options": ["Odisha", "West Bengal", "Bihar", "Assam"], "correctIndex": 1 },
+            { "question": "The Mahesh Rath Yatra is considered which oldest Jagannath chariot festival in India?", "options": ["The oldest", "The second oldest", "The third oldest", "Not historically ranked"], "correctIndex": 1 },
+            { "question": "According to legend, the deities at Mahesh were carved from a divine object found where?", "options": ["On a mountain", "On the banks of the Ganges", "In a forest", "In a cave"], "correctIndex": 1 },
+            { "question": "The Mahesh Rath Yatra is held in which town?", "options": ["Serampore", "Howrah", "Barrackpore", "Chinsurah"], "correctIndex": 0 },
+            { "question": "The Mahesh Rath Yatra is comparable in spirit to which more famous festival?", "options": ["Puri Rath Yatra", "Kumbh Mela", "Durga Puja", "Diwali"], "correctIndex": 0 }
+          ],
+          "summary": "The Rath Yatra at Mahesh, in Serampore, West Bengal, is considered the second oldest chariot festival dedicated to Lord Jagannath in India, tracing its origins back over 600 years. According to local legend, sage Dhruvananda Brahmachari was guided in a dream to find a divine log of wood on the banks of the Ganges, which was carved into the deities now worshipped here. The festival draws large crowds who pull the massive chariot through the streets of Mahesh, similar in spirit to the more famous Puri Rath Yatra, remaining an important event for Bengali Vaishnav communities."
+        },
+        {
+          "id": "evt_d12_aoleang_festival",
+          "location": { "name": "Aoleang Festival, Mon, Nagaland", "lat": 26.7500, "lng": 95.0667 },
+          "questions": [
+            { "question": "The Aoleang Festival is celebrated by which Naga tribe?", "options": ["Angami", "Konyak", "Ao", "Sumi"], "correctIndex": 1 },
+            { "question": "Aoleang Festival is celebrated in which district of Nagaland?", "options": ["Kohima", "Mon", "Dimapur", "Wokha"], "correctIndex": 1 },
+            { "question": "The Aoleang Festival marks the beginning of which season/cycle?", "options": ["Monsoon", "Spring/agricultural year", "Winter", "Harvest only"], "correctIndex": 1 },
+            { "question": "Mon district's Konyak tribe was historically known for which now-abandoned practice?", "options": ["Headhunting", "Salt mining", "Silk weaving only", "Pearl diving"], "correctIndex": 0 },
+            { "question": "How many days does the Aoleang Festival typically last?", "options": ["One day", "Three days", "Six days", "Ten days"], "correctIndex": 2 }
+          ],
+          "summary": "The Aoleang Monyu Festival, celebrated by the Konyak Naga tribe in Mon district, Nagaland, marks the arrival of spring and the start of the agricultural year with six days of traditional dance, music, and feasting. Historically, the festival also carried significance tied to the Konyaks' warrior traditions, since Mon district was long known for its headhunting tribal history before the practice was abandoned decades ago. Today, the festival is a vibrant showcase of Konyak culture, including traditional attire, tattoos, and folk songs, and has become an important cultural tourism draw for visitors interested in Nagaland's tribal heritage."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d12_vidhana_soudha",
+          "location": { "name": "Vidhana Soudha, Bengaluru", "lat": 12.9794, "lng": 77.5910 },
+          "questions": [
+            { "question": "Vidhana Soudha houses the legislature of which state?", "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"], "correctIndex": 1 },
+            { "question": "Vidhana Soudha was built in which architectural style?", "options": ["Indo-Saracenic", "Neo-Dravidian", "Gothic Revival", "Mughal"], "correctIndex": 1 },
+            { "question": "Which Chief Minister championed the construction of Vidhana Soudha?", "options": ["Kengal Hanumanthaiah", "D. Devaraj Urs", "Ramakrishna Hegde", "S. Nijalingappa"], "correctIndex": 0 },
+            { "question": "Vidhana Soudha was largely constructed using which resource?", "options": ["Imported marble", "Prison labor and local granite", "Foreign contractors only", "Steel imports"], "correctIndex": 1 },
+            { "question": "Vidhana Soudha is located in which city?", "options": ["Mysuru", "Bengaluru", "Hubballi", "Mangaluru"], "correctIndex": 1 }
+          ],
+          "summary": "Vidhana Soudha, in Bengaluru, Karnataka, is the seat of the state's legislature, housing both the Karnataka Legislative Assembly and Legislative Council. Constructed in the 1950s under Chief Minister Kengal Hanumanthaiah, the building was designed in a 'Neo-Dravidian' style specifically to reflect Indian architectural heritage rather than colonial styles common at the time. Built largely using prison labor and local granite, it remains one of the largest legislative buildings in India, and its imposing structure and illuminated night-time appearance have made it an iconic symbol of Bengaluru and Karnataka's government."
+        },
+        {
+          "id": "pol_d12_vidhan_bhavan_mumbai",
+          "location": { "name": "Vidhan Bhavan, Mumbai", "lat": 18.9298, "lng": 72.8256 },
+          "questions": [
+            { "question": "Vidhan Bhavan is the legislative seat of which state?", "options": ["Gujarat", "Maharashtra", "Karnataka", "Goa"], "correctIndex": 1 },
+            { "question": "Vidhan Bhavan was originally constructed during which period?", "options": ["Mughal era", "British colonial period", "Post-independence 1970s", "Ancient era"], "correctIndex": 1 },
+            { "question": "Besides Mumbai, in which city does Maharashtra's legislature also hold winter sessions?", "options": ["Pune", "Nagpur", "Nashik", "Aurangabad"], "correctIndex": 1 },
+            { "question": "Vidhan Bhavan houses which two legislative bodies?", "options": ["Lok Sabha and Rajya Sabha", "Legislative Assembly and Legislative Council", "Supreme Court and High Court", "Cabinet and Parliament"], "correctIndex": 1 },
+            { "question": "The Nagpur winter session tradition is tied to promises made during?", "options": ["Independence in 1947", "Maharashtra's linguistic reorganization", "The Emergency", "Partition"], "correctIndex": 1 }
+          ],
+          "summary": "Vidhan Bhavan in Mumbai serves as the seat of the Maharashtra state legislature, housing both the Legislative Assembly and Legislative Council. Originally constructed during the British colonial period in the early 20th century, the building has since been expanded with a modern annex to accommodate the growing needs of the state government. Its central location near other key government buildings reflects Mumbai's historical role as an administrative hub even before India's independence. Maharashtra's legislature notably also holds sessions in Nagpur each winter, a practice tied to promises made during the state's linguistic reorganization."
+        },
+        {
+          "id": "pol_d12_wb_legislative_assembly",
+          "location": { "name": "West Bengal Legislative Assembly, Kolkata", "lat": 22.5675, "lng": 88.3488 },
+          "questions": [
+            { "question": "The West Bengal Legislative Assembly is located in which city?", "options": ["Kolkata", "Darjeeling", "Siliguri", "Howrah"], "correctIndex": 0 },
+            { "question": "The institutional roots of the assembly trace back to which colonial-era body?", "options": ["Bengal Legislative Council", "Madras Legislative Council", "Bombay Legislative Council", "Central Legislative Assembly"], "correctIndex": 0 },
+            { "question": "From 1977 to 2011, West Bengal was governed by which political coalition?", "options": ["Left Front", "Indian National Congress", "Bharatiya Janata Party", "Trinamool Congress"], "correctIndex": 0 },
+            { "question": "The Left Front's long rule in West Bengal was notable as one of the world's longest examples of?", "options": ["Monarchist rule", "Democratically elected communist government", "Military rule", "One-party colonial rule"], "correctIndex": 1 },
+            { "question": "West Bengal was formed following the partition of which historical region?", "options": ["Punjab", "Bengal", "Assam", "Bihar"], "correctIndex": 1 }
+          ],
+          "summary": "The West Bengal Legislative Assembly, housed in Kolkata, traces its institutional roots back to the Bengal Legislative Council established under British colonial administration in the 19th century, making it one of India's oldest legislative bodies in continuous evolution. Following independence and the partition of Bengal, the assembly took its current form to govern the Indian state of West Bengal. West Bengal's assembly has played a notable role in India's political history, including long periods of Left Front governance from 1977 to 2011, one of the longest democratically elected communist governments in the world."
+        },
+        {
+          "id": "pol_d12_leh",
+          "location": { "name": "Leh, Ladakh", "lat": 34.1526, "lng": 77.5771 },
+          "questions": [
+            { "question": "Leh is administered locally through which body?", "options": ["Ladakh Autonomous Hill Development Council (LAHDC)", "Gram Panchayat only", "Municipal Corporation", "State Legislature"], "correctIndex": 0 },
+            { "question": "Leh was historically the capital of which kingdom?", "options": ["Kingdom of Ladakh", "Kingdom of Kashmir", "Kingdom of Sikkim", "Kingdom of Nepal"], "correctIndex": 0 },
+            { "question": "Leh's cultural heritage is strongly influenced by which tradition?", "options": ["Tibetan Buddhism", "Sufi Islam", "Sikhism", "Jainism"], "correctIndex": 0 },
+            { "question": "Along with Kargil, Leh is a joint capital of which Union Territory?", "options": ["Jammu and Kashmir", "Ladakh", "Himachal Pradesh", "Punjab"], "correctIndex": 1 },
+            { "question": "Political demands from Leh and Ladakh have often focused on protections under which constitutional provision?", "options": ["Sixth Schedule", "Fifth Schedule", "Article 370 specifically", "Article 371"], "correctIndex": 0 }
+          ],
+          "summary": "Leh, the joint capital of the Union Territory of Ladakh along with Kargil, is administered locally through the Ladakh Autonomous Hill Development Council (LAHDC), a system granting the region a degree of self-governance over local affairs. Historically the capital of the Kingdom of Ladakh, Leh retains a strong Tibetan Buddhist cultural heritage, visible in its monasteries, palaces, and prayer flags. Since Ladakh's creation as a Union Territory in 2019, questions over statehood, land rights, and Sixth Schedule protections have made Leh a focal point of ongoing political demands from local groups."
+        },
+        {
+          "id": "pol_d12_rashtrapati_bhavan",
+          "location": { "name": "Rashtrapati Bhavan, New Delhi", "lat": 28.6143, "lng": 77.1994 },
+          "questions": [
+            { "question": "Who designed Rashtrapati Bhavan?", "options": ["Edwin Lutyens", "Herbert Baker alone", "Le Corbusier", "Charles Correa"], "correctIndex": 0 },
+            { "question": "Rashtrapati Bhavan was originally built as the residence of?", "options": ["The British Viceroy", "The Mughal Emperor", "The Prime Minister", "The Governor-General of Bengal only"], "correctIndex": 0 },
+            { "question": "In which year was Rashtrapati Bhavan completed?", "options": ["1911", "1929", "1947", "1950"], "correctIndex": 1 },
+            { "question": "What garden surrounds Rashtrapati Bhavan, opened seasonally to the public?", "options": ["Mughal Gardens", "Lodhi Gardens", "Buddha Jayanti Park", "Rose Garden of Chandigarh"], "correctIndex": 0 },
+            { "question": "Rashtrapati Bhavan today serves as the official residence of India's?", "options": ["Prime Minister", "President", "Chief Justice", "Vice President"], "correctIndex": 1 }
+          ],
+          "summary": "Rashtrapati Bhavan in New Delhi, designed by British architect Edwin Lutyens, was originally built as the residence of the British Viceroy and completed in 1929, before becoming the official residence of India's President after independence. The building blends European classical architecture with Indian design elements, such as chhatris and jali screens, symbolizing a fusion of colonial and indigenous styles. It contains hundreds of rooms and is surrounded by the expansive Mughal Gardens, opened to the public seasonally each year, and hosts major ceremonial events including the swearing-in of presidents and state banquets for visiting dignitaries."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "day": 24,
+  "date": "2026-10-24",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d24_anamalai",
+          "location": { "name": "Anamalai Tiger Reserve, Tamil Nadu", "lat": 10.4667, "lng": 76.9333 },
+          "questions": [
+            { "question": "Anamalai Tiger Reserve is located in the Western Ghats of which state?", "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "What does \"Anamalai\" mean, giving the reserve its name?", "options": ["Elephant hills", "Tiger valley", "Golden mountains", "River of gold"], "correctIndex": 0 },
+            { "question": "Anamalai's high-altitude grasslands are known by which local term?", "options": ["Sholas", "Chaurs", "Bugyals", "Maidans"], "correctIndex": 0 },
+            { "question": "Anamalai supports the endangered Nilgiri tahr and which primate species?", "options": ["Lion-tailed macaque", "Golden langur", "Hoolock gibbon", "Rhesus macaque"], "correctIndex": 0 },
+            { "question": "Anamalai's buffer zones include plantations of tea and?", "options": ["Coffee", "Rubber only", "Cotton", "Wheat"], "correctIndex": 0 }
+          ],
+          "summary": "Anamalai Tiger Reserve, in the Western Ghats of Tamil Nadu, protects tropical evergreen and moist deciduous forest, forming part of an interconnected landscape with neighboring Kerala reserves. Named after the Anamalai Hills, meaning 'elephant hills,' the reserve's varied elevation supports ecosystems from lowland forests to high-altitude grasslands known as sholas, hosting species including the Nilgiri tahr and lion-tailed macaque. The reserve also includes tea and coffee plantations within its buffer zones, reflecting colonial-era agricultural development alongside its conservation status."
+        },
+        {
+          "id": "geo_d24_dandeli_anshi",
+          "location": { "name": "Dandeli-Anshi Tiger Reserve, Karnataka", "lat": 15.2667, "lng": 74.6167 },
+          "questions": [
+            { "question": "Dandeli-Anshi Tiger Reserve combines the Dandeli Wildlife Sanctuary with which national park?", "options": ["Anshi National Park", "Bandipur National Park", "Nagarhole National Park", "Bhadra National Park"], "correctIndex": 0 },
+            { "question": "Dandeli-Anshi Tiger Reserve is bisected by which river?", "options": ["Kali River", "Kaveri River", "Tungabhadra River", "Krishna River"], "correctIndex": 0 },
+            { "question": "The Kali River's rapids have made the area popular for which adventure activity?", "options": ["White-water rafting", "Rock climbing", "Scuba diving", "Paragliding"], "correctIndex": 0 },
+            { "question": "Dandeli-Anshi's forest is home to several species of which distinctive bird?", "options": ["Hornbills", "Flamingos", "Ostriches", "Sarus cranes"], "correctIndex": 0 },
+            { "question": "Dandeli-Anshi Tiger Reserve is located in which Indian state?", "options": ["Karnataka", "Kerala", "Tamil Nadu", "Goa"], "correctIndex": 0 }
+          ],
+          "summary": "Dandeli-Anshi Tiger Reserve, in Karnataka's Western Ghats, combines the Dandeli Wildlife Sanctuary with the Anshi National Park, supporting tigers, black panthers, and diverse bird species. The reserve is bisected by the Kali River, whose rapids have made the area popular for white-water rafting, distinct from typical wildlife-focused activities. Dandeli-Anshi's dense canopy creates ideal conditions for endemic Western Ghats species, including several types of hornbills, reflecting protected areas diversifying visitor activities beyond traditional safaris."
+        },
+        {
+          "id": "geo_d24_buxa",
+          "location": { "name": "Buxa Tiger Reserve, West Bengal", "lat": 26.7000, "lng": 89.5833 },
+          "questions": [
+            { "question": "Buxa Tiger Reserve is located near the border with which country?", "options": ["Bhutan", "Nepal", "Bangladesh", "Myanmar"], "correctIndex": 0 },
+            { "question": "Buxa Tiger Reserve is named after which historical fortification?", "options": ["Buxa Fort", "Gwalior Fort", "Golconda Fort", "Daulatabad Fort"], "correctIndex": 0 },
+            { "question": "Buxa Fort later served as a British colonial-era?", "options": ["Prison", "Palace", "Trading post", "Military academy"], "correctIndex": 0 },
+            { "question": "Buxa's terrain transitions between higher-altitude areas and which type of grasslands?", "options": ["Duars grasslands", "Terai grasslands", "Deccan grasslands", "Kutch grasslands"], "correctIndex": 0 },
+            { "question": "Buxa Tiger Reserve is located in which Indian state?", "options": ["West Bengal", "Assam", "Sikkim", "Bihar"], "correctIndex": 0 }
+          ],
+          "summary": "Buxa Tiger Reserve, in West Bengal, is located near the border with Bhutan, forming part of a broader transboundary conservation landscape supporting elephants and tigers. Named after Buxa Fort, a historically significant fortification that later served as a British colonial-era prison holding several Indian freedom fighters, the reserve's forests transition between moist Duars grasslands and higher-altitude terrain. Buxa's location along an important elephant migration corridor connecting Indian and Bhutanese forests gives it significance for cross-border conservation."
+        },
+        {
+          "id": "geo_d24_pulicat_lake",
+          "location": { "name": "Pulicat Lake", "lat": 13.6667, "lng": 80.1667 },
+          "questions": [
+            { "question": "Pulicat Lake is India's second-largest what?", "options": ["Brackish water lagoon", "Freshwater lake", "Glacial lake", "Salt desert"], "correctIndex": 0 },
+            { "question": "Pulicat Lake straddles the border of Tamil Nadu and which other state?", "options": ["Andhra Pradesh", "Karnataka", "Kerala", "Odisha"], "correctIndex": 0 },
+            { "question": "Pulicat Lake is separated from the Bay of Bengal by which barrier island?", "options": ["Sriharikota", "Rameswaram Island", "Elephanta Island", "Diu Island"], "correctIndex": 0 },
+            { "question": "Sriharikota, near Pulicat Lake, is also home to which important facility?", "options": ["India's primary satellite launch center", "A major oil refinery", "A nuclear power plant", "A large steel plant"], "correctIndex": 0 },
+            { "question": "Pulicat Lake attracts migratory birds traveling from as far as?", "options": ["Central Asia and Siberia", "South America", "Australia", "Antarctica"], "correctIndex": 0 }
+          ],
+          "summary": "Pulicat Lake, straddling the border of Andhra Pradesh and Tamil Nadu, is India's second-largest brackish water lagoon, providing critical habitat for large flocks of flamingos and migratory birds from as far as Central Asia and Siberia. The lake is separated from the Bay of Bengal by the barrier island Sriharikota, which also houses India's primary satellite launch center, creating an unusual juxtaposition of ecological sanctuary and space infrastructure. Pulicat's brackish waters support a rich fishery sustaining local fishing communities."
+        },
+        {
+          "id": "geo_d24_vembanad",
+          "location": { "name": "Vembanad Lake, Kerala", "lat": 9.6000, "lng": 76.4000 },
+          "questions": [
+            { "question": "Vembanad Lake is notable as India's?", "options": ["Longest lake", "Deepest lake", "Highest-altitude lake", "Saltiest lake"], "correctIndex": 0 },
+            { "question": "Vembanad Lake forms the core of which famous tourism feature?", "options": ["Kerala backwaters", "Rann of Kutch", "Sundarbans", "Western Ghats trails"], "correctIndex": 0 },
+            { "question": "Vembanad Lake's ecology is regulated by which structure, built to prevent saltwater intrusion?", "options": ["Thanneermukkom bund", "Bhakra Dam", "Hirakud Dam", "Farakka Barrage"], "correctIndex": 0 },
+            { "question": "Vembanad is recognized under which international wetland designation?", "options": ["Ramsar site", "UNESCO World Heritage Site", "Biosphere Reserve only", "Special Economic Zone"], "correctIndex": 0 },
+            { "question": "Traditional houseboats on Vembanad Lake are adapted from rice barges known as?", "options": ["Kettuvallams", "Shikaras", "Coracles", "Chundan Vallams"], "correctIndex": 0 }
+          ],
+          "summary": "Vembanad Lake, in Kerala, is the longest lake in India, forming the core of the famous Kerala backwaters. The lake's ecosystem is regulated by the Thanneermukkom bund, built to prevent saltwater intrusion into agricultural areas, though it has significantly altered the lake's natural ecology. Vembanad is a Ramsar-designated wetland of international significance, and its houseboats, adapted from traditional rice barges known as 'kettuvallams,' have become an iconic symbol of Kerala tourism."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d24_kamakshi_temple",
+          "location": { "name": "Kanchi Kamakshi Amman Temple", "lat": 12.8342, "lng": 79.7036 },
+          "questions": [
+            { "question": "The Kamakshi Amman Temple is dedicated to which goddess, considered a form of Parvati?", "options": ["Kamakshi", "Durga", "Lakshmi", "Saraswati"], "correctIndex": 0 },
+            { "question": "The Kamakshi Amman Temple is regarded as one of the important?", "options": ["Shakti Peethas", "Jyotirlingas", "Char Dham sites", "Panch Kedar sites"], "correctIndex": 0 },
+            { "question": "The temple's significance is elevated by its association with which influential philosopher?", "options": ["Adi Shankaracharya", "Ramanuja", "Madhvacharya", "Basava"], "correctIndex": 0 },
+            { "question": "Kanchipuram is sometimes referred to as one of India's?", "options": ["Seven sacred cities", "Four Char Dham sites", "Twelve Jyotirlinga sites", "Five holy rivers"], "correctIndex": 0 },
+            { "question": "The Kamakshi Amman Temple is located in which Indian state?", "options": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Kerala"], "correctIndex": 0 }
+          ],
+          "summary": "The Kamakshi Amman Temple, in Kanchipuram, Tamil Nadu, is dedicated to the goddess Kamakshi and is regarded as one of the most important Shakti Peethas. The temple's significance is further elevated by its historical association with Adi Shankaracharya, the influential 8th-century philosopher believed to have established a monastic institution linked to the temple. Kanchipuram, sometimes called one of India's seven sacred cities, hosts numerous significant temples, and the Kamakshi Amman Temple's golden gopuram continues to draw devotees from across South India."
+        },
+        {
+          "id": "cul_d24_somnathpur",
+          "location": { "name": "Somnathpur Chennakeshava Temple", "lat": 12.2833, "lng": 76.8833 },
+          "questions": [
+            { "question": "The Chennakeshava Temple at Somnathpur was built under which dynasty?", "options": ["Hoysala dynasty", "Chola dynasty", "Chalukya dynasty", "Vijayanagara Empire"], "correctIndex": 0 },
+            { "question": "The temple was built in which year?", "options": ["1268", "1000", "1500", "1750"], "correctIndex": 0 },
+            { "question": "The temple's platform is distinguished by which architectural shape?", "options": ["Star-shaped", "Circular", "Square", "Triangular"], "correctIndex": 0 },
+            { "question": "Hoysala temples like Somnathpur are known for their carving technique using which stone?", "options": ["Soapstone", "Granite", "Marble", "Sandstone"], "correctIndex": 0 },
+            { "question": "The temple's three shrines are each dedicated to different forms of?", "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"], "correctIndex": 0 }
+          ],
+          "summary": "The Chennakeshava Temple at Somnathpur, Karnataka, built in 1268 under the Hoysala dynasty, is considered one of the finest examples of Hoysala temple architecture, distinguished by its star-shaped platform and elaborately carved friezes. Somnathpur's remote location has helped preserve much of its original stone carving in near-complete condition. The temple's three shrines, dedicated to different forms of Vishnu, showcase the soapstone carving technique characteristic of Hoysala architecture, allowing exceptionally fine sculptural work."
+        },
+        {
+          "id": "cul_d24_udayagiri_caves",
+          "location": { "name": "Udayagiri Caves, Madhya Pradesh", "lat": 23.5286, "lng": 77.8078 },
+          "questions": [
+            { "question": "The Udayagiri Caves date primarily to which historical period?", "options": ["Gupta period", "Maurya period", "Mughal period", "Chola period"], "correctIndex": 0 },
+            { "question": "The Udayagiri Caves are located near which Madhya Pradesh town?", "options": ["Vidisha", "Bhopal", "Gwalior", "Indore"], "correctIndex": 0 },
+            { "question": "An important sculpture at Udayagiri depicts Vishnu in which avatar?", "options": ["Varaha (boar)", "Narasimha", "Matsya", "Kurma"], "correctIndex": 0 },
+            { "question": "The Varaha sculpture at Udayagiri depicts Vishnu rescuing the earth goddess from the?", "options": ["Cosmic ocean", "A burning forest", "A demon's palace", "An underground cave"], "correctIndex": 0 },
+            { "question": "Inscriptions at Udayagiri provide historical information about which era's rulers?", "options": ["Gupta era", "Mauryan era", "Mughal era", "Chola era"], "correctIndex": 0 }
+          ],
+          "summary": "The Udayagiri Caves, near Vidisha in Madhya Pradesh, are rock-cut caves dating primarily to the Gupta period in the early 5th century, notable for containing some of the earliest significant examples of Hindu iconographic art. The caves feature an important sculpture depicting Vishnu in his Varaha (boar) avatar, rescuing the earth goddess from the cosmic ocean. Several caves contain inscriptions providing valuable information about Gupta-era rulers, making Udayagiri an important source for historians studying this classical period."
+        },
+        {
+          "id": "cul_d24_kumbeshwarar",
+          "location": { "name": "Kumbeshwarar Temple, Kumbakonam", "lat": 10.9601, "lng": 79.3788 },
+          "questions": [
+            { "question": "The Kumbeshwarar Temple is dedicated to which deity?", "options": ["Shiva", "Vishnu", "Ganesha", "Murugan"], "correctIndex": 0 },
+            { "question": "According to legend, Kumbakonam's name is linked to a pot containing the seeds of?", "options": ["Creation", "Immortality", "Wealth", "Wisdom"], "correctIndex": 0 },
+            { "question": "The major festival at Kumbeshwarar Temple, held once every twelve years, is called?", "options": ["Mahamaham", "Kumbh Mela", "Simhastha", "Ardh Kumbh"], "correctIndex": 0 },
+            { "question": "During the Mahamaham festival, devotees believe sacred rivers converge in a?", "options": ["Tank", "River delta", "Mountain spring", "Ocean bay"], "correctIndex": 0 },
+            { "question": "Kumbakonam is located in which Indian state?", "options": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Kerala"], "correctIndex": 0 }
+          ],
+          "summary": "The Kumbeshwarar Temple, in Kumbakonam, Tamil Nadu, is dedicated to Shiva and is closely linked to a local legend describing Kumbakonam as the site where a pot containing the seeds of creation came to rest. The temple hosts the Mahamaham festival, held once every twelve years, during which devotees believe sacred rivers from across India symbolically converge in the town's Mahamaham tank. Kumbakonam is known for its concentration of numerous historic temples, reflecting its long-standing significance as a center of Tamil religious life since the Chola period."
+        },
+        {
+          "id": "cul_d24_baijnath_temple",
+          "location": { "name": "Baijnath Temple, Himachal Pradesh", "lat": 32.0333, "lng": 76.6500 },
+          "questions": [
+            { "question": "The Baijnath Temple is dedicated to Shiva in which specific form?", "options": ["Vaidyanath (lord of physicians)", "Nataraja", "Pashupati", "Bhairava"], "correctIndex": 0 },
+            { "question": "Baijnath Temple is located in which valley of Himachal Pradesh?", "options": ["Kangra Valley", "Kullu Valley", "Spiti Valley", "Lahaul Valley"], "correctIndex": 0 },
+            { "question": "Baijnath Temple dates back to which century?", "options": ["13th century", "5th century", "18th century", "9th century"], "correctIndex": 0 },
+            { "question": "Baijnath Temple's architecture follows which style, common in North India?", "options": ["Nagara style", "Dravidian style", "Indo-Islamic style", "Gothic style"], "correctIndex": 0 },
+            { "question": "Inscriptions at Baijnath Temple provide information about local rulers during which period?", "options": ["Medieval period", "Ancient Vedic period", "Mughal period", "British colonial period"], "correctIndex": 0 }
+          ],
+          "summary": "The Baijnath Temple, in Himachal Pradesh's Kangra Valley, is an ancient Shiva temple dating to the 13th century, dedicated to Shiva as Vaidyanath, the 'lord of physicians,' believed to have healing powers. The temple's Nagara-style architecture, with its curvilinear tower, reflects a North Indian design tradition. Inscriptions found at the temple provide valuable historical information about local rulers during the medieval period, and Baijnath remains an active site of worship drawing pilgrims from the Kangra Valley region."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d24_adani_renewable",
+          "location": { "name": "Adani Renewable Energy Park, Kutch", "lat": 23.7500, "lng": 69.8500 },
+          "questions": [
+            { "question": "The Adani Renewable Energy Park is located in which region of Gujarat?", "options": ["Kutch", "Saurashtra", "Kathiawar", "South Gujarat"], "correctIndex": 0 },
+            { "question": "The Adani Renewable Energy Park combines which two types of power generation?", "options": ["Solar and wind", "Solar and hydroelectric", "Wind and nuclear", "Hydroelectric and geothermal"], "correctIndex": 0 },
+            { "question": "Kutch's suitability for renewable energy comes from its high solar irradiance and consistent?", "options": ["Wind patterns", "Rainfall", "River flow", "Ocean tides"], "correctIndex": 0 },
+            { "question": "The project reflects India's broader push toward reducing dependence on?", "options": ["Fossil fuels", "Nuclear power", "Hydroelectric power", "Imported food"], "correctIndex": 0 },
+            { "question": "The renewable energy park has been built on land previously considered?", "options": ["Marginal agricultural land", "Prime forest land", "Dense urban land", "Protected wetland"], "correctIndex": 0 }
+          ],
+          "summary": "The Adani Renewable Energy Park, in the Kutch region of Gujarat, is one of the world's largest renewable energy installations, combining solar and wind power generation across vast arid land. The project reflects India's broader push toward significantly expanding renewable energy capacity to reduce fossil fuel dependence. Kutch's high solar irradiance and consistent wind patterns make it well-suited for renewable generation, and the project's massive scale has positioned it as a flagship example of India's renewable energy ambitions, built on previously marginal agricultural land."
+        },
+        {
+          "id": "eco_d24_ntpc_talcher",
+          "location": { "name": "NTPC Talcher, Odisha", "lat": 20.9500, "lng": 85.2167 },
+          "questions": [
+            { "question": "NTPC's Talcher power complex is located in which Indian state?", "options": ["Odisha", "Jharkhand", "West Bengal", "Chhattisgarh"], "correctIndex": 0 },
+            { "question": "Talcher's power complex benefits from its proximity to substantial reserves of?", "options": ["Coal", "Natural gas", "Uranium", "Oil"], "correctIndex": 0 },
+            { "question": "Talcher's location minimizes transportation costs for which key input?", "options": ["Fuel supply", "Water supply", "Labor", "Steel"], "correctIndex": 0 },
+            { "question": "Talcher's power complex contributes significantly to electricity supply for which grid?", "options": ["Eastern Indian grid", "Northern Indian grid", "Southern Indian grid", "Western Indian grid"], "correctIndex": 0 },
+            { "question": "NTPC's Talcher complex includes generating units developed over?", "options": ["Different phases", "A single construction period only", "Foreign-funded stages only", "Emergency wartime construction"], "correctIndex": 0 }
+          ],
+          "summary": "NTPC's Talcher power complex, in Odisha, is one of the company's major thermal power generation facilities, benefiting from its proximity to substantial coal reserves in the Talcher coalfield. The complex includes multiple generating units developed over different phases, reflecting the gradual expansion typical of major Indian power projects. Talcher's location minimizes fuel transportation costs, and as one of India's larger power generation hubs, it contributes significantly to the electricity supply for the eastern Indian grid."
+        },
+        {
+          "id": "eco_d24_mother_dairy",
+          "location": { "name": "Mother Dairy, Delhi", "lat": 28.5921, "lng": 77.2900 },
+          "questions": [
+            { "question": "Mother Dairy was established as part of which government program?", "options": ["Operation Flood", "Green Revolution", "Blue Revolution", "Digital India"], "correctIndex": 0 },
+            { "question": "Operation Flood transformed India into the world's largest producer of?", "options": ["Milk", "Rice", "Wheat", "Sugar"], "correctIndex": 0 },
+            { "question": "Mother Dairy primarily supplies milk to which region through dedicated retail booths?", "options": ["Delhi-NCR", "Mumbai Metropolitan Region", "Chennai Metropolitan Area", "Kolkata Metropolitan Area"], "correctIndex": 0 },
+            { "question": "Mother Dairy has diversified beyond liquid milk into products including ice cream, cooking oils, and?", "options": ["Fruits and vegetables", "Automobiles", "Electronics", "Textiles"], "correctIndex": 0 },
+            { "question": "Mother Dairy's cooperative model exemplifies India's broader agricultural development known as the?", "options": ["White Revolution", "Green Revolution", "Blue Revolution", "Silent Revolution"], "correctIndex": 0 }
+          ],
+          "summary": "Mother Dairy, headquartered in Delhi, is a major dairy enterprise established as part of India's Operation Flood program, which transformed India into the world's largest milk producer starting in the 1970s. The company supplies milk to Delhi-NCR through an extensive network of dedicated retail booths, and has diversified into ice cream, cooking oils, and fruits and vegetables. Mother Dairy's model, connecting rural producers with urban markets, exemplifies the cooperative dairy structure central to India's broader White Revolution."
+        },
+        {
+          "id": "eco_d24_patanjali",
+          "location": { "name": "Patanjali Ayurved, Haridwar", "lat": 29.9457, "lng": 78.1642 },
+          "questions": [
+            { "question": "Patanjali Ayurved is headquartered in which Uttarakhand city?", "options": ["Haridwar", "Dehradun", "Rishikesh", "Nainital"], "correctIndex": 0 },
+            { "question": "Patanjali Ayurved specializes in products based on?", "options": ["Ayurvedic and natural ingredients", "Synthetic chemicals only", "Imported formulas only", "Petroleum derivatives"], "correctIndex": 0 },
+            { "question": "Patanjali's founder, known for building the brand's public identity, is?", "options": ["Baba Ramdev", "Ravi Shankar", "Sadhguru", "Deepak Chopra"], "correctIndex": 0 },
+            { "question": "Patanjali's rapid growth prompted several competitors to launch their own?", "options": ["Natural or Ayurvedic product lines", "Automobile divisions", "IT services divisions", "Banking subsidiaries"], "correctIndex": 0 },
+            { "question": "Haridwar's significance as a pilgrimage town reinforced Patanjali's branding around?", "options": ["Spiritual and traditional Indian values", "Foreign luxury positioning", "Military discipline", "Scientific technology"], "correctIndex": 0 }
+          ],
+          "summary": "Patanjali Ayurved, headquartered in Haridwar, Uttarakhand, is a major Indian consumer goods company specializing in Ayurvedic products, founded in the early 2000s. The company's founder, yoga guru Baba Ramdev, built the brand's identity around traditional Ayurvedic principles combined with aggressive marketing. Patanjali's rapid growth significantly disrupted established consumer goods companies, prompting competitors to launch their own natural product lines, and Haridwar's significance as a pilgrimage town reinforced the company's branding around spiritual and traditional values."
+        },
+        {
+          "id": "eco_d24_parle",
+          "location": { "name": "Parle Products, Bahadurgarh", "lat": 28.6919, "lng": 76.9184 },
+          "questions": [
+            { "question": "Parle Products is best known for which iconic biscuit brand?", "options": ["Parle-G", "Britannia Marie", "Sunfeast", "Bourbon"], "correctIndex": 0 },
+            { "question": "In which decade was Parle Products founded?", "options": ["1920s", "1950s", "1970s", "1990s"], "correctIndex": 0 },
+            { "question": "Parle-G is considered among the best-selling biscuit brands in the world by?", "options": ["Volume", "Only export revenue", "Only international awards", "Only social media following"], "correctIndex": 0 },
+            { "question": "Parle Products' manufacturing facility discussed here is located in which Haryana town?", "options": ["Bahadurgarh", "Panipat", "Karnal", "Ambala"], "correctIndex": 0 },
+            { "question": "Parle-G's continued market dominance reflects the appeal of products that are simple, affordable, and?", "options": ["Widely trusted", "Exclusively luxury", "Only foreign-made", "Only digitally sold"], "correctIndex": 0 }
+          ],
+          "summary": "Parle Products, with a manufacturing facility in Bahadurgarh, Haryana, is one of India's oldest biscuit manufacturers, best known for its Parle-G brand, among the best-selling biscuit brands in the world by volume. Founded in the 1920s, the company built its reputation through affordable, widely accessible biscuits that became a staple across Indian households. Parle-G's distinctive packaging and consistent pricing have remained largely unchanged for decades, reflecting the enduring appeal of simple, affordable, and widely trusted products in India's price-sensitive market."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d24_rann_utsav",
+          "location": { "name": "Rann Utsav, Kutch", "lat": 23.7337, "lng": 69.8597 },
+          "questions": [
+            { "question": "Rann Utsav is centered on which distinctive natural landscape?", "options": ["The white salt desert of the Great Rann of Kutch", "The Thar Desert", "The Rann of Kachchh wetlands", "The Sundarbans mangroves"], "correctIndex": 0 },
+            { "question": "Rann Utsav showcases traditional Kutchi crafts including embroidery and?", "options": ["Mirror work", "Pottery only", "Wood carving only", "Metal casting only"], "correctIndex": 0 },
+            { "question": "Rann Utsav typically runs during which season?", "options": ["Winter", "Summer", "Monsoon", "Spring only"], "correctIndex": 0 },
+            { "question": "Rann Utsav provides significant seasonal income opportunities for local?", "options": ["Artisans", "Fishermen only", "Software engineers", "Miners"], "correctIndex": 0 },
+            { "question": "Rann Utsav reflects a government initiative to promote tourism in a historically?", "options": ["Remote and economically underdeveloped region", "Densely populated urban area", "Heavily industrialized zone", "Coastal tourist hotspot"], "correctIndex": 0 }
+          ],
+          "summary": "Rann Utsav, held annually in the Kutch region of Gujarat, is a large-scale cultural tourism festival centered on the stark white salt desert of the Great Rann of Kutch. The festival showcases traditional Kutchi music, dance, and crafts including embroidery and mirror work, providing artisans with significant seasonal income. Running over several months during winter, when the white desert is particularly striking under moonlight, Rann Utsav reflects a Gujarat government initiative to promote tourism in a historically remote, economically underdeveloped border region."
+        },
+        {
+          "id": "evt_d24_behdeinkhlam",
+          "location": { "name": "Behdeinkhlam Festival, Jaintia Hills", "lat": 25.4333, "lng": 92.3667 },
+          "questions": [
+            { "question": "Behdeinkhlam is celebrated by which community in Meghalaya?", "options": ["Pnar community", "Khasi community", "Garo community", "Naga community"], "correctIndex": 0 },
+            { "question": "Behdeinkhlam is aimed at driving away evil spirits and?", "options": ["Diseases", "Foreign invaders", "Wild animals", "Bad weather only"], "correctIndex": 0 },
+            { "question": "A distinctive ritual during Behdeinkhlam involves decorated wooden structures called?", "options": ["Rots", "Toranas", "Rath", "Gudi"], "correctIndex": 0 },
+            { "question": "Men competitively throw mud at a designated pit during Behdeinkhlam, symbolizing burying?", "options": ["Misfortune and negative influences", "Old crops", "Unwanted guests", "Enemy weapons"], "correctIndex": 0 },
+            { "question": "Behdeinkhlam's name roughly translates to?", "options": ["Driving away the plague with sticks", "Festival of new rice", "Dance of the ancestors", "Blessing of the harvest"], "correctIndex": 0 }
+          ],
+          "summary": "Behdeinkhlam, celebrated by the Pnar community in Meghalaya's Jaintia Hills, is a major festival aimed at driving away evil spirits and diseases, marked by vigorous rituals involving decorated wooden structures called 'rots.' A distinctive feature involves men competitively throwing mud at a designated pit, symbolically burying misfortune for the coming year. The festival's name translates roughly to 'driving away the plague with sticks,' reflecting its historical association with warding off disease, and it remains a significant marker of Pnar cultural identity."
+        },
+        {
+          "id": "evt_d24_kullu_dussehra",
+          "location": { "name": "Kullu Dussehra, Himachal Pradesh", "lat": 31.9576, "lng": 77.1095 },
+          "questions": [
+            { "question": "Kullu Dussehra is notable for beginning rather than ending with the burning of whose effigy?", "options": ["Ravana", "Kansa", "Mahishasura", "Hiranyakashipu"], "correctIndex": 0 },
+            { "question": "Kullu Dussehra's centerpiece procession involves deities carried from how many local temples?", "options": ["Over 200", "About 10", "About 50", "Over 1,000"], "correctIndex": 0 },
+            { "question": "The presiding deity central to Kullu Dussehra's procession is?", "options": ["Raghunathji", "Jagannath", "Vithoba", "Ayyappa"], "correctIndex": 0 },
+            { "question": "Kullu's Dussehra tradition traces its origins to which century?", "options": ["17th century", "10th century", "19th century", "5th century"], "correctIndex": 0 },
+            { "question": "Kullu Dussehra is celebrated in which Indian state?", "options": ["Himachal Pradesh", "Uttarakhand", "Jammu and Kashmir", "Punjab"], "correctIndex": 0 }
+          ],
+          "summary": "Kullu Dussehra, celebrated in the Kullu Valley of Himachal Pradesh, is internationally recognized for its unique format, beginning rather than ending with the burning of Ravana's effigy seen elsewhere. The festival's centerpiece involves a grand procession carrying the deity Raghunathji, along with deities from over 200 local temples, to a central gathering. Tracing its origins to the 17th century when a local king installed Raghunathji as the valley's presiding deity, the week-long festival reflects Himachal Pradesh's unique blend of local deity worship layered onto Dussehra."
+        },
+        {
+          "id": "evt_d24_bandi_chhor_divas",
+          "location": { "name": "Bandi Chhor Divas, Amritsar", "lat": 31.6200, "lng": 74.8765 },
+          "questions": [
+            { "question": "Bandi Chhor Divas commemorates the release of which Sikh Guru from imprisonment?", "options": ["Guru Hargobind", "Guru Nanak", "Guru Gobind Singh", "Guru Arjan Dev"], "correctIndex": 0 },
+            { "question": "Guru Hargobind was imprisoned by which Mughal emperor?", "options": ["Jahangir", "Akbar", "Shah Jahan", "Aurangzeb"], "correctIndex": 0 },
+            { "question": "Along with Guru Hargobind, how many Hindu princes were also released?", "options": ["52", "10", "100", "25"], "correctIndex": 0 },
+            { "question": "According to tradition, the princes were freed by holding onto the Guru's cloak?", "options": ["Tassels", "Sleeves", "Buttons", "Hem only"], "correctIndex": 0 },
+            { "question": "Bandi Chhor Divas is celebrated on the same calendar day as which Hindu festival?", "options": ["Diwali", "Holi", "Navratri", "Dussehra"], "correctIndex": 0 }
+          ],
+          "summary": "Bandi Chhor Divas, celebrated at the Golden Temple in Amritsar, marks the release of Guru Hargobind, the sixth Sikh Guru, from imprisonment by Mughal emperor Jahangir along with 52 Hindu princes. The festival, celebrated on the same day as Diwali, involves illuminating the Golden Temple with thousands of lamps and fireworks. According to tradition, the princes were freed by holding onto the Guru's specially made cloak with 52 tassels, and the festival reflects a distinctly Sikh historical narrative celebrated alongside Diwali."
+        },
+        {
+          "id": "evt_d24_rajrappa_mela",
+          "location": { "name": "Rajrappa Chhinnamasta Mela, Jharkhand", "lat": 23.6333, "lng": 85.6167 },
+          "questions": [
+            { "question": "The Chhinnamasta Temple at Rajrappa is dedicated to which goddess?", "options": ["Chhinnamasta", "Durga", "Lakshmi", "Saraswati"], "correctIndex": 0 },
+            { "question": "Chhinnamasta is one of the ten what in Tantric Hindu tradition?", "options": ["Mahavidyas", "Avatars", "Jyotirlingas", "Shakti Peethas"], "correctIndex": 0 },
+            { "question": "Chhinnamasta is iconographically depicted as a goddess holding her own severed?", "options": ["Head", "Hand", "Foot", "Heart"], "correctIndex": 0 },
+            { "question": "The Rajrappa temple is situated at the confluence of the Damodar River and which other river?", "options": ["Bhairavi River", "Ganga River", "Son River", "Kosi River"], "correctIndex": 0 },
+            { "question": "Rajrappa Chhinnamasta Temple is located in which Indian state?", "options": ["Jharkhand", "Bihar", "West Bengal", "Odisha"], "correctIndex": 0 }
+          ],
+          "summary": "The Chhinnamasta Temple at Rajrappa, in Jharkhand, is dedicated to Chhinnamasta, one of the ten Mahavidyas in Tantric Hindu tradition, depicted as a self-decapitated goddess holding her own severed head. Situated at the confluence of the Damodar and Bhairavi rivers, the temple draws large crowds during major festivals, particularly Navratri. Rajrappa's association with Tantric worship traditions distinguishes it from more conventional temple practices, making it a significant, specialized pilgrimage destination within eastern India's Shakti worship landscape."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d24_lokpal",
+          "location": { "name": "Lokpal, New Delhi", "lat": 28.6200, "lng": 77.2100 },
+          "questions": [
+            { "question": "The Lokpal was established under which act, passed in 2013?", "options": ["Lokpal and Lokayuktas Act", "Right to Information Act", "Protection of Human Rights Act", "Prevention of Corruption Act"], "correctIndex": 0 },
+            { "question": "The Lokpal's establishment followed civil society activism led significantly by which activist?", "options": ["Anna Hazare", "Medha Patkar", "Arvind Kejriwal", "Kiran Bedi"], "correctIndex": 0 },
+            { "question": "The Lokpal's jurisdiction covers the Prime Minister, ministers, and?", "options": ["Members of Parliament", "Only state chief ministers", "Only judges", "Only military officers"], "correctIndex": 0 },
+            { "question": "The first Lokpal chairperson was appointed in which year?", "options": ["2013", "2019", "2005", "2024"], "correctIndex": 1 },
+            { "question": "The Lokpal serves as India's national?", "options": ["Anti-corruption ombudsman", "Election oversight body", "Human rights commission", "Information commission"], "correctIndex": 0 }
+          ],
+          "summary": "The Lokpal, headquartered in New Delhi, is India's national anti-corruption ombudsman, established under the Lokpal and Lokayuktas Act of 2013, following years of civil society activism led significantly by Anna Hazare. The institution's jurisdiction covers the Prime Minister, ministers, and members of Parliament, along with certain officials, though its powers have been subjects of ongoing debate. The first Lokpal chairperson was appointed only in 2019, reflecting delays common to establishing new oversight institutions in India's governance system."
+        },
+        {
+          "id": "pol_d24_ngt",
+          "location": { "name": "National Green Tribunal, New Delhi", "lat": 28.5850, "lng": 77.2350 },
+          "questions": [
+            { "question": "The National Green Tribunal was established in which year?", "options": ["2010", "2000", "1995", "2015"], "correctIndex": 0 },
+            { "question": "The National Green Tribunal specializes in cases related to?", "options": ["Environmental protection and natural resources", "Corporate tax disputes", "Election disputes", "Criminal appeals"], "correctIndex": 0 },
+            { "question": "The National Green Tribunal provides a dedicated forum separate from?", "options": ["India's regular court system", "State legislatures", "The Election Commission", "The Reserve Bank of India"], "correctIndex": 0 },
+            { "question": "NGT decisions have addressed issues including pollution control and?", "options": ["Illegal construction in ecologically sensitive areas", "Foreign trade tariffs", "Currency exchange rates", "Military procurement"], "correctIndex": 0 },
+            { "question": "The National Green Tribunal is headquartered in which city?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "correctIndex": 0 }
+          ],
+          "summary": "The National Green Tribunal, headquartered in New Delhi, was established in 2010 as a specialized judicial body to handle cases related to environmental protection and natural resources. The tribunal hears cases involving substantial environmental questions that previously required separate proceedings across different courts. NGT decisions have addressed significant issues across India, including pollution control and illegal construction in ecologically sensitive areas, reflecting growing recognition of the need for specialized environmental judicial expertise."
+        },
+        {
+          "id": "pol_d24_nagaland_peace",
+          "location": { "name": "Nagaland Peace Accord Framework, Kohima", "lat": 25.6751, "lng": 94.1086 },
+          "questions": [
+            { "question": "The 2015 Framework Agreement was signed between the Indian government and which organization?", "options": ["National Socialist Council of Nagaland", "Naga People's Convention", "Mizo National Front", "United Liberation Front of Assam"], "correctIndex": 0 },
+            { "question": "In which year was the Framework Agreement signed?", "options": ["2015", "2000", "2019", "1997"], "correctIndex": 0 },
+            { "question": "The Framework Agreement was celebrated as a breakthrough after decades of?", "options": ["Conflict", "Economic stagnation", "Drought", "Political silence"], "correctIndex": 0 },
+            { "question": "Core unresolved issues in the Naga peace process concern political autonomy and?", "options": ["Territorial integration", "Trade tariffs", "Currency arrangements", "Military alliances"], "correctIndex": 0 },
+            { "question": "Kohima is the capital of which Indian state?", "options": ["Nagaland", "Manipur", "Mizoram", "Assam"], "correctIndex": 0 }
+          ],
+          "summary": "Kohima, the capital of Nagaland, has continued to be central to ongoing efforts toward a comprehensive resolution of Naga insurgency issues, particularly following the 2015 Framework Agreement between the Indian government and the National Socialist Council of Nagaland. The agreement, celebrated as a breakthrough after decades of conflict, has faced extended delays reaching a final settlement, with core issues regarding political autonomy and territorial integration remaining unresolved. The framework built upon decades of prior ceasefire arrangements dating back to earlier negotiations."
+        },
+        {
+          "id": "pol_d24_ladakh_sixth_schedule",
+          "location": { "name": "Ladakh Sixth Schedule Demand, Leh", "lat": 34.1526, "lng": 77.5771 },
+          "questions": [
+            { "question": "Ladakh's political demands have focused on protections under which constitutional provision?", "options": ["Sixth Schedule", "Fifth Schedule", "Article 370", "Article 371"], "correctIndex": 0 },
+            { "question": "The Sixth Schedule was originally designed for tribal areas in which part of India?", "options": ["Northeastern states", "Southern states", "Western desert states", "Central Indian states"], "correctIndex": 0 },
+            { "question": "Ladakh's 2019 reorganization made it a Union Territory without its own?", "options": ["Legislature", "Administrator", "Police force", "Judiciary"], "correctIndex": 0 },
+            { "question": "Sixth Schedule protections are sought to protect Ladakh's land, culture, and?", "options": ["Employment opportunities for local residents", "Foreign trade rights", "Currency control", "Military command"], "correctIndex": 0 },
+            { "question": "Leh is located in which Indian Union Territory?", "options": ["Ladakh", "Jammu and Kashmir", "Himachal Pradesh", "Sikkim"], "correctIndex": 0 }
+          ],
+          "summary": "Leh, in Ladakh, has continued to be a focal point for political demands seeking constitutional protections under the Sixth Schedule, originally designed for tribal areas in India's northeastern states. Following Ladakh's 2019 reorganization into a Union Territory without its own legislature, local groups have advocated for Sixth Schedule status to protect the region's land, culture, and employment opportunities for local residents. These demands have been accompanied by broader calls for statehood or greater legislative representation within India's federal structure."
+        },
+        {
+          "id": "pol_d24_bodoland",
+          "location": { "name": "Bodoland Territorial Council, Kokrajhar", "lat": 26.4000, "lng": 90.2667 },
+          "questions": [
+            { "question": "The Bodoland Territorial Council is headquartered in which Assam town?", "options": ["Kokrajhar", "Guwahati", "Dispur", "Tezpur"], "correctIndex": 0 },
+            { "question": "The Bodoland Territorial Council was established in which year?", "options": ["2003", "1985", "2015", "1972"], "correctIndex": 0 },
+            { "question": "The Bodoland Territorial Council grants greater self-governance to which community?", "options": ["Bodo community", "Naga community", "Khasi community", "Mizo community"], "correctIndex": 0 },
+            { "question": "The council's establishment came through an agreement known as the?", "options": ["Bodo Accord", "Assam Accord", "Mizo Accord", "Sixteen-Point Agreement"], "correctIndex": 0 },
+            { "question": "The Bodoland Territorial Council remains formally part of which state, rather than a separate state?", "options": ["Assam", "Nagaland", "Manipur", "Meghalaya"], "correctIndex": 0 }
+          ],
+          "summary": "The Bodoland Territorial Council, headquartered in Kokrajhar, Assam, is an autonomous administrative body established in 2003 to grant greater self-governance to the Bodo community, following decades of ethnic political movements. The council's establishment came through the Bodo Accord, an agreement between the Indian government, the Assam state government, and Bodo representative groups. The council exercises legislative, executive, and financial powers over its jurisdiction, though it remains formally part of Assam, reflecting a middle path between full statehood and standard district administration."
+        }
+      ]
+    }
+  }
+}

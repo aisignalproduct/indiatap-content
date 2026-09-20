@@ -1,0 +1,326 @@
+{
+  "day": 4,
+  "date": "2026-10-04",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d4_pangong_tso",
+          "location": { "name": "Pangong Tso — Ladakh", "lat": 33.7605, "lng": 78.7214 },
+          "questions": [
+            { "question": "What percentage of Pangong Tso lies in China-controlled territory?", "options": ["20%", "40%", "60%", "80%"], "correctIndex": 2 },
+            { "question": "At what altitude is Pangong Tso situated?", "options": ["2,800m", "3,200m", "4,350m", "5,100m"], "correctIndex": 2 },
+            { "question": "Pangong Tso became internationally famous through which Bollywood film?", "options": ["Dil Dhadakne Do", "3 Idiots", "Jab Tak Hai Jaan", "Highway"], "correctIndex": 1 },
+            { "question": "What type of water body is Pangong Tso?", "options": ["Freshwater lake", "Saltwater lake", "Brackish lake", "Alkaline freshwater"], "correctIndex": 1 },
+            { "question": "A major India-China military standoff occurred at Pangong Tso in which year?", "options": ["2017", "2019", "2020", "2022"], "correctIndex": 2 }
+          ],
+          "summary": "Pangong Tso at 4,350 metres is one of the world's highest saltwater lakes, extending 134 km with roughly 60% in Chinese-controlled territory. The Line of Actual Control runs through the lake itself — a major India-China standoff erupted here in 2020, with troops facing each other across its shores for months before disengagement. The lake's colour shifts dramatically — sapphire, turquoise, silver — with changing light, and it freezes completely in winter. Made globally famous by the climax sequence of the Bollywood film 3 Idiots (2009), Pangong Tso now draws hundreds of thousands of tourists to Ladakh annually."
+        },
+        {
+          "id": "geo_d4_sundarbans_coast",
+          "location": { "name": "Sundarbans — West Bengal", "lat": 21.9497, "lng": 88.8833 },
+          "questions": [
+            { "question": "The Sundarbans is the world's largest what?", "options": ["National park", "Mangrove forest delta", "Tiger reserve", "Wetland"], "correctIndex": 1 },
+            { "question": "The name 'Sundarbans' comes from which dominant tree species?", "options": ["Bakul", "Sundari (Heritiera littoralis)", "Keora", "Goran"], "correctIndex": 1 },
+            { "question": "The Sundarbans is shared between India and which country?", "options": ["Myanmar", "Nepal", "Bangladesh", "Sri Lanka"], "correctIndex": 2 },
+            { "question": "What is the greatest long-term threat to the Sundarbans ecosystem?", "options": ["Poaching", "Deforestation", "Sea-level rise due to climate change", "Pollution from Kolkata"], "correctIndex": 2 },
+            { "question": "How many of India's Sundarbans islands have been permanently submerged since the 1980s?", "options": ["2", "5", "10", "20"], "correctIndex": 2 }
+          ],
+          "summary": "The Sundarbans mangrove delta — the world's largest — forms where the Ganga-Brahmaputra-Meghna river system meets the Bay of Bengal. Bangladesh holds approximately 60% of the 10,000 sq km; India's portion is a UNESCO World Heritage Site (1987) and home to approximately 100 Bengal tigers adapted to swimming between islands. The ecosystem is one of Earth's most carbon-dense biomes, storing vast quantities of 'blue carbon' in its waterlogged soils. Climate-driven sea-level rise has already permanently submerged at least 10 Sundarbans islands, displacing thousands of families — making the Sundarbans one of the world's most vivid frontlines of climate change impact."
+        },
+        {
+          "id": "geo_d4_rann_kutch",
+          "location": { "name": "Great Rann of Kutch — Gujarat", "lat": 23.7337, "lng": 70.2024 },
+          "questions": [
+            { "question": "The Great Rann of Kutch is primarily what type of landform?", "options": ["Rocky desert", "Salt flat / seasonal salt marsh", "Sand dune field", "Volcanic plateau"], "correctIndex": 1 },
+            { "question": "The Rann of Kutch borders which country?", "options": ["Afghanistan", "Pakistan", "Nepal", "China"], "correctIndex": 1 },
+            { "question": "The Indian Wild Ass (khur) survives only in the Little Rann. Its current population is approximately?", "options": ["Under 200", "About 500", "Over 6,000", "About 2,000"], "correctIndex": 2 },
+            { "question": "What happens to the Rann during the monsoon season?", "options": ["It becomes a lush grassland", "It floods with seawater and freshwater", "It experiences severe dust storms", "It forms shifting sand dunes"], "correctIndex": 1 },
+            { "question": "The Rann of Kutch experienced significant changes following which historical event?", "options": ["The 1819 Allah Bund earthquake that raised ground levels", "The 1971 Indo-Pakistan War", "The 2001 Gujarat earthquake", "The construction of the Indira Gandhi Canal"], "correctIndex": 0 }
+          ],
+          "summary": "The Great Rann of Kutch — the world's largest salt desert at approximately 27,900 sq km — is a geological wonder lying at sea level on the India-Pakistan border. During the monsoon it floods with seawater and freshwater; in winter it dries to a blinding white crust of salt. The 1819 Allah Bund earthquake dramatically altered the region's geography by raising a long ridge (Allah Bund — 'Dam of God') that changed water drainage patterns. The adjacent Little Rann hosts over 6,000 Indian Wild Asses — a species once nearly extinct. The Rann Utsav winter festival has transformed this remote region into one of India's most distinctive tourism destinations."
+        },
+        {
+          "id": "geo_d4_valley_of_flowers",
+          "location": { "name": "Valley of Flowers — Uttarakhand", "lat": 30.7280, "lng": 79.6058 },
+          "questions": [
+            { "question": "The Valley of Flowers is located in which Himalayan range?", "options": ["Kumaon Himalayas", "Garhwal Himalayas", "Ladakh Range", "Pir Panjal"], "correctIndex": 1 },
+            { "question": "Who rediscovered the Valley of Flowers for the modern world in 1931?", "options": ["Frank Smythe", "Eric Shipton", "Tenzing Norgay", "Bill Tilman"], "correctIndex": 0 },
+            { "question": "The Valley of Flowers was inscribed as a UNESCO World Heritage Site in which year?", "options": ["1988", "2003", "2005", "2012"], "correctIndex": 2 },
+            { "question": "Approximately how many wildflower species bloom in the Valley of Flowers each summer?", "options": ["50", "150", "300", "800"], "correctIndex": 2 },
+            { "question": "The Valley of Flowers is near which famous Hindu pilgrimage site?", "options": ["Kedarnath", "Badrinath", "Gangotri", "Yamunotri"], "correctIndex": 1 }
+          ],
+          "summary": "The Valley of Flowers at 3,658 metres in the Garhwal Himalayas of Uttarakhand is a UNESCO World Heritage Site (2005) known for its extraordinary summer bloom — over 300 species of alpine wildflowers carpet the 87 sq km valley between July and September. British mountaineer Frank Smythe stumbled upon it in 1931 returning from a Kamet expedition and named it. The valley is part of the Nanda Devi Biosphere Reserve and provides critical habitat for the snow leopard, Asiatic black bear, and blue sheep (bharal). The pilgrimage route to Badrinath passes nearby, giving the valley both ecological and spiritual significance."
+        },
+        {
+          "id": "geo_d4_chilika_lake",
+          "location": { "name": "Chilika Lake — Odisha", "lat": 19.7167, "lng": 85.3167 },
+          "questions": [
+            { "question": "Chilika Lake is Asia's largest what?", "options": ["Freshwater lake", "Saltwater lake", "Brackish water lagoon", "Tidal estuary"], "correctIndex": 2 },
+            { "question": "Chilika was designated under which international wetland convention?", "options": ["CITES", "Ramsar Convention", "Basel Convention", "Bonn Convention"], "correctIndex": 1 },
+            { "question": "In 2002, an artificial inlet was cut at Chilika — what effect did it have?", "options": ["It allowed saltwater fish to enter, harming fisherfolk", "It flushed out water hyacinth and improved the ecosystem dramatically", "It reduced the lake's size significantly", "It caused flooding in surrounding villages"], "correctIndex": 1 },
+            { "question": "Chilika hosts approximately how many migratory birds in winter?", "options": ["50,000", "300,000", "Over 1 million", "10 million"], "correctIndex": 2 },
+            { "question": "The Nalabana Island at the centre of Chilika is restricted during which period?", "options": ["Monsoon season for safety", "April to June during peak heat", "November to June during bird nesting season", "Year-round, no access permitted"], "correctIndex": 2 }
+          ],
+          "summary": "Chilika Lake in Odisha — Asia's largest brackish water lagoon at approximately 1,100 sq km — has been a Ramsar Wetland of International Importance since 1981. In 2002, the Chilika Development Authority cut a new inlet to the sea, dramatically flushing out invasive water hyacinth and reviving the ecosystem — fish catches increased threefold, and the bird population rebounded. The lake now hosts over 1 million migratory birds each winter from Central Asia and Siberia, including bar-headed geese, flamingos, and grey pelicans. Chilika also harbours a small population of rare Irrawaddy dolphins. The Nalabana Bird Sanctuary at its centre is closed to visitors during the nesting season."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d4_sanchi_stupa",
+          "location": { "name": "Sanchi Stupa — Madhya Pradesh", "lat": 23.4793, "lng": 77.7399 },
+          "questions": [
+            { "question": "The Great Stupa at Sanchi was originally built by which emperor?", "options": ["Chandragupta Maurya", "Ashoka", "Samudragupta", "Kanishka"], "correctIndex": 1 },
+            { "question": "The four toranas (gateways) at Sanchi date from approximately which period?", "options": ["3rd century BCE", "1st century BCE", "3rd century CE", "7th century CE"], "correctIndex": 1 },
+            { "question": "What does a Buddhist stupa essentially enshrine?", "options": ["Scriptures", "A sacred fire", "Relics of the Buddha or Buddhist teachers", "A statue of the Buddha"], "correctIndex": 2 },
+            { "question": "Sanchi was rediscovered for the modern world in which year?", "options": ["1776", "1818", "1851", "1900"], "correctIndex": 1 },
+            { "question": "The Buddha is never depicted in human form in Sanchi's early carvings. His presence is instead shown by?", "options": ["A halo only", "Symbols such as footprints, an umbrella, and the Bodhi tree", "A flame", "An empty throne"], "correctIndex": 1 }
+          ],
+          "summary": "The Great Stupa at Sanchi in Madhya Pradesh — India's oldest stone structure still standing in its near-original form — was built by Emperor Ashoka in the 3rd century BCE over relics of the Buddha. Subsequently enlarged by the Satavahana dynasty, it was given its four elaborately carved toranas (gateways) in the 1st century BCE, depicting scenes from Jataka tales and Ashoka's own conversion in stunning carved narrative. Crucially, the Buddha is never shown in human form in these early carvings — his presence is indicated by symbolic forms (footprints, Bodhi tree, dharma wheel). A UNESCO World Heritage Site and one of India's best-preserved ancient religious sites."
+        },
+        {
+          "id": "cul_d4_brihadeeswara",
+          "location": { "name": "Brihadeeswara Temple — Thanjavur", "lat": 10.7828, "lng": 79.1318 },
+          "questions": [
+            { "question": "The Brihadeeswara Temple was built by which Chola king?", "options": ["Rajaraja Chola I", "Rajendra Chola I", "Kulottunga Chola I", "Parantaka Chola I"], "correctIndex": 0 },
+            { "question": "The vimana (tower) of Brihadeeswara is approximately how tall?", "options": ["46m", "56m", "66m", "76m"], "correctIndex": 2 },
+            { "question": "The granite capstone at the top of Brihadeeswara weighs approximately how much?", "options": ["20 tonnes", "40 tonnes", "80 tonnes", "150 tonnes"], "correctIndex": 2 },
+            { "question": "Brihadeeswara is UNESCO listed as part of which group?", "options": ["Temples of Tamil Nadu", "Great Living Chola Temples", "Dravidian Architecture Sites", "Monuments of South India"], "correctIndex": 1 },
+            { "question": "The temple is remarkable because its shadow supposedly never falls on the ground at noon. This is due to?", "options": ["A mirror system inside", "The tower's precise vertical construction and Tamil Nadu's latitude", "A subterranean water channel", "The temple faces due north"], "correctIndex": 1 }
+          ],
+          "summary": "The Brihadeeswara Temple (Big Temple) in Thanjavur, built by Rajaraja Chola I between 1003 and 1010 CE, is the crowning achievement of Chola-period Dravidian architecture. Its 66-metre vimana — one of the world's tallest temple towers — is crowned by an 80-tonne granite capstone raised to its summit via a 6-km-long ramp (no crane, no pulley system as commonly imagined — a dedicated earthen ramp is the most accepted theory). At the temple's latitude, the tower's shadow barely touches the ground at noon. UNESCO World Heritage Site since 1987 as part of the Great Living Chola Temples, it remains an active place of worship after 1,000 years of continuous religious use."
+        },
+        {
+          "id": "cul_d4_khajuraho",
+          "location": { "name": "Khajuraho — Madhya Pradesh", "lat": 24.8318, "lng": 79.9199 },
+          "questions": [
+            { "question": "The Khajuraho temples were built by which dynasty?", "options": ["Chalukya", "Rashtrakuta", "Chandela", "Paramara"], "correctIndex": 2 },
+            { "question": "The erotic carvings at Khajuraho occupy approximately what percentage of the total sculptural surface?", "options": ["2%", "10%", "35%", "60%"], "correctIndex": 1 },
+            { "question": "Out of the original 85 temples, approximately how many survive today?", "options": ["10", "25", "50", "75"], "correctIndex": 1 },
+            { "question": "The Khajuraho temples represent which two religious traditions?", "options": ["Hindu and Buddhist", "Hindu and Jain", "Jain and Buddhist", "Hindu and Sikh"], "correctIndex": 1 },
+            { "question": "The Khajuraho temples were constructed between which centuries?", "options": ["4th–6th century CE", "7th–9th century CE", "10th–12th century CE", "13th–15th century CE"], "correctIndex": 2 }
+          ],
+          "summary": "The Khajuraho temple complex in Madhya Pradesh, built by the Chandela Rajput dynasty between approximately 950 and 1150 CE, is one of medieval India's greatest artistic achievements. The temples are famous for erotic carvings on their exterior walls — though these constitute only about 10% of the total sculptural surface; the majority depicts celestial beings, daily life, and mythological narratives. The erotic imagery is interpreted variously as Tantric symbolism, a commentary on worldly life left behind upon entering the sacred space, or royal celebration of life. Of 85 original temples, approximately 25 survive. UNESCO World Heritage Site since 1986; both Hindu and Jain traditions are represented."
+        },
+        {
+          "id": "cul_d4_nalanda",
+          "location": { "name": "Nalanda University Ruins — Bihar", "lat": 25.1355, "lng": 85.4427 },
+          "questions": [
+            { "question": "Nalanda University was founded approximately in which century?", "options": ["2nd century BCE", "5th century CE", "8th century CE", "10th century CE"], "correctIndex": 1 },
+            { "question": "At its peak, Nalanda housed how many students and teachers?", "options": ["1,000", "5,000", "10,000", "30,000"], "correctIndex": 2 },
+            { "question": "Nalanda's library reportedly burned for how long after it was destroyed?", "options": ["Three days", "Three weeks", "Three months", "Three years"], "correctIndex": 2 },
+            { "question": "The Chinese monk whose detailed account of Nalanda is our primary historical source was named?", "options": ["Faxian", "Xuanzang (Hiuen Tsang)", "Yijing", "Bodhidharma"], "correctIndex": 1 },
+            { "question": "The modern Nalanda University was re-established in which year?", "options": ["2006", "2010", "2014", "2019"], "correctIndex": 2 }
+          ],
+          "summary": "Nalanda Mahavihara in Bihar was the ancient world's greatest centre of learning — a massive residential university founded in the 5th century CE that attracted scholars from China, Korea, Indonesia, and Tibet. The Chinese pilgrim Xuanzang (Hiuen Tsang), who studied here for years in the 7th century, left a detailed account that serves as our primary historical source. At its peak, Nalanda housed over 10,000 students and 2,000 teachers studying Buddhist philosophy, logic, grammar, medicine, and mathematics. Bakhtiyar Khilji's forces destroyed it around 1200 CE; tradition holds the great library burned for three months. UNESCO World Heritage Site since 2016; the modern Nalanda University was re-established in 2014 nearby."
+        },
+        {
+          "id": "cul_d4_red_fort",
+          "location": { "name": "Red Fort — Delhi", "lat": 28.6562, "lng": 77.2410 },
+          "questions": [
+            { "question": "The Red Fort was built by which Mughal emperor?", "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"], "correctIndex": 2 },
+            { "question": "Construction of the Red Fort was completed in which year?", "options": ["1628", "1638", "1648", "1658"], "correctIndex": 2 },
+            { "question": "The Red Fort gets its name from its construction material. What is it?", "options": ["Red granite", "Red sandstone", "Red brick", "Red laterite"], "correctIndex": 1 },
+            { "question": "The Peacock Throne that stood in the Diwan-i-Khas was looted by which invader?", "options": ["Nadir Shah of Persia", "Ahmad Shah Durrani", "Timur", "Mahmud of Ghazni"], "correctIndex": 0 },
+            { "question": "Since 1947, the Red Fort's Lahori Gate is where India's Prime Minister addresses the nation on which day?", "options": ["Republic Day", "Independence Day", "Gandhi Jayanti", "Ambedkar Jayanti"], "correctIndex": 1 }
+          ],
+          "summary": "The Red Fort in Delhi, built by Mughal Emperor Shah Jahan between 1638 and 1648 as the centrepiece of his new capital Shahjahanabad, served as the principal residence of Mughal emperors for nearly 200 years. Named for its imposing red sandstone walls extending 2.5 km, it housed the legendary Peacock Throne in the Diwan-i-Khas (Hall of Private Audience) until Nadir Shah's devastating 1739 sack of Delhi. Since Indian independence in 1947, every Prime Minister has addressed the nation from its Lahori Gate ramparts on 15 August — a tradition that has made the Red Fort a symbol of Indian sovereignty. UNESCO World Heritage Site since 2007."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d4_reliance_jamnagar",
+          "location": { "name": "Reliance Jamnagar Refinery — Gujarat", "lat": 22.4707, "lng": 70.0577 },
+          "questions": [
+            { "question": "The Jamnagar refinery complex is the world's largest oil refinery. It is operated by?", "options": ["ONGC", "HPCL", "Reliance Industries", "IOCL"], "correctIndex": 2 },
+            { "question": "The combined refining capacity of Jamnagar's two refineries is approximately?", "options": ["500,000 barrels/day", "800,000 barrels/day", "1.24 million barrels/day", "2 million barrels/day"], "correctIndex": 2 },
+            { "question": "The first Jamnagar refinery was built in a record time of how long?", "options": ["18 months", "24 months", "36 months", "48 months"], "correctIndex": 2 },
+            { "question": "Jamnagar primarily processes which type of crude oil that is cheaper to buy?", "options": ["Light sweet crude", "Heavy sour crude", "Medium blend crude", "Ultra-light condensate"], "correctIndex": 1 },
+            { "question": "Jamnagar is located in which coastal region of Gujarat?", "options": ["Saurashtra coast", "Kutch coast", "South Gujarat coast", "Gulf of Khambhat coast"], "correctIndex": 0 }
+          ],
+          "summary": "The Reliance Industries refinery complex at Jamnagar in Gujarat's Saurashtra coast is the world's single-largest oil refining site, processing 1.24 million barrels of crude oil per day across two adjacent refineries. The first refinery, built in just 36 months — a world record for a project of that scale — was commissioned in 1999. The complex processes predominantly heavy sour crude (cheaper and harder to refine) into high-value products including petrol, diesel, jet fuel, and petrochemicals. Jamnagar's petroleum product exports make Reliance India's single largest export earner by value, and the complex has transformed a sleepy Saurashtra coastal district into a global refining hub."
+        },
+        {
+          "id": "eco_d4_ntpc_vindhyachal",
+          "location": { "name": "NTPC Vindhyachal — Madhya Pradesh", "lat": 24.0965, "lng": 82.6580 },
+          "questions": [
+            { "question": "Vindhyachal is India's largest thermal power station. Its installed capacity is approximately?", "options": ["1,000 MW", "2,500 MW", "4,760 MW", "8,000 MW"], "correctIndex": 2 },
+            { "question": "NTPC stands for?", "options": ["National Thermal Power Corporation", "Northern Thermal Power Company", "National Total Power Corporation", "National Transmission and Power Corporation"], "correctIndex": 0 },
+            { "question": "NTPC was established in which year?", "options": ["1965", "1975", "1985", "1995"], "correctIndex": 1 },
+            { "question": "NTPC generates approximately what share of India's total electricity?", "options": ["5%", "10%", "17%", "30%"], "correctIndex": 2 },
+            { "question": "Vindhyachal Power Station is located near which river?", "options": ["Narmada", "Son", "Rihand Reservoir (on the Son)", "Chambal"], "correctIndex": 2 }
+          ],
+          "summary": "NTPC Vindhyachal in Madhya Pradesh, at approximately 4,760 MW, is India's largest thermal power station — a sprawling complex of coal-fired generating units on the banks of the Rihand Reservoir. NTPC (National Thermal Power Corporation), founded in 1975, is India's largest power generation company, supplying approximately 17% of India's electricity. The company is progressively expanding into renewable energy — solar, wind, and hydropower — as India works toward its target of 500 GW of non-fossil fuel capacity by 2030, though its core thermal fleet remains critical to India's baseload power supply during the transition."
+        },
+        {
+          "id": "eco_d4_delhi_metro",
+          "location": { "name": "Delhi Metro — Delhi", "lat": 28.6139, "lng": 77.2090 },
+          "questions": [
+            { "question": "The Delhi Metro was inaugurated in which year?", "options": ["1998", "2002", "2005", "2008"], "correctIndex": 1 },
+            { "question": "Delhi Metro was built under the leadership of which official, nicknamed 'Metro Man'?", "options": ["K. Chandrashekar Rao", "E. Sreedharan", "S. Ramakrishnan", "B.C. Roy"], "correctIndex": 1 },
+            { "question": "Delhi Metro was the first transit system in the developing world to?", "options": ["Run entirely underground", "Use driverless trains on all lines", "Earn carbon credits under UN's Clean Development Mechanism", "Operate 24 hours"], "correctIndex": 2 },
+            { "question": "Delhi Metro carries approximately how many passengers daily?", "options": ["500,000", "2 million", "5-6 million", "10 million"], "correctIndex": 2 },
+            { "question": "The Delhi Metro network has over how many stations?", "options": ["100", "150", "200", "254"], "correctIndex": 3 }
+          ],
+          "summary": "The Delhi Metro, inaugurated in 2002 under E. Sreedharan ('Metro Man'), stands as one of modern India's greatest infrastructure success stories — delivered on time and under budget, a standard rarely matched in Indian public works. With 390+ km of track and 254 stations across 12 lines, it carries 5-6 million passengers daily. Delhi Metro was the first rapid transit system in the developing world to earn carbon credits under the UN's Clean Development Mechanism, having displaced millions of tonnes of vehicular emissions. Its success triggered a wave of metro projects across India — Bengaluru, Hyderabad, Chennai, Mumbai, Kolkata, and over a dozen other cities now have operational or under-construction metro systems."
+        },
+        {
+          "id": "eco_d4_isro_bangalore",
+          "location": { "name": "ISRO Headquarters — Bengaluru", "lat": 12.9581, "lng": 77.6479 },
+          "questions": [
+            { "question": "ISRO was established in which year?", "options": ["1947", "1961", "1969", "1975"], "correctIndex": 2 },
+            { "question": "India's first satellite Aryabhata was launched in which year?", "options": ["1971", "1975", "1980", "1984"], "correctIndex": 1 },
+            { "question": "The Chandrayaan-3 mission in 2023 made India the first country to?", "options": ["Orbit the Moon", "Land on the Moon", "Land on the Moon's south polar region", "Return lunar samples"], "correctIndex": 2 },
+            { "question": "ISRO's Mars Orbiter Mission (Mangalyaan) made India the first country to?", "options": ["Reach Mars orbit", "Succeed in its very first Mars mission", "Land on Mars", "Both a and b"], "correctIndex": 3 },
+            { "question": "ISRO's PSLV rocket is famous for launching a record 104 satellites in one mission in which year?", "options": ["2014", "2015", "2017", "2019"], "correctIndex": 2 }
+          ],
+          "summary": "ISRO (Indian Space Research Organisation), established in 1969 by Dr Vikram Sarabhai, has grown into one of the world's most cost-effective and innovative space agencies. India's first satellite Aryabhata was launched in 1975 from the Soviet Union. ISRO's PSLV launched a world record 104 satellites in a single mission in 2017. The Mars Orbiter Mission (Mangalyaan, 2014) made India the first nation to succeed in its very first Mars mission and the first Asian nation to reach Martian orbit. Chandrayaan-3's successful landing on the Moon's south polar region in August 2023 made India the first country to achieve this, at a fraction of the cost of comparable missions by other agencies."
+        },
+        {
+          "id": "eco_d4_chennai_port",
+          "location": { "name": "Chennai Port — Tamil Nadu", "lat": 13.0900, "lng": 80.2900 },
+          "questions": [
+            { "question": "Chennai Port is one of India's oldest artificial harbours. When was it established?", "options": ["1699", "1781", "1881", "1947"], "correctIndex": 2 },
+            { "question": "Chennai Port is India's second-largest container port after?", "options": ["Mumbai Port", "JN Port (Nhava Sheva)", "Kolkata Port", "Mundra Port"], "correctIndex": 1 },
+            { "question": "Chennai Port's development was initially linked to which industry's export needs?", "options": ["Cotton textiles from the Deccan", "Madras (Chennai) presidency's administrative needs", "Coffee from Coorg", "Iron ore from Odisha"], "correctIndex": 0 },
+            { "question": "The Kamarajar Port (Ennore), north of Chennai, specialises in which commodity?", "options": ["Container cargo", "Coal and petroleum for power plants and refineries", "Passenger traffic", "Agricultural exports"], "correctIndex": 1 },
+            { "question": "Chennai Port's hinterland connectivity was significantly improved by which major infrastructure?", "options": ["The East Coast Railway", "The Dedicated Freight Corridor Eastern wing", "The Chennai-Bengaluru Expressway", "The Port-based Special Economic Zone"], "correctIndex": 1 }
+          ],
+          "summary": "Chennai Port, established in 1881 as India's first artificial harbour (built by excavating a basin and building breakwaters in open sea), is the country's second-largest container port. It served as the primary maritime gateway for the export of cotton textiles from the Deccan hinterland during the colonial period and remains central to South India's trade logistics. The adjacent Kamarajar Port (Ennore) — India's first corporate port — handles coal imports for Tamil Nadu's power plants and petroleum products for the Manali refinery complex. The Dedicated Freight Corridor's eastern arm, once complete, will significantly enhance Chennai Port's hinterland connectivity to northern India."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d4_ganesh_chaturthi",
+          "location": { "name": "Ganesh Chaturthi — Mumbai, Maharashtra", "lat": 18.9388, "lng": 72.8355 },
+          "questions": [
+            { "question": "Ganesh Chaturthi celebrates the birthday of which deity?", "options": ["Vishnu", "Shiva", "Ganesha (son of Shiva and Parvati)", "Kartikeya"], "correctIndex": 2 },
+            { "question": "The modern, large-scale public celebration of Ganesh Chaturthi was revived by which freedom fighter?", "options": ["Mahatma Gandhi", "Bal Gangadhar Tilak", "Gopal Krishna Gokhale", "Bipin Chandra Pal"], "correctIndex": 1 },
+            { "question": "How long does the Ganesh Chaturthi festival last?", "options": ["1 day", "3 days", "10 days", "21 days"], "correctIndex": 2 },
+            { "question": "The immersion of Ganesha idols at the end of the festival is called?", "options": ["Visarjan", "Abhishek", "Arghya", "Purnima"], "correctIndex": 0 },
+            { "question": "The famous Lalbaugcha Raja idol in Mumbai draws visitors numbering approximately?", "options": ["10,000", "100,000", "500,000", "1.5 million+"], "correctIndex": 3 }
+          ],
+          "summary": "Ganesh Chaturthi — Maharashtra's most important festival — celebrates the birth of Lord Ganesha over 10 days culminating in the Visarjan (immersion) of clay idols in the sea or rivers. While an ancient festival, its modern public, community-scale form was revived by Bal Gangadhar Tilak in 1893 as a way to bring together different communities for nationalistic gatherings under British surveillance — essentially transforming a religious event into a covert political organising tool. Mumbai's Lalbaugcha Raja idol draws over 1.5 million visitors during the festival. The Ganesh Chaturthi Visarjan in Mumbai — with thousands of idols immersed simultaneously in the Arabian Sea — is one of India's most spectacular and emotionally charged events."
+        },
+        {
+          "id": "evt_d4_karnataka_hampi_festival",
+          "location": { "name": "Hampi Utsav — Karnataka", "lat": 15.3350, "lng": 76.4600 },
+          "questions": [
+            { "question": "Hampi Utsav (Vijaya Utsava) celebrates the heritage of which empire?", "options": ["Maratha Empire", "Vijayanagara Empire", "Hoysala Kingdom", "Chalukya Empire"], "correctIndex": 1 },
+            { "question": "The festival is held at Hampi in which month typically?", "options": ["January", "August", "November", "March"], "correctIndex": 3 },
+            { "question": "Hampi Utsav is known for which spectacular cultural programme on the first evening?", "options": ["Elephant procession through ruins", "Coracle races on the Tungabhadra", "Light and Sound show at the ruins", "Classical dance performances at Virupaksha Temple"], "correctIndex": 2 },
+            { "question": "Hampi's ruins are spread across which approximate area?", "options": ["4 sq km", "26 sq km", "65 sq km", "150 sq km"], "correctIndex": 1 },
+            { "question": "Coracle (tuppe) boats used on the Tungabhadra at Hampi are made from which material?", "options": ["Wood and fibreglass", "Bamboo frame covered with buffalo hide or plastic sheet", "Aluminium", "Reed bundles"], "correctIndex": 1 }
+          ],
+          "summary": "Hampi Utsav (also called Vijaya Utsava) is an annual three-day cultural festival held at the UNESCO World Heritage Site of Hampi in Karnataka, celebrating the glory of the Vijayanagara Empire. The festival features classical music and dance performances at ancient temple mandapas, a spectacular Light and Sound show illuminating the ruins, puppet shows, folk performances, and the iconic coracle (tuppe) boat races on the Tungabhadra River — the circular buffalo-hide boats that are still used by local fishermen. Hampi's 26 sq km of ruins — temples, royal enclosures, elephant stables, and market streets set among giant granite boulders — form one of the world's most extraordinary archaeological landscapes."
+        },
+        {
+          "id": "evt_d4_pushkar_fair",
+          "location": { "name": "Pushkar Camel Fair — Rajasthan", "lat": 26.4898, "lng": 74.5511 },
+          "questions": [
+            { "question": "Pushkar Fair occurs during the full moon of which Hindu month?", "options": ["Ashwin", "Kartik", "Phalgun", "Shravan"], "correctIndex": 1 },
+            { "question": "Pushkar has the only major temple in India dedicated to which deity?", "options": ["Saraswati", "Lakshmi", "Brahma", "Indra"], "correctIndex": 2 },
+            { "question": "The Pushkar Lake is sacred and is believed to have been created by?", "options": ["A meteor impact", "Brahma dropping a lotus flower", "Lord Shiva's tears", "A divine spring opening the earth"], "correctIndex": 1 },
+            { "question": "Approximately how many camels attend the Pushkar Fair at its peak?", "options": ["5,000", "20,000", "50,000", "100,000"], "correctIndex": 2 },
+            { "question": "Pushkar is in which district of Rajasthan?", "options": ["Jodhpur", "Bikaner", "Ajmer", "Barmer"], "correctIndex": 2 }
+          ],
+          "summary": "The Pushkar Camel Fair — held on the full moon of the Hindu month of Kartik (October-November) — is one of the world's largest livestock fairs and one of India's most visually spectacular events. Around 50,000 camels, horses, and cattle are traded over five days alongside folk performances, competitions, and the famous camel beauty pageant judged on decorations, grooming, and gait. Pushkar itself is one of Hinduism's five sacred dhams, home to the only major Brahma temple in India. Its holy lake, believed to have formed where Brahma's lotus fell to earth, draws pilgrims year-round — the Pushkar ghats at dawn, with priests performing rituals and camels walking the lakeside roads, create one of India's most timeless scenes."
+        },
+        {
+          "id": "evt_d4_vishu_kerala",
+          "location": { "name": "Vishu — Kerala New Year", "lat": 9.9312, "lng": 76.2673 },
+          "questions": [
+            { "question": "Vishu marks the Malayalam New Year. When does it fall?", "options": ["First day of the Malayalam month of Chingam", "First day of the Malayalam month of Medam (Aries transition)", "Full moon of Karkidakam", "New moon of Kanni"], "correctIndex": 1 },
+            { "question": "The centrepiece of Vishu is the 'Vishukkani' — what is this?", "options": ["A ritual bonfire", "An arrangement of auspicious items seen first thing in the morning", "A new garment worn for the first time", "A feast eaten at midnight"], "correctIndex": 1 },
+            { "question": "Which deity is Vishu primarily associated with?", "options": ["Shiva", "Durga", "Vishnu (specifically as Krishna)", "Brahma"], "correctIndex": 2 },
+            { "question": "The Vishukkani arrangement prominently features which yellow flower?", "options": ["Marigold", "Jasmine", "Kani Konna (Indian laburnum / Cassia fistula)", "Lotus"], "correctIndex": 2 },
+            { "question": "Children and younger family members receive what from elders on Vishu?", "options": ["New clothes only", "Vishu Kaineettam (gift money)", "Sweets and fruits", "A religious scripture"], "correctIndex": 1 }
+          ],
+          "summary": "Vishu is Kerala's most important New Year celebration, falling when the sun enters the zodiac sign of Aries (Medam in the Malayalam calendar) — typically around April 14-15. The central ritual is the Vishukkani ('auspicious vision') — an arrangement of the Kani Konna flower (Indian laburnum, which blooms precisely at this time), raw rice, golden cucumbers, coconuts, betel leaves, a lit lamp, coins, and a mirror, which family members see immediately upon waking as the first sight of the new year — believed to determine the year's prosperity. Vishu Kaineettam (gift money from elders to younger family members) is another cherished tradition. The day is also marked by feasting and the wearing of new clothes (Puthukodi)."
+        },
+        {
+          "id": "evt_d4_whale_shark_gujarat",
+          "location": { "name": "Whale Shark Conservation — Saurashtra Coast, Gujarat", "lat": 21.5222, "lng": 69.6075 },
+          "questions": [
+            { "question": "The whale shark is the world's largest fish. Its maximum length is approximately?", "options": ["5 metres", "10 metres", "18 metres", "25 metres"], "correctIndex": 2 },
+            { "question": "Gujarat's fishing communities call the whale shark by which local name, meaning 'grandfather fish'?", "options": ["Mahásagar", "Vhalu", "Vhalchhi (grandpa fish)", "Machhi raja"], "correctIndex": 2 },
+            { "question": "The Wildlife Trust of India launched a campaign to protect whale sharks in Gujarat in which year?", "options": ["1995", "2001", "2004", "2010"], "correctIndex": 2 },
+            { "question": "Gujarat's fishing communities were historically a threat to whale sharks. What changed this?", "options": ["Government fines and prosecution", "Community-based conservation where fishermen release accidentally caught sharks and are rewarded", "Marine sanctuaries where fishing is banned", "International pressure on the Gujarat government"], "correctIndex": 1 },
+            { "question": "What does the whale shark primarily feed on?", "options": ["Large fish and squid", "Dolphins and small whales", "Plankton, krill, and small fish — it is a filter feeder", "Coral reef fish"], "correctIndex": 2 }
+          ],
+          "summary": "Gujarat's Saurashtra coast is one of the most important whale shark habitats in the Indian Ocean — the world's largest fish (up to 18 metres) congregates here seasonally to feed on plankton. Local fishing communities, who once accidentally caught and killed whale sharks (calling them 'Vhalchhi' — grandpa fish — out of a mix of reverence and fear), have been transformed into conservation champions through a groundbreaking community-based programme by the Wildlife Trust of India since 2004. Fishermen who release accidentally netted sharks receive rewards — the programme has saved hundreds of whale sharks and shifted community attitudes from indifference to active protection. This Gujarat model is now cited internationally as a template for community-based marine conservation."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d4_manipur_imphal",
+          "location": { "name": "Imphal — Manipur Capital", "lat": 24.8170, "lng": 93.9368 },
+          "questions": [
+            { "question": "Manipur borders which countries?", "options": ["China and Myanmar", "Myanmar only", "Bangladesh and Myanmar", "China and Bangladesh"], "correctIndex": 1 },
+            { "question": "The 1944 Battle of Imphal was significant because it?", "options": ["Halted Japan's advance into India during World War II", "Was the first battle of independence", "Ended the Manipur princely state", "Decided the India-Pakistan border"], "correctIndex": 0 },
+            { "question": "Loktak Lake in Manipur is famous for its floating islands called?", "options": ["Phumdis", "Kumaris", "Varanasi", "Jalakas"], "correctIndex": 0 },
+            { "question": "Manipur is often called the birthplace of which globally popular sport?", "options": ["Hockey", "Polo", "Cricket", "Badminton"], "correctIndex": 1 },
+            { "question": "What does 'Manipur' mean?", "options": ["Land of jewels", "Seven hills", "Land of rivers", "Valley of flowers"], "correctIndex": 0 }
+          ],
+          "summary": "Manipur — 'Land of Jewels' — is a small but historically and strategically significant state sharing its eastern border exclusively with Myanmar. In 1944, the Battle of Imphal was one of World War II's pivotal engagements — Japan's attempted invasion of British India was decisively halted here, and the Allied victory is considered the turning point on the Burma-India front. Loktak Lake, India's largest freshwater lake, contains the world's only floating national park — its unique phumdis (masses of vegetation and soil) support the critically endangered Sangai deer. Manipur is widely recognised as the birthplace of polo — the sport spread from here to Bengal and then globally through British officers in the 19th century."
+        },
+        {
+          "id": "pol_d4_nagaland_kohima",
+          "location": { "name": "Kohima — Nagaland Capital", "lat": 25.6586, "lng": 94.1086 },
+          "questions": [
+            { "question": "The Battle of Kohima (1944) is sometimes called 'the Stalingrad of the East' because?", "options": ["It was fought in winter snow", "It involved close urban combat that halted Japan's westward advance", "It lasted over 200 days", "It was the largest tank battle in Asia"], "correctIndex": 1 },
+            { "question": "Nagaland has how many official languages?", "options": ["One (English only)", "Three", "All 16 Naga tribal languages", "English and Nagamese only"], "correctIndex": 0 },
+            { "question": "Nagaland became a full Indian state in which year?", "options": ["1960", "1963", "1965", "1972"], "correctIndex": 1 },
+            { "question": "The famous Kohima War Cemetery epitaph reads: 'When you go home, tell them of us and say, For your tomorrow...'", "options": ["We gave our lives gladly", "We gave our today", "We stood firm", "We fought on"], "correctIndex": 1 },
+            { "question": "Which Naga tribe is the most numerous in Nagaland?", "options": ["Angami", "Lotha", "Ao", "Sumi"], "correctIndex": 0 }
+          ],
+          "summary": "Kohima, the capital of Nagaland, was the site of one of World War II's most intense battles. In April-June 1944, British and Indian forces repelled a Japanese assault in brutal close-quarters combat — fighting literally took place across the Deputy Commissioner's tennis court, with Allied and Japanese forces on opposite sides of the same net at one point. The Japanese defeat at Kohima and Imphal ended Japan's ambition to invade India. The Kohima War Cemetery, maintained by the Commonwealth War Graves Commission, honours 1,420 fallen soldiers and carries the famous epitaph: 'When you go home, tell them of us and say, For your tomorrow, we gave our today.' Nagaland, with 16 major tribes and English as its sole official language, is one of India's most culturally distinctive states."
+        },
+        {
+          "id": "pol_d4_himachal_shimla",
+          "location": { "name": "Shimla — Himachal Pradesh Capital", "lat": 31.1048, "lng": 77.1734 },
+          "questions": [
+            { "question": "Shimla was the summer capital of which colonial administration?", "options": ["Bengal Presidency", "Madras Presidency", "British India (the Raj)", "Punjab Province"], "correctIndex": 2 },
+            { "question": "The Shimla Agreement of 1972 was signed between India and Pakistan after which conflict?", "options": ["1965 war", "1971 war (leading to Bangladesh's creation)", "Kargil conflict", "1962 India-China war"], "correctIndex": 1 },
+            { "question": "The Kalka-Shimla Railway, a UNESCO World Heritage Site, passes through how many tunnels?", "options": ["32", "64", "102", "156"], "correctIndex": 2 },
+            { "question": "Himachal Pradesh became a full state in which year?", "options": ["1956", "1966", "1971", "1975"], "correctIndex": 2 },
+            { "question": "Himachal Pradesh is India's leading producer of which fruit?", "options": ["Mangoes", "Bananas", "Apples", "Oranges"], "correctIndex": 2 }
+          ],
+          "summary": "Shimla at 2,206 metres served as the summer capital of British India — the entire Raj administration relocated here each hot season, connected to the plains by the Kalka-Shimla Railway (UNESCO World Heritage Site) with its 102 tunnels. The Shimla Agreement of 1972, signed between PM Indira Gandhi and Pakistani PM Zulfikar Ali Bhutto after the 1971 war, established the Line of Control in Kashmir as the de facto boundary — one of the most consequential diplomatic agreements in South Asian history. Himachal Pradesh, full state since 1971, is India's leading apple-producing state (the Kullu valley and Kinnaur are famous apple-growing regions) and a major hydroelectric power generator."
+        },
+        {
+          "id": "pol_d4_puducherry",
+          "location": { "name": "Puducherry — Union Territory", "lat": 11.9416, "lng": 79.8083 },
+          "questions": [
+            { "question": "Puducherry was a colony of which European power until 1954?", "options": ["Portugal", "Netherlands", "France", "Britain"], "correctIndex": 2 },
+            { "question": "Puducherry's 'French Quarter' is known by which name?", "options": ["French Quarter", "White Town", "Ville Blanche", "Le Quartier"], "correctIndex": 1 },
+            { "question": "The Sri Aurobindo Ashram in Puducherry was founded by?", "options": ["Swami Vivekananda", "Sri Aurobindo and The Mother (Mirra Alfassa)", "Ramakrishna Paramahamsa", "Sathya Sai Baba"], "correctIndex": 1 },
+            { "question": "Auroville, near Puducherry, was founded in which year?", "options": ["1958", "1962", "1968", "1975"], "correctIndex": 2 },
+            { "question": "Puducherry consists of four geographically separated enclaves. The other three are in which states?", "options": ["Tamil Nadu only", "Tamil Nadu, Andhra Pradesh, and Kerala", "Tamil Nadu, Andhra Pradesh, and Karnataka", "Tamil Nadu and Andhra Pradesh only"], "correctIndex": 1 }
+          ],
+          "summary": "Puducherry (formerly Pondicherry) served as the capital of French India for over two centuries before transfer to India in 1954. Its French Quarter (White Town) retains a distinctive European character — wide boulevards named after French figures, colonial bungalows in yellow and white, and bilingual French-Tamil street signs. Puducherry consists of four geographically non-contiguous enclaves: Puducherry and Karaikal (within Tamil Nadu), Yanam (within Andhra Pradesh), and Mahé (within Kerala). Sri Aurobindo's ashram and Auroville — an internationally recognised 'city of human unity' founded in 1968 — make Puducherry unique in combining French colonial heritage with one of the world's most significant modern spiritual communities."
+        },
+        {
+          "id": "pol_d4_gujarat_gandhinagar",
+          "location": { "name": "Gandhinagar — Gujarat Capital", "lat": 23.2156, "lng": 72.6369 },
+          "questions": [
+            { "question": "Gandhinagar was built as a planned capital city named after whom?", "options": ["Sardar Vallabhbhai Patel", "Mahatma Gandhi", "Vikram Sarabhai", "Morarji Desai"], "correctIndex": 1 },
+            { "question": "Gujarat state was formed in which year by the bifurcation of Bombay State?", "options": ["1956", "1960", "1965", "1970"], "correctIndex": 1 },
+            { "question": "The Akshardham Temple in Gandhinagar is notable for being one of India's largest temple complexes. It belongs to which sect?", "options": ["ISKCON", "Swaminarayan Sampraday (BAPS)", "Shankaracharya tradition", "Vaishnava Vallabhacharya"], "correctIndex": 1 },
+            { "question": "Gujarat is India's leading producer of which industrial product?", "options": ["Steel", "Automobiles", "Pharmaceuticals and chemicals", "Textiles"], "correctIndex": 2 },
+            { "question": "The GIFT City (Gujarat International Finance Tec-City) in Gandhinagar is India's first what?", "options": ["Smart city", "Operational International Financial Services Centre", "100% renewable energy city", "Foreign-free-trade zone"], "correctIndex": 1 }
+          ],
+          "summary": "Gandhinagar, Gujarat's planned capital city built from the 1960s on the banks of the Sabarmati River, is named after Mahatma Gandhi — the state's most famous son. Gujarat state was formed in 1960 when Bombay State was split along linguistic lines into Marathi-speaking Maharashtra and Gujarati-speaking Gujarat. Gandhinagar hosts the Akshardham Temple complex — one of India's largest — and the GIFT City (Gujarat International Finance Tec-City), India's first operational International Financial Services Centre modelled on Singapore's financial district, designed to attract global financial institutions. Gujarat is India's largest producer of pharmaceuticals and chemicals, and a dominant force in petrochemicals, textiles, and diamond polishing (Surat is the world's diamond cutting capital)."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "day": 14,
+  "date": "2026-10-14",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d14_nubra_valley",
+          "location": { "name": "Nubra Valley, Ladakh", "lat": 34.6803, "lng": 77.5651 },
+          "questions": [
+            { "question": "Nubra Valley lies at the confluence of the Shyok River and which other river?", "options": ["Nubra River", "Indus River", "Zanskar River", "Chenab River"], "correctIndex": 0 },
+            { "question": "What unique desert feature is found near Hunder village in Nubra Valley?", "options": ["Volcanic craters", "Sand dunes", "Salt flats", "Glacial lakes"], "correctIndex": 1 },
+            { "question": "Which rare camel species can be found in Nubra Valley?", "options": ["Dromedary (single-humped)", "Bactrian (double-humped)", "Llama", "Alpaca"], "correctIndex": 1 },
+            { "question": "Which high mountain pass must typically be crossed to reach Nubra Valley?", "options": ["Khardung La", "Rohtang Pass", "Zoji La", "Sela Pass"], "correctIndex": 0 },
+            { "question": "Which monastery in Nubra Valley houses a massive Maitreya Buddha statue?", "options": ["Diskit Monastery", "Hemis Monastery", "Thiksey Monastery", "Rumtek Monastery"], "correctIndex": 0 }
+          ],
+          "summary": "Nubra Valley, in Ladakh, lies at the confluence of the Shyok and Nubra rivers and is known for its unusual cold desert landscape featuring sand dunes at high altitude near the village of Hunder. It is one of the few places in the world where Bactrian (double-humped) camels can still be found, remnants of the old Silk Route caravans that once passed through the region. Reaching Nubra requires crossing Khardung La, historically claimed to be among the highest motorable passes in the world. The valley also hosts important Buddhist monasteries, including Diskit Monastery, home to a massive statue of Maitreya Buddha."
+        },
+        {
+          "id": "geo_d14_silent_valley",
+          "location": { "name": "Silent Valley National Park, Kerala", "lat": 11.0833, "lng": 76.4333 },
+          "questions": [
+            { "question": "Silent Valley National Park is located in which state?", "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"], "correctIndex": 1 },
+            { "question": "Silent Valley is especially known for protecting habitat for which endangered primate?", "options": ["Lion-tailed macaque", "Golden langur", "Hoolock gibbon", "Nilgiri langur"], "correctIndex": 0 },
+            { "question": "A major environmental movement in the 1970s-80s opposed a proposed project of what kind in Silent Valley?", "options": ["Hydroelectric dam", "Coal mine", "Highway", "Airport"], "correctIndex": 0 },
+            { "question": "The origin of the name \"Silent Valley\" is often linked to the unusual absence of?", "options": ["Cicadas", "Birds", "Wind", "Rainfall"], "correctIndex": 0 },
+            { "question": "Silent Valley is part of which larger mountain range?", "options": ["Eastern Ghats", "Western Ghats", "Aravalli Range", "Vindhya Range"], "correctIndex": 1 }
+          ],
+          "summary": "Silent Valley National Park, in Kerala's Palakkad district, protects one of the last remaining patches of undisturbed tropical evergreen rainforest in the Western Ghats, home to rare species such as the lion-tailed macaque. The park's name is often said to derive from the unusual absence of cicadas whose loud chirping is common elsewhere in similar forests, though this origin is debated among naturalists. In the 1970s and 80s, a major environmental movement successfully opposed a proposed hydroelectric dam that would have submerged much of the valley, making it a landmark case in India's conservation history."
+        },
+        {
+          "id": "geo_d14_betla_national_park",
+          "location": { "name": "Betla National Park, Jharkhand", "lat": 23.8833, "lng": 84.1833 },
+          "questions": [
+            { "question": "Betla National Park is located in which state?", "options": ["Bihar", "Jharkhand", "Chhattisgarh", "Odisha"], "correctIndex": 1 },
+            { "question": "Betla National Park was among the original reserves designated under which conservation initiative?", "options": ["Project Tiger", "Project Elephant", "National Afforestation Programme", "Green India Mission"], "correctIndex": 0 },
+            { "question": "In which year was Project Tiger launched?", "options": ["1963", "1973", "1985", "1995"], "correctIndex": 1 },
+            { "question": "Betla National Park contains historical ruins believed to date back to which dynasty?", "options": ["Chero dynasty", "Maurya dynasty", "Gupta dynasty", "Chola dynasty"], "correctIndex": 0 },
+            { "question": "Besides tigers, which other large mammal is commonly found in Betla National Park?", "options": ["Elephants", "Rhinos", "Giraffes", "Zebras"], "correctIndex": 0 }
+          ],
+          "summary": "Betla National Park, in Jharkhand's Palamu district, was among the nine original tiger reserves designated under India's Project Tiger initiative launched in 1973. The park's terrain, a mix of hills, grasslands, and dense sal forests, supports a range of wildlife including tigers, elephants, leopards, and sloth bears. It also contains historical ruins, including old forts believed to date back to the Chero dynasty, adding a layer of cultural heritage to its natural landscape."
+        },
+        {
+          "id": "geo_d14_deomali",
+          "location": { "name": "Deomali, Odisha", "lat": 18.6500, "lng": 82.7167 },
+          "questions": [
+            { "question": "Deomali is the highest peak in which Indian state?", "options": ["Andhra Pradesh", "Odisha", "Chhattisgarh", "West Bengal"], "correctIndex": 1 },
+            { "question": "Deomali is located within which mountain range?", "options": ["Western Ghats", "Eastern Ghats", "Aravalli Range", "Vindhya Range"], "correctIndex": 1 },
+            { "question": "Approximately how tall is Deomali?", "options": ["About 800 m", "About 1,672 m", "About 2,500 m", "About 3,500 m"], "correctIndex": 1 },
+            { "question": "Deomali is located in which district of Odisha?", "options": ["Koraput", "Puri", "Cuttack", "Ganjam"], "correctIndex": 0 },
+            { "question": "Deomali holds special significance for which group of people?", "options": ["Local tribal communities", "Coastal fishing communities", "Urban IT professionals", "Naval personnel"], "correctIndex": 0 }
+          ],
+          "summary": "Deomali, in Odisha's Koraput district, is the highest peak in the state, rising to about 1,672 meters within the Eastern Ghats range. The peak is considered sacred by local tribal communities, who regard it as the abode of a deity, and it remains an important pilgrimage and cultural site for the region's indigenous population. Its slopes support diverse forest cover and are part of a broader area rich in biodiversity within the Eastern Ghats. Because of its relative remoteness, Deomali sees far fewer visitors than more famous Indian peaks, keeping it relatively unspoiled."
+        },
+        {
+          "id": "geo_d14_kolli_hills",
+          "location": { "name": "Kolli Hills, Tamil Nadu", "lat": 11.2500, "lng": 78.3300 },
+          "questions": [
+            { "question": "Kolli Hills is located in which Indian state?", "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"], "correctIndex": 1 },
+            { "question": "Kolli Hills is part of which mountain range?", "options": ["Western Ghats", "Eastern Ghats", "Nilgiri Hills", "Palani Hills"], "correctIndex": 1 },
+            { "question": "What is notable about the road leading up to Kolli Hills?", "options": ["It has 70 hairpin bends", "It is underwater", "It is a cable car only", "It has no vehicle access"], "correctIndex": 0 },
+            { "question": "Kolli Hills has become known in recent years as a center for conservation of which crop?", "options": ["Millets", "Rice", "Wheat", "Sugarcane"], "correctIndex": 0 },
+            { "question": "What waterfall is a well-known feature of Kolli Hills?", "options": ["Agaya Gangai Falls", "Jog Falls", "Athirappilly Falls", "Dudhsagar Falls"], "correctIndex": 0 }
+          ],
+          "summary": "Kolli Hills, a range in Tamil Nadu's Namakkal district, is part of the Eastern Ghats and known for its dramatic 70-hairpin-bend approach road leading up to the plateau. The hills are home to indigenous communities who have traditionally cultivated millets, and Kolli Hills has become known as a center for millet conservation and promotion in recent years. The region also features waterfalls, including the well-known Agaya Gangai Falls, and several small temples scattered across the hills, making it a quieter alternative to more commercialized hill stations in South India."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d14_mandu",
+          "location": { "name": "Mandu (Jahaz Mahal), Madhya Pradesh", "lat": 22.3333, "lng": 75.4167 },
+          "questions": [
+            { "question": "Mandu was the capital of which historical sultanate?", "options": ["Malwa Sultanate", "Bahmani Sultanate", "Delhi Sultanate", "Gujarat Sultanate"], "correctIndex": 0 },
+            { "question": "What does \"Jahaz Mahal\" mean?", "options": ["Ship Palace", "Garden Palace", "Wind Palace", "Mirror Palace"], "correctIndex": 0 },
+            { "question": "Jahaz Mahal was built between what feature that gives it a floating appearance?", "options": ["Two artificial lakes", "Two rivers", "Two mountains", "Two forests"], "correctIndex": 0 },
+            { "question": "Mandu is associated with the romantic legend of Baz Bahadur and which queen?", "options": ["Rani Roopmati", "Rani Padmini", "Rani Durgavati", "Rani Lakshmibai"], "correctIndex": 0 },
+            { "question": "Mandu is located in which Indian state?", "options": ["Rajasthan", "Madhya Pradesh", "Gujarat", "Maharashtra"], "correctIndex": 1 }
+          ],
+          "summary": "Mandu, a fortified hilltop city in Madhya Pradesh, flourished as the capital of the Malwa Sultanate in the 15th century, leaving behind an array of palaces, mosques, and tombs blending Afghan and Persian architectural influences. Its most iconic structure, the Jahaz Mahal (Ship Palace), was built between two artificial lakes and appears to float like a ship when the water levels rise around it. Mandu is also closely associated with the romantic legend of Sultan Baz Bahadur and singer-queen Rani Roopmati, and the city's dramatic monsoon season has historically made it a favored retreat for its rulers."
+        },
+        {
+          "id": "cul_d14_champaner_pavagadh",
+          "location": { "name": "Champaner-Pavagadh, Gujarat", "lat": 22.4867, "lng": 73.5322 },
+          "questions": [
+            { "question": "Champaner-Pavagadh is located in which state?", "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Maharashtra"], "correctIndex": 1 },
+            { "question": "Which Sultan built the capital city of Champaner in the early 16th century?", "options": ["Mahmud Begada", "Akbar", "Aurangzeb", "Bahadur Shah"], "correctIndex": 0 },
+            { "question": "Champaner-Pavagadh's architecture reflects a blend of which two traditions?", "options": ["Hindu and Islamic", "Buddhist and Jain", "Persian and Chinese", "Portuguese and Dutch"], "correctIndex": 0 },
+            { "question": "What temple atop Pavagadh Hill predates the Islamic-era city below?", "options": ["Kalika Mata Temple", "Somnath Temple", "Dwarkadhish Temple", "Ambaji Temple"], "correctIndex": 0 },
+            { "question": "Champaner-Pavagadh is recognized internationally as a?", "options": ["UNESCO World Heritage Site", "Biosphere Reserve", "Ramsar site", "National Capital"], "correctIndex": 0 }
+          ],
+          "summary": "The Champaner-Pavagadh Archaeological Park in Gujarat is a UNESCO World Heritage Site combining a hilltop fort, Hindu and Jain temples, and an early capital city built by Sultan Mahmud Begada in the early 16th century after he captured the site. The complex reflects a unique blend of Hindu and Islamic architectural styles, particularly visible in its mosques, which incorporate elements typical of earlier Gujarati temple design. Pavagadh Hill is also home to the Kalika Mata Temple, an important pilgrimage site that predates the Islamic-era city below, making the site one of the few surviving examples of a largely unaltered pre-Mughal Islamic city in India."
+        },
+        {
+          "id": "cul_d14_martand_sun_temple",
+          "location": { "name": "Martand Sun Temple, Kashmir", "lat": 33.7167, "lng": 75.1167 },
+          "questions": [
+            { "question": "The Martand Sun Temple is dedicated to which deity?", "options": ["Shiva", "Surya (the sun god)", "Vishnu", "Durga"], "correctIndex": 1 },
+            { "question": "Which king built the Martand Sun Temple?", "options": ["Lalitaditya Muktapida", "Ashoka", "Harsha", "Kanishka"], "correctIndex": 0 },
+            { "question": "The Martand Sun Temple was built by which dynasty?", "options": ["Karkota dynasty", "Gupta dynasty", "Maurya dynasty", "Kushan dynasty"], "correctIndex": 0 },
+            { "question": "Martand Sun Temple is located near which town in Kashmir?", "options": ["Anantnag", "Srinagar", "Baramulla", "Pahalgam"], "correctIndex": 0 },
+            { "question": "The temple's ruined state is largely attributed to destruction during which century?", "options": ["12th century", "15th century", "18th century", "20th century"], "correctIndex": 1 }
+          ],
+          "summary": "The Martand Sun Temple, near Anantnag in Kashmir, was built in the 8th century by King Lalitaditya Muktapida of the Karkota dynasty, dedicated to the sun god Surya. Though now in ruins, largely due to deliberate destruction during the 15th century, the temple's remaining colonnaded courtyard and intricate stone carvings hint at its former grandeur as one of the most significant temples in the Kashmir valley. Its elevated location offers commanding views across the valley, reflecting the Karkota dynasty's architectural ambition during a period of Kashmir's political and cultural influence."
+        },
+        {
+          "id": "cul_d14_ranthambore_fort",
+          "location": { "name": "Ranthambore Fort, Rajasthan", "lat": 26.0173, "lng": 76.4547 },
+          "questions": [
+            { "question": "Ranthambore Fort is located within which protected wildlife area?", "options": ["Ranthambore Tiger Reserve", "Sariska Tiger Reserve", "Kanha National Park", "Gir National Park"], "correctIndex": 0 },
+            { "question": "Ranthambore Fort changed hands among which of the following historically?", "options": ["Rajput rulers, Delhi Sultanate, and Mughals", "Only the British", "Only the Marathas", "Only the Portuguese"], "correctIndex": 0 },
+            { "question": "Ranthambore Fort is part of which UNESCO World Heritage listing?", "options": ["Hill Forts of Rajasthan", "Churches and Convents of Goa", "Great Living Chola Temples", "Group of Monuments at Hampi"], "correctIndex": 0 },
+            { "question": "Temples within Ranthambore Fort are dedicated to deities including?", "options": ["Ganesha", "Buddha", "Mahavira", "Guru Nanak"], "correctIndex": 0 },
+            { "question": "Ranthambore Fort is located in which Indian state?", "options": ["Madhya Pradesh", "Rajasthan", "Gujarat", "Haryana"], "correctIndex": 1 }
+          ],
+          "summary": "Ranthambore Fort, standing within the Ranthambore Tiger Reserve in Rajasthan, dates back over a thousand years and has changed hands among various Rajput rulers, the Delhi Sultanate, and Mughal forces over the centuries. Perched atop a hill, the fort's strategic elevated position made it a formidable stronghold historically, while today it offers visitors panoramic views over the surrounding tiger reserve. Several ancient temples within the fort complex, dedicated to deities including Ganesha, remain active pilgrimage sites, and the fort is recognized as part of the 'Hill Forts of Rajasthan' UNESCO World Heritage Site listing, alongside Chittorgarh and other major Rajasthani forts."
+        },
+        {
+          "id": "cul_d14_chitrakoot",
+          "location": { "name": "Chitrakoot, Uttar Pradesh/Madhya Pradesh", "lat": 25.2000, "lng": 80.8333 },
+          "questions": [
+            { "question": "Chitrakoot is believed to be linked to which epic's narrative?", "options": ["Mahabharata", "Ramayana", "Puranas generally", "Bhagavad Gita"], "correctIndex": 1 },
+            { "question": "Chitrakoot straddles the border of which two states?", "options": ["Uttar Pradesh and Madhya Pradesh", "Bihar and Jharkhand", "Rajasthan and Gujarat", "Punjab and Haryana"], "correctIndex": 0 },
+            { "question": "Which river flows through Chitrakoot, associated with pilgrimage ghats?", "options": ["Mandakini River", "Yamuna River", "Ganga River", "Betwa River"], "correctIndex": 0 },
+            { "question": "Chitrakoot is closely linked to legends about which sage and his wife?", "options": ["Atri and Anasuya", "Vashishtha and Arundhati", "Vishwamitra and Menaka", "Agastya and Lopamudra"], "correctIndex": 0 },
+            { "question": "Pilgrims at Chitrakoot commonly circumambulate which sacred hill?", "options": ["Kamadgiri Hill", "Girnar Hill", "Chamundi Hill", "Palani Hill"], "correctIndex": 0 }
+          ],
+          "summary": "Chitrakoot, straddling the border of Uttar Pradesh and Madhya Pradesh, is a town of deep religious significance believed in Hindu tradition to be where Lord Rama, Sita, and Lakshmana spent a substantial part of their exile as described in the Ramayana. The town is dotted with temples and ghats along the Mandakini River, drawing pilgrims who perform ritual bathing and circumambulate sacred sites like Kamadgiri Hill. Chitrakoot is also historically linked to sage Atri and his wife Anasuya, associated with the origin of the nearby Mandakini River in local legend."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d14_jindal_steel_raigarh",
+          "location": { "name": "Jindal Steel, Raigarh, Chhattisgarh", "lat": 21.8974, "lng": 83.3950 },
+          "questions": [
+            { "question": "Jindal Steel's Raigarh plant is located in which state?", "options": ["Odisha", "Chhattisgarh", "Jharkhand", "West Bengal"], "correctIndex": 1 },
+            { "question": "The Raigarh plant notably manufactures rails supplied to?", "options": ["Indian Railways", "Foreign railways only", "Airports", "Shipping ports"], "correctIndex": 0 },
+            { "question": "Chhattisgarh's steel industry is supported by rich reserves of which resources?", "options": ["Coal and iron ore", "Oil and gas", "Diamonds and gold", "Bauxite and copper"], "correctIndex": 0 },
+            { "question": "Jindal Steel has been notable for domestically manufacturing long rails for which type of project?", "options": ["Dedicated freight corridors and high-speed rail", "Metro systems only", "Airport runways", "Highway construction"], "correctIndex": 0 },
+            { "question": "Jindal Steel's growth reflects the rise of which type of Indian companies post-liberalization?", "options": ["Private steel conglomerates", "State-owned monopolies", "Foreign multinationals only", "Cooperative societies"], "correctIndex": 0 }
+          ],
+          "summary": "Jindal Steel and Power's plant in Raigarh, Chhattisgarh, is one of the company's key manufacturing hubs, producing a wide range of steel products including rails supplied for Indian Railways' expanding network. The facility grew as part of the broader industrialization of Chhattisgarh, which sits atop rich reserves of coal and iron ore that support the state's steel and power sectors. Jindal Steel has also been notable for domestically manufacturing long rail tracks used in India's dedicated freight corridors and high-speed rail projects, reducing dependence on imports."
+        },
+        {
+          "id": "eco_d14_digboi_refinery",
+          "location": { "name": "Digboi Oil Refinery, Assam", "lat": 27.3833, "lng": 95.6167 },
+          "questions": [
+            { "question": "Digboi is home to Asia's oldest operating what?", "options": ["Steel plant", "Oil refinery", "Nuclear plant", "Textile mill"], "correctIndex": 1 },
+            { "question": "In which year was the Digboi refinery established?", "options": ["1885", "1901", "1925", "1947"], "correctIndex": 1 },
+            { "question": "Digboi's name is popularly linked to a phrase associated with?", "options": ["Extracting oil-soaked earth (\"dig, boy, dig\")", "A British general's surname", "A Sanskrit word", "A tribal chief's name"], "correctIndex": 0 },
+            { "question": "Digboi played a strategic fuel-supply role during which global conflict?", "options": ["World War I", "World War II", "The Cold War", "The Korean War"], "correctIndex": 1 },
+            { "question": "Digboi refinery currently operates under which company?", "options": ["Indian Oil Corporation", "ONGC", "Reliance Industries", "Bharat Petroleum"], "correctIndex": 0 }
+          ],
+          "summary": "Digboi, in Assam, is home to Asia's oldest operating oil refinery, established in 1901 following the discovery of oil in the region in the late 19th century. The refinery's founding is often linked to a possibly apocryphal story of workers exclaiming 'dig, boy, dig' while extracting oil-soaked earth, giving the town its name. Digboi played an important role in supplying fuel during World War II due to its strategic location near frontlines in the region, and though small compared to modern refineries, it remains operational today under Indian Oil Corporation."
+        },
+        {
+          "id": "eco_d14_barauni_refinery",
+          "location": { "name": "Barauni Refinery, Bihar", "lat": 25.4667, "lng": 85.9833 },
+          "questions": [
+            { "question": "Barauni Refinery is located in which Indian state?", "options": ["Jharkhand", "Bihar", "West Bengal", "Uttar Pradesh"], "correctIndex": 1 },
+            { "question": "Barauni Refinery was commissioned with technical assistance from which country?", "options": ["United States", "Soviet Union", "United Kingdom", "Germany"], "correctIndex": 1 },
+            { "question": "In which year was Barauni Refinery commissioned?", "options": ["1951", "1964", "1980", "1995"], "correctIndex": 1 },
+            { "question": "Barauni Refinery is located along which major river?", "options": ["Ganga River", "Yamuna River", "Son River", "Kosi River"], "correctIndex": 0 },
+            { "question": "Barauni Refinery operates under which company?", "options": ["Indian Oil Corporation", "ONGC", "Reliance Industries", "HPCL"], "correctIndex": 0 }
+          ],
+          "summary": "The Barauni Refinery in Bihar, commissioned in 1964 with Soviet technical assistance, was one of India's earlier public sector oil refineries built to reduce dependence on imported refined petroleum products. Located along the Ganga River, it benefits from crude oil supplies transported via pipeline from fields further east and plays a key role in meeting fuel demand across Bihar and neighboring states. The refinery has undergone several capacity expansions and modernization projects since its founding, and it operates under Indian Oil Corporation as an important part of eastern India's energy infrastructure."
+        },
+        {
+          "id": "eco_d14_cochin_shipyard",
+          "location": { "name": "Cochin Shipyard, Kerala", "lat": 9.9500, "lng": 76.2667 },
+          "questions": [
+            { "question": "Cochin Shipyard built which major indigenous aircraft carrier, commissioned in 2022?", "options": ["INS Vikrant", "INS Vikramaditya", "INS Viraat", "INS Arihant"], "correctIndex": 0 },
+            { "question": "Cochin Shipyard is located in which city?", "options": ["Chennai", "Kochi", "Visakhapatnam", "Mumbai"], "correctIndex": 1 },
+            { "question": "Cochin Shipyard is recognized as India's largest facility for?", "options": ["Shipbuilding and maintenance", "Steel production", "Oil refining", "Aircraft manufacturing"], "correctIndex": 0 },
+            { "question": "The construction of INS Vikrant is associated with which government initiative promoting domestic manufacturing?", "options": ["Make in India", "Digital India", "Skill India", "Startup India"], "correctIndex": 0 },
+            { "question": "Cochin Shipyard was established as a public sector undertaking in which decade?", "options": ["1950s", "1970s", "1990s", "2010s"], "correctIndex": 1 }
+          ],
+          "summary": "Cochin Shipyard Limited, in Kochi, Kerala, is India's largest shipbuilding and maintenance facility, known for constructing India's first indigenous aircraft carrier, INS Vikrant, commissioned in 2022. Established in the 1970s as a public sector undertaking, the shipyard has expanded its capabilities over the decades to handle everything from commercial vessels to complex naval and coast guard ships. Its role in building the aircraft carrier marked a major milestone in India's push for self-reliance in defense manufacturing under initiatives like 'Make in India.'"
+        },
+        {
+          "id": "eco_d14_hal_bengaluru",
+          "location": { "name": "Hindustan Aeronautics Limited, Bengaluru", "lat": 12.9500, "lng": 77.6667 },
+          "questions": [
+            { "question": "Hindustan Aeronautics Limited is headquartered in which city?", "options": ["Bengaluru", "Hyderabad", "Chennai", "Pune"], "correctIndex": 0 },
+            { "question": "HAL was originally founded in which year?", "options": ["1930", "1940", "1955", "1965"], "correctIndex": 1 },
+            { "question": "HAL played an aircraft assembly and repair role during which global conflict?", "options": ["World War I", "World War II", "The Korean War", "The Vietnam War"], "correctIndex": 1 },
+            { "question": "Which indigenous fighter jet has HAL developed to reduce reliance on imports?", "options": ["Tejas Light Combat Aircraft", "Sukhoi Su-30", "Rafale", "MiG-21"], "correctIndex": 0 },
+            { "question": "HAL primarily manufactures products for which sector?", "options": ["Defense/military aviation", "Commercial airlines only", "Agriculture", "Textiles"], "correctIndex": 0 }
+          ],
+          "summary": "Hindustan Aeronautics Limited, headquartered in Bengaluru, is India's primary aerospace and defense manufacturer, producing military aircraft, helicopters, and related systems for the Indian armed forces. Founded in 1940 as Hindustan Aircraft Limited, it played a role in aircraft assembly and repair during World War II before becoming a fully state-owned enterprise after independence. HAL has developed indigenous platforms such as the Tejas Light Combat Aircraft, reducing India's reliance on imported fighter jets, and its long history and central role in defense production make it one of India's most strategically important public sector enterprises."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d14_ambubachi_mela",
+          "location": { "name": "Ambubachi Mela, Kamakhya Temple, Guwahati", "lat": 26.1665, "lng": 91.7036 },
+          "questions": [
+            { "question": "Ambubachi Mela is centered on the belief involving which goddess?", "options": ["Kamakhya", "Durga", "Lakshmi", "Saraswati"], "correctIndex": 0 },
+            { "question": "For how many days does the Kamakhya Temple typically remain closed during Ambubachi Mela?", "options": ["One day", "Three days", "A week", "A month"], "correctIndex": 1 },
+            { "question": "Ambubachi Mela symbolizes which natural concept?", "options": ["The earth's fertility", "Harvest abundance", "Monsoon arrival", "Solar eclipse"], "correctIndex": 0 },
+            { "question": "Which type of ascetics are notably drawn to Ambubachi Mela?", "options": ["Aghori sadhus", "Buddhist monks", "Sufi dervishes", "Jain monks"], "correctIndex": 0 },
+            { "question": "Kamakhya Temple is located in which city?", "options": ["Guwahati", "Shillong", "Itanagar", "Imphal"], "correctIndex": 0 }
+          ],
+          "summary": "The Ambubachi Mela, held annually at the Kamakhya Temple in Guwahati, Assam, is a unique Hindu festival centered on the belief that the goddess Kamakhya undergoes her annual menstruation cycle during this period, symbolizing the earth's fertility. During the festival, the temple remains closed for three days, reopening afterward for devotees who travel from across India to receive blessings and sacred red cloth said to have absorbed the goddess's energy. Many tantric practitioners and ascetics, including Aghori sadhus, gather at the temple during this time, reflecting its unique status as a major center of Shakti worship and tantric tradition."
+        },
+        {
+          "id": "evt_d14_kambala",
+          "location": { "name": "Kambala Buffalo Race, Coastal Karnataka", "lat": 12.9141, "lng": 74.8560 },
+          "questions": [
+            { "question": "Kambala is a traditional sport involving racing which animals?", "options": ["Horses", "Buffaloes", "Camels", "Bulls only"], "correctIndex": 1 },
+            { "question": "Kambala is especially practiced in which region?", "options": ["Coastal Karnataka", "Northern Karnataka", "Coastal Kerala", "Coastal Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "Kambala races are traditionally run through?", "options": ["Muddy paddy fields", "Dry sand tracks", "City streets", "Forest trails"], "correctIndex": 0 },
+            { "question": "Kambala has faced legal challenges similar to which other Indian traditional sport?", "options": ["Jallikattu", "Kite flying", "Cockfighting", "Wrestling"], "correctIndex": 0 },
+            { "question": "Kambala is historically tied to which type of agricultural tradition?", "options": ["Harvest celebrations", "Sowing rituals only", "Fishing rituals", "Cattle branding"], "correctIndex": 0 }
+          ],
+          "summary": "Kambala is a traditional buffalo racing sport practiced in the coastal districts of Karnataka, particularly Udupi and Dakshina Kannada, where pairs of buffaloes are raced through muddy paddy fields while a jockey runs behind holding onto a rope. Historically tied to harvest celebrations and agricultural traditions, Kambala has evolved into a competitive sport with organized leagues and cash prizes in recent decades. The sport faced legal challenges and temporary bans over animal welfare concerns, similar to Tamil Nadu's Jallikattu, before regulations were introduced to allow it to continue under specific conditions."
+        },
+        {
+          "id": "evt_d14_jallikattu",
+          "location": { "name": "Jallikattu, Alanganallur, Tamil Nadu", "lat": 9.9800, "lng": 78.0500 },
+          "questions": [
+            { "question": "Jallikattu is a traditional sport involving which animal?", "options": ["Bulls", "Elephants", "Horses", "Camels"], "correctIndex": 0 },
+            { "question": "Jallikattu is closely tied to which harvest festival?", "options": ["Onam", "Pongal", "Bihu", "Baisakhi"], "correctIndex": 1 },
+            { "question": "The Supreme Court banned Jallikattu over concerns about?", "options": ["Animal cruelty", "Public safety only", "Gambling", "Land disputes"], "correctIndex": 0 },
+            { "question": "Large public protests over the Jallikattu ban occurred across Tamil Nadu in which year?", "options": ["2010", "2014", "2017", "2020"], "correctIndex": 2 },
+            { "question": "Alanganallur, a major center for Jallikattu, is located near which city?", "options": ["Chennai", "Madurai", "Coimbatore", "Trichy"], "correctIndex": 1 }
+          ],
+          "summary": "Jallikattu is a traditional bull-taming sport practiced mainly in Tamil Nadu, especially in villages like Alanganallur near Madurai, where participants attempt to grab and hold onto the hump of a charging bull to win prizes without wrestling it to the ground. The sport is closely tied to the harvest festival of Pongal, celebrated as a way of honoring bulls and farmers' relationship with their cattle. Jallikattu faced a Supreme Court ban in 2014 over animal cruelty concerns, sparking massive public protests across Tamil Nadu in 2017 that eventually led to state legislation permitting the sport with added safety regulations."
+        },
+        {
+          "id": "evt_d14_kumaoni_holi",
+          "location": { "name": "Kumaoni Holi, Almora, Uttarakhand", "lat": 29.5971, "lng": 79.6591 },
+          "questions": [
+            { "question": "Kumaoni Holi is especially celebrated in which region of Uttarakhand?", "options": ["Garhwal", "Kumaon", "Terai", "Bhabar"], "correctIndex": 1 },
+            { "question": "What distinguishes Kumaoni Holi from typical Holi celebrations elsewhere?", "options": ["Its emphasis on structured musical traditions", "Its focus on fireworks", "Its association with a harvest of wheat only", "Its ban on colors entirely"], "correctIndex": 0 },
+            { "question": "The seated, structured musical form of Kumaoni Holi is called?", "options": ["Baithki Holi", "Lathmar Holi", "Phoolon ki Holi", "Dol Purnima"], "correctIndex": 0 },
+            { "question": "The outdoor, moving form of Kumaoni Holi singing is called?", "options": ["Khari Holi", "Rangwali Holi", "Basant Holi", "Huranga"], "correctIndex": 0 },
+            { "question": "Kumaoni Holi is particularly associated with which town?", "options": ["Almora", "Dehradun", "Haridwar", "Rishikesh"], "correctIndex": 0 }
+          ],
+          "summary": "Kumaoni Holi, celebrated in the Kumaon region of Uttarakhand, particularly around Almora, is distinguished by its musical traditions, featuring structured classical-style compositions called 'Baithki Holi' sung in gatherings weeks before the actual festival. Unlike the boisterous color-throwing typical of Holi elsewhere in India, Kumaoni Holi places heavy emphasis on song and community singing sessions held in homes and courtyards, blending folk and classical musical elements. A related outdoor form, 'Khari Holi,' involves singing while standing and moving through village streets, reflecting the Kumaon region's distinct cultural identity."
+        },
+        {
+          "id": "evt_d14_teej_bikaner",
+          "location": { "name": "Teej Festival, Bikaner, Rajasthan", "lat": 28.0229, "lng": 73.3119 },
+          "questions": [
+            { "question": "The Teej Festival is dedicated to which goddess?", "options": ["Parvati", "Lakshmi", "Saraswati", "Durga"], "correctIndex": 0 },
+            { "question": "Teej marks the arrival of which season?", "options": ["Monsoon", "Winter", "Summer", "Autumn"], "correctIndex": 0 },
+            { "question": "Women traditionally wear which color during Teej celebrations?", "options": ["Green", "White", "Black", "Yellow only"], "correctIndex": 0 },
+            { "question": "What festive activity involving trees is central to Teej celebrations?", "options": ["Decorated swings hung from trees", "Tree planting ceremonies", "Tree worship with lamps", "Climbing greased poles"], "correctIndex": 0 },
+            { "question": "In Bikaner, Teej celebrations notably feature a?", "options": ["Ceremonial procession of the goddess's idol", "Camel race only", "Boat race", "Kite festival"], "correctIndex": 0 }
+          ],
+          "summary": "The Teej Festival, celebrated widely across Rajasthan including Bikaner, marks the arrival of the monsoon season and is dedicated to the goddess Parvati, symbolizing marital bliss and the bond between husband and wife. Women traditionally dress in vibrant green attire, symbolizing the monsoon's fresh greenery, apply henna, and observe fasting rituals, with swings decorated and hung from trees as a central festive activity. In Bikaner, a notable procession carries a ceremonial idol of the goddess through the city streets, accompanied by music and folk dance performances, reflecting Rajasthan's strong tradition of seasonal festivals."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d14_supreme_court",
+          "location": { "name": "Supreme Court of India, New Delhi", "lat": 28.6219, "lng": 77.2419 },
+          "questions": [
+            { "question": "The Supreme Court of India was established on which date?", "options": ["August 15, 1947", "January 26, 1950", "January 28, 1950", "October 2, 1952"], "correctIndex": 2 },
+            { "question": "The Supreme Court is the final interpreter of India's?", "options": ["Constitution", "Penal Code only", "Trade agreements", "Foreign policy"], "correctIndex": 0 },
+            { "question": "What doctrine, developed by the Supreme Court, holds that core features of the Constitution cannot be amended away?", "options": ["Basic structure doctrine", "Separation of powers doctrine", "Doctrine of pleasure", "Doctrine of laches"], "correctIndex": 0 },
+            { "question": "The Supreme Court was originally envisioned with a Chief Justice and how many other judges?", "options": ["Three", "Seven", "Fifteen", "Twenty"], "correctIndex": 1 },
+            { "question": "The Supreme Court's current building in New Delhi has stood since which year?", "options": ["1950", "1958", "1975", "1990"], "correctIndex": 1 }
+          ],
+          "summary": "The Supreme Court of India, established on January 28, 1950, sits atop the country's judicial hierarchy as the final court of appeal and the ultimate interpreter of the Constitution. Originally envisioned with a Chief Justice and seven other judges, its sanctioned strength has grown considerably over the decades to handle India's massive caseload. The Court has played a defining role in shaping Indian constitutional law through landmark judgments on fundamental rights, federalism, and the basic structure doctrine, and its New Delhi building has stood as an architectural and institutional symbol of India's judiciary since 1958."
+        },
+        {
+          "id": "pol_d14_niti_aayog",
+          "location": { "name": "NITI Aayog, New Delhi", "lat": 28.5921, "lng": 77.1993 },
+          "questions": [
+            { "question": "NITI Aayog replaced which earlier institution?", "options": ["Planning Commission", "Finance Commission", "Election Commission", "Law Commission"], "correctIndex": 0 },
+            { "question": "In which year was NITI Aayog established?", "options": ["2005", "2010", "2015", "2020"], "correctIndex": 2 },
+            { "question": "Unlike the Planning Commission, NITI Aayog primarily functions as a?", "options": ["Advisory body without direct fund allocation power", "Fund-allocating authority", "Judicial body", "Election oversight body"], "correctIndex": 0 },
+            { "question": "NITI Aayog publishes influential rankings related to states' performance on?", "options": ["Health, education, and sustainable development goals", "Military strength", "Foreign trade only", "Currency reserves"], "correctIndex": 0 },
+            { "question": "NITI Aayog aims to foster which concept among Indian states?", "options": ["Cooperative federalism", "Centralized command economy", "Unitary governance", "Judicial activism"], "correctIndex": 0 }
+          ],
+          "summary": "NITI Aayog, established in January 2015, replaced the decades-old Planning Commission as India's premier policy think tank, tasked with fostering cooperative federalism by involving state governments more directly in national policy formulation. Unlike the Planning Commission, which had the power to allocate funds to states, NITI Aayog functions primarily as an advisory body without direct control over budgetary allocations. It publishes influential reports and indices, such as state-wise rankings on health, education, and sustainable development goals, reflecting a broader shift in India's economic policy approach toward decentralized planning."
+        },
+        {
+          "id": "pol_d14_nagaur_panchayati_raj",
+          "location": { "name": "Nagaur — First Panchayati Raj, Rajasthan", "lat": 27.2020, "lng": 73.7440 },
+          "questions": [
+            { "question": "The first Panchayati Raj system in India was formally inaugurated at which town?", "options": ["Jaipur", "Nagaur", "Udaipur", "Bikaner"], "correctIndex": 1 },
+            { "question": "Who inaugurated the first Panchayati Raj system in 1959?", "options": ["Jawaharlal Nehru", "Sardar Patel", "Rajendra Prasad", "Lal Bahadur Shastri"], "correctIndex": 0 },
+            { "question": "On what date was the first Panchayati Raj system inaugurated?", "options": ["August 15, 1959", "October 2, 1959", "January 26, 1960", "October 2, 1965"], "correctIndex": 1 },
+            { "question": "The Panchayati Raj initiative followed recommendations of which committee?", "options": ["Balwantrai Mehta Committee", "Sarkaria Commission", "Ashok Mehta Committee", "Narasimham Committee"], "correctIndex": 0 },
+            { "question": "Which Constitutional Amendment later gave Panchayati Raj institutions formal constitutional status?", "options": ["42nd Amendment", "61st Amendment", "73rd Amendment", "86th Amendment"], "correctIndex": 2 }
+          ],
+          "summary": "Nagaur, in Rajasthan, holds a special place in India's political history as the site where Prime Minister Jawaharlal Nehru formally inaugurated the country's first Panchayati Raj system on October 2, 1959, launching a major experiment in decentralized, grassroots democracy. The initiative aimed to devolve administrative and developmental powers to elected local bodies at the village level, following recommendations of the Balwantrai Mehta Committee. Rajasthan's early adoption of the system made it a pioneer among Indian states in local self-governance, and the 73rd Constitutional Amendment in 1992 later gave Panchayati Raj institutions formal constitutional status nationwide."
+        },
+        {
+          "id": "pol_d14_goa_liberation",
+          "location": { "name": "Old Goa — Liberation of Goa, 1961", "lat": 15.5000, "lng": 73.9500 },
+          "questions": [
+            { "question": "The 1961 Indian military operation that ended Portuguese rule in Goa was called?", "options": ["Operation Vijay", "Operation Polo", "Operation Blue Star", "Operation Meghdoot"], "correctIndex": 0 },
+            { "question": "Approximately how long did the Indian military operation to liberate Goa take?", "options": ["About 36 hours", "About a week", "About a month", "About a year"], "correctIndex": 0 },
+            { "question": "Which European country ruled Goa before its 1961 liberation?", "options": ["Portugal", "France", "Britain", "Netherlands"], "correctIndex": 0 },
+            { "question": "Goa became a full Indian state in which year?", "options": ["1961", "1975", "1987", "2000"], "correctIndex": 2 },
+            { "question": "When did Portugal formally recognize the transfer of Goa to India?", "options": ["1961", "1965", "1974", "1990"], "correctIndex": 2 }
+          ],
+          "summary": "Old Goa, the former capital of Portuguese India, is closely tied to the events of December 1961, when the Indian military launched Operation Vijay to end over four centuries of Portuguese colonial rule over Goa, Daman, and Diu. The brief military operation resulted in Portugal's surrender within roughly 36 hours, formally integrating Goa into the Indian Union, though Portugal did not officially recognize the transfer until 1974. Goa initially became a centrally administered Union Territory before being granted full statehood in 1987, becoming India's 25th state."
+        },
+        {
+          "id": "pol_d14_sikkim_merger",
+          "location": { "name": "Sikkim Merger, Gangtok", "lat": 27.3389, "lng": 88.6065 },
+          "questions": [
+            { "question": "In which year did Sikkim become a full Indian state?", "options": ["1950", "1962", "1975", "1990"], "correctIndex": 2 },
+            { "question": "Sikkim's merger with India ended the rule of which dynasty?", "options": ["Chogyal dynasty", "Wangchuck dynasty", "Rana dynasty", "Shah dynasty"], "correctIndex": 0 },
+            { "question": "Which Constitutional Amendment formalized Sikkim's status as an Indian state?", "options": ["26th Amendment", "36th Amendment", "42nd Amendment", "73rd Amendment"], "correctIndex": 1 },
+            { "question": "Sikkim became which numbered state of India upon its merger?", "options": ["18th", "20th", "22nd", "25th"], "correctIndex": 2 },
+            { "question": "Before its merger, Sikkim's political status was best described as a?", "options": ["Protectorate", "British colony", "French colony", "Independent UN member"], "correctIndex": 0 }
+          ],
+          "summary": "Sikkim's transition from an independent monarchy to a full Indian state in 1975 followed a period of political upheaval, including a referendum in which an overwhelming majority of Sikkimese voters supported abolishing the monarchy and merging with India. The 36th Constitutional Amendment formally made Sikkim India's 22nd state, ending the centuries-old Chogyal dynasty's rule. Gangtok, the capital, transitioned from being the seat of a princely monarchy to a state capital within India's federal structure, remaining a notable chapter in India's post-independence political integration."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "day": 7,
+  "date": "2026-10-07",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d7_great_nicobar",
+          "location": { "name": "Great Nicobar Island — Andaman & Nicobar", "lat": 7.0000, "lng": 93.8500 },
+          "questions": [
+            { "question": "Great Nicobar is India's southernmost island. Indira Point at its tip is how close to the equator?", "options": ["3 degrees north (about 333 km)", "6 degrees north (about 680 km)", "9 degrees north (about 1,000 km)", "1 degree north (about 111 km)"], "correctIndex": 0 },
+            { "question": "The Galathea Bay on Great Nicobar is proposed as the site of India's new?", "options": ["Space launch facility", "Naval base and transshipment port", "International airport hub", "Nuclear submarine base"], "correctIndex": 1 },
+            { "question": "Great Nicobar is home to which critically endangered sea turtle species' largest nesting site?", "options": ["Leatherback sea turtle", "Green sea turtle", "Hawksbill sea turtle", "Olive Ridley sea turtle"], "correctIndex": 0 },
+            { "question": "The Shompen — indigenous people of Great Nicobar — are?", "options": ["A highly integrated community", "One of India's last semi-nomadic hunter-gatherer communities with limited contact with outsiders", "Primarily fishermen", "Rice farmers"], "correctIndex": 1 },
+            { "question": "Great Nicobar was severely damaged in the 2004 Indian Ocean Tsunami. Indira Point, India's southernmost tip, was?", "options": ["Unaffected", "Partially submerged — the lighthouse was damaged and the point is now lower", "Completely submerged and lost", "Protected by a coral reef barrier"], "correctIndex": 1 }
+          ],
+          "summary": "Great Nicobar — India's southernmost and largest island in the Nicobar group — sits just 90 km from Indonesia's Sumatra and controls a strategic position near the Malacca Strait, the world's busiest shipping lane. Its Galathea Bay is being developed into a major naval base and transshipment port — one of India's most strategically significant infrastructure projects. The island hosts India's largest nesting site for the critically endangered Leatherback sea turtle and the semi-nomadic Shompen people, whose lifestyle has changed little over millennia. The 2004 tsunami caused tectonic subsidence of the island — Indira Point, India's southernmost tip at Latitude 6.4°N, was permanently lowered and its lighthouse severely damaged."
+        },
+        {
+          "id": "geo_d7_chambal_ravines",
+          "location": { "name": "Chambal River Ravines — Madhya Pradesh/Rajasthan", "lat": 25.8792, "lng": 76.6222 },
+          "questions": [
+            { "question": "The Chambal River flows through which states before joining the Yamuna?", "options": ["MP, UP and Bihar", "Rajasthan, MP and UP", "MP and Rajasthan only", "UP and MP only"], "correctIndex": 1 },
+            { "question": "The Chambal ravines (beehads) are famous for historically harbouring which notorious figures?", "options": ["Colonial-era rebels", "Dacoits (armed bandits) — the most infamous being Phoolan Devi", "Smugglers of gems", "Religious extremists"], "correctIndex": 1 },
+            { "question": "The National Chambal Sanctuary along the river is a critical habitat for which endangered reptile?", "options": ["King Cobra", "Indian Python", "Gharial (Gavialis gangeticus)", "Monitor Lizard"], "correctIndex": 2 },
+            { "question": "The Chambal is considered ecologically significant because?", "options": ["It is India's only completely undammed major river", "It is one of the few rivers in India that has not been significantly polluted", "It has the most diverse fish species", "Both a and b"], "correctIndex": 3 },
+            { "question": "The Gharial (critically endangered) is uniquely different from crocodiles because?", "options": ["It lives on land", "Its snout is extremely long and narrow, adapted for fish-catching", "It is vegetarian", "It can breathe underwater indefinitely"], "correctIndex": 1 }
+          ],
+          "summary": "The Chambal River — flowing through Rajasthan, Madhya Pradesh, and Uttar Pradesh — is one of India's most ecologically intact rivers, largely because the deep ravines (beehads) that line its banks made agriculture difficult and kept most human settlement away. These same ravines historically sheltered dacoits (armed bandits), most famously Phoolan Devi ('Bandit Queen'). The National Chambal Sanctuary hosts critically endangered Gharials — the long-snouted fish-eating crocodilians reduced to fewer than 300 adults globally — as well as Gangetic river dolphins and Mugger crocodiles. The Chambal is considered one of India's cleanest major rivers, making the sanctuary a last refuge for freshwater species that have disappeared from more polluted rivers."
+        },
+        {
+          "id": "geo_d7_vindhya_range",
+          "location": { "name": "Vindhya Range — Madhya Pradesh", "lat": 23.5000, "lng": 78.0000 },
+          "questions": [
+            { "question": "The Vindhya Range is significant as the traditional boundary between which regions of India?", "options": ["East and West India", "North India and the Deccan/South India", "Central India and Northeast India", "The Indo-Gangetic Plain and Rajasthan"], "correctIndex": 1 },
+            { "question": "The Vindhya Range runs roughly in which direction?", "options": ["North to south", "East to west (parallel to the Narmada)", "Northeast to southwest", "Northwest to southeast"], "correctIndex": 1 },
+            { "question": "The Bhimbetka rock shelters in the Vindhya foothills contain some of the world's oldest rock art. How old are the earliest paintings?", "options": ["5,000 years", "10,000 years", "Over 30,000 years", "100,000 years"], "correctIndex": 2 },
+            { "question": "Bhimbetka became a UNESCO World Heritage Site in which year?", "options": ["1987", "1993", "2003", "2010"], "correctIndex": 2 },
+            { "question": "The Narmada River runs along the southern edge of the Vindhya Range. What geological feature lies along this line?", "options": ["A major fault line (the Narmada-Son Lineament)", "A river delta system", "A Deccan Trap boundary", "An underground coal seam"], "correctIndex": 0 }
+          ],
+          "summary": "The Vindhya Range — running roughly east-west across central India — has historically marked the division between North India and the Deccan Plateau. The range's Bhimbetka rock shelters contain rock paintings dating back over 30,000 years, making them among humanity's earliest surviving artworks — predating the famous Lascaux Cave paintings of France. A UNESCO World Heritage Site since 2003, Bhimbetka's 700+ rock shelters show continuous human habitation from the Stone Age through the medieval period. The Narmada-Son Lineament running along the range's southern flank is one of India's most significant tectonic fault systems, historically generating significant earthquakes."
+        },
+        {
+          "id": "geo_d7_ganges_delta",
+          "location": { "name": "Ganga Delta — West Bengal Coast", "lat": 22.0000, "lng": 88.5000 },
+          "questions": [
+            { "question": "The Ganga delta is the world's largest river delta. Approximately how large is it?", "options": ["20,000 sq km", "60,000 sq km", "100,000 sq km", "150,000 sq km"], "correctIndex": 1 },
+            { "question": "The delta is shared between India and which country?", "options": ["Myanmar", "Nepal", "Bangladesh", "Bhutan"], "correctIndex": 2 },
+            { "question": "The distributary of the Ganga that flows through West Bengal (as opposed to the Padma which flows into Bangladesh) is called?", "options": ["Hooghly River", "Damodar River", "Rupnarayan River", "Kasai River"], "correctIndex": 0 },
+            { "question": "The Ganga delta is extremely fertile because it receives how much sediment annually from the river?", "options": ["1 million tonnes", "10 million tonnes", "400-500 million tonnes", "1 billion tonnes"], "correctIndex": 2 },
+            { "question": "The 'active delta' — where new land is still being formed — is in the?", "options": ["Northern delta (West Bengal side)", "Western delta near Kolkata", "Eastern and southern parts (Sundarbans and Meghna estuary in Bangladesh)", "Central delta near Farakka"], "correctIndex": 2 }
+          ],
+          "summary": "The Ganga-Brahmaputra-Meghna delta — the world's largest at approximately 60,000 sq km — is shared between West Bengal (India) and Bangladesh. Formed by the massive sediment load of three Himalayan river systems, the delta grows southward as new land is continuously deposited. The Hooghly distributary flows through West Bengal past Kolkata, while the Padma (main Ganga stream) flows into Bangladesh. The Farakka Barrage, built to divert Ganga water into the Hooghly to flush Kolkata Port, has been a source of bitter India-Bangladesh tensions since 1975 — Bangladesh argues it reduces downstream flow critical for agriculture and navigation. The active delta's southernmost fringe is the Sundarbans mangrove forest."
+        },
+        {
+          "id": "geo_d7_sahyadri_ghats",
+          "location": { "name": "Sahyadri — Maharashtra Western Ghats", "lat": 17.9307, "lng": 73.9422 },
+          "questions": [
+            { "question": "The Western Ghats in Maharashtra are locally called?", "options": ["Deccan Hills", "Sahyadri Range", "Maharashtra Ghats", "Konkan Escarpment"], "correctIndex": 1 },
+            { "question": "The Sahyadri forms the backbone of which historical kingdom's terrain?", "options": ["Mughal Empire", "Maratha Empire — ideal for guerrilla warfare from the hill forts", "Bahmani Sultanate", "Vijayanagara Empire"], "correctIndex": 1 },
+            { "question": "The Koyna Dam in the Sahyadri is significant because the region experienced which rare geological event in 1967?", "options": ["A volcanic eruption", "Reservoir-induced seismicity — a major earthquake (6.5 magnitude) triggered by the dam's reservoir", "A major landslide that blocked the river", "An underground water explosion"], "correctIndex": 1 },
+            { "question": "The Sahyadri range is the origin of which rivers that flow east into the Deccan Plateau?", "options": ["Ganga and Yamuna", "Krishna and Bhima", "Damodar and Mahanadi", "Indus and Jhelum"], "correctIndex": 1 },
+            { "question": "The Amboli region of the Sahyadri is one of the wettest places in India. Its annual rainfall is approximately?", "options": ["1,000mm", "3,000mm", "7,000mm", "12,000mm"], "correctIndex": 2 }
+          ],
+          "summary": "The Sahyadri (Western Ghats in Maharashtra) formed the strategic backbone of the Maratha Empire — its hundreds of hill forts, perched on sheer cliffs above the jungle-covered slopes, enabled Shivaji Maharaj to wage highly effective guerrilla warfare against the much larger Mughal and Bijapur forces. The Koyna Dam, built across the Sahyadri in the 1960s, triggered one of history's most significant examples of reservoir-induced seismicity — the 1967 Koyna earthquake (magnitude 6.5) killed approximately 200 people and led to the establishment of the National Geophysical Research Institute's seismic monitoring programme. The Amboli region receives approximately 7,000mm of annual rainfall — among India's highest outside Cherrapunji."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d7_shore_temple_mahabalipuram",
+          "location": { "name": "Mahabalipuram — Tamil Nadu", "lat": 12.6269, "lng": 80.1927 },
+          "questions": [
+            { "question": "The term 'Mahabalipuram' derives from the name of which legendary figure associated with the site?", "options": ["King Mahendra", "Demon king Mahabali", "King Pallava Narasimha", "Saint Mahavira"], "correctIndex": 1 },
+            { "question": "The 'Descent of the Ganges' (also called Arjuna's Penance) at Mahabalipuram is one of the world's largest bas-reliefs. Its dimensions are approximately?", "options": ["20m x 10m", "47m x 13m", "96m x 43m", "150m x 50m"], "correctIndex": 2 },
+            { "question": "The Pancha Rathas ('Five Chariots') at Mahabalipuram are monolithic — carved from single granite outcrops. How many were actually completed?", "options": ["All five", "Four of five", "Three of five", "None were fully completed — all are unfinished"], "correctIndex": 3 },
+            { "question": "The Shore Temple was built facing east so that the rising sun illuminates the sanctum. This orientation is called?", "options": ["Vastu alignment", "Prachi disha (eastern direction)", "Suryamukha (sun-facing)", "All Shaivite temples face east — it is a standard requirement"], "correctIndex": 3 },
+            { "question": "Mahabalipuram was an important port of the Pallava dynasty. It traded primarily with?", "options": ["Arabia and Persia", "Southeast Asia — Cambodia, Java, Thailand", "China and Japan", "East Africa and Rome"], "correctIndex": 1 }
+          ],
+          "summary": "Mahabalipuram (Mamallapuram) — named after the legendary demon-king Mahabali — was the principal port of the Pallava dynasty and a major centre of maritime trade with Southeast Asia. Its monuments (UNESCO World Heritage Site, 1984) include the Shore Temple, the five monolithic Pancha Rathas (all unfinished — construction ceased after the main royal patron died), and the world's largest open-air bas-relief: the 'Descent of the Ganges' (96m x 43m), depicting hundreds of celestial figures, animals, and humans converging around a central cleft that channelled real water during the monsoon. The Pallava artistic tradition spread along trade routes to shape temple architecture in Cambodia, Thailand, and Java."
+        },
+        {
+          "id": "cul_d7_virupaksha_temple",
+          "location": { "name": "Virupaksha Temple — Pattadakal, Karnataka", "lat": 15.9480, "lng": 75.8180 },
+          "questions": [
+            { "question": "The Virupaksha Temple at Pattadakal was built by which queen to celebrate her husband's military victory?", "options": ["Queen Chandramati after a victory over Cholas", "Queen Lokamahadevi after King Vikramaditya II's victory over the Pallavas", "Queen Kalyani after a victory over Rashtrakutas", "Queen Vinayamahadevi after a victory over Gangas"], "correctIndex": 1 },
+            { "question": "The Virupaksha Temple at Pattadakal was the architectural model that directly inspired which later famous temple?", "options": ["Brihadeeswara Temple in Thanjavur", "Kailasanatha Temple in Ellora", "Both — it influenced Ellora's Kailasa Temple", "Meenakshi Temple in Madurai"], "correctIndex": 1 },
+            { "question": "The temple complex at Pattadakal uniquely contains temples in both Nagara and Dravidian styles. This coexistence reflects?", "options": ["Two different royal patrons with different preferences", "The Chalukyas' deliberate patronage of both styles to demonstrate political sovereignty over both North and South", "An accident of history — temples were built at different times", "Different castes of craftsmen working independently"], "correctIndex": 1 },
+            { "question": "Pattadakal is located on the banks of which river?", "options": ["Tungabhadra", "Krishna", "Malaprabha", "Ghataprabha"], "correctIndex": 2 },
+            { "question": "Which UNESCO category describes Pattadakal?", "options": ["Natural Heritage", "Cultural Heritage", "Mixed Heritage", "Intangible Cultural Heritage"], "correctIndex": 1 }
+          ],
+          "summary": "Pattadakal's Virupaksha Temple — built in 740 CE by Queen Lokamahadevi to commemorate King Vikramaditya II's defeat of the Pallava king Narasimhavarman II — directly influenced the Kailasanatha Temple at Ellora (the world's largest monolithic rock excavation). Craftsmen from Pattadakal are believed to have participated in Ellora's construction, explaining the striking stylistic similarities. The Chalukya dynasty's Pattadakal complex uniquely contains temples in both the northern Nagara and southern Dravidian styles — a deliberate political statement of sovereignty over both cultural spheres. UNESCO World Heritage Site since 1987 as part of the 'Group of Monuments at Pattadakal.'"
+        },
+        {
+          "id": "cul_d7_ellora_kailasa",
+          "location": { "name": "Ellora Caves — Maharashtra", "lat": 20.0268, "lng": 75.1780 },
+          "questions": [
+            { "question": "The Kailasa Temple (Cave 16) at Ellora is the world's largest monolithic rock excavation. Approximately how much rock was removed to create it?", "options": ["20,000 tonnes", "100,000 tonnes", "200,000 tonnes", "500,000 tonnes"], "correctIndex": 2 },
+            { "question": "The Kailasa Temple was commissioned by which Rashtrakuta king?", "options": ["Dantidurga", "Krishna I", "Amoghavarsha I", "Govinda III"], "correctIndex": 1 },
+            { "question": "The Kailasa Temple is carved from the top downward — meaning workers started at the roof level and worked down. Why is this unusual?", "options": ["Normal construction builds from base to top; carving downward required the complete design to be visualised beforehand", "The rock was harder at the top", "Rain would have flooded a bottom-up excavation", "It was a religious requirement to begin at the highest point"], "correctIndex": 0 },
+            { "question": "Ellora's 34 caves represent three religions worked on simultaneously. Who was the patron for the Hindu caves (13–29)?", "options": ["Vakatakas", "Rashtrakutas", "Yadavas", "Chalukyas"], "correctIndex": 1 },
+            { "question": "The name 'Ellora' is an anglicisation of which local name?", "options": ["Elapura", "Elura", "Verul", "Ellura"], "correctIndex": 2 }
+          ],
+          "summary": "The Ellora Caves (locally 'Verul') near Aurangabad in Maharashtra contain 34 monasteries and temples representing Buddhist, Hindu, and Jain traditions, carved between the 6th and 11th centuries. The crowning achievement is Cave 16 — the Kailasa Temple of Shiva, commissioned by Rashtrakuta king Krishna I around 756 CE. Carved entirely from a single basalt cliff from the top downward, it required the removal of approximately 200,000 tonnes of rock over several decades. The resulting structure — a courtyard, gateway, Nandi shrine, mandapa, and the main temple tower — is larger than the Parthenon in Athens and represents the most ambitious rock-cut architectural project in history. UNESCO World Heritage Site since 1983."
+        },
+        {
+          "id": "cul_d7_gateway_india",
+          "location": { "name": "Gateway of India — Mumbai", "lat": 18.9220, "lng": 72.8347 },
+          "questions": [
+            { "question": "The Gateway of India was built to commemorate?", "options": ["India's independence in 1947", "The visit of King George V and Queen Mary to India in 1911", "The end of World War I", "The founding of the Bombay Presidency"], "correctIndex": 1 },
+            { "question": "The Gateway of India was completed in which year?", "options": ["1911", "1919", "1924", "1947"], "correctIndex": 2 },
+            { "question": "The Gateway of India's architectural style blends which traditions?", "options": ["Mughal and Gothic", "Indo-Saracenic and Gujarat Muslim architecture", "Rajput and Portuguese", "Buddhist and British Classical"], "correctIndex": 1 },
+            { "question": "The Gateway of India was the site of which historically significant event in 1948?", "options": ["The first raising of the Indian national flag", "The departure of the last British troops from India — the final act of decolonisation", "Mahatma Gandhi's last public speech", "The signing of the Indian Constitution"], "correctIndex": 1 },
+            { "question": "The Taj Mahal Palace Hotel, directly behind the Gateway, was built before it — in which year?", "options": ["1876", "1903", "1911", "1947"], "correctIndex": 1 }
+          ],
+          "summary": "The Gateway of India — Mumbai's most iconic landmark — was designed by George Wittet in an Indo-Saracenic style blending elements of 16th-century Gujarat Muslim architecture with British classical elements, and completed in 1924 to commemorate King George V's 1911 Delhi Durbar visit. Ironically, it became most significant at the end of the colonial era: in February 1948, the last British troops to leave India marched through the Gateway and sailed away — the most powerful symbol of decolonisation. The adjacent Taj Mahal Palace Hotel (1903), built by Jamsetji Tata reportedly after he was refused entry to a European-only hotel in Mumbai, preceded the Gateway by two decades and remains one of India's most famous luxury hotels."
+        },
+        {
+          "id": "cul_d7_sun_temple_ranchi",
+          "location": { "name": "Jagannath Temple — Ranchi, Jharkhand", "lat": 23.3441, "lng": 85.3096 },
+          "questions": [
+            { "question": "The Jagannath Temple in Ranchi is modelled on which famous temple?", "options": ["Tirupati Balaji Temple", "Puri Jagannath Temple", "Lingaraja Temple Bhubaneswar", "Konark Sun Temple"], "correctIndex": 1 },
+            { "question": "Ranchi's Jagannath Temple sits on a hill from which it commands views of the entire city. What is the hill called?", "options": ["Pahadi Mandir Hill", "Jagannath Pahad (Jagannath Hill)", "Ranchi Hill", "Temple Hill"], "correctIndex": 1 },
+            { "question": "The Rath Yatra chariot festival at Ranchi's Jagannath Temple draws pilgrims from how many km around?", "options": ["10 km", "50 km", "Several hundred km — it is the largest Rath Yatra outside Puri", "It is a small local festival"], "correctIndex": 2 },
+            { "question": "What is the primary population group associated with the Ranchi Jagannath Temple historically?", "options": ["Bengali Hindus", "Odiyas (Odisha diaspora) who settled in Jharkhand's coal and mining belt", "Bihari Hindus", "Adivasi tribal communities"], "correctIndex": 1 },
+            { "question": "The Rath Yatra festival is associated with the deities Jagannath, Balabhadra, and?", "options": ["Radha", "Subhadra", "Saraswati", "Lakshmi"], "correctIndex": 1 }
+          ],
+          "summary": "The Jagannath Temple on Ranchi's Jagannath Pahad hill is one of Jharkhand's most important religious sites — built in the 17th century by Odiyas who migrated to the coal and mining belt of what is now Jharkhand. Modelled on the famous Puri Jagannath Temple, it hosts the Rath Yatra (Chariot Festival) that draws over 500,000 pilgrims from hundreds of kilometres around — one of the largest Rath Yatra celebrations outside Puri itself. The temple's hill location gives it commanding views of Ranchi. The three principal deities — Jagannath, his brother Balabhadra, and sister Subhadra — are distinctive wooden idols repainted annually in a ritual that has continued for centuries."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d7_essar_hazira",
+          "location": { "name": "Hazira Industrial Complex — Gujarat", "lat": 21.1150, "lng": 72.6480 },
+          "questions": [
+            { "question": "Hazira near Surat hosts a major LNG (Liquefied Natural Gas) terminal operated by which company?", "options": ["ONGC", "Shell and TOTAL (Hazira LNG)", "HPCL", "Reliance"], "correctIndex": 1 },
+            { "question": "The Hazira LNG terminal was India's first private sector LNG import terminal. When did it begin operations?", "options": ["2000", "2005", "2009", "2015"], "correctIndex": 1 },
+            { "question": "ArcelorMittal acquired which major Indian steel company based at Hazira?", "options": ["Tata Steel", "JSW Steel", "Essar Steel", "SAIL"], "correctIndex": 2 },
+            { "question": "Hazira's industrial growth is linked to which broader corridor development?", "options": ["Delhi-Mumbai Industrial Corridor", "Chennai-Bengaluru Industrial Corridor", "Amritsar-Kolkata Industrial Corridor", "Mumbai-Nashik Expressway corridor"], "correctIndex": 0 },
+            { "question": "The Hazira port handles which primary commodity type?", "options": ["Container cargo only", "Predominantly liquid cargo — LNG, chemicals, and petroleum", "Dry bulk cargo", "Passenger ferry services"], "correctIndex": 1 }
+          ],
+          "summary": "Hazira near Surat in Gujarat hosts one of India's most significant industrial concentrations — the Shell/TOTAL Hazira LNG terminal (India's first private LNG import facility, operational since 2005), ArcelorMittal's Hazira steel plant (acquired from Essar Steel in 2019, ArcelorMittal's first Indian acquisition), and multiple chemical and petrochemical plants. The site lies within the Delhi-Mumbai Industrial Corridor's influence zone. The LNG terminal supplies gas to industrial consumers and city gas distribution networks across Gujarat and Maharashtra. ArcelorMittal's Hazira plant (capacity 10 million tonnes/year) makes it one of India's largest integrated steel plants and the world's largest steelmaker's flagship India facility."
+        },
+        {
+          "id": "eco_d7_pgt_chennai_infra",
+          "location": { "name": "Chennai Peripheral Ring Road — Tamil Nadu", "lat": 13.0827, "lng": 80.2707 },
+          "questions": [
+            { "question": "Tamil Nadu is India's second most industrialised state after Maharashtra. Its GDP is approximately?", "options": ["₹5 lakh crore", "₹12 lakh crore", "₹22+ lakh crore (one of India's largest state GDPs)", "₹35 lakh crore"], "correctIndex": 2 },
+            { "question": "Chennai's TIDEL Park was one of India's first dedicated IT parks. 'TIDEL' stands for?", "options": ["Tamil Integrated Development and Employment Linkage", "Tamil Nadu Industrial Development and Export Linkage", "Technology, Innovation, Development and Export Limited", "Tamil IT and Digital Export Linkage"], "correctIndex": 2 },
+            { "question": "Tamil Nadu is the leading state for which export sector?", "options": ["Software services", "Leather and leather goods exports", "All of the above (multiple #1 positions)", "Automobile exports"], "correctIndex": 2 },
+            { "question": "The Chennai Peripheral Ring Road is being built to?", "options": ["Connect coastal districts only", "Bypass Chennai city centre and reduce logistics costs for industries on the outskirts", "Create a tourist circuit around Chennai", "Connect Chennai to Bengaluru directly"], "correctIndex": 1 },
+            { "question": "Tamil Nadu has the highest density of which type of power generation in India?", "options": ["Solar power", "Wind power — consistently leading India's wind energy capacity", "Nuclear power", "Hydro power"], "correctIndex": 1 }
+          ],
+          "summary": "Tamil Nadu is one of India's most economically diversified and productive states — a top performer in manufacturing (automobiles, textiles, leather), services (IT/software), and renewable energy (consistently India's wind energy leader). The state's GDP exceeds ₹22 lakh crore, making it India's second-largest economy after Maharashtra. Chennai's industrial ecosystem includes the automobile manufacturing hub (Hyundai, Renault-Nissan, Daimler), TIDEL Park IT cluster, and one of India's most active ports. Tamil Nadu has led India's wind energy development since the 1990s, with the Muppandal Wind Farm in Tirunelveli district one of Asia's largest. The Chennai Peripheral Ring Road aims to improve logistics connectivity for industries on the city's outskirts."
+        },
+        {
+          "id": "eco_d7_kundankulam_phase2",
+          "location": { "name": "Nuclear Power — Rawatbhata, Rajasthan", "lat": 24.8872, "lng": 75.5894 },
+          "questions": [
+            { "question": "The Rajasthan Atomic Power Station at Rawatbhata was built with assistance from which country?", "options": ["USSR", "USA (General Electric) — then India completed it indigenously", "UK (CANDU reactors via Canada)", "France"], "correctIndex": 2 },
+            { "question": "India's nuclear power programme has a unique three-stage plan. Stage 1 uses?", "options": ["Thorium reactors", "Fast breeder reactors", "Pressurised Heavy Water Reactors (PHWRs) using natural uranium", "Light Water Reactors using enriched uranium"], "correctIndex": 2 },
+            { "question": "Stage 3 of India's nuclear plan uses?", "options": ["Fusion reactors", "Thorium-based Advanced Heavy Water Reactors", "Gas-cooled reactors", "Solar-nuclear hybrid plants"], "correctIndex": 1 },
+            { "question": "Why is thorium-based nuclear power especially important for India?", "options": ["Thorium produces no waste", "India has the world's largest thorium reserves (about 25-30% of global total)", "Thorium reactors are the cheapest to build", "Thorium can be imported freely without sanctions"], "correctIndex": 1 },
+            { "question": "The operator of India's nuclear power stations is?", "options": ["ISRO", "BARC", "NPCIL (Nuclear Power Corporation of India Ltd)", "DRDO"], "correctIndex": 2 }
+          ],
+          "summary": "India's nuclear power programme — with plants at Rawatbhata (Rajasthan), Kalpakkam (Tamil Nadu), Tarapur (Maharashtra), Kaiga (Karnataka), and others — follows a unique three-stage strategy designed to leverage India's limited uranium but vast thorium reserves. Stage 1 uses Pressurised Heavy Water Reactors (PHWRs) burning natural uranium to produce plutonium; Stage 2 uses Fast Breeder Reactors to burn plutonium and breed U-233 from thorium; Stage 3 uses advanced thorium reactors. India holds approximately 25-30% of global thorium reserves — making Stage 3 potentially transformational for India's energy security. NPCIL operates all nuclear power stations; BARC (Bhabha Atomic Research Centre) in Mumbai leads nuclear research and development."
+        },
+        {
+          "id": "eco_d7_leather_agra",
+          "location": { "name": "Agra Leather Industry — Uttar Pradesh", "lat": 27.1767, "lng": 78.0081 },
+          "questions": [
+            { "question": "Agra is India's largest producer of which leather product?", "options": ["Belts", "Footwear (shoes)", "Bags and luggage", "Saddles and harnesses"], "correctIndex": 1 },
+            { "question": "Agra's leather and footwear industry employs approximately?", "options": ["50,000 workers", "200,000 workers", "500,000+ workers", "1 million workers"], "correctIndex": 2 },
+            { "question": "The Agra leather cluster primarily exports to?", "options": ["USA and Middle East", "Europe — UK, Germany, Italy, France", "Southeast Asia", "Africa"], "correctIndex": 1 },
+            { "question": "Agra's traditional artisan footwear (handmade leather shoes) is called?", "options": ["Kolhapuri chappals", "Agra jutis", "Mojri shoes", "Agra shoes (no specific traditional name)"], "correctIndex": 1 },
+            { "question": "One major challenge facing Agra's leather industry is its proximity to?", "options": ["The Taj Mahal — pollution from tanneries threatens the monument", "A national park", "A military zone", "Flood-prone Yamuna banks"], "correctIndex": 0 }
+          ],
+          "summary": "Agra is India's largest footwear manufacturing hub — home to over 5,000 leather units employing 500,000+ workers, producing primarily for export markets in Europe (UK, Germany, Italy). The city's traditional Agra juti (handmade leather footwear) has roots in the Mughal era, when artisan communities settled near the imperial court. However, Agra's leather industry faces a complex dilemma: the tanneries and processing units that generate pollution have been a major threat to the Taj Mahal — court orders have moved many polluting units away from the monument's protected zone, and the Taj Trapezium Zone has strict emission limits on industries within 10,400 sq km around the monument."
+        },
+        {
+          "id": "eco_d7_bullet_train",
+          "location": { "name": "Mumbai-Ahmedabad Bullet Train — Gujarat", "lat": 22.3072, "lng": 73.1812 },
+          "questions": [
+            { "question": "The Mumbai-Ahmedabad High Speed Rail Corridor (bullet train) is being built with assistance from which country?", "options": ["France", "China", "Japan", "South Korea"], "correctIndex": 2 },
+            { "question": "The bullet train will cover the 508-km Mumbai-Ahmedabad distance in approximately?", "options": ["1 hour", "2 hours", "3 hours", "4 hours"], "correctIndex": 2 },
+            { "question": "The project uses which Japanese train technology?", "options": ["Shinkansen N700S system (same as Japan's bullet trains)", "TGV technology licensed from Japan", "Maglev technology", "Modified ICE (German) technology"], "correctIndex": 0 },
+            { "question": "The project's most challenging section passes through?", "options": ["The Sahyadri mountain ranges", "A 21-km undersea tunnel under Mumbai Harbour", "A 50-km elevated section over the Rann of Kutch", "The densely populated areas of Surat"], "correctIndex": 1 },
+            { "question": "The Japan International Cooperation Agency (JICA) is providing the project loan at what interest rate — making it India's most concessional infrastructure loan?", "options": ["0.1% per annum for 50 years", "2.5% per annum", "5% per annum", "8% per annum"], "correctIndex": 0 }
+          ],
+          "summary": "The Mumbai-Ahmedabad High Speed Rail (MAHSR) project — India's first bullet train — is being built with Japanese assistance using Shinkansen N700S technology, which operates at speeds up to 320 km/h in Japan. JICA is providing ₹88,000 crore (approximately $11 billion) in financing at just 0.1% interest per annum over 50 years — the most concessional infrastructure loan India has ever received. The 508-km corridor's most technically challenging section is a 21-km undersea tunnel under Mumbai Harbour — the first of its kind in India. Japan's interest in the project is both commercial (demonstrating Shinkansen technology to other markets) and strategic (deepening the India-Japan infrastructure relationship)."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d7_puri_rath_yatra",
+          "location": { "name": "Puri Rath Yatra — Odisha", "lat": 19.8045, "lng": 85.8180 },
+          "questions": [
+            { "question": "How many chariots are pulled in the Puri Rath Yatra?", "options": ["1", "2", "3", "7"], "correctIndex": 2 },
+            { "question": "The three deities taken out in the Rath Yatra are Jagannath, Balabhadra, and?", "options": ["Radha", "Subhadra", "Saraswati", "Lakshmi"], "correctIndex": 1 },
+            { "question": "How many people typically participate in pulling the chariots in Puri?", "options": ["5,000", "50,000", "Hundreds of thousands — sometimes over a million in total during the festival", "10,000"], "correctIndex": 2 },
+            { "question": "The Rath Yatra is unique because it is one of the few festivals where?", "options": ["Women are not allowed to participate", "People of all castes, including those traditionally excluded from the temple, can touch the chariot ropes", "The deities are displayed without their usual ornaments", "Fireworks are not used"], "correctIndex": 1 },
+            { "question": "The chariots are newly built each year from which wood?", "options": ["Teak", "Phasi (a type of wood selected by the king's carpenter from specified forests)", "Sal", "Rosewood"], "correctIndex": 1 }
+          ],
+          "summary": "The Puri Rath Yatra — one of India's oldest and largest religious festivals, drawing over a million pilgrims — features three massive wooden chariots carrying Lord Jagannath, his brother Balabhadra, and sister Subhadra from the Jagannath Temple to the Gundicha Temple (their 'garden home') 3 km away. The chariots — built fresh each year from specially selected Phasi wood — are up to 14 metres tall and pulled by thousands of devotees on thick ropes. The festival is theologically significant as one of the rare occasions when all people, regardless of caste, can touch the chariot ropes and come into sacred proximity with the deities — normally the temple restricts access. The English word 'juggernaut' derives from 'Jagannath.'"
+        },
+        {
+          "id": "evt_d7_mysuru_dasara",
+          "location": { "name": "Mysuru Dasara — Karnataka", "lat": 12.3052, "lng": 76.6552 },
+          "questions": [
+            { "question": "Mysuru Dasara is officially the state festival of Karnataka. It celebrates which occasion?", "options": ["The founding of Mysore kingdom", "Vijayadashami — victory of the goddess over the demon Mahishasura", "The coronation of the last Mysore Maharaja", "The harvest season"], "correctIndex": 1 },
+            { "question": "The grand procession on Vijayadashami features a golden howdah (elephant throne) carried by which elephant?", "options": ["Any elephant from the Mysore Palace stable", "The designated lead elephant, traditionally the most senior — recently Abhimanyu", "The tallest elephant in Karnataka", "A mechanical replica in recent years"], "correctIndex": 1 },
+            { "question": "How long does the Mysuru Dasara festival last?", "options": ["1 day", "3 days", "10 days", "30 days"], "correctIndex": 2 },
+            { "question": "The Mysore Palace is illuminated during Dasara by how many lights?", "options": ["9,000", "32,000", "97,000", "250,000"], "correctIndex": 2 },
+            { "question": "Mysuru Dasara was reportedly started by which Vijayanagara king?", "options": ["Krishnadevaraya", "Virupaksha II", "Devaraya II", "Narasimha II"], "correctIndex": 0 }
+          ],
+          "summary": "Mysuru Dasara — Karnataka's most spectacular festival and officially the state festival — is a ten-day celebration of Vijayadashami (the victory of Goddess Chamundeshwari/Durga over the demon Mahishasura), coinciding with the season's end. The culminating Vijayadashami procession features a caparisoned elephant carrying the golden howdah (750 kg solid gold) of the palace deity through the city, accompanied by the Karnataka military, folk performers, and decorated tableaux. The festival traces its origins to the Vijayanagara Empire (Krishnadevaraya's era) and was continued by the Mysore Wodeyars. During the 10-day festival, the Mysore Palace is illuminated by 97,000 bulbs — one of India's most photographed nightscapes."
+        },
+        {
+          "id": "evt_d7_karnataka_music",
+          "location": { "name": "Carnatic Music — Chennai Music Season", "lat": 13.0827, "lng": 80.2707 },
+          "questions": [
+            { "question": "The Chennai Music Season — the world's largest cultural event of its kind — is held every year during which months?", "options": ["January–February", "July–August", "December–January", "March–April"], "correctIndex": 2 },
+            { "question": "Carnatic music is primarily a classical tradition of which region?", "options": ["North India", "South India (particularly Tamil Nadu, Karnataka, Andhra Pradesh, Kerala)", "Bengal", "Maharashtra"], "correctIndex": 1 },
+            { "question": "The 'Trinity of Carnatic Music' refers to which three composers?", "options": ["Tyagaraja, Muthuswami Dikshitar, and Syama Sastri", "Purandaradasa, Tyagaraja, and Annamacharya", "Thyagaraja, Papanasam Sivan, and G.N. Balasubramaniam", "Swati Tirunal, Tyagaraja, and Annamacharya"], "correctIndex": 0 },
+            { "question": "The primary language of Carnatic compositions is?", "options": ["Sanskrit only", "Telugu and Sanskrit primarily (Tyagaraja composed mainly in Telugu)", "Tamil only", "Kannada"], "correctIndex": 1 },
+            { "question": "The Madras Music Academy, established in 1928, hosts the most prestigious concerts of the season. How many performances take place during the Chennai Music Season?", "options": ["Fewer than 100", "About 300", "Over 2,000", "About 500"], "correctIndex": 2 }
+          ],
+          "summary": "The Chennai Music Season — held December-January — is the world's largest ongoing classical music festival, featuring over 2,000 Carnatic music concerts across more than 100 venues over six weeks. Carnatic music, the classical music tradition of South India, is based on compositions primarily in Telugu and Sanskrit by the Trinity of Carnatic Music (18th–19th century): Tyagaraja, Muthuswami Dikshitar, and Syama Sastri — all born within the same generation in the same region of Tamil Nadu. The Madras Music Academy (1928) is the institution that codified and standardised the Carnatic tradition for the modern era. The festival draws musicians and audiences from the South Indian diaspora worldwide."
+        },
+        {
+          "id": "evt_d7_makar_sankranti",
+          "location": { "name": "Makar Sankranti — Ahmedabad, Gujarat", "lat": 23.0225, "lng": 72.5714 },
+          "questions": [
+            { "question": "Makar Sankranti marks the sun's transit into which zodiac sign?", "options": ["Aries (Mesha)", "Cancer (Karka)", "Capricorn (Makara)", "Libra (Tula)"], "correctIndex": 2 },
+            { "question": "In Gujarat, Makar Sankranti is celebrated as which festival famous for its kite-flying?", "options": ["Patang Utsav", "Uttarayan — the kite festival", "Basant Panchami", "Pongal"], "correctIndex": 1 },
+            { "question": "The Gujarat kite festival (Uttarayan) uses a special cutting thread that can be hazardous. What is this thread called?", "options": ["Manja", "Suta", "Dhaga", "Patang"], "correctIndex": 0 },
+            { "question": "Makar Sankranti is one of the few Hindu festivals tied to the solar calendar rather than the lunar calendar. It falls on approximately?", "options": ["January 14-15 every year", "The first full moon of winter", "A date that varies by up to 15 days", "The winter solstice"], "correctIndex": 0 },
+            { "question": "In Uttar Pradesh, Makar Sankranti is celebrated at Prayagraj with a major bathing festival. What is this month-long fair called?", "options": ["Kumbh Mela", "Magh Mela", "Ardh Kumbh", "Prayag Snan"], "correctIndex": 1 }
+          ],
+          "summary": "Makar Sankranti — marking the sun's entry into Capricorn on January 14-15 — is one of India's most widely celebrated festivals, taking different forms across regions: Pongal in Tamil Nadu, Lohri in Punjab, Magh Bihu in Assam, Uttarayan in Gujarat. Gujarat's Uttarayan has evolved into the International Kite Festival, the world's largest, with kite-flyers from across the globe competing over Ahmedabad's skies. The 'manja' (sharp glass-coated cutting thread) used in Gujarat kite battles has caused fatal accidents and serious injuries to birds and motorcyclists — generating calls for regulation or prohibition. In Prayagraj, the Magh Mela (month-long bathing festival on the Sangam) draws millions seeking to bathe in the sacred confluence."
+        },
+        {
+          "id": "evt_d7_craft_traditions",
+          "location": { "name": "Pochampally Ikat — Telangana", "lat": 17.3693, "lng": 78.9193 },
+          "questions": [
+            { "question": "Pochampally Ikat is a textile tradition from Telangana. What is 'Ikat' weaving?", "options": ["A type of embroidery using gold thread", "A resist-dyeing technique where threads are tied and dyed before weaving, creating blurred patterns", "A traditional handloom weaving using banana fibre", "A type of block-printing on fabric"], "correctIndex": 1 },
+            { "question": "Pochampally Ikat received which international recognition?", "options": ["UNESCO Intangible Cultural Heritage listing", "GI (Geographical Indication) tag and listed among UNWTO's Best Tourism Villages", "Crafts Council of India's highest award", "Global Heritage Craft designation by World Crafts Council"], "correctIndex": 1 },
+            { "question": "The village of Pochampally is now officially renamed to?", "options": ["Ikat Village", "Bhoodan Pochampally", "Telangana Craft Capital", "Pochampally Nagar"], "correctIndex": 1 },
+            { "question": "The GI-tagged Pochampally Ikat is primarily woven on?", "options": ["Power looms", "Traditional handlooms by communities who have practised the craft for generations", "Automated Jacquard looms", "Computerised weaving machines"], "correctIndex": 1 },
+            { "question": "Which Indian leader visited Pochampally as part of the Bhoodan (land gift) movement in 1951, giving the village its alternative name?", "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Vinoba Bhave", "Acharya Narendra Dev"], "correctIndex": 2 }
+          ],
+          "summary": "Pochampally Ikat — a GI-tagged textile tradition from Bhoodan Pochampally village in Telangana — is India's most celebrated Ikat weaving. In Ikat, threads are precisely tied and dyed before weaving so that the pattern emerges from the relationship between warp and weft threads, creating the characteristic slightly blurred, luminous effect impossible to reproduce by block-printing. The village was renamed 'Bhoodan Pochampally' after Vinoba Bhave visited during his 1951 land-gift (Bhoodan) movement. The UNWTO named Pochampally one of the world's Best Tourism Villages in 2021. Pochampally Ikat's weavers — primarily from traditional weaver castes — have maintained the craft for generations, with designs ranging from geometric to floral patterns in silk and cotton."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d7_tripura_agartala",
+          "location": { "name": "Agartala — Tripura Capital", "lat": 23.8315, "lng": 91.2868 },
+          "questions": [
+            { "question": "Tripura is surrounded on three sides by which country?", "options": ["Myanmar", "Nepal", "Bangladesh", "Bhutan"], "correctIndex": 2 },
+            { "question": "Tripura acceded to India in which year?", "options": ["1947", "1949", "1951", "1956"], "correctIndex": 1 },
+            { "question": "The Ujjayanta Palace in Agartala — now the state museum — was built in which year?", "options": ["1849", "1901", "1921", "1947"], "correctIndex": 1 },
+            { "question": "Tripura has the second-highest population density in India's northeast after?", "options": ["Assam", "Manipur", "Meghalaya", "West Bengal (not NE)"], "correctIndex": 0 },
+            { "question": "Kokborok, Tripura's indigenous language, has official status alongside which other language?", "options": ["Assamese", "Manipuri", "Bengali", "Hindi"], "correctIndex": 2 }
+          ],
+          "summary": "Tripura — surrounded on three sides by Bangladesh — is India's most geographically isolated northeastern state, connected to the rest of India by a narrow corridor through Assam. The Manikya dynasty ruled for centuries before accession to India in 1949. Agartala's Ujjayanta Palace (1901), a blend of Mughal and British architectural styles, now serves as Tripura's state museum. Kokborok has official status alongside Bengali. The state has extensive natural gas reserves (Tripura Gas Field) and significant bamboo forests that support handicraft industries. Once India's second-most insurgency-affected state, Tripura has been largely peaceful since the early 2000s following peace agreements with insurgent groups."
+        },
+        {
+          "id": "pol_d7_wp_delhi_capital",
+          "location": { "name": "New Delhi — National Capital Territory", "lat": 28.6139, "lng": 77.2090 },
+          "questions": [
+            { "question": "New Delhi became India's capital in which year, replacing Kolkata?", "options": ["1905", "1911", "1920", "1947"], "correctIndex": 1 },
+            { "question": "New Delhi was designed by which two architects?", "options": ["Edwin Lutyens and Herbert Baker", "Edwin Lutyens and William Emerson", "Herbert Baker and George Wittet", "Herbert Baker and Charles Correa"], "correctIndex": 0 },
+            { "question": "Delhi's status as a National Capital Territory (NCT) is unique because?", "options": ["It has no elected government", "It has an elected government but limited powers — key matters like land and police are with the Central Government", "It is directly administered by the President of India", "It is jointly administered by Punjab and Haryana"], "correctIndex": 1 },
+            { "question": "India Gate in New Delhi was built as a war memorial for soldiers who died in?", "options": ["World War I and the Afghan Wars", "World War II", "The 1857 revolt", "The Battle of Plassey"], "correctIndex": 0 },
+            { "question": "The Central Vista Redevelopment Project (completed 2023-24) involved which major change?", "options": ["Moving the capital to a new location", "Building a new Parliament House and redeveloping the Rajpath as 'Kartavya Path'", "Demolishing the old Parliament House", "Moving all ministries outside Delhi"], "correctIndex": 1 }
+          ],
+          "summary": "New Delhi — designed by Edwin Lutyens and Herbert Baker and inaugurated as India's capital in 1931 (after the 1911 announcement) — is one of the world's great planned capital cities. Its unique constitutional status as a National Capital Territory gives it an elected government with limited powers — the Central Government retains authority over land, police, and services, creating ongoing jurisdictional tensions. India Gate (1931), originally the 'All India War Memorial' honouring 84,000 soldiers who died in World War I and the Afghan Wars, is now also the site of the Amar Jawan Jyoti and the relocated Netaji Subhas Chandra Bose statue. The Central Vista Redevelopment (completed 2023-24) built a new triangular Parliament House and renamed the ceremonial Rajpath axis 'Kartavya Path' (Path of Duty)."
+        },
+        {
+          "id": "pol_d7_ladakh_ut",
+          "location": { "name": "Leh — Ladakh UT", "lat": 34.1526, "lng": 77.5771 },
+          "questions": [
+            { "question": "Ladakh became a separate Union Territory (without legislature) in which year?", "options": ["2015", "2017", "2019", "2021"], "correctIndex": 2 },
+            { "question": "Ladakh borders which countries?", "options": ["Pakistan and China only", "China, Pakistan and Nepal", "China and Bhutan", "Pakistan, China and Afghanistan"], "correctIndex": 0 },
+            { "question": "The Siachen Glacier, the world's highest battleground, is administered by India and contested by?", "options": ["China", "Pakistan", "Both China and Pakistan", "Afghanistan"], "correctIndex": 1 },
+            { "question": "Ladakh's Drass is known as the world's second-coldest inhabited place. Winter temperatures can drop to?", "options": ["-10°C", "-23°C", "-45°C", "-60°C"], "correctIndex": 2 },
+            { "question": "The Kargil War of 1999 was fought in which part of Ladakh?", "options": ["Leh district", "Kargil district along the Line of Control", "The Siachen Glacier area", "The Depsang Plains"], "correctIndex": 1 }
+          ],
+          "summary": "Ladakh became India's 8th Union Territory (without legislature) in October 2019, carved from Jammu & Kashmir following the revocation of Article 370. Bordering Pakistan and China, it is India's largest UT by area (59,146 sq km) but least populous. The Siachen Glacier — the world's highest battleground at 5,400+ metres — has been continuously occupied by Indian troops since 1984, contested by Pakistan. Drass in Kargil district is the world's second-coldest inhabited settlement (-45°C in extreme winter). The 1999 Kargil War — India's last major conventional conflict — was fought in Kargil district when Pakistan-backed forces occupied strategic peaks along the Line of Control, ultimately repelled by Indian forces."
+        },
+        {
+          "id": "pol_d7_tn_chennai",
+          "location": { "name": "Chennai — Tamil Nadu Capital", "lat": 13.0827, "lng": 80.2707 },
+          "questions": [
+            { "question": "Chennai was previously known as Madras. When was it officially renamed?", "options": ["1985", "1996", "2000", "2010"], "correctIndex": 1 },
+            { "question": "Tamil Nadu politics has been dominated since 1967 by which type of parties?", "options": ["National parties (Congress and BJP)", "Dravidian parties (DMK and AIADMK)", "Communist parties", "Regional caste-based parties"], "correctIndex": 1 },
+            { "question": "Tamil Nadu has not had a BJP government at state level and is considered part of which political formation that emphasises federalism?", "options": ["Left Front", "INDIA Alliance (Opposition coalition)", "National Democratic Alliance", "Third Front"], "correctIndex": 1 },
+            { "question": "The Dravidian movement in Tamil Nadu historically opposed?", "options": ["All religion", "Sanskrit and north Indian cultural dominance, Brahminical hierarchy, and Hindi imposition", "British colonialism specifically", "The Congress party only"], "correctIndex": 1 },
+            { "question": "Tamil Nadu's per capita income is among the highest in India. Its major revenue contributor is?", "options": ["Agriculture", "Manufacturing and services — particularly textiles, automobiles, and IT", "Mining", "Tourism"], "correctIndex": 1 }
+          ],
+          "summary": "Chennai (renamed from Madras in 1996) is the capital of Tamil Nadu — a state with one of India's most distinctive political cultures. Since 1967, Tamil Nadu has been governed exclusively by Dravidian parties (DMK and AIADMK), reflecting the Dravidian movement's success in building a durable political identity rooted in Tamil linguistic pride, social justice, and opposition to Hindi imposition. The 1965 anti-Hindi agitation in Tamil Nadu — sparked by the Centre's attempt to make Hindi India's sole official language — was a watershed event that enshrined English as a permanent co-official language and established the principle of linguistic federalism. Tamil Nadu's economy is India's second-largest by GDP, driven by manufacturing and services."
+        },
+        {
+          "id": "pol_d7_wb_kolkata",
+          "location": { "name": "Kolkata — West Bengal Capital", "lat": 22.5726, "lng": 88.3639 },
+          "questions": [
+            { "question": "West Bengal was partitioned in 1947 along with the creation of Pakistan. The eastern part became?", "options": ["Bangladesh immediately", "East Pakistan (later becoming Bangladesh in 1971)", "Assam", "Tripura"], "correctIndex": 1 },
+            { "question": "The Left Front governed West Bengal for how long — the world's longest democratically elected communist government?", "options": ["15 years (1972-1987)", "24 years (1987-2011)", "34 years (1977-2011)", "45 years (1952-1997)"], "correctIndex": 2 },
+            { "question": "The Howrah Bridge is what type of bridge?", "options": ["Suspension bridge", "Cable-stayed bridge", "Cantilever truss bridge", "Arch bridge"], "correctIndex": 2 },
+            { "question": "The City of Joy — a novel set in Kolkata by Dominique Lapierre — described which area?", "options": ["Park Street", "Anandanagar slum (Pilkhana area)", "Howrah", "Salt Lake City"], "correctIndex": 1 },
+            { "question": "Kolkata's Victoria Memorial is now?", "options": ["A government office building", "A museum of British India and Bengal history", "A cultural centre hosting concerts", "A diplomatic residence"], "correctIndex": 1 }
+          ],
+          "summary": "Kolkata — once the capital of British India and the birthplace of the Indian independence movement — has had one of the most distinctive political histories of any Indian city. The Left Front (communist parties led by CPI-M) governed West Bengal for 34 years (1977-2011) — the world's longest continuously democratically elected communist government. The 1947 partition of Bengal between India and East Pakistan (later Bangladesh) created one of history's largest refugee crises, permanently reshaping Kolkata's demographics. The Howrah Bridge (cantilever truss, 1943) and the Victoria Memorial are Kolkata's two most iconic structures. The city produced an extraordinary concentration of intellectual and artistic achievement — Tagore, Ray, Sen, and dozens of other globally significant figures."
+        }
+      ]
+    }
+  }
+}

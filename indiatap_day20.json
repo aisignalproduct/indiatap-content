@@ -1,0 +1,326 @@
+{
+  "day": 20,
+  "date": "2026-10-20",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d20_hemis_np",
+          "location": { "name": "Hemis National Park, Ladakh", "lat": 34.0000, "lng": 77.5000 },
+          "questions": [
+            { "question": "Hemis National Park is considered one of the best places to spot which elusive big cat?", "options": ["Snow leopard", "Bengal tiger", "Asiatic lion", "Clouded leopard"], "correctIndex": 0 },
+            { "question": "Hemis National Park is located in which Union Territory?", "options": ["Ladakh", "Jammu and Kashmir", "Himachal Pradesh", "Sikkim"], "correctIndex": 0 },
+            { "question": "Hemis National Park is named after a nearby?", "options": ["Buddhist monastery", "Hindu temple", "Sikh gurudwara", "Islamic shrine"], "correctIndex": 0 },
+            { "question": "Besides snow leopards, Hemis supports species like the Tibetan wolf and?", "options": ["Blue sheep", "African elephants", "Asiatic lions", "Bengal tigers"], "correctIndex": 0 },
+            { "question": "Wildlife tourism in Hemis typically involves?", "options": ["Demanding multi-day treks", "Vehicle-based jeep safaris", "Boat safaris", "Cable car rides"], "correctIndex": 0 }
+          ],
+          "summary": "Hemis National Park, in Ladakh, is one of the largest protected areas in South Asia, spanning a vast high-altitude terrain that serves as a critical habitat for the elusive snow leopard. The park's rugged, cold desert landscape supports other rare high-altitude wildlife including the Tibetan wolf, Eurasian brown bear, and various species of ibex and blue sheep. Hemis takes its name from the nearby Hemis Monastery, one of the largest and wealthiest Buddhist monasteries in Ladakh, and the park's extreme altitude means wildlife tourism typically involves demanding multi-day treks."
+        },
+        {
+          "id": "geo_d20_mudumalai",
+          "location": { "name": "Mudumalai National Park, Tamil Nadu", "lat": 11.5666, "lng": 76.5397 },
+          "questions": [
+            { "question": "Mudumalai National Park is part of which larger UNESCO-designated reserve?", "options": ["Nilgiri Biosphere Reserve", "Western Ghats Reserve", "Sundarbans Reserve", "Kaziranga Reserve"], "correctIndex": 0 },
+            { "question": "Mudumalai National Park is located in which Indian state?", "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "Mudumalai is home to significant populations of elephants, tigers, and?", "options": ["Gaur", "Rhinoceros", "Giraffes", "Zebras"], "correctIndex": 0 },
+            { "question": "Mudumalai gained attention through the story of an orphaned elephant named?", "options": ["Raghu", "Ganesh", "Airavata", "Hathi"], "correctIndex": 0 },
+            { "question": "Mudumalai's location along a major highway has posed challenges related to?", "options": ["Vehicle-wildlife collisions", "Air pollution", "Water scarcity", "Deforestation for farming"], "correctIndex": 0 }
+          ],
+          "summary": "Mudumalai National Park, in Tamil Nadu, forms part of the larger Nilgiri Biosphere Reserve, a UNESCO-designated area connecting protected forests across Tamil Nadu, Karnataka, and Kerala. The park is home to significant populations of elephants, tigers, and gaur, alongside a rich diversity of bird species. Mudumalai gained particular attention through the story of an orphaned elephant calf named Raghu, and the park's location along a major highway has posed challenges for wildlife safety, prompting measures to reduce vehicle-wildlife collisions."
+        },
+        {
+          "id": "geo_d20_valmiki_tiger_reserve",
+          "location": { "name": "Valmiki Tiger Reserve, Bihar", "lat": 27.3167, "lng": 84.1167 },
+          "questions": [
+            { "question": "Valmiki Tiger Reserve is located in which Indian state?", "options": ["Bihar", "Uttar Pradesh", "Jharkhand", "West Bengal"], "correctIndex": 0 },
+            { "question": "Valmiki Tiger Reserve is named after which sage, traditionally credited with authoring the Ramayana?", "options": ["Valmiki", "Vyasa", "Vashishtha", "Vishwamitra"], "correctIndex": 0 },
+            { "question": "Valmiki Tiger Reserve is situated along the border with which country?", "options": ["Nepal", "Bhutan", "Bangladesh", "Myanmar"], "correctIndex": 0 },
+            { "question": "Valmiki Tiger Reserve is part of the larger ecosystem known as?", "options": ["Terai lowlands", "Western Ghats", "Deccan Plateau", "Eastern Ghats"], "correctIndex": 0 },
+            { "question": "Valmiki's conservation reflects efforts under which transboundary landscape initiative?", "options": ["Terai Arc Landscape", "Western Ghats Corridor", "Sundarbans Initiative", "Himalayan Green Belt"], "correctIndex": 0 }
+          ],
+          "summary": "Valmiki Tiger Reserve, in Bihar's West Champaran district, is the state's only tiger reserve, situated along the India-Nepal border and named after the sage Valmiki, traditionally credited as the author of the Ramayana. The reserve's forests, part of the larger Terai lowland ecosystem, support tigers, elephants, and deer species, benefiting from cross-border connectivity with protected areas in Nepal. Valmiki's designation reflects broader efforts to extend tiger conservation into the Terai Arc Landscape, a critical transboundary conservation initiative spanning India and Nepal."
+        },
+        {
+          "id": "geo_d20_rajaji_np",
+          "location": { "name": "Rajaji National Park, Uttarakhand", "lat": 29.9000, "lng": 78.2833 },
+          "questions": [
+            { "question": "Rajaji National Park is named after which historical figure?", "options": ["C. Rajagopalachari", "Jawaharlal Nehru", "Sardar Patel", "Mahatma Gandhi"], "correctIndex": 0 },
+            { "question": "Rajaji National Park serves as an important corridor for which animal?", "options": ["Elephants", "Snow leopards", "Asiatic lions", "Rhinoceros"], "correctIndex": 0 },
+            { "question": "Rajaji National Park is located in which mountain range?", "options": ["Shivalik range", "Aravalli range", "Vindhya range", "Nilgiri range"], "correctIndex": 0 },
+            { "question": "Rajaji National Park has been recognized for successful reintroduction efforts involving which animal?", "options": ["Tigers", "Rhinoceros", "Asiatic lions", "Snow leopards"], "correctIndex": 0 },
+            { "question": "Rajaji National Park's location is near which two pilgrimage towns?", "options": ["Haridwar and Rishikesh", "Varanasi and Prayagraj", "Puri and Bhubaneswar", "Mathura and Vrindavan"], "correctIndex": 0 }
+          ],
+          "summary": "Rajaji National Park, in Uttarakhand, is named after C. Rajagopalachari, India's first Indian-born Governor-General, and serves as an important elephant corridor connecting forest patches across the Shivalik hill range. The park supports a rich mix of wildlife including tigers, leopards, and large elephant herds that migrate seasonally. Rajaji has been recognized for successful tiger reintroduction efforts, helping restore a breeding tiger population, and its proximity to Haridwar and Rishikesh has made it an accessible wildlife destination."
+        },
+        {
+          "id": "geo_d20_bandipur",
+          "location": { "name": "Bandipur National Park, Karnataka", "lat": 11.6673, "lng": 76.6344 },
+          "questions": [
+            { "question": "Bandipur National Park is located in which Indian state?", "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "Bandipur forms part of a wildlife corridor with which neighboring reserves?", "options": ["Mudumalai, Wayanad, and Nagarhole", "Kaziranga and Manas", "Gir and Sasan", "Kanha and Pench"], "correctIndex": 0 },
+            { "question": "Bandipur was originally established as a private hunting reserve for which ruler?", "options": ["The Maharaja of Mysore", "The Nizam of Hyderabad", "The Maharaja of Travancore", "The Maharaja of Jaipur"], "correctIndex": 0 },
+            { "question": "Bandipur supports healthy populations of elephants, tigers, and?", "options": ["Gaur", "Rhinoceros", "Giraffes", "Polar bears"], "correctIndex": 0 },
+            { "question": "A highway passing through Bandipur has required measures like?", "options": ["Nighttime traffic restrictions", "Toll increases", "Complete highway closure", "Railway construction instead"], "correctIndex": 0 }
+          ],
+          "summary": "Bandipur National Park, in Karnataka, forms part of the same interconnected Nilgiri wildlife corridor that includes neighboring Mudumalai, Wayanad, and Nagarhole reserves. Established originally as a private hunting reserve for the Maharaja of Mysore before being converted into a wildlife sanctuary, Bandipur supports healthy populations of elephants, tigers, and gaur amid distinctive dry deciduous forest. A highway passing directly through the park has required measures like nighttime traffic restrictions to reduce animal-vehicle collisions."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d20_gol_gumbaz",
+          "location": { "name": "Gol Gumbaz, Bijapur", "lat": 16.8302, "lng": 75.7100 },
+          "questions": [
+            { "question": "Gol Gumbaz is the mausoleum of which ruler?", "options": ["Muhammad Adil Shah", "Akbar", "Aurangzeb", "Tipu Sultan"], "correctIndex": 0 },
+            { "question": "Gol Gumbaz is renowned for having one of the world's largest?", "options": ["Domes without supporting pillars", "Minarets", "Underground tunnels", "Fountains"], "correctIndex": 0 },
+            { "question": "Gol Gumbaz's interior features a famous acoustic effect known as the?", "options": ["Whispering gallery", "Echo chamber", "Sound tunnel", "Silent hall"], "correctIndex": 0 },
+            { "question": "Gol Gumbaz was built by which dynasty?", "options": ["Adil Shahi dynasty", "Bahmani dynasty", "Qutb Shahi dynasty", "Nizam Shahi dynasty"], "correctIndex": 0 },
+            { "question": "Gol Gumbaz is located in which present-day city?", "options": ["Bijapur (Vijayapura)", "Bidar", "Gulbarga", "Hampi"], "correctIndex": 0 }
+          ],
+          "summary": "Gol Gumbaz, in Bijapur (Vijayapura), Karnataka, is the mausoleum of Adil Shahi ruler Muhammad Adil Shah, completed in 1656, and is renowned for having one of the largest domes in the world without any supporting pillars underneath. The structure's remarkable acoustics include a 'whispering gallery,' where even a faint whisper can be heard clearly on the opposite side of the vast circular chamber. Built by the Adil Shahi dynasty, the monument reflects the Deccan region's distinctive blend of Persian and Indian Islamic architectural traditions."
+        },
+        {
+          "id": "cul_d20_hazarduari_palace",
+          "location": { "name": "Hazarduari Palace, Murshidabad", "lat": 24.1833, "lng": 88.2667 },
+          "questions": [
+            { "question": "What does \"Hazarduari\" mean?", "options": ["Palace of a Thousand Doors", "Palace of Gold", "Palace of Winds", "Palace of Mirrors"], "correctIndex": 0 },
+            { "question": "Hazarduari Palace was built as the residence of which rulers?", "options": ["The Nawabs of Bengal", "The Mughal Emperors", "The Nizams of Hyderabad", "The Peshwas of Pune"], "correctIndex": 0 },
+            { "question": "Many of Hazarduari's doors are reportedly false, designed to confuse potential?", "options": ["Assassins", "Tax collectors", "Foreign traders", "Rival princes only"], "correctIndex": 0 },
+            { "question": "Murshidabad is historically significant in connection with which 1757 battle?", "options": ["Battle of Plassey", "Battle of Panipat", "Battle of Buxar", "Battle of Haldighati"], "correctIndex": 0 },
+            { "question": "Hazarduari Palace today functions as a?", "options": ["Museum", "Government secretariat", "Hotel", "Military barracks"], "correctIndex": 0 }
+          ],
+          "summary": "Hazarduari Palace, in Murshidabad, West Bengal, meaning 'Palace of a Thousand Doors,' was built in the early 19th century as the residence of the Nawabs of Bengal, blending European neoclassical architecture with Indian design sensibilities. The palace derives its nickname from its many doors, including false doors reportedly designed to confuse potential assassins. Murshidabad itself holds deep historical significance connected to the 1757 Battle of Plassey, and Hazarduari Palace today functions as a museum housing an extensive collection of artifacts."
+        },
+        {
+          "id": "cul_d20_purana_qila",
+          "location": { "name": "Purana Qila, Delhi", "lat": 28.6089, "lng": 77.2431 },
+          "questions": [
+            { "question": "Purana Qila is traditionally believed to be the site of which legendary city?", "options": ["Indraprastha", "Hastinapur", "Ayodhya", "Dwarka"], "correctIndex": 0 },
+            { "question": "Purana Qila's current structure was largely built under Sher Shah Suri and which Mughal emperor?", "options": ["Humayun", "Akbar", "Shah Jahan", "Aurangzeb"], "correctIndex": 0 },
+            { "question": "Excavations at Purana Qila suggest continuous habitation spanning roughly how long?", "options": ["Over two thousand years", "About 500 years", "About 100 years", "Less than a century"], "correctIndex": 0 },
+            { "question": "Purana Qila means which of these in English?", "options": ["Old Fort", "New Fort", "Golden Fort", "Red Fort"], "correctIndex": 0 },
+            { "question": "Purana Qila is located in which Indian city?", "options": ["Delhi", "Agra", "Lucknow", "Jaipur"], "correctIndex": 0 }
+          ],
+          "summary": "Purana Qila, or the 'Old Fort,' in Delhi, occupies a site traditionally believed to be the location of Indraprastha, the legendary capital of the Pandavas from the Mahabharata. The current fort structure was largely built in the 16th century under Sher Shah Suri and later Mughal emperor Humayun. Excavations at the site have uncovered artifacts spanning a wide chronological range, suggesting continuous habitation for over two thousand years, and the fort's massive walls remain a prominent Delhi landmark."
+        },
+        {
+          "id": "cul_d20_rock_fort_trichy",
+          "location": { "name": "Rock Fort Temple, Tiruchirappalli", "lat": 10.8155, "lng": 78.6961 },
+          "questions": [
+            { "question": "The Rock Fort Temple is located in which Tamil Nadu city?", "options": ["Tiruchirappalli (Trichy)", "Madurai", "Thanjavur", "Coimbatore"], "correctIndex": 0 },
+            { "question": "The temple at the summit of Rock Fort is dedicated to which deity?", "options": ["Ganesha", "Shiva", "Vishnu", "Murugan"], "correctIndex": 0 },
+            { "question": "The rock formation at Rock Fort is believed to be one of the oldest in the world, predating even the?", "options": ["Himalayas", "Aravalli Range", "Western Ghats", "Vindhya Range"], "correctIndex": 0 },
+            { "question": "Which dynasties historically fortified and contested the Rock Fort site?", "options": ["Pallavas, Cholas, and later Nayaks", "Only the Mughals", "Only the British", "Only the Marathas"], "correctIndex": 0 },
+            { "question": "The Rock Fort Temple offers panoramic views of Tiruchirappalli and which river?", "options": ["Kaveri River", "Godavari River", "Krishna River", "Tungabhadra River"], "correctIndex": 0 }
+          ],
+          "summary": "The Rock Fort Temple, in Tiruchirappalli (Trichy), Tamil Nadu, is built atop a massive rock outcrop believed to be one of the oldest geological formations in the world, predating even the Himalayas. The complex houses the Ucchi Pillayar Temple, dedicated to Ganesha, at its summit, reached by climbing several hundred steps. Historically, the site held strategic military importance, having been fortified and contested by the Pallavas, Cholas, and later Nayaks, and it offers panoramic views of the city and the Kaveri River."
+        },
+        {
+          "id": "cul_d20_velankanni",
+          "location": { "name": "Velankanni Basilica, Tamil Nadu", "lat": 10.6810, "lng": 79.8449 },
+          "questions": [
+            { "question": "The Velankanni shrine is dedicated to Mary under which title?", "options": ["Our Lady of Good Health", "Our Lady of Sorrows", "Our Lady of Fatima", "Our Lady of Guadalupe"], "correctIndex": 0 },
+            { "question": "Velankanni is located in which Indian state?", "options": ["Tamil Nadu", "Kerala", "Goa", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "One legend behind Velankanni's origin involves a vision reported by a young?", "options": ["Buttermilk seller", "Fisherman", "Farmer", "Shepherd"], "correctIndex": 0 },
+            { "question": "Velankanni's popularity is notable for attracting devotees across which lines?", "options": ["Multiple religions, including Hindus", "Only Catholics", "Only Protestants", "Only Orthodox Christians"], "correctIndex": 0 },
+            { "question": "Velankanni's major annual festival is held in which month?", "options": ["Early September", "Late December", "Early April", "Late June"], "correctIndex": 0 }
+          ],
+          "summary": "The Basilica of Our Lady of Good Health, in Velankanni, Tamil Nadu, is one of India's most significant Christian pilgrimage sites, drawing millions of devotees, including many Hindus, to venerate an apparition of Mary believed to have appeared here centuries ago. The shrine's origins are linked to several miraculous legends, including one involving a young buttermilk seller who reported a vision. The annual festival, held in early September, draws enormous crowds, making it one of the largest annual Christian gatherings in Asia."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d20_ashok_leyland",
+          "location": { "name": "Ashok Leyland, Chennai", "lat": 13.0827, "lng": 80.2707 },
+          "questions": [
+            { "question": "Ashok Leyland is primarily known for manufacturing?", "options": ["Trucks and buses", "Passenger cars", "Aircraft", "Ships"], "correctIndex": 0 },
+            { "question": "Ashok Leyland is headquartered in which Indian city?", "options": ["Chennai", "Mumbai", "Pune", "Bengaluru"], "correctIndex": 0 },
+            { "question": "Ashok Leyland was originally established with technical collaboration from which country?", "options": ["Britain", "United States", "Germany", "Japan"], "correctIndex": 0 },
+            { "question": "Ashok Leyland's buses are widely used by?", "options": ["State transport corporations", "Only private airlines", "Only railways", "Only the navy"], "correctIndex": 0 },
+            { "question": "Ashok Leyland has increasingly invested in which type of vehicle technology?", "options": ["Electric and alternative fuel vehicles", "Only steam-powered vehicles", "Only horse-drawn carriages", "Only bicycles"], "correctIndex": 0 }
+          ],
+          "summary": "Ashok Leyland, headquartered in Chennai, is one of India's largest commercial vehicle manufacturers, producing trucks, buses, and defense vehicles since the company's establishment in the 1940s. Originally set up with British technical collaboration, the company supplies vehicles to both India's domestic transport sector and export markets across Asia, Africa, and the Middle East. Ashok Leyland's buses are widely used by state transport corporations across India, and the company has increasingly invested in electric and alternative fuel vehicle technology."
+        },
+        {
+          "id": "eco_d20_dholera_sir",
+          "location": { "name": "Dholera SIR, Gujarat", "lat": 22.2500, "lng": 72.1833 },
+          "questions": [
+            { "question": "The Dholera Special Investment Region is located in which Indian state?", "options": ["Gujarat", "Maharashtra", "Rajasthan", "Madhya Pradesh"], "correctIndex": 0 },
+            { "question": "Dholera is a key node of which major infrastructure corridor project?", "options": ["Delhi-Mumbai Industrial Corridor", "Golden Quadrilateral", "East-West Corridor", "North-South Corridor"], "correctIndex": 0 },
+            { "question": "Dholera is designed as what type of city, built from the ground up?", "options": ["A greenfield smart city", "A renovated colonial city", "An underground city", "A floating city"], "correctIndex": 0 },
+            { "question": "Dholera's development has faced challenges common to large planned projects, including?", "options": ["Land acquisition complexities", "Excess population growth", "Overproduction of goods", "Currency fluctuations"], "correctIndex": 0 },
+            { "question": "Dholera's planners envision it becoming a hub for electronics manufacturing and?", "options": ["Semiconductor fabrication", "Only agriculture", "Only textiles", "Only tourism"], "correctIndex": 0 }
+          ],
+          "summary": "The Dholera Special Investment Region, in Gujarat, is one of India's most ambitious planned industrial cities, developed as a key node of the Delhi-Mumbai Industrial Corridor project. Designed as a greenfield smart city from the ground up, Dholera incorporates modern urban planning including dedicated industrial zones and planned residential areas. The project has faced a slower-than-anticipated pace of development, including land acquisition complexities, but planners envision it becoming a major hub for electronics manufacturing and semiconductor fabrication."
+        },
+        {
+          "id": "eco_d20_jsw_dolvi",
+          "location": { "name": "JSW Dolvi Steel Plant, Maharashtra", "lat": 18.0333, "lng": 73.0333 },
+          "questions": [
+            { "question": "JSW's Dolvi Steel Plant is located in which Indian state?", "options": ["Maharashtra", "Karnataka", "Gujarat", "Odisha"], "correctIndex": 0 },
+            { "question": "Dolvi Steel Plant is located in which district?", "options": ["Raigad", "Pune", "Thane", "Nashik"], "correctIndex": 0 },
+            { "question": "Dolvi's coastal location primarily facilitates?", "options": ["Raw material imports and product exports", "Tourism", "Fishing only", "Naval defense"], "correctIndex": 0 },
+            { "question": "Unlike many inland Indian steel plants, Dolvi is distinguished by its?", "options": ["Coastal location", "Underground location", "Desert location", "Mountain location"], "correctIndex": 0 },
+            { "question": "Dolvi's proximity to which city supports its role in western India's construction supply chain?", "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"], "correctIndex": 0 }
+          ],
+          "summary": "JSW Steel's Dolvi plant, in Maharashtra's Raigad district, is one of the company's major integrated steel manufacturing facilities, strategically located near the coast to facilitate raw material imports and finished product exports. Dolvi's coastal location distinguishes it from many other major Indian steel plants, which are often situated closer to inland iron ore and coal deposits. The facility's proximity to Mumbai has made it a significant contributor to steel supply for construction and infrastructure projects in western India."
+        },
+        {
+          "id": "eco_d20_vedanta_lanjigarh",
+          "location": { "name": "Vedanta Lanjigarh, Odisha", "lat": 19.6667, "lng": 83.4167 },
+          "questions": [
+            { "question": "Vedanta's Lanjigarh refinery is primarily involved in processing which mineral?", "options": ["Bauxite (into alumina)", "Iron ore", "Coal", "Zinc"], "correctIndex": 0 },
+            { "question": "The controversy surrounding Lanjigarh centered on proposed mining on which hills?", "options": ["Niyamgiri Hills", "Nilgiri Hills", "Aravalli Hills", "Vindhya Hills"], "correctIndex": 0 },
+            { "question": "Which tribal community considers the Niyamgiri Hills sacred?", "options": ["Dongria Kondh", "Santhal", "Gond", "Bhil"], "correctIndex": 0 },
+            { "question": "A landmark 2013 Supreme Court ruling empowered which bodies to decide on the mining proposal?", "options": ["Village councils", "State legislatures", "The central cabinet", "Foreign investors"], "correctIndex": 0 },
+            { "question": "Following the village council referendums, the Dongria Kondh communities?", "options": ["Voted to reject bauxite mining", "Voted to approve mining fully", "Requested nationalization of the hills", "Sold the land to a private buyer"], "correctIndex": 0 }
+          ],
+          "summary": "Vedanta's alumina refinery at Lanjigarh, in Odisha, became one of India's most closely watched environmental controversies, centered on the company's proposed bauxite mining project on the nearby Niyamgiri Hills, considered sacred by the local Dongria Kondh tribal community. Following a landmark 2013 Supreme Court ruling empowering village councils to decide through local referendums, the Dongria Kondh voted to reject mining. The case became a widely cited example of indigenous land rights taking precedence over industrial development in India's legal discourse."
+        },
+        {
+          "id": "eco_d20_rinl_vizag",
+          "location": { "name": "RINL Vizag Steel Plant, Andhra Pradesh", "lat": 17.6868, "lng": 83.2185 },
+          "questions": [
+            { "question": "RINL's Visakhapatnam plant is notable for being the only major public sector steel plant built directly on the?", "options": ["Coast", "Desert", "Mountain", "River delta only"], "correctIndex": 0 },
+            { "question": "The Vizag Steel Plant emerged following public agitation in which decade?", "options": ["1950s", "1960s", "1980s", "2000s"], "correctIndex": 1 },
+            { "question": "The Telugu slogan associated with Vizag Steel translates roughly to?", "options": ["Vizag Steel is the right of the Telugu people", "Steel for all of India", "Andhra's pride and glory only", "Steel before rice"], "correctIndex": 0 },
+            { "question": "Vizag Steel Plant sources iron ore from mines transported via?", "options": ["Integrated rail and port logistics", "Only air freight", "Only road trucks", "Only river barges"], "correctIndex": 0 },
+            { "question": "In recent years, Vizag Steel Plant's ownership has faced debate over proposed?", "options": ["Privatization", "Nationalization further", "Foreign takeover", "Complete closure"], "correctIndex": 0 }
+          ],
+          "summary": "Rashtriya Ispat Nigam Limited's Visakhapatnam Steel Plant, commonly known as Vizag Steel, is notable as the only major Indian public sector steel plant built directly on the coast. Established following sustained public agitation in the 1960s, the plant holds symbolic importance in Andhra Pradesh's industrial history, often referred to using the slogan 'Visakha ukku, Andhrula hakku.' In recent years, the plant's ownership status has become a subject of political debate amid proposed privatization plans that faced significant public opposition."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d20_mahavir_jayanti",
+          "location": { "name": "Mahavir Jayanti, Shravanabelagola", "lat": 12.8567, "lng": 76.4850 },
+          "questions": [
+            { "question": "Mahavir Jayanti marks the birth of which figure?", "options": ["Mahavira", "Gautama Buddha", "Guru Nanak", "Adi Shankaracharya"], "correctIndex": 0 },
+            { "question": "Shravanabelagola is home to which colossal statue?", "options": ["Gomateshwara (Bahubali)", "Statue of Unity", "Buddha statue at Bodh Gaya", "Shiva statue at Murudeshwar"], "correctIndex": 0 },
+            { "question": "The Gomateshwara statue stands approximately how tall?", "options": ["About 17 meters", "About 5 meters", "About 30 meters", "About 50 meters"], "correctIndex": 0 },
+            { "question": "The ceremony in which the Gomateshwara statue is ceremonially anointed is called?", "options": ["Mahamastakabhisheka", "Rath Yatra", "Kumbhabhishekam", "Panchamrit Abhishekam"], "correctIndex": 0 },
+            { "question": "How often is the Mahamastakabhisheka ceremony typically held?", "options": ["Every 12 years", "Every year", "Every 50 years", "Every century"], "correctIndex": 0 }
+          ],
+          "summary": "Shravanabelagola, in Karnataka, is a major center for Jain pilgrimage, especially significant during Mahavir Jayanti celebrations marking the birth of Mahavira. The town is home to the colossal Gomateshwara statue, a monolithic sculpture of Bahubali standing nearly 17 meters tall, carved from a single block of granite in the 10th century. Every twelve years, Shravanabelagola hosts the Mahamastakabhisheka, an elaborate ceremony anointing the statue, and Mahavir Jayanti celebrations draw Jain pilgrims from across India and the diaspora."
+        },
+        {
+          "id": "evt_d20_bhagoria_haat",
+          "location": { "name": "Bhagoria Haat, Jhabua", "lat": 22.7679, "lng": 74.5910 },
+          "questions": [
+            { "question": "Bhagoria Haat is a festival celebrated by which tribal communities?", "options": ["Bhil and Bhilala", "Gond and Santhal", "Khasi and Garo", "Naga and Mizo"], "correctIndex": 0 },
+            { "question": "Bhagoria Haat is celebrated in which district of Madhya Pradesh?", "options": ["Jhabua", "Indore", "Bhopal", "Gwalior"], "correctIndex": 0 },
+            { "question": "Bhagoria Haat is traditionally celebrated just before which major festival?", "options": ["Holi", "Diwali", "Navratri", "Dussehra"], "correctIndex": 0 },
+            { "question": "Bhagoria Haat has historically played a role in facilitating?", "options": ["Matchmaking and courtship customs", "Political elections", "Military recruitment", "Trade tariffs"], "correctIndex": 0 },
+            { "question": "Bhagoria markets feature traditional handicrafts, foods, and?", "options": ["Folk music and dance performances", "Modern technology exhibitions", "Foreign imports only", "Government job fairs"], "correctIndex": 0 }
+          ],
+          "summary": "Bhagoria Haat, celebrated in Jhabua district, Madhya Pradesh, is a week-long tribal festival held by the Bhil and Bhilala communities just before Holi, blending a traditional weekly market with courtship customs. The festival is particularly notable for its role in facilitating matchmaking, where young men and women historically had opportunities to meet and choose partners. Colorful markets feature traditional Bhil handicrafts, foods, and folk music and dance performances, reflecting distinct tribal social customs."
+        },
+        {
+          "id": "evt_d20_guruvayur_ekadasi",
+          "location": { "name": "Guruvayur Ekadasi, Kerala", "lat": 10.5949, "lng": 76.0416 },
+          "questions": [
+            { "question": "Guruvayur Ekadasi is celebrated at a temple dedicated to which deity?", "options": ["Krishna", "Shiva", "Ganesha", "Durga"], "correctIndex": 0 },
+            { "question": "The Guruvayur Temple is sometimes referred to by which nickname?", "options": ["Dwarka of the South", "Varanasi of the South", "Ayodhya of the South", "Mathura of the South"], "correctIndex": 0 },
+            { "question": "Guruvayur is well known for its temple?", "options": ["Elephants", "Camels", "Peacocks", "Horses"], "correctIndex": 0 },
+            { "question": "Guruvayur Ekadasi observances typically include an all-night?", "options": ["Vigil with devotional singing", "Fast without any activity", "Silent meditation only", "Fireworks display"], "correctIndex": 0 },
+            { "question": "Guruvayur Ekadasi's cultural program includes performances of which classical dance form?", "options": ["Kathakali", "Bharatanatyam", "Kathak", "Odissi"], "correctIndex": 0 }
+          ],
+          "summary": "Guruvayur Ekadasi, celebrated at the Guruvayur Temple in Kerala, is one of the most significant festivals at this major Krishna temple, drawing large crowds for a multi-day celebration featuring elaborate rituals and temple elephant processions. The temple, often called the 'Dwarka of the South,' is one of Kerala's most important Vaishnavite pilgrimage sites. Guruvayur Ekadasi observances include an all-night vigil with continuous devotional singing, and the cultural program includes performances of Kathakali and classical Carnatic music."
+        },
+        {
+          "id": "evt_d20_nauchandi_mela",
+          "location": { "name": "Nauchandi Mela, Meerut", "lat": 28.9845, "lng": 77.7064 },
+          "questions": [
+            { "question": "Nauchandi Mela is held annually in which Uttar Pradesh city?", "options": ["Meerut", "Lucknow", "Kanpur", "Agra"], "correctIndex": 0 },
+            { "question": "Nauchandi Mela is associated with a temple dedicated to which goddess?", "options": ["Nauchandi Devi", "Durga", "Kali", "Lakshmi"], "correctIndex": 0 },
+            { "question": "Nauchandi Mela is notable for historically bringing together which two communities?", "options": ["Hindu and Muslim", "Hindu and Christian", "Sikh and Buddhist", "Jain and Parsi"], "correctIndex": 0 },
+            { "question": "Nauchandi Mela has evolved from a primarily religious gathering into a broader?", "options": ["Regional cultural and commercial event", "Purely political rally", "Military exercise", "Sporting tournament"], "correctIndex": 0 },
+            { "question": "Nauchandi Mela's continued popularity draws visitors from across which region?", "options": ["Western Uttar Pradesh", "Eastern Uttar Pradesh", "Southern Rajasthan", "Northern Bihar"], "correctIndex": 0 }
+          ],
+          "summary": "Nauchandi Mela, held annually in Meerut, Uttar Pradesh, is one of North India's oldest and largest fairs, blending religious observance at the nearby Nauchandi Devi temple with a large commercial and entertainment fair. The fair is notable for its historical role in bringing together Hindu and Muslim communities, with a nearby dargah also drawing devotees during the same period. Nauchandi Mela has evolved from a primarily religious gathering into a broader regional cultural and commercial event, attracting visitors from across western Uttar Pradesh."
+        },
+        {
+          "id": "evt_d20_kite_festival",
+          "location": { "name": "International Kite Festival, Ahmedabad", "lat": 23.0225, "lng": 72.5714 },
+          "questions": [
+            { "question": "The International Kite Festival is held annually in which Indian city?", "options": ["Ahmedabad", "Surat", "Vadodara", "Rajkot"], "correctIndex": 0 },
+            { "question": "The Kite Festival is held around which Hindu festival?", "options": ["Makar Sankranti", "Diwali", "Holi", "Navratri"], "correctIndex": 0 },
+            { "question": "The Gujarati name for the kite-flying festival period is?", "options": ["Uttarayan", "Pongal", "Lohri", "Bihu"], "correctIndex": 0 },
+            { "question": "Traditional kite-fighting competitions in Gujarat typically use kite strings coated with?", "options": ["Glass", "Metal", "Rubber", "Wax"], "correctIndex": 0 },
+            { "question": "The International Kite Festival has grown into a major event for promoting?", "options": ["Cultural tourism", "Only local trade", "Only religious pilgrimage", "Only sports betting"], "correctIndex": 0 }
+          ],
+          "summary": "The International Kite Festival, held annually in Ahmedabad, Gujarat, around Makar Sankranti, draws kite enthusiasts from around the world to compete and display elaborate kite designs. The festival grew out of Gujarat's long-standing tradition of kite flying during Uttarayan, when families gather on rooftops for daylong kite-flying competitions. Ahmedabad's festival showcases specialized kites from participating countries alongside traditional Indian kite-making techniques and glass-string kite-fighting competitions, reflecting Gujarat's efforts to promote cultural tourism."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d20_chandigarh_1966",
+          "location": { "name": "Chandigarh — Punjab-Haryana 1966 Reorganization", "lat": 30.7333, "lng": 76.7794 },
+          "questions": [
+            { "question": "Chandigarh became a Union Territory following the reorganization of which state in 1966?", "options": ["Punjab", "Rajasthan", "Uttar Pradesh", "Madhya Pradesh"], "correctIndex": 0 },
+            { "question": "The 1966 Punjab reorganization created which new Hindi-speaking state?", "options": ["Haryana", "Himachal Pradesh", "Uttarakhand", "Chhattisgarh"], "correctIndex": 0 },
+            { "question": "Chandigarh serves as the joint capital of which two states?", "options": ["Punjab and Haryana", "Punjab and Himachal Pradesh", "Haryana and Delhi", "Rajasthan and Punjab"], "correctIndex": 0 },
+            { "question": "Chandigarh was designed by which architect?", "options": ["Le Corbusier", "Edwin Lutyens", "Herbert Baker", "Charles Correa"], "correctIndex": 0 },
+            { "question": "Chandigarh is notable as India's first fully?", "options": ["Planned post-independence city", "Nuclear-powered city", "Underground city", "Coastal capital city"], "correctIndex": 0 }
+          ],
+          "summary": "Chandigarh, designed as India's first fully planned post-independence city by architect Le Corbusier, became a Union Territory in 1966 when Punjab was reorganized along linguistic lines, splitting the state to create the new Hindi-speaking state of Haryana. Because both states claimed Chandigarh as their capital, the city was designated a Union Territory serving as the joint capital of both Punjab and Haryana, an arrangement that has continued for decades despite periodic political disputes over its final status."
+        },
+        {
+          "id": "pol_d20_bengaluru_karnataka",
+          "location": { "name": "Bengaluru — Mysore Renamed Karnataka, 1973", "lat": 12.9716, "lng": 77.5946 },
+          "questions": [
+            { "question": "Karnataka was previously known by which name until 1973?", "options": ["Mysore State", "Kanara State", "Deccan State", "Malenadu State"], "correctIndex": 0 },
+            { "question": "Karnataka's renaming occurred how many years after its 1956 boundary reorganization?", "options": ["Nearly two decades", "Only a few months", "Over a century", "Less than five years"], "correctIndex": 0 },
+            { "question": "The renaming from Mysore to Karnataka aimed to better reflect the state's?", "options": ["Broader linguistic and cultural identity", "Religious composition", "Military alliances", "Trade relationships"], "correctIndex": 0 },
+            { "question": "Bengaluru is the capital of which present-day Indian state?", "options": ["Karnataka", "Andhra Pradesh", "Tamil Nadu", "Kerala"], "correctIndex": 0 },
+            { "question": "Karnataka's renaming reflects a broader pattern of Indian states seeking alignment with?", "options": ["Linguistic and regional identity", "Foreign investment interests", "Military strategy", "International recognition"], "correctIndex": 0 }
+          ],
+          "summary": "Bengaluru, the capital of Karnataka, oversees a state that was known as Mysore State until 1973, when it was officially renamed Karnataka to better reflect the broader linguistic and cultural identity of the Kannada-speaking region. The renaming came nearly two decades after the state's 1956 reorganization, which had already expanded Mysore State's boundaries. The change addressed concerns that 'Mysore' too narrowly identified the state with just its former princely capital, reflecting a broader pattern across Indian states seeking better alignment with linguistic identity."
+        },
+        {
+          "id": "pol_d20_chennai_tamilnadu",
+          "location": { "name": "Chennai — Madras Renamed Tamil Nadu, 1969", "lat": 13.0827, "lng": 80.2707 },
+          "questions": [
+            { "question": "Tamil Nadu was previously known by which name until 1969?", "options": ["Madras State", "Coromandel State", "Dravida State", "Chola State"], "correctIndex": 0 },
+            { "question": "\"Tamil Nadu\" translates roughly to which phrase?", "options": ["Tamil country", "Southern land", "Coastal state", "Land of temples"], "correctIndex": 0 },
+            { "question": "The renaming to Tamil Nadu reflected the influence of which political movement?", "options": ["The Dravidian movement", "The Non-Cooperation Movement", "The Swadeshi Movement", "The Bhoodan Movement"], "correctIndex": 0 },
+            { "question": "Madras State underwent significant boundary changes following which nationwide reorganization?", "options": ["1956 States Reorganisation", "1947 Partition", "1972 Northeast reorganization", "1991 economic liberalization"], "correctIndex": 0 },
+            { "question": "Chennai is the capital of which present-day Indian state?", "options": ["Tamil Nadu", "Andhra Pradesh", "Karnataka", "Kerala"], "correctIndex": 0 }
+          ],
+          "summary": "Chennai is the capital of a state that was known as Madras State until 1969, when it was renamed Tamil Nadu, meaning 'Tamil country,' to more directly express the linguistic identity of its predominantly Tamil-speaking population. The renaming reflected the strong Dravidian political movement active in the state, emphasizing Tamil linguistic pride and cultural distinctiveness. Madras State had already undergone significant boundary changes following the 1956 States Reorganisation, and the renaming remains a significant marker of Tamil Nadu's strong linguistic identity politics."
+        },
+        {
+          "id": "pol_d20_lucknow_up",
+          "location": { "name": "Lucknow — United Provinces Renamed Uttar Pradesh, 1950", "lat": 26.8467, "lng": 80.9462 },
+          "questions": [
+            { "question": "Uttar Pradesh was previously known by which name?", "options": ["United Provinces of Agra and Oudh", "Bengal Presidency", "Bombay Presidency", "Central Provinces"], "correctIndex": 0 },
+            { "question": "Uttar Pradesh's renaming took effect in which year?", "options": ["1947", "1950", "1956", "1966"], "correctIndex": 1 },
+            { "question": "\"Uttar Pradesh\" translates roughly to which phrase?", "options": ["Northern state", "Southern state", "Central state", "Eastern state"], "correctIndex": 0 },
+            { "question": "Uttar Pradesh's renaming coincided with which major national event?", "options": ["The commencement of India's Constitution", "India's independence in 1947", "Partition", "The first general election"], "correctIndex": 0 },
+            { "question": "Uttar Pradesh is notable today as India's?", "options": ["Most populous state", "Largest state by area", "Smallest state", "Wealthiest state"], "correctIndex": 0 }
+          ],
+          "summary": "Lucknow, the capital of Uttar Pradesh, oversees a state that was known as the United Provinces of Agra and Oudh until it was renamed Uttar Pradesh in January 1950, coinciding with the commencement of India's Constitution. The name change, meaning 'northern state,' reflected independent India's effort to move away from colonial-era administrative naming conventions. Unlike many later state renamings tied to linguistic movements, Uttar Pradesh's renaming occurred relatively early and smoothly, and the state has since grown to become India's most populous."
+        },
+        {
+          "id": "pol_d20_mumbai_1995",
+          "location": { "name": "Mumbai — Bombay Renamed, 1995", "lat": 19.0760, "lng": 72.8777 },
+          "questions": [
+            { "question": "Bombay was officially renamed Mumbai in which year?", "options": ["1975", "1995", "2005", "2014"], "correctIndex": 1 },
+            { "question": "The name \"Mumbai\" derives from which local deity?", "options": ["Mumbadevi", "Kali", "Durga", "Lakshmi"], "correctIndex": 0 },
+            { "question": "Mumbai's renaming was decided under a state government led by which party?", "options": ["Shiv Sena", "Indian National Congress", "Bharatiya Janata Party", "Nationalist Congress Party"], "correctIndex": 0 },
+            { "question": "Mumbai's renaming was part of a wider pattern including Madras becoming Chennai and Calcutta becoming?", "options": ["Kolkata", "Bengaluru", "Puducherry", "Prayagraj"], "correctIndex": 0 },
+            { "question": "Despite the official renaming, which name has persisted informally in various contexts?", "options": ["Bombay", "Bombayapuram", "Old Mumbai", "Kokan"], "correctIndex": 0 }
+          ],
+          "summary": "Mumbai, India's financial capital, was officially renamed from Bombay in 1995, following a decision by the state government led by the Shiv Sena party. The name 'Mumbai' derives from Mumbadevi, a local Koli fishing community goddess whose temple predates the city's development as a major colonial port. The renaming was part of a wider pattern including Madras becoming Chennai and Calcutta becoming Kolkata, reflecting a post-colonial reassertion of local identity, though the name 'Bombay' has persisted informally in various contexts."
+        }
+      ]
+    }
+  }
+}

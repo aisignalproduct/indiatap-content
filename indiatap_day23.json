@@ -1,0 +1,326 @@
+{
+  "day": 23,
+  "date": "2026-10-23",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d23_panna_tiger",
+          "location": { "name": "Panna Tiger Reserve, Madhya Pradesh", "lat": 24.7167, "lng": 80.1833 },
+          "questions": [
+            { "question": "Panna Tiger Reserve's tiger population was declared locally extinct due to?", "options": ["Poaching", "Disease outbreak", "Climate change", "Habitat flooding"], "correctIndex": 0 },
+            { "question": "Panna Tiger Reserve is cut through by which river?", "options": ["Ken River", "Betwa River", "Chambal River", "Narmada River"], "correctIndex": 0 },
+            { "question": "Panna Tiger Reserve is located in which Indian state?", "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Chhattisgarh"], "correctIndex": 0 },
+            { "question": "Panna's recovery, alongside Sariska's, has become an important case study in India's approach to?", "options": ["Tiger conservation policy", "Space exploration", "Foreign trade", "Banking regulation"], "correctIndex": 0 },
+            { "question": "Panna district is also historically known for which mineral resource?", "options": ["Diamonds", "Gold", "Coal", "Iron ore"], "correctIndex": 0 }
+          ],
+          "summary": "Panna Tiger Reserve, in Madhya Pradesh, gained national attention in the late 2000s when its tiger population was declared locally extinct due to poaching, leading to a subsequent successful reintroduction program. The reserve's landscape, cut through by the Ken River, features dramatic gorges and waterfalls alongside dry deciduous forest. Panna's recovery, alongside similar efforts at Sariska, has become an important case study in India's tiger conservation policy, and the reserve sits within Panna district, also known for its historical diamond mining industry."
+        },
+        {
+          "id": "geo_d23_pakke_tiger",
+          "location": { "name": "Pakke Tiger Reserve, Arunachal Pradesh", "lat": 27.0500, "lng": 92.6167 },
+          "questions": [
+            { "question": "Pakke Tiger Reserve is particularly notable for its conservation efforts involving which bird?", "options": ["Hornbill", "Peacock", "Sarus crane", "Great Indian Bustard"], "correctIndex": 0 },
+            { "question": "Pakke Tiger Reserve engaged which tribal community as conservation partners?", "options": ["Nyishi", "Apatani", "Adi", "Galo"], "correctIndex": 0 },
+            { "question": "The Nyishi traditionally used hornbill feathers and beaks in?", "options": ["Ceremonial headgear", "Cooking utensils", "Farming tools", "Musical instruments"], "correctIndex": 0 },
+            { "question": "As part of conservation efforts, communities were provided with artificial hornbill?", "options": ["Casques", "Feathers only", "Eggs", "Nests only"], "correctIndex": 0 },
+            { "question": "Pakke Tiger Reserve is located in which Indian state?", "options": ["Arunachal Pradesh", "Assam", "Nagaland", "Manipur"], "correctIndex": 0 }
+          ],
+          "summary": "Pakke Tiger Reserve, in Arunachal Pradesh, is notable for a unique community-led hornbill conservation initiative in which local Nyishi tribal hunters, who traditionally used hornbill feathers and beaks in ceremonial headgear, were engaged as conservation partners. This approach, involving nest protection programs and providing artificial hornbill casques as substitutes, has significantly improved hornbill populations. Beyond hornbills, Pakke supports tigers and elephants, and the reserve's conservation model blending indigenous practices with modern protection has been cited as a successful community engagement example."
+        },
+        {
+          "id": "geo_d23_tadoba",
+          "location": { "name": "Tadoba Andhari Tiger Reserve, Maharashtra", "lat": 20.2167, "lng": 79.4000 },
+          "questions": [
+            { "question": "Tadoba Andhari Tiger Reserve is notable as Maharashtra's?", "options": ["Oldest and largest national park", "Smallest wildlife sanctuary", "Only coastal park", "Newest national park"], "correctIndex": 0 },
+            { "question": "Tadoba's name partly derives from a legend about a tribal chief killed by a?", "options": ["Tiger", "Elephant", "Leopard", "Crocodile"], "correctIndex": 0 },
+            { "question": "Tadoba Andhari was formed by merging Tadoba National Park with which sanctuary?", "options": ["Andhari Wildlife Sanctuary", "Melghat Sanctuary", "Nagzira Sanctuary", "Pench Sanctuary"], "correctIndex": 0 },
+            { "question": "Tadoba Andhari Tiger Reserve is located in which Indian state?", "options": ["Maharashtra", "Madhya Pradesh", "Chhattisgarh", "Telangana"], "correctIndex": 0 },
+            { "question": "Tadoba's high tiger density has made it popular for?", "options": ["Tiger tourism", "Bird migration study", "Coral reef diving", "Mountain climbing"], "correctIndex": 0 }
+          ],
+          "summary": "Tadoba Andhari Tiger Reserve, in Maharashtra, is the state's oldest and largest national park, formed by merging Tadoba National Park with the adjoining Andhari Wildlife Sanctuary. The reserve's name partly derives from a legend about a tribal chief named Tadoba, killed by a tiger and worshipped as a deity at a small shrine within the park. Tadoba supports a healthy tiger population alongside leopards and sloth bears, and its high tiger density and developed infrastructure have made it one of central India's most popular tiger tourism destinations."
+        },
+        {
+          "id": "geo_d23_kalakad_mundanthurai",
+          "location": { "name": "Kalakad-Mundanthurai Tiger Reserve, Tamil Nadu", "lat": 8.5333, "lng": 77.3833 },
+          "questions": [
+            { "question": "Kalakad-Mundanthurai Tiger Reserve is located in which mountain range?", "options": ["Southern Western Ghats", "Eastern Ghats", "Aravalli Range", "Vindhya Range"], "correctIndex": 0 },
+            { "question": "Kalakad-Mundanthurai is significant as an important?", "options": ["Watershed area", "Desert region", "Coastal wetland", "Volcanic zone"], "correctIndex": 0 },
+            { "question": "Kalakad-Mundanthurai supports which endemic Western Ghats primate species?", "options": ["Lion-tailed macaque", "Golden langur", "Hoolock gibbon", "Rhesus macaque"], "correctIndex": 0 },
+            { "question": "Kalakad-Mundanthurai Tiger Reserve is located in which Indian state?", "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "Kalakad-Mundanthurai's remote terrain has helped preserve its?", "options": ["Ecological integrity", "Mineral wealth", "Agricultural productivity", "Urban infrastructure"], "correctIndex": 0 }
+          ],
+          "summary": "Kalakad-Mundanthurai Tiger Reserve, in the southern Western Ghats of Tamil Nadu, protects one of the southernmost tiger habitats in India, supporting tropical rainforest and montane ecosystems at varying elevations. The reserve is an important watershed area, feeding rivers that supply surrounding agricultural regions. Kalakad-Mundanthurai's dense forests support endemic species including the lion-tailed macaque and Nilgiri langur alongside its tiger population, and its remote terrain has kept it less visited, helping preserve its ecological integrity."
+        },
+        {
+          "id": "geo_d23_achanakmar",
+          "location": { "name": "Achanakmar Tiger Reserve, Chhattisgarh", "lat": 22.3667, "lng": 81.7833 },
+          "questions": [
+            { "question": "Achanakmar Tiger Reserve is located in which Indian state?", "options": ["Chhattisgarh", "Madhya Pradesh", "Odisha", "Jharkhand"], "correctIndex": 0 },
+            { "question": "Achanakmar forms part of a conservation corridor connecting with which plateau region?", "options": ["Amarkantak plateau", "Deccan plateau", "Chotanagpur plateau", "Malwa plateau"], "correctIndex": 0 },
+            { "question": "The Amarkantak region is significant as the source of the Narmada and which other river?", "options": ["Son River", "Godavari River", "Tapi River", "Mahanadi River"], "correctIndex": 0 },
+            { "question": "Which indigenous tribal community has traditionally inhabited forests around Achanakmar?", "options": ["Baiga", "Bhil", "Gond", "Santhal"], "correctIndex": 0 },
+            { "question": "Achanakmar is part of the larger Achanakmar-Amarkantak?", "options": ["Biosphere Reserve", "Special Economic Zone", "National Capital Region", "Coastal Regulation Zone"], "correctIndex": 0 }
+          ],
+          "summary": "Achanakmar Tiger Reserve, in Chhattisgarh, forms part of a broader tiger conservation corridor connecting with the Amarkantak plateau region, significant as the source of both the Narmada and Son rivers. The reserve's dense sal forests support tigers, leopards, and deer species, alongside significant populations of indigenous Baiga tribal communities. Achanakmar's designation has involved ongoing efforts to balance conservation with tribal community rights, and its connectivity with the larger Achanakmar-Amarkantak Biosphere Reserve reflects landscape-level conservation planning."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d23_ibrahim_rauza",
+          "location": { "name": "Ibrahim Rauza, Bijapur", "lat": 16.8280, "lng": 75.7069 },
+          "questions": [
+            { "question": "Ibrahim Rauza is the mausoleum complex of which ruler?", "options": ["Ibrahim Adil Shah II", "Muhammad Adil Shah", "Akbar", "Aurangzeb"], "correctIndex": 0 },
+            { "question": "Ibrahim Rauza's design is often contrasted with which nearby monument's emphasis on massive scale?", "options": ["Gol Gumbaz", "Charminar", "Golconda Fort", "Qutb Minar"], "correctIndex": 0 },
+            { "question": "Ibrahim Rauza's complex includes the ruler's tomb and an adjoining?", "options": ["Mosque", "Fort", "Palace", "Garden only"], "correctIndex": 0 },
+            { "question": "Some historians have speculated Ibrahim Rauza's design may be connected to which later Mughal monument?", "options": ["Taj Mahal", "Red Fort", "Humayun's Tomb", "Fatehpur Sikri"], "correctIndex": 0 },
+            { "question": "Ibrahim Rauza is located in which present-day city?", "options": ["Bijapur (Vijayapura)", "Bidar", "Gulbarga", "Hampi"], "correctIndex": 0 }
+          ],
+          "summary": "Ibrahim Rauza, in Bijapur (Vijayapura), Karnataka, is the mausoleum complex of Adil Shahi ruler Ibrahim Adil Shah II, built in the early 17th century and often admired for its refined, delicate architectural style compared to the more massive nearby Gol Gumbaz. The complex includes both the ruler's tomb and an adjoining mosque, with intricately carved stone screens and calligraphic inscriptions. Some architectural historians have suggested a possible influence on later design elements seen in the Taj Mahal, though this connection remains a subject of scholarly debate."
+        },
+        {
+          "id": "cul_d23_thanjavur_palace",
+          "location": { "name": "Thanjavur Maratha Palace", "lat": 10.7867, "lng": 79.1391 },
+          "questions": [
+            { "question": "The Thanjavur Maratha Palace served as the residence of which ruling dynasty?", "options": ["Bhonsle Maratha rulers", "Nayak rulers", "Chola rulers", "Pandya rulers"], "correctIndex": 0 },
+            { "question": "The palace complex houses which historically significant library?", "options": ["Saraswathi Mahal Library", "National Library of India", "Khuda Bakhsh Library", "Connemara Public Library"], "correctIndex": 0 },
+            { "question": "The Saraswathi Mahal Library's manuscripts are primarily written on?", "options": ["Palm leaves and paper", "Stone tablets", "Metal plates", "Cloth scrolls only"], "correctIndex": 0 },
+            { "question": "The palace's Durbar Hall is particularly known for its ornate?", "options": ["Ceiling paintings", "Marble floors", "Stained glass windows", "Golden domes"], "correctIndex": 0 },
+            { "question": "The Thanjavur Maratha Palace is located near which famous temple?", "options": ["Brihadeeswara Temple", "Meenakshi Temple", "Ramanathaswamy Temple", "Chidambaram Temple"], "correctIndex": 0 }
+          ],
+          "summary": "The Thanjavur Maratha Palace, in Tamil Nadu, served as the royal residence of the Bhonsle Maratha rulers who governed Thanjavur from the late 17th century. The palace houses the Saraswathi Mahal Library, one of Asia's oldest libraries, containing an extensive collection of ancient manuscripts on palm leaves and paper. The palace's Durbar Hall, known for its ornate ceiling paintings, once served royal court proceedings, and the complex, located near the Brihadeeswara Temple, reflects Thanjavur's layered history of Chola, Nayak, and Maratha rule."
+        },
+        {
+          "id": "cul_d23_vishnupad_temple",
+          "location": { "name": "Vishnupad Temple, Gaya", "lat": 24.7833, "lng": 85.0000 },
+          "questions": [
+            { "question": "The Vishnupad Temple is built around a rock structure believed to bear the footprint of which deity?", "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"], "correctIndex": 0 },
+            { "question": "Gaya is particularly known as a destination for performing which ritual for deceased ancestors?", "options": ["Pind daan", "Upanayanam", "Annaprashan", "Griha Pravesh"], "correctIndex": 0 },
+            { "question": "The Vishnupad Temple is located along the banks of which river?", "options": ["Falgu River", "Ganga River", "Son River", "Kosi River"], "correctIndex": 0 },
+            { "question": "According to mythology, Vishnu's footprint at Gaya marks where he subdued which demon?", "options": ["Gayasura", "Mahishasura", "Hiranyakashipu", "Ravana"], "correctIndex": 0 },
+            { "question": "The Vishnupad Temple is located in which Indian state?", "options": ["Bihar", "Jharkhand", "Uttar Pradesh", "West Bengal"], "correctIndex": 0 }
+          ],
+          "summary": "The Vishnupad Temple, in Gaya, Bihar, is a major Hindu pilgrimage site built around a rock structure believed to bear the footprint of Lord Vishnu, drawing devotees particularly for performing 'pind daan,' a ritual offering for deceased ancestors. The temple's location along the Falgu River adds to its ritual significance. According to mythology, the footprint marks where Vishnu once subdued a demon named Gayasura, and Gaya's status as a premier destination for ancestral rites distinguishes it from pilgrimage sites focused on living deities."
+        },
+        {
+          "id": "cul_d23_se_cathedral",
+          "location": { "name": "Se Cathedral, Goa", "lat": 15.5007, "lng": 73.9114 },
+          "questions": [
+            { "question": "The Se Cathedral is dedicated to which saint?", "options": ["St. Catherine of Alexandria", "St. Francis Xavier", "St. Thomas", "St. Paul"], "correctIndex": 0 },
+            { "question": "The Se Cathedral was built to commemorate the Portuguese capture of?", "options": ["Goa", "Mumbai", "Kochi", "Chennai"], "correctIndex": 0 },
+            { "question": "The Se Cathedral's famous bell is known as the?", "options": ["Golden Bell", "Silver Bell", "Liberty Bell", "Peace Bell"], "correctIndex": 0 },
+            { "question": "What happened to one of the Se Cathedral's original twin towers?", "options": ["It collapsed in the 18th century", "It was demolished intentionally", "It was moved to another site", "It was replaced with a modern structure"], "correctIndex": 0 },
+            { "question": "The Se Cathedral forms part of the UNESCO-listed group of churches alongside which nearby basilica?", "options": ["Basilica of Bom Jesus", "Santhome Basilica", "St. Paul's Cathedral", "Velankanni Basilica"], "correctIndex": 0 }
+          ],
+          "summary": "The Se Cathedral, in Old Goa, is one of the largest churches in Asia, built by the Portuguese starting in the 16th century to commemorate their capture of Goa, dedicated to St. Catherine of Alexandria. The cathedral's most famous feature is its 'Golden Bell,' though one of its original twin towers collapsed in the 18th century and was never rebuilt. Built in Portuguese-Gothic style, Se Cathedral remains active and forms part of the larger UNESCO-listed group of churches in Old Goa, alongside the nearby Basilica of Bom Jesus."
+        },
+        {
+          "id": "cul_d23_hazrat_bal",
+          "location": { "name": "Hazrat Bal Shrine, Srinagar", "lat": 34.1264, "lng": 74.8394 },
+          "questions": [
+            { "question": "The Hazrat Bal Shrine is believed to house a relic considered to be a hair of which figure?", "options": ["Prophet Muhammad", "Guru Nanak", "Buddha", "Jesus Christ"], "correctIndex": 0 },
+            { "question": "The Hazrat Bal Shrine is located on the banks of which lake?", "options": ["Dal Lake", "Wular Lake", "Loktak Lake", "Chilika Lake"], "correctIndex": 0 },
+            { "question": "The Hazrat Bal Shrine's relic went briefly missing in which year, sparking unrest?", "options": ["1963", "1947", "1990", "2001"], "correctIndex": 0 },
+            { "question": "The Hazrat Bal Shrine is constructed primarily from which material?", "options": ["White marble", "Red sandstone", "Black granite", "Wood"], "correctIndex": 0 },
+            { "question": "Hazrat Bal Shrine is located in which city?", "options": ["Srinagar", "Jammu", "Leh", "Anantnag"], "correctIndex": 0 }
+          ],
+          "summary": "The Hazrat Bal Shrine, on the banks of Dal Lake in Srinagar, is one of the most revered Muslim shrines in Kashmir, believed to house a relic considered to be a hair of the Prophet Muhammad. The white marble structure sits prominently on the lake's shore, making it both a religious and scenic landmark. The relic's presence has occasionally been a subject of historical controversy, including a notable incident in 1963 when it went briefly missing, sparking widespread public unrest before its eventual recovery."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d23_titan",
+          "location": { "name": "Titan Company, Hosur", "lat": 12.7409, "lng": 77.8253 },
+          "questions": [
+            { "question": "Titan Company was originally established as a joint venture between the Tata Group and which state government?", "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "Titan Company's major manufacturing facility is located in which Tamil Nadu town?", "options": ["Hosur", "Coimbatore", "Salem", "Madurai"], "correctIndex": 0 },
+            { "question": "Titan revolutionized India's watch market by introducing which technology?", "options": ["Quartz technology", "Mechanical winding only", "Solar power", "Digital displays only"], "correctIndex": 0 },
+            { "question": "Titan's jewelry retail brand, which has grown into one of India's largest jewelry chains, is called?", "options": ["Tanishq", "Kalyan", "Malabar Gold", "PC Jeweller"], "correctIndex": 0 },
+            { "question": "Titan Company's growth reflects diversification by industrial conglomerates into?", "options": ["Consumer-facing retail and lifestyle products", "Heavy machinery only", "Agriculture only", "Mining only"], "correctIndex": 0 }
+          ],
+          "summary": "Titan Company, with a major manufacturing facility in Hosur, Tamil Nadu, is one of India's leading watch and jewelry manufacturers, originally a joint venture between the Tata Group and the Tamil Nadu state government in the 1980s. The company revolutionized India's watch market by introducing modern quartz technology, and later expanded into jewelry retail through its Tanishq brand, one of India's largest jewelry retail chains. Titan's growth reflects successful diversification by industrial conglomerates into consumer-facing retail and lifestyle categories."
+        },
+        {
+          "id": "eco_d23_havells",
+          "location": { "name": "Havells India, Neemrana", "lat": 27.9833, "lng": 76.3833 },
+          "questions": [
+            { "question": "Havells India's manufacturing facility discussed here is located in which Rajasthan town?", "options": ["Neemrana", "Jaipur", "Udaipur", "Kota"], "correctIndex": 0 },
+            { "question": "Havells India primarily manufactures?", "options": ["Electrical equipment and appliances", "Automobiles", "Textiles", "Pharmaceuticals"], "correctIndex": 0 },
+            { "question": "Neemrana's industrial development has benefited from its location along which corridor?", "options": ["Delhi-Mumbai Industrial Corridor", "Golden Quadrilateral", "East-West Corridor", "North-South Corridor"], "correctIndex": 0 },
+            { "question": "Havells has grown from a modest trading business into a major manufacturing conglomerate largely since?", "options": ["Economic liberalization in the 1990s", "Independence in 1947", "Partition", "The Green Revolution"], "correctIndex": 0 },
+            { "question": "Havells has expanded internationally through?", "options": ["Acquisitions", "Colonization", "Government subsidies alone", "Military partnerships"], "correctIndex": 0 }
+          ],
+          "summary": "Havells India, with a manufacturing facility in Neemrana, Rajasthan, is one of India's leading electrical equipment manufacturers, producing switches, fans, lighting, and appliances. The company's growth from a modest trading business into a major manufacturer reflects a broader pattern of Indian consumer electrical goods companies scaling up since liberalization in the 1990s. Neemrana's development, benefiting from its location along the Delhi-Mumbai Industrial Corridor, has attracted other manufacturers too, and Havells has expanded internationally through acquisitions."
+        },
+        {
+          "id": "eco_d23_dabur",
+          "location": { "name": "Dabur India, Sahibabad", "lat": 28.6667, "lng": 77.3500 },
+          "questions": [
+            { "question": "Dabur India's manufacturing facility discussed here is located in which Uttar Pradesh town?", "options": ["Sahibabad", "Noida", "Kanpur", "Agra"], "correctIndex": 0 },
+            { "question": "Dabur India is particularly known for its products based on?", "options": ["Ayurvedic and natural ingredients", "Synthetic chemicals only", "Imported formulas only", "Petroleum derivatives"], "correctIndex": 0 },
+            { "question": "In which century was Dabur India founded?", "options": ["Late 19th century", "Early 20th century", "Mid-20th century", "Late 20th century"], "correctIndex": 0 },
+            { "question": "Dabur's product range spans health supplements, hair care, oral care, and?", "options": ["Food products", "Automobiles", "Electronics", "Textiles"], "correctIndex": 0 },
+            { "question": "Dabur has expanded internationally, particularly into markets with significant?", "options": ["Indian diaspora populations", "Foreign government contracts", "Military installations", "Space research facilities"], "correctIndex": 0 }
+          ],
+          "summary": "Dabur India, with a major manufacturing facility in Sahibabad, Uttar Pradesh, is one of India's oldest and largest consumer goods companies, particularly known for Ayurvedic and natural health and personal care products. Founded in the late 19th century, the company grew from producing traditional Ayurvedic medicines into a diversified business spanning health supplements, hair care, oral care, and food products. Dabur's continued emphasis on traditional wellness has helped it stand out, and it has expanded into markets with significant Indian diaspora populations."
+        },
+        {
+          "id": "eco_d23_marico",
+          "location": { "name": "Marico, Kanjikode", "lat": 10.7833, "lng": 76.7667 },
+          "questions": [
+            { "question": "Marico's manufacturing facility discussed here is located in which Kerala town?", "options": ["Kanjikode", "Kochi", "Thrissur", "Kollam"], "correctIndex": 0 },
+            { "question": "Marico is particularly known for its brands in which product categories?", "options": ["Edible oil and hair care", "Automobiles and steel", "Electronics and IT", "Textiles and apparel"], "correctIndex": 0 },
+            { "question": "Marico was founded as a spinoff in which decade?", "options": ["Early 1990s", "1970s", "1950s", "2000s"], "correctIndex": 0 },
+            { "question": "Kerala's association with which crop makes it a natural location for Marico's operations?", "options": ["Coconut cultivation", "Tea cultivation", "Rubber cultivation only", "Spice cultivation only"], "correctIndex": 0 },
+            { "question": "Marico has expanded its international presence particularly in South Asia and?", "options": ["Parts of Africa", "Only Europe", "Only North America", "Only the Middle East"], "correctIndex": 0 }
+          ],
+          "summary": "Marico, with a manufacturing facility in Kanjikode, Kerala, is a major Indian consumer goods company known for its edible oil and hair care brands, including popular coconut oil products. Founded in the early 1990s as a spinoff from a larger conglomerate, Marico built its business around branding traditional products differently from unbranded commodity alternatives. Kerala's association with coconut cultivation makes it a natural location for Marico's operations, and the company has expanded internationally into South Asia and parts of Africa."
+        },
+        {
+          "id": "eco_d23_berger_paints",
+          "location": { "name": "Berger Paints, Howrah", "lat": 22.5804, "lng": 88.3299 },
+          "questions": [
+            { "question": "Berger Paints' manufacturing facility discussed here is located in which West Bengal city?", "options": ["Howrah", "Kolkata proper", "Durgapur", "Asansol"], "correctIndex": 0 },
+            { "question": "Berger Paints primarily manufactures?", "options": ["Decorative and industrial paints", "Automobiles", "Textiles", "Electronics"], "correctIndex": 0 },
+            { "question": "Berger Paints traces its roots back to a company originally established in which century?", "options": ["19th century", "20th century", "18th century", "21st century"], "correctIndex": 0 },
+            { "question": "Howrah's historical industrial role has been shaped by its location within which metropolitan area?", "options": ["Greater Kolkata", "Greater Mumbai", "Greater Chennai", "Greater Delhi"], "correctIndex": 0 },
+            { "question": "Berger Paints' growth reflects broader demand driven by India's?", "options": ["Construction and real estate sectors", "Agricultural sector only", "Mining sector only", "Defense sector only"], "correctIndex": 0 }
+          ],
+          "summary": "Berger Paints, with a manufacturing facility in Howrah, West Bengal, is one of India's leading paint manufacturers, with roots tracing back to a company originally established in the 19th century. The company produces decorative and industrial paints, competing alongside other major Indian brands. Howrah's historical role as an industrial center within greater Kolkata has made it a longstanding manufacturing hub, and Berger's growth reflects broader demand driven by India's construction and real estate sectors."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d23_sindhu_darshan",
+          "location": { "name": "Sindhu Darshan Festival, Leh", "lat": 34.1526, "lng": 77.5771 },
+          "questions": [
+            { "question": "The Sindhu Darshan Festival celebrates which river, known in India as the Sindhu?", "options": ["Indus River", "Ganga River", "Brahmaputra River", "Yamuna River"], "correctIndex": 0 },
+            { "question": "The Sindhu Darshan Festival is held annually near which Ladakh town?", "options": ["Leh", "Kargil", "Nubra", "Zanskar"], "correctIndex": 0 },
+            { "question": "The Sindhu Darshan Festival was established in which decade?", "options": ["Late 1990s", "1950s", "1970s", "2000s"], "correctIndex": 0 },
+            { "question": "The festival honors the river's association with which ancient civilization?", "options": ["Indus Valley Civilization", "Mesopotamian Civilization", "Egyptian Civilization", "Mayan Civilization"], "correctIndex": 0 },
+            { "question": "The Sindhu Darshan Festival was conceived partly as a platform to promote?", "options": ["National integration", "International trade", "Military alliances", "Religious conversion"], "correctIndex": 0 }
+          ],
+          "summary": "The Sindhu Darshan Festival, held annually near Leh in Ladakh, celebrates the Indus River, known in India as the Sindhu, honoring its significance as the river that gave India its name and cradle of the Indus Valley Civilization. Established in the late 1990s, the festival was conceived partly as a platform to promote national integration, bringing together participants from across India's diverse states. Sindhu Darshan's relatively recent origins reflect a deliberate modern effort to create a tradition centered on civilizational pride and unity."
+        },
+        {
+          "id": "evt_d23_pang_lhabsol",
+          "location": { "name": "Pang Lhabsol, Gangtok", "lat": 27.3389, "lng": 88.6065 },
+          "questions": [
+            { "question": "Pang Lhabsol is dedicated to worshipping which mountain as Sikkim's guardian deity?", "options": ["Kangchenjunga", "Everest", "Nanda Devi", "Kailash"], "correctIndex": 0 },
+            { "question": "Pang Lhabsol commemorates a historic treaty of blood brotherhood between which two communities?", "options": ["Lepcha and Bhutia", "Nepali and Bhutia", "Lepcha and Nepali", "Sherpa and Lepcha"], "correctIndex": 0 },
+            { "question": "A distinctive feature of Pang Lhabsol is a warrior dance performed by?", "options": ["Monks in armor-like costumes", "Village children", "Female dancers only", "Foreign performers"], "correctIndex": 0 },
+            { "question": "Pang Lhabsol is unique to which Indian state?", "options": ["Sikkim", "Arunachal Pradesh", "Ladakh", "West Bengal"], "correctIndex": 0 },
+            { "question": "Pang Lhabsol reflects a blend of Buddhist practice with?", "options": ["Indigenous mountain worship", "Hindu Vedic rituals", "Islamic customs", "Christian traditions"], "correctIndex": 0 }
+          ],
+          "summary": "Pang Lhabsol, celebrated in Sikkim including in Gangtok, is a Buddhist festival unique to Sikkim, dedicated to worshipping Mount Kangchenjunga as the state's guardian deity. The festival commemorates a historic treaty of blood brotherhood between the Lepcha and Bhutia communities, reinforcing ethnic harmony. A distinctive feature includes a warrior dance performed by monks in elaborate armor-like costumes, re-enacting the guardian deity's protective role, and the festival's association with Sikkim's unique history distinguishes it from other Himalayan Buddhist festivals."
+        },
+        {
+          "id": "evt_d23_nakhoda_masjid",
+          "location": { "name": "Eid at Nakhoda Masjid, Kolkata", "lat": 22.5764, "lng": 88.3520 },
+          "questions": [
+            { "question": "Nakhoda Masjid is located in which Indian city?", "options": ["Kolkata", "Mumbai", "Delhi", "Hyderabad"], "correctIndex": 0 },
+            { "question": "Nakhoda Masjid's architecture draws inspiration from which Mughal-era tomb?", "options": ["Akbar's tomb at Sikandra", "Humayun's Tomb", "Taj Mahal", "Itmad-ud-Daulah's Tomb"], "correctIndex": 0 },
+            { "question": "What does \"Nakhoda\" mean, reflecting the mosque's funding origins?", "options": ["Sailor", "Merchant only", "Farmer", "Soldier"], "correctIndex": 0 },
+            { "question": "Nakhoda Masjid is a focal point for celebrations during which two Islamic festivals?", "options": ["Eid al-Fitr and Eid al-Adha", "Only Eid al-Fitr", "Only Eid al-Adha", "Muharram and Ramadan only"], "correctIndex": 0 },
+            { "question": "Nakhoda Masjid was built with funding from Kolkata's?", "options": ["Muslim trading community", "British colonial government", "Portuguese traders", "French East India Company"], "correctIndex": 0 }
+          ],
+          "summary": "Nakhoda Masjid, in Kolkata, is one of the city's largest mosques and a focal point for Eid celebrations, drawing large congregations during both Eid al-Fitr and Eid al-Adha. Built in the early 20th century with funding from the local Muslim trading community, the mosque's design draws inspiration from Akbar's tomb at Sikandra. The mosque's name, meaning 'sailor,' reflects its funding origins among Kolkata's merchant communities, and Eid celebrations extend into the surrounding neighborhood with markets and food stalls."
+        },
+        {
+          "id": "evt_d23_nashik_kumbh",
+          "location": { "name": "Nashik Kumbh Mela", "lat": 19.9975, "lng": 73.7898 },
+          "questions": [
+            { "question": "Nashik's Kumbh Mela bathing rituals are centered on which river?", "options": ["Godavari River", "Ganga River", "Yamuna River", "Kaveri River"], "correctIndex": 0 },
+            { "question": "Nashik's Kumbh bathing ghat, Ramkund, is believed to be linked to which mythological event?", "options": ["Rama performing rituals for his father", "Krishna's birth", "Shiva's marriage to Parvati", "Ganesha's creation"], "correctIndex": 0 },
+            { "question": "The nearby town closely associated with Nashik's Kumbh, home to a Jyotirlinga shrine, is?", "options": ["Trimbakeshwar", "Shirdi", "Aurangabad", "Pune"], "correctIndex": 0 },
+            { "question": "Nashik's Kumbh Mela, like the other rotating sites, is held roughly every?", "options": ["Twelve years", "Four years", "Twenty years", "Six years"], "correctIndex": 0 },
+            { "question": "Nashik is located in which Indian state?", "options": ["Maharashtra", "Madhya Pradesh", "Gujarat", "Karnataka"], "correctIndex": 0 }
+          ],
+          "summary": "Nashik, in Maharashtra, is one of four rotating sites of the Kumbh Mela, with bathing rituals centered on the Godavari River at Ramkund ghat, believed to be where Lord Rama performed rituals for his father. The Nashik Kumbh, held roughly every twelve years, is closely associated with the nearby town of Trimbakeshwar, home to a Jyotirlinga shrine and considered the source of the Godavari. Nashik's Kumbh Mela draws millions of pilgrims and ascetics, requiring massive infrastructure and security preparations."
+        },
+        {
+          "id": "evt_d23_sant_ravidas",
+          "location": { "name": "Sant Ravidas Jayanti, Varanasi", "lat": 25.2900, "lng": 83.0000 },
+          "questions": [
+            { "question": "Sant Ravidas Jayanti marks the birth anniversary of which saint-poet?", "options": ["Ravidas", "Kabir", "Tulsidas", "Surdas"], "correctIndex": 0 },
+            { "question": "Ravidas is traditionally believed to have been born in which city?", "options": ["Varanasi", "Ayodhya", "Mathura", "Prayagraj"], "correctIndex": 0 },
+            { "question": "Ravidas's teachings emphasized devotion to a formless divine and challenged?", "options": ["Caste-based discrimination", "Foreign rule", "Agricultural taxes", "Trade tariffs"], "correctIndex": 0 },
+            { "question": "Ravidas is associated with which broader religious movement?", "options": ["The Bhakti movement", "The Sufi movement", "The Arya Samaj movement", "The Brahmo Samaj movement"], "correctIndex": 0 },
+            { "question": "Ravidas's teachings hold particular spiritual and social importance among which communities in India?", "options": ["Dalit communities", "Only Brahmin communities", "Only tribal communities", "Only merchant communities"], "correctIndex": 0 }
+          ],
+          "summary": "Sant Ravidas Jayanti, celebrated prominently in Varanasi, marks the birth anniversary of the 15th-century saint-poet Ravidas, whose verses emphasizing social equality continue to hold significant importance, particularly among Dalit communities. Ravidas, associated with the Bhakti movement, is traditionally believed to have been born in Varanasi, where a temple, Sant Ravidas Janam Sthan, draws pilgrims. His teachings challenged caste-based discrimination, and celebrations typically include devotional singing, processions, and community gatherings emphasizing equality."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d23_gst_council",
+          "location": { "name": "GST Council, New Delhi", "lat": 28.6100, "lng": 77.2200 },
+          "questions": [
+            { "question": "The GST Council is responsible for decisions regarding which major tax reform?", "options": ["Goods and Services Tax (GST)", "Income tax", "Corporate tax", "Customs duty"], "correctIndex": 0 },
+            { "question": "GST was implemented in India in which year?", "options": ["2017", "2010", "2020", "2005"], "correctIndex": 0 },
+            { "question": "The GST Council is chaired by which official?", "options": ["The Union Finance Minister", "The Prime Minister", "The President", "The RBI Governor"], "correctIndex": 0 },
+            { "question": "The GST Council includes which other members besides the central chair?", "options": ["State finance ministers", "Only central ministers", "Only state governors", "Only Supreme Court judges"], "correctIndex": 0 },
+            { "question": "GST aimed to create a more unified national market by eliminating?", "options": ["State-level tax barriers", "All import duties", "All corporate taxes", "All property taxes"], "correctIndex": 0 }
+          ],
+          "summary": "The GST Council, headquartered in New Delhi, is the constitutional body responsible for making key decisions regarding India's Goods and Services Tax, implemented in July 2017 to replace a complex web of indirect taxes with a unified structure. Chaired by the Union Finance Minister and including state finance ministers, the council reflects cooperative fiscal federalism requiring consensus between central and state governments. GST aimed to simplify India's tax system and create a unified national market by eliminating state-level tax barriers."
+        },
+        {
+          "id": "pol_d23_telangana_hc",
+          "location": { "name": "Telangana High Court, Hyderabad", "lat": 17.3891, "lng": 78.4794 },
+          "questions": [
+            { "question": "The Telangana High Court was established as a separate court in which year?", "options": ["2014", "2019", "2000", "2024"], "correctIndex": 1 },
+            { "question": "Before its separate establishment, Telangana shared a common High Court with which state?", "options": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Maharashtra"], "correctIndex": 0 },
+            { "question": "The Telangana High Court's separation reflected the process of untangling shared institutions following which event?", "options": ["Bifurcation of united Andhra Pradesh", "India's independence", "Partition", "The 1956 states reorganization"], "correctIndex": 0 },
+            { "question": "The Telangana High Court is headquartered in which city?", "options": ["Hyderabad", "Warangal", "Karimnagar", "Nizamabad"], "correctIndex": 0 },
+            { "question": "How many years after Telangana's statehood was its High Court finally separated?", "options": ["Five years", "One year", "Ten years", "Two years"], "correctIndex": 0 }
+          ],
+          "summary": "The Telangana High Court, headquartered in Hyderabad, was established as a separate court in 2019, following a transitional period after Telangana's 2014 statehood during which the state shared a common High Court with residual Andhra Pradesh. The separation reflected the broader process of untangling shared institutions following the bifurcation of united Andhra Pradesh. The Telangana High Court now exercises exclusive jurisdiction, marking a key step in the institutional separation process begun with statehood five years earlier."
+        },
+        {
+          "id": "pol_d23_andhra_hc",
+          "location": { "name": "Andhra Pradesh High Court, Amaravati", "lat": 16.5062, "lng": 80.6480 },
+          "questions": [
+            { "question": "The Andhra Pradesh High Court was established in its current separate form in which year?", "options": ["2019", "2014", "2000", "2024"], "correctIndex": 0 },
+            { "question": "The Andhra Pradesh High Court's establishment was part of the same process that created which other court?", "options": ["Telangana High Court", "Karnataka High Court", "Kerala High Court", "Madras High Court"], "correctIndex": 0 },
+            { "question": "The Andhra Pradesh High Court is located in which city, the state's new planned capital?", "options": ["Amaravati", "Hyderabad", "Vijayawada", "Visakhapatnam"], "correctIndex": 0 },
+            { "question": "Andhra Pradesh lost Hyderabad as its capital following the formation of which state in 2014?", "options": ["Telangana", "Karnataka", "Tamil Nadu", "Odisha"], "correctIndex": 0 },
+            { "question": "Amaravati's development pace has been part of broader debates about Andhra Pradesh's?", "options": ["Capital arrangements", "Foreign policy", "Military strategy", "Currency policy"], "correctIndex": 0 }
+          ],
+          "summary": "The Andhra Pradesh High Court, established in its current form in 2019 as part of the same judicial separation process that created the Telangana High Court, oversees residual Andhra Pradesh following the 2014 bifurcation. The court's establishment in Amaravati reflects the development of Amaravati as the state's new planned capital, intended to replace Hyderabad. The court's location has been part of broader debates about Amaravati's development pace, marking a significant milestone in post-bifurcation administrative independence."
+        },
+        {
+          "id": "pol_d23_ncw",
+          "location": { "name": "National Commission for Women, New Delhi", "lat": 28.5730, "lng": 77.2320 },
+          "questions": [
+            { "question": "The National Commission for Women was established under which act?", "options": ["National Commission for Women Act", "Protection of Human Rights Act", "Right to Information Act", "Domestic Violence Act"], "correctIndex": 0 },
+            { "question": "In which year was the National Commission for Women established?", "options": ["1985", "1992", "2005", "2014"], "correctIndex": 1 },
+            { "question": "The National Commission for Women investigates complaints regarding?", "options": ["Harassment, discrimination, and violence against women", "Only workplace disputes", "Only property disputes", "Only criminal cases generally"], "correctIndex": 0 },
+            { "question": "Besides individual complaints, the commission also conducts studies on issues including?", "options": ["Workplace discrimination and domestic violence", "Only foreign trade", "Only agricultural policy", "Only military affairs"], "correctIndex": 0 },
+            { "question": "Similar to the national body, what has been established across most Indian states?", "options": ["State Women's Commissions", "State Election Commissions", "State Human Rights Councils", "State Vigilance Bureaus"], "correctIndex": 0 }
+          ],
+          "summary": "The National Commission for Women, headquartered in New Delhi, was established in 1992 under the National Commission for Women Act to safeguard women's constitutional and legal rights and address complaints of rights violations. The commission investigates individual complaints of harassment, discrimination, and violence against women, while also reviewing laws and recommending legislative changes. Beyond individual cases, it conducts studies on workplace discrimination and domestic violence, and similar State Women's Commissions have since been established across most states."
+        },
+        {
+          "id": "pol_d23_mumbai_municipal",
+          "location": { "name": "Mumbai Municipal Corporation, 74th Amendment", "lat": 18.9388, "lng": 72.8354 },
+          "questions": [
+            { "question": "The Brihanmumbai Municipal Corporation is widely regarded as India's?", "options": ["Richest municipal body", "Oldest municipal body", "Smallest municipal body", "Least funded municipal body"], "correctIndex": 0 },
+            { "question": "Which Constitutional Amendment gave formal constitutional status to urban local bodies across India?", "options": ["74th Amendment", "73rd Amendment", "42nd Amendment", "61st Amendment"], "correctIndex": 0 },
+            { "question": "The 74th Amendment was passed in which year?", "options": ["1992", "1985", "2000", "1975"], "correctIndex": 0 },
+            { "question": "Before the 74th Amendment, municipal governance in India varied significantly in?", "options": ["Structure and legal standing across states", "Physical size only", "Population served only", "Geographic location only"], "correctIndex": 0 },
+            { "question": "The Brihanmumbai Municipal Corporation manages essential civic services including water supply, waste management, and?", "options": ["Local infrastructure", "Foreign policy", "National defense", "Space exploration"], "correctIndex": 0 }
+          ],
+          "summary": "The Brihanmumbai Municipal Corporation, governing Mumbai, is widely regarded as India's richest municipal body, with a budget exceeding that of several smaller Indian states. The corporation's governance structure is shaped significantly by the 74th Constitutional Amendment of 1992, which gave formal constitutional status to urban local bodies across India. Before this amendment, municipal governance varied significantly in structure across states, and the corporation now manages essential civic services for one of the world's most populous urban areas."
+        }
+      ]
+    }
+  }
+}

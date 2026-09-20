@@ -1,0 +1,326 @@
+{
+  "day": 28,
+  "date": "2026-10-28",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d28_sambhar_lake",
+          "location": { "name": "Sambhar Lake, Rajasthan", "lat": 26.9167, "lng": 75.0833 },
+          "questions": [
+            { "question": "Sambhar Lake is notable as India's largest inland?", "options": ["Saltwater lake", "Freshwater lake", "Glacial lake", "Volcanic lake"], "correctIndex": 0 },
+            { "question": "Sambhar Lake is located in which Indian state?", "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Haryana"], "correctIndex": 0 },
+            { "question": "Sambhar Lake has historically been a significant source of which mineral?", "options": ["Salt", "Gold", "Diamonds", "Coal"], "correctIndex": 0 },
+            { "question": "Sambhar Lake serves as an important seasonal habitat for large numbers of migratory?", "options": ["Flamingos", "Elephants", "Tigers", "Snow leopards"], "correctIndex": 0 },
+            { "question": "Sambhar Lake's ecological health has been threatened by unregulated expansion of?", "options": ["Salt pans", "Coal mines", "Urban housing", "Textile factories"], "correctIndex": 0 }
+          ],
+          "summary": "Sambhar Lake, in Rajasthan, is India's largest inland saltwater lake, formed within a natural depression and has been a significant source of salt production for centuries. Salt harvesting operations continue today under state-run enterprises, contributing to India's domestic salt production. The lake also serves as an important seasonal habitat for migratory flamingos and other waterbirds, and its ecological health has occasionally been threatened by unregulated salt pan expansion and water diversion, prompting periodic conservation attention."
+        },
+        {
+          "id": "geo_d28_hussain_sagar",
+          "location": { "name": "Hussain Sagar Lake, Hyderabad", "lat": 17.4239, "lng": 78.4738 },
+          "questions": [
+            { "question": "Hussain Sagar Lake was built in the 16th century by?", "options": ["Hussain Shah Wali", "Muhammad Quli Qutb Shah", "Ibrahim Adil Shah II", "Akbar"], "correctIndex": 0 },
+            { "question": "Hussain Sagar Lake connects which two twin cities?", "options": ["Hyderabad and Secunderabad", "Delhi and New Delhi", "Mumbai and Thane", "Kolkata and Howrah"], "correctIndex": 0 },
+            { "question": "Hussain Sagar Lake is famous for a monolithic statue of which figure on a small island?", "options": ["Buddha", "Shiva", "Krishna", "Ganesha"], "correctIndex": 0 },
+            { "question": "The small island housing the Buddha statue is called?", "options": ["Rock of Gibraltar", "Elephanta Island", "Rameswaram Island", "Diu Island"], "correctIndex": 0 },
+            { "question": "Hussain Sagar Lake hosts large-scale immersion ceremonies during which festival?", "options": ["Ganesh Chaturthi", "Diwali", "Holi", "Navratri"], "correctIndex": 0 }
+          ],
+          "summary": "Hussain Sagar Lake, in the heart of Hyderabad, is a large artificial lake built in the 16th century by Hussain Shah Wali, connecting the twin cities of Hyderabad and Secunderabad. The lake is famous for its centrally located monolithic Buddha statue on the Rock of Gibraltar island. Hussain Sagar has become a popular recreational spot, hosting large-scale immersion ceremonies during Ganesh Chaturthi each year, though it has faced considerable pollution challenges prompting various cleanup initiatives over the decades."
+        },
+        {
+          "id": "geo_d28_rewalsar",
+          "location": { "name": "Rewalsar Lake, Himachal Pradesh", "lat": 31.6333, "lng": 76.8333 },
+          "questions": [
+            { "question": "Rewalsar Lake is revered by which three religious traditions?", "options": ["Hindus, Buddhists, and Sikhs", "Only Hindus", "Only Buddhists", "Only Sikhs"], "correctIndex": 0 },
+            { "question": "Buddhists venerate Rewalsar as connected to which tantric master?", "options": ["Padmasambhava", "Nagarjuna", "Ashvaghosha", "Atisha"], "correctIndex": 0 },
+            { "question": "Padmasambhava is credited with introducing Buddhism to?", "options": ["Tibet", "China", "Japan", "Sri Lanka"], "correctIndex": 0 },
+            { "question": "Rewalsar Lake's Sikh significance is connected to a visit by which Guru?", "options": ["Guru Gobind Singh", "Guru Nanak", "Guru Arjan Dev", "Guru Hargobind"], "correctIndex": 0 },
+            { "question": "A natural curiosity of Rewalsar Lake is its floating reed islands, which shift due to?", "options": ["Underground gas emissions", "Strong winds", "Tidal currents", "Fish migration"], "correctIndex": 0 }
+          ],
+          "summary": "Rewalsar Lake, in Himachal Pradesh, is a small but religiously significant lake revered by Hindus, Buddhists, and Sikhs alike. Buddhists particularly venerate it as the site from which the tantric master Padmasambhava, credited with introducing Buddhism to Tibet, is believed to have departed. The lake also holds significance for Sikhs, connected to Guru Gobind Singh, and for Hindus, associated with the sage Lomas. Floating reed islands that shift due to underground gas emissions add a further layer of natural curiosity."
+        },
+        {
+          "id": "geo_d28_tso_kar",
+          "location": { "name": "Tso Kar, Ladakh", "lat": 33.2000, "lng": 78.0167 },
+          "questions": [
+            { "question": "What does \"Tso Kar\" translate to?", "options": ["White lake", "Blue lake", "Black lake", "Golden lake"], "correctIndex": 0 },
+            { "question": "Tso Kar is part of the Changthang region, alongside which better-known lake?", "options": ["Pangong Tso", "Dal Lake", "Wular Lake", "Chilika Lake"], "correctIndex": 0 },
+            { "question": "Tso Kar serves as an important breeding ground for which rare crane species?", "options": ["Black-necked crane", "Siberian crane", "Sarus crane", "Demoiselle crane"], "correctIndex": 0 },
+            { "question": "Tso Kar is situated at an elevation of over how many meters?", "options": ["4,500 meters", "1,000 meters", "2,000 meters", "8,000 meters"], "correctIndex": 0 },
+            { "question": "Tso Kar is located in which Indian Union Territory?", "options": ["Ladakh", "Jammu and Kashmir", "Himachal Pradesh", "Sikkim"], "correctIndex": 0 }
+          ],
+          "summary": "Tso Kar, in Ladakh, is a high-altitude salt lake situated at over 4,500 meters, forming part of the remote Changthang region alongside better-known lakes like Pangong Tso. The lake's name translates to 'white lake,' referencing salt deposits along its shores. Tso Kar serves as an important breeding ground for the black-necked crane, one of the rarest crane species in the world, and its remote location has kept visitor numbers considerably lower than Pangong Tso, preserving its undisturbed ecological character."
+        },
+        {
+          "id": "geo_d28_umiam_lake",
+          "location": { "name": "Umiam Lake (Barapani), Meghalaya", "lat": 25.6500, "lng": 91.8833 },
+          "questions": [
+            { "question": "Umiam Lake is also known by which other name?", "options": ["Barapani", "Naukuchiatal", "Sattal", "Bhimtal"], "correctIndex": 0 },
+            { "question": "Umiam Lake was created as part of a project of which type?", "options": ["Hydroelectric dam project", "Irrigation canal project", "Flood control project only", "Fishery project only"], "correctIndex": 0 },
+            { "question": "Umiam Lake is located near which Meghalaya city?", "options": ["Shillong", "Tura", "Jowai", "Nongpoh"], "correctIndex": 0 },
+            { "question": "Umiam Lake was created in which decade?", "options": ["1960s", "1980s", "1940s", "2000s"], "correctIndex": 0 },
+            { "question": "Umiam Lake serves dual functions of power generation and?", "options": ["Recreation", "Only agriculture", "Only fishing", "Only mining"], "correctIndex": 0 }
+          ],
+          "summary": "Umiam Lake, also known as Barapani, is a large artificial reservoir near Shillong in Meghalaya, created in the 1960s as part of a hydroelectric dam project on the Umiam River. The lake's scenic setting, surrounded by forested hills, has made it a popular destination for water sports. Umiam's hydroelectric project represented important infrastructure development for Meghalaya's power generation capacity, and the reservoir's continued role in supplying electricity alongside its recreational value illustrates the dual functions many artificial lakes serve."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d28_lal_mandir",
+          "location": { "name": "Lal Mandir, Delhi", "lat": 28.6519, "lng": 77.2315 },
+          "questions": [
+            { "question": "Lal Mandir in Delhi is considered the city's oldest temple of which religion?", "options": ["Jainism", "Hinduism", "Buddhism", "Sikhism"], "correctIndex": 0 },
+            { "question": "Lal Mandir is named for its construction from which material?", "options": ["Red sandstone", "White marble", "Black granite", "Grey limestone"], "correctIndex": 0 },
+            { "question": "Lal Mandir is located directly opposite which major Delhi landmark?", "options": ["Red Fort", "Jama Masjid", "Humayun's Tomb", "Qutb Minar"], "correctIndex": 0 },
+            { "question": "Lal Mandir's temple complex includes a well-known facility for treating?", "options": ["Injured birds", "Injured cattle", "Homeless children", "Elderly pilgrims"], "correctIndex": 0 },
+            { "question": "The bird hospital at Lal Mandir reflects the Jain principle of?", "options": ["Ahimsa (non-violence)", "Karma", "Moksha", "Dharma"], "correctIndex": 0 }
+          ],
+          "summary": "Sri Digambar Jain Lal Mandir, in Old Delhi, is considered the oldest Jain temple in the city, built in the 17th century and named for its distinctive red sandstone construction, standing opposite the Red Fort. The temple complex includes a well-known bird hospital, established in the early 20th century, reflecting the Jain principle of ahimsa, or non-violence, extended to injured birds. Lal Mandir's continued active use as both a place of worship and a functioning animal welfare facility reflects a practical application of Jain principles."
+        },
+        {
+          "id": "cul_d28_moti_masjid",
+          "location": { "name": "Moti Masjid, Agra Fort", "lat": 27.1795, "lng": 78.0211 },
+          "questions": [
+            { "question": "The Moti Masjid, within Agra Fort, was built by which Mughal emperor?", "options": ["Shah Jahan", "Akbar", "Aurangzeb", "Humayun"], "correctIndex": 0 },
+            { "question": "Moti Masjid is constructed entirely from which material?", "options": ["White marble", "Red sandstone", "Black granite", "Terracotta"], "correctIndex": 0 },
+            { "question": "What does \"Moti Masjid\" translate to?", "options": ["Pearl Mosque", "Golden Mosque", "Silver Mosque", "Diamond Mosque"], "correctIndex": 0 },
+            { "question": "The Moti Masjid was built primarily for the use of?", "options": ["The emperor and royal household", "The general public", "Foreign dignitaries only", "Military officers only"], "correctIndex": 0 },
+            { "question": "Moti Masjid is part of which larger UNESCO World Heritage complex?", "options": ["Agra Fort", "Red Fort of Delhi", "Fatehpur Sikri", "Humayun's Tomb"], "correctIndex": 0 }
+          ],
+          "summary": "The Moti Masjid, within the Agra Fort complex, is a mosque built by Mughal emperor Shah Jahan in the mid-17th century, constructed entirely from white marble and named the 'Pearl Mosque' for its luminous appearance. Built for the emperor's personal use, it reflects a more intimate function compared to larger public mosques like Delhi's Jama Masjid built during the same era. The mosque's simple, elegant design contrasts with more elaborate Mughal structures, and it remains within the UNESCO-listed Agra Fort complex."
+        },
+        {
+          "id": "cul_d28_sidi_saiyyed",
+          "location": { "name": "Sidi Saiyyed Mosque, Ahmedabad", "lat": 23.0258, "lng": 72.5872 },
+          "questions": [
+            { "question": "The Sidi Saiyyed Mosque is renowned primarily for its intricately carved stone?", "options": ["Latticework windows (jalis)", "Domes", "Minarets", "Courtyard fountains"], "correctIndex": 0 },
+            { "question": "The mosque's most famous jali design depicts an elaborately detailed?", "options": ["Tree", "Peacock", "Lotus flower", "Elephant"], "correctIndex": 0 },
+            { "question": "The Sidi Saiyyed Mosque's tree design has become an iconic symbol reproduced in the logo of a prominent Indian?", "options": ["Design institute", "Bank", "Airline", "Space agency"], "correctIndex": 0 },
+            { "question": "The mosque's construction is attributed to Sidi Saiyyed, a figure of which origin?", "options": ["Abyssinian origin", "Portuguese origin", "Persian origin", "Turkish origin"], "correctIndex": 0 },
+            { "question": "The Sidi Saiyyed Mosque was built during the final years of which sultanate?", "options": ["Gujarat Sultanate", "Bahmani Sultanate", "Delhi Sultanate", "Bijapur Sultanate"], "correctIndex": 0 }
+          ],
+          "summary": "The Sidi Saiyyed Mosque, in Ahmedabad, Gujarat, built in the late 16th century, is renowned for its intricately carved stone latticework windows, particularly one depicting an elaborately detailed tree design that has become an iconic city symbol. Built during the final years of the Gujarat Sultanate, the mosque's construction is attributed to Sidi Saiyyed, of Abyssinian origin, reflecting the cosmopolitan character of Gujarat's ruling establishments. The tree carving continues to be celebrated as one of the finest examples of Indo-Islamic stone lattice work."
+        },
+        {
+          "id": "cul_d28_city_palace_udaipur",
+          "location": { "name": "City Palace, Udaipur", "lat": 24.5764, "lng": 73.6835 },
+          "questions": [
+            { "question": "The City Palace in Udaipur was built and expanded by successive rulers of which dynasty?", "options": ["Mewar dynasty", "Marwar dynasty", "Amber dynasty", "Bikaner dynasty"], "correctIndex": 0 },
+            { "question": "The City Palace in Udaipur overlooks which lake?", "options": ["Lake Pichola", "Fateh Sagar", "Ana Sagar", "Dal Lake"], "correctIndex": 0 },
+            { "question": "The City Palace's architecture combines Rajput influences with which other style?", "options": ["Mughal architectural influences", "Gothic influences", "Buddhist influences", "Colonial European influences"], "correctIndex": 0 },
+            { "question": "The Mewar royal family is historically noted for never fully submitting to which authority?", "options": ["Mughal authority", "British authority", "Maratha authority", "Portuguese authority"], "correctIndex": 0 },
+            { "question": "A significant portion of the City Palace complex now functions as a?", "options": ["Museum", "Hotel exclusively", "Government office", "Military barracks"], "correctIndex": 0 }
+          ],
+          "summary": "The City Palace, in Udaipur, Rajasthan, is one of the largest palace complexes in the state, built and expanded over roughly four centuries by successive Maharanas of the Mewar dynasty. Overlooking Lake Pichola, the palace combines Rajput and Mughal architectural influences across an extensive complex of courtyards and pavilions. A significant portion now functions as a museum displaying royal artifacts, and the Mewar royal family is historically noted for never fully submitting to Mughal authority, a distinction reflected in the palace's displays."
+        },
+        {
+          "id": "cul_d28_mehrangarh",
+          "location": { "name": "Mehrangarh Fort, Jodhpur", "lat": 26.2983, "lng": 73.0182 },
+          "questions": [
+            { "question": "Mehrangarh Fort was built starting in the 15th century by which ruler?", "options": ["Rao Jodha", "Maharana Kumbha", "Man Singh Tomar", "Sawai Jai Singh"], "correctIndex": 0 },
+            { "question": "Jodhpur city is named after which ruler, the founder of Mehrangarh Fort?", "options": ["Rao Jodha", "Rana Sanga", "Prithviraj Chauhan", "Akbar"], "correctIndex": 0 },
+            { "question": "Mehrangarh Fort's massive walls in some places reach heights of over?", "options": ["36 meters", "5 meters", "100 meters", "15 meters"], "correctIndex": 0 },
+            { "question": "Mehrangarh Fort's museum showcases artifacts including palanquins, weaponry, and elaborately decorated?", "options": ["Howdahs for elephant rides", "Modern automobiles", "Aircraft models", "Ship replicas"], "correctIndex": 0 },
+            { "question": "Jodhpur is popularly known by which nickname, referring to its distinctive house colors?", "options": ["Blue City", "Pink City", "White City", "Golden City"], "correctIndex": 0 }
+          ],
+          "summary": "Mehrangarh Fort, in Jodhpur, Rajasthan, is one of India's largest and most imposing forts, perched atop a rocky hill roughly 120 meters above the city, built starting in the 15th century by Rao Jodha, founder of Jodhpur. The fort's massive walls, reaching heights of over 36 meters, historically made it a formidable stronghold. Mehrangarh houses an extensive museum showcasing royal artifacts, and the fort's commanding position offers panoramic views over Jodhpur, popularly known as the 'Blue City.'"
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d28_vssc",
+          "location": { "name": "VSSC, Thiruvananthapuram", "lat": 8.5473, "lng": 76.8961 },
+          "questions": [
+            { "question": "The Vikram Sarabhai Space Centre (VSSC) is primarily focused on which aspect of India's space program?", "options": ["Rocket and launch vehicle design and development", "Satellite communications only", "Astronaut training only", "Space law and policy"], "correctIndex": 0 },
+            { "question": "VSSC is named after which figure, considered the father of India's space program?", "options": ["Vikram Sarabhai", "Homi Bhabha", "APJ Abdul Kalam", "Satish Dhawan"], "correctIndex": 0 },
+            { "question": "VSSC is located in which Indian city?", "options": ["Thiruvananthapuram", "Bengaluru", "Sriharikota", "Ahmedabad"], "correctIndex": 0 },
+            { "question": "VSSC's origins trace back to a modest site originally chosen for early?", "options": ["Sounding rocket experiments", "Nuclear reactor tests", "Satellite manufacturing", "Astronaut training"], "correctIndex": 0 },
+            { "question": "VSSC's work underpins launch vehicle technology used across missions by which organization?", "options": ["Indian Space Research Organisation (ISRO)", "Department of Atomic Energy", "Ministry of Defence", "Indian Air Force"], "correctIndex": 0 }
+          ],
+          "summary": "The Vikram Sarabhai Space Centre (VSSC), in Thiruvananthapuram, Kerala, is India's primary rocket and launch vehicle design center, playing a foundational role in India's space program since the 1960s. Named after Vikram Sarabhai, the father of India's space program, the center has been central to developing launch vehicles that carried Indian satellites and missions like Chandrayaan into space. VSSC's origins trace back to a modest fishing village site for early sounding rocket experiments, underpinning much of ISRO's launch vehicle technology today."
+        },
+        {
+          "id": "eco_d28_ntpc_dadri",
+          "location": { "name": "NTPC Dadri, Uttar Pradesh", "lat": 28.5667, "lng": 77.5667 },
+          "questions": [
+            { "question": "NTPC's Dadri power plant is located in which Indian state?", "options": ["Uttar Pradesh", "Haryana", "Delhi", "Rajasthan"], "correctIndex": 0 },
+            { "question": "NTPC Dadri primarily supplies electricity to which region?", "options": ["National Capital Region", "Western India", "Southern India", "Northeastern India"], "correctIndex": 0 },
+            { "question": "NTPC Dadri utilizes which two fuel sources across its generating units?", "options": ["Coal and natural gas", "Only solar power", "Only nuclear fuel", "Only hydroelectric power"], "correctIndex": 0 },
+            { "question": "NTPC Dadri's location has drawn scrutiny due to its proximity to?", "options": ["Densely populated areas", "Remote desert regions", "Coastal fishing zones", "Mountain ranges"], "correctIndex": 0 },
+            { "question": "NTPC Dadri contributes to meeting electricity demands while raising concerns about?", "options": ["Air quality impacts", "Water scarcity only", "Currency fluctuations", "Foreign trade deficits"], "correctIndex": 0 }
+          ],
+          "summary": "NTPC's power plant at Dadri, in Uttar Pradesh, is a significant thermal power facility supplying electricity to the National Capital Region, benefiting from proximity to Delhi's electricity consumption centers. The plant utilizes both coal and natural gas across its generating units. Dadri's location has occasionally drawn scrutiny given its proximity to densely populated areas, raising air quality concerns, and the facility remains an important contributor to meeting the National Capital Region's growing electricity demands."
+        },
+        {
+          "id": "eco_d28_hindustan_shipyard",
+          "location": { "name": "Hindustan Shipyard Limited, Visakhapatnam", "lat": 17.6868, "lng": 83.2185 },
+          "questions": [
+            { "question": "Hindustan Shipyard Limited is located in which Indian city?", "options": ["Visakhapatnam", "Chennai", "Mumbai", "Kochi"], "correctIndex": 0 },
+            { "question": "Hindustan Shipyard Limited has been particularly significant for its work on?", "options": ["Submarine construction and repair", "Only fishing boat construction", "Only passenger ferry construction", "Only cargo container manufacturing"], "correctIndex": 0 },
+            { "question": "Visakhapatnam's naval significance is tied to its role as headquarters for which naval command?", "options": ["Eastern Naval Command", "Western Naval Command", "Southern Naval Command", "Northern Naval Command"], "correctIndex": 0 },
+            { "question": "Hindustan Shipyard Limited was established in which century?", "options": ["Early 20th century", "Late 19th century", "Mid 20th century", "21st century"], "correctIndex": 0 },
+            { "question": "Hindustan Shipyard's operations reflect India's efforts to reduce dependence on?", "options": ["Foreign vessel construction and maintenance", "Domestic labor", "Foreign educational institutions", "Imported food"], "correctIndex": 0 }
+          ],
+          "summary": "Hindustan Shipyard Limited, in Visakhapatnam, Andhra Pradesh, is one of India's oldest public sector shipbuilding facilities, established in the early 20th century. The shipyard has been particularly significant for submarine construction and repair, supporting the Indian Navy's underwater fleet. Visakhapatnam's strategic location, home to the Eastern Naval Command headquarters, made it a logical choice for shipbuilding capacity, and the shipyard's operations reflect India's efforts to reduce dependence on foreign vessel construction."
+        },
+        {
+          "id": "eco_d28_iisc",
+          "location": { "name": "Indian Institute of Science, Bengaluru", "lat": 13.0219, "lng": 77.5671 },
+          "questions": [
+            { "question": "The Indian Institute of Science (IISc) was established through funding from which industrialist?", "options": ["Jamsetji Tata", "G.D. Birla", "Dhirubhai Ambani", "JRD Tata"], "correctIndex": 0 },
+            { "question": "In which year was IISc established?", "options": ["1909", "1947", "1950", "1857"], "correctIndex": 0 },
+            { "question": "IISc received support, alongside Tata's philanthropic funding, from which princely state?", "options": ["Mysore", "Hyderabad", "Travancore", "Baroda"], "correctIndex": 0 },
+            { "question": "IISc alumni have made substantial contributions to India's nuclear, space, and?", "options": ["Defense research programs", "Agricultural export policy", "Foreign diplomacy", "Textile manufacturing"], "correctIndex": 0 },
+            { "question": "IISc's establishment in Bengaluru occurred decades before the city's later emergence as India's?", "options": ["Technology hub", "Financial capital", "Political capital", "Manufacturing hub"], "correctIndex": 0 }
+          ],
+          "summary": "The Indian Institute of Science (IISc), in Bengaluru, is widely regarded as one of India's premier research institutions, established in 1909 through philanthropic funding from industrialist Jamsetji Tata and support from the Mysore princely state. IISc has trained generations of Indian scientists and engineers, with alumni contributing substantially to India's nuclear, space, and defense research programs. The institute's establishment decades before Bengaluru's later emergence as India's technology hub reflects the city's long-standing foundational role in scientific infrastructure."
+        },
+        {
+          "id": "eco_d28_igi_airport",
+          "location": { "name": "Delhi International Airport (IGI)", "lat": 28.5562, "lng": 77.1000 },
+          "questions": [
+            { "question": "Indira Gandhi International Airport is recognized as India's busiest airport by?", "options": ["Passenger traffic", "Cargo volume only", "Number of runways", "Number of employees"], "correctIndex": 0 },
+            { "question": "The airport is named after which former Indian Prime Minister?", "options": ["Indira Gandhi", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Rajiv Gandhi"], "correctIndex": 0 },
+            { "question": "The airport underwent significant restructuring in the mid-2000s through a?", "options": ["Public-private partnership", "Full government nationalization", "Foreign takeover", "Military transfer"], "correctIndex": 0 },
+            { "question": "The airport's Terminal 3 opened in 2010 ahead of which major event hosted in Delhi?", "options": ["Commonwealth Games", "Olympics", "G20 Summit", "Asian Games"], "correctIndex": 0 },
+            { "question": "IGI Airport's growth reflects India's broader expansion in?", "options": ["Commercial aviation", "Maritime shipping", "Rail infrastructure", "Space exploration"], "correctIndex": 0 }
+          ],
+          "summary": "Indira Gandhi International Airport, in New Delhi, is India's busiest airport by passenger traffic, serving as a major hub connecting India to domestic and international destinations. Named after former Prime Minister Indira Gandhi, the airport underwent significant restructuring in the mid-2000s through a public-private partnership. Terminal 3, opened in 2010 ahead of the Commonwealth Games, was among the largest airport terminals in the world, reflecting India's growing aviation infrastructure ambitions and expanding commercial aviation sector."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d28_camel_festival",
+          "location": { "name": "Camel Festival, Bikaner", "lat": 28.0229, "lng": 73.3119 },
+          "questions": [
+            { "question": "The Bikaner Camel Festival celebrates the region's cultural association with?", "options": ["Camels", "Horses", "Elephants", "Bulls"], "correctIndex": 0 },
+            { "question": "The Camel Festival features competitions in camel decoration, races, and?", "options": ["Camel dance performances", "Camel racing only", "Camel milking contests only", "Camel wrestling"], "correctIndex": 0 },
+            { "question": "Bikaner is home to which institution focused on camel research?", "options": ["National Research Centre on Camel", "Central Camel Breeding Institute", "Desert Wildlife Research Council", "Rajasthan Animal Husbandry Board"], "correctIndex": 0 },
+            { "question": "The Camel Festival is held in which Indian state?", "options": ["Rajasthan", "Gujarat", "Haryana", "Punjab"], "correctIndex": 0 },
+            { "question": "The Camel Festival's celebrations include colorful processions, folk music, and?", "options": ["Fireworks displays", "Underwater shows", "Ice sculptures", "Space exhibitions"], "correctIndex": 0 }
+          ],
+          "summary": "The Bikaner Camel Festival, held annually in Rajasthan, celebrates the region's deep cultural association with camels, historically essential to desert transportation and military use in the Thar Desert. The festival features camel decoration competitions, races, and dance performances. Bikaner's status as home to the National Research Centre on Camel adds an institutional dimension, and the festival's colorful processions and folk music have made it a significant tourist draw promoting desert-region cultural tourism."
+        },
+        {
+          "id": "evt_d28_cheiraoba",
+          "location": { "name": "Cheiraoba, Imphal", "lat": 24.8170, "lng": 93.9368 },
+          "questions": [
+            { "question": "Cheiraoba marks the traditional New Year for which community?", "options": ["Meitei community", "Naga community", "Bodo community", "Khasi community"], "correctIndex": 0 },
+            { "question": "A distinctive Cheiraoba tradition involves climbing to nearby?", "options": ["Hilltops", "River banks", "Temple towers", "Forest clearings"], "correctIndex": 0 },
+            { "question": "Climbing hilltops during Cheiraoba is believed to bring?", "options": ["Good fortune and better prospects", "Rainfall for crops", "Military victory", "Academic success"], "correctIndex": 0 },
+            { "question": "Cheiraoba's date is determined according to the traditional?", "options": ["Meitei lunar calendar", "Gregorian calendar", "Islamic calendar", "Bengali calendar"], "correctIndex": 0 },
+            { "question": "Cheiraoba is celebrated by the Meitei community in which Indian state?", "options": ["Manipur", "Mizoram", "Nagaland", "Tripura"], "correctIndex": 0 }
+          ],
+          "summary": "Cheiraoba, celebrated by the Meitei community in Manipur including in Imphal, marks the traditional Meitei New Year, observed with rituals of cleaning homes and offering prayers for prosperity. A distinctive tradition involves climbing to nearby hilltops on the day of celebration, believed to bring good fortune. Cheiraoba's date is determined according to the traditional Meitei lunar calendar, and the festival's emphasis on family gatherings reflects broader New Year themes while retaining distinctly Meitei characteristics."
+        },
+        {
+          "id": "evt_d28_yoga_day_rishikesh",
+          "location": { "name": "International Yoga Day, Rishikesh", "lat": 30.0869, "lng": 78.2676 },
+          "questions": [
+            { "question": "International Yoga Day is observed globally on which date?", "options": ["June 21st", "January 26th", "August 15th", "October 2nd"], "correctIndex": 0 },
+            { "question": "Rishikesh is often referred to by which nickname, related to yoga?", "options": ["Yoga capital of the world", "Spiritual center of Asia", "Meditation hub of India", "Ashram city"], "correctIndex": 0 },
+            { "question": "International Yoga Day was established following a resolution passed by which international body?", "options": ["United Nations", "World Health Organization", "UNESCO", "G20"], "correctIndex": 0 },
+            { "question": "In which year was the United Nations resolution establishing International Yoga Day passed?", "options": ["2014", "2000", "2010", "2020"], "correctIndex": 0 },
+            { "question": "Rishikesh is situated along the banks of which river?", "options": ["Ganga", "Yamuna", "Godavari", "Narmada"], "correctIndex": 0 }
+          ],
+          "summary": "International Yoga Day, observed globally on June 21st, holds particular significance in Rishikesh, Uttarakhand, often called the 'yoga capital of the world' due to its long history of yoga instruction and ashrams along the Ganga. The day was established following a 2014 United Nations resolution championed by India's government. Rishikesh's ghats and yoga centers host large public gatherings on this day, drawing practitioners given the city's symbolic significance to the yoga tradition."
+        },
+        {
+          "id": "evt_d28_sant_tukaram_beej",
+          "location": { "name": "Sant Tukaram Beej, Dehu", "lat": 18.7167, "lng": 73.7500 },
+          "questions": [
+            { "question": "Sant Tukaram Beej commemorates the death anniversary of which poet-saint?", "options": ["Tukaram", "Dnyaneshwar", "Namdev", "Eknath"], "correctIndex": 0 },
+            { "question": "Tukaram was a central figure in which devotional tradition?", "options": ["Warkari tradition", "Bhakti movement in Bengal", "Sufi tradition", "Nath tradition"], "correctIndex": 0 },
+            { "question": "Tukaram's devotional compositions are known as?", "options": ["Abhangas", "Bhajans only", "Kirtans only", "Dohas"], "correctIndex": 0 },
+            { "question": "According to Warkari tradition, Tukaram is believed to have ascended to heaven in?", "options": ["Bodily form", "Spirit form only", "A dream", "A vision only"], "correctIndex": 0 },
+            { "question": "Sant Tukaram Beej is observed in which town, Tukaram's birthplace?", "options": ["Dehu", "Alandi", "Pandharpur", "Nashik"], "correctIndex": 0 }
+          ],
+          "summary": "Sant Tukaram Beej, observed in Dehu, Maharashtra, commemorates the death anniversary of the 17th-century poet-saint Tukaram, a central figure in the Warkari devotional tradition. Dehu, Tukaram's birthplace, hosts commemorative gatherings drawing devotees who follow the Warkari tradition's devotional singing. According to tradition, Tukaram is believed to have ascended to heaven in bodily form, and his 'abhangas,' emphasizing social equality and personal devotion, continue to hold significant cultural influence in Maharashtra."
+        },
+        {
+          "id": "evt_d28_muharram_lucknow",
+          "location": { "name": "Muharram, Lucknow", "lat": 26.8467, "lng": 80.9462 },
+          "questions": [
+            { "question": "Lucknow was historically the capital of which region under Shia Nawab rulers?", "options": ["Awadh region", "Bengal region", "Deccan region", "Punjab region"], "correctIndex": 0 },
+            { "question": "Buildings specifically constructed for Muharram observances in Lucknow are called?", "options": ["Imambaras", "Dargahs", "Khanqahs", "Madrasas"], "correctIndex": 0 },
+            { "question": "Lucknow's most famous Imambara, a central Muharram venue, is called?", "options": ["Bara Imambara", "Chota Imambara", "Jama Imambara", "Shah Imambara"], "correctIndex": 0 },
+            { "question": "Lucknow's Muharram traditions include the recitation of elegiac poetry called?", "options": ["Marsiya", "Qawwali", "Ghazal only", "Naat"], "correctIndex": 0 },
+            { "question": "Lucknow's Muharram traditions were historically shaped by the patronage of which ruling family?", "options": ["Awadh Nawabs", "Mughal Emperors", "Adil Shahi Sultans", "Qutb Shahi Sultans"], "correctIndex": 0 }
+          ],
+          "summary": "Muharram observances in Lucknow, historically the capital of the Awadh region under Shia Nawab rulers, hold particular cultural significance given the city's deep association with Shia mourning traditions. Lucknow's Imambaras, including the famous Bara Imambara, serve as central venues for mourning processions during Muharram. The city's traditions include reciting 'marsiya,' elegiac poetry mourning Imam Hussain's martyrdom, reflecting Lucknow's importance as an Urdu literary center historically shaped by the Awadh Nawabs' patronage."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d28_cci",
+          "location": { "name": "Competition Commission of India, New Delhi", "lat": 28.6280, "lng": 77.2000 },
+          "questions": [
+            { "question": "The Competition Commission of India was established under which act?", "options": ["Competition Act of 2002", "Companies Act", "Consumer Protection Act", "Right to Information Act"], "correctIndex": 0 },
+            { "question": "The CCI is primarily responsible for enforcing which area of law?", "options": ["Competition law", "Criminal law", "Tax law", "Environmental law"], "correctIndex": 0 },
+            { "question": "The CCI reviews proposed corporate mergers and acquisitions above certain thresholds to assess their impact on?", "options": ["Market competition", "Foreign trade balances", "Currency stability", "Election funding"], "correctIndex": 0 },
+            { "question": "CCI's establishment replaced an earlier, more limited framework for regulating?", "options": ["Monopolies", "Foreign trade", "Banking", "Agriculture"], "correctIndex": 0 },
+            { "question": "The Competition Commission of India is headquartered in which city?", "options": ["New Delhi", "Mumbai", "Bengaluru", "Chennai"], "correctIndex": 0 }
+          ],
+          "summary": "The Competition Commission of India (CCI), headquartered in New Delhi, is the statutory body enforcing competition law under the Competition Act of 2002, preventing practices like cartels and abuse of dominant market position. The commission reviews proposed mergers above certain thresholds to assess their impact on market competition. CCI's establishment reflected India's post-liberalization reform agenda, replacing an earlier, more limited monopolies regulation framework with a comprehensive competition law structure aligned with international practices."
+        },
+        {
+          "id": "pol_d28_sebi",
+          "location": { "name": "SEBI, Mumbai", "lat": 19.0648, "lng": 72.8258 },
+          "questions": [
+            { "question": "SEBI is the primary regulatory body overseeing India's?", "options": ["Securities markets", "Banking sector", "Insurance sector", "Telecommunications sector"], "correctIndex": 0 },
+            { "question": "SEBI gained statutory powers in which year, following a major scandal?", "options": ["1992", "1988", "2000", "1975"], "correctIndex": 0 },
+            { "question": "SEBI's responsibilities include regulating stock exchanges and overseeing corporate?", "options": ["Disclosure requirements", "Tax filings only", "Foreign trade licenses", "Military contracts"], "correctIndex": 0 },
+            { "question": "SEBI investigates market manipulation and which other type of securities violation?", "options": ["Insider trading", "Foreign espionage", "Currency counterfeiting", "Tax evasion"], "correctIndex": 0 },
+            { "question": "SEBI is headquartered in which Indian city?", "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"], "correctIndex": 0 }
+          ],
+          "summary": "The Securities and Exchange Board of India (SEBI), headquartered in Mumbai, is the primary regulator overseeing India's securities markets, protecting investor interests. Originally established in 1988 as a non-statutory body, SEBI gained statutory powers in 1992 following a major stock market scandal that exposed regulatory gaps. SEBI regulates stock exchanges, oversees corporate disclosure, and investigates market manipulation and insider trading, growing significantly in importance as India's capital markets have expanded since liberalization."
+        },
+        {
+          "id": "pol_d28_irdai",
+          "location": { "name": "IRDAI, Hyderabad", "lat": 17.4239, "lng": 78.4483 },
+          "questions": [
+            { "question": "The Insurance Regulatory and Development Authority of India (IRDAI) is headquartered in which city?", "options": ["Hyderabad", "Mumbai", "New Delhi", "Chennai"], "correctIndex": 0 },
+            { "question": "IRDAI was established under an act of Parliament passed in which year?", "options": ["1999", "1988", "2005", "1972"], "correctIndex": 0 },
+            { "question": "IRDAI's creation followed the opening up of India's insurance sector to private and?", "options": ["Foreign investment", "Only cooperative investment", "Only state government investment", "Only military investment"], "correctIndex": 0 },
+            { "question": "IRDAI's responsibilities include licensing insurance companies and protecting?", "options": ["Policyholder interests", "Foreign investor interests only", "Government revenue only", "Military interests"], "correctIndex": 0 },
+            { "question": "IRDAI regulates both life insurance and which other type of insurance?", "options": ["General insurance", "Only agricultural insurance", "Only export insurance", "Only military insurance"], "correctIndex": 0 }
+          ],
+          "summary": "The Insurance Regulatory and Development Authority of India (IRDAI), headquartered in Hyderabad, is the statutory body regulating and promoting India's insurance industry. Established under a 1999 act, IRDAI's creation followed the opening up of India's insurance sector to private and foreign investment, ending decades of government monopoly. IRDAI licenses insurance companies, protects policyholder interests, and regulates both life and general insurance, with its Hyderabad headquarters reflecting a decentralization of financial regulatory infrastructure."
+        },
+        {
+          "id": "pol_d28_cbdt",
+          "location": { "name": "Central Board of Direct Taxes, New Delhi", "lat": 28.6180, "lng": 77.2080 },
+          "questions": [
+            { "question": "The Central Board of Direct Taxes is the apex body responsible for administering?", "options": ["Direct tax laws", "Indirect tax laws only", "Customs duties only", "Foreign trade tariffs"], "correctIndex": 0 },
+            { "question": "CBDT functions under which government ministry?", "options": ["Ministry of Finance", "Ministry of Home Affairs", "Ministry of Commerce", "Ministry of Law"], "correctIndex": 0 },
+            { "question": "CBDT oversees the collection of income tax through which department?", "options": ["The Income Tax Department", "The Customs Department", "The Central Excise Department", "The GST Department"], "correctIndex": 0 },
+            { "question": "CBDT's enforcement actions include investigations into tax evasion and?", "options": ["Fraud", "Only foreign espionage", "Only currency counterfeiting", "Only cyber crime"], "correctIndex": 0 },
+            { "question": "The Central Board of Direct Taxes is headquartered in which city?", "options": ["New Delhi", "Mumbai", "Bengaluru", "Chennai"], "correctIndex": 0 }
+          ],
+          "summary": "The Central Board of Direct Taxes (CBDT), headquartered in New Delhi, is the apex body administering direct tax laws in India, overseeing income tax collection through the Income Tax Department. Functioning under the Ministry of Finance, CBDT formulates tax policy, issues guidelines, and oversees enforcement including investigations into tax evasion and fraud. The board plays a central role in fiscal administration, given that direct taxes constitute a significant portion of the central government's total revenue collection."
+        },
+        {
+          "id": "pol_d28_gift_city",
+          "location": { "name": "GIFT City, Gandhinagar", "lat": 23.1573, "lng": 72.6862 },
+          "questions": [
+            { "question": "GIFT City is designed as India's first operational?", "options": ["International financial services centre", "Special Economic Zone for manufacturing", "Nuclear research park", "Space technology park"], "correctIndex": 0 },
+            { "question": "GIFT City is located near which Gujarat city?", "options": ["Gandhinagar", "Ahmedabad", "Surat", "Vadodara"], "correctIndex": 0 },
+            { "question": "GIFT City aims to offer advantages comparable to established international financial hubs like Singapore or?", "options": ["Dubai", "Tokyo", "Beijing", "Moscow"], "correctIndex": 0 },
+            { "question": "GIFT City operates under a distinct regulatory framework, including its own specialized?", "options": ["Regulatory authority", "Currency system", "Legal system entirely", "Military command"], "correctIndex": 0 },
+            { "question": "GIFT City's development reflects India's ambitions to establish a domestic alternative to?", "options": ["Offshore financial centers", "Foreign embassies", "International airports", "Foreign universities"], "correctIndex": 0 }
+          ],
+          "summary": "Gujarat International Finance Tec-City (GIFT City), near Gandhinagar, Gujarat, is India's first operational international financial services centre, designed to attract global financial institutions with advantages comparable to hubs like Singapore or Dubai. Development began in the 2000s as a planned greenfield business district. GIFT City operates under a distinct regulatory framework with its own specialized authority, reflecting India's ambitions to establish a domestic alternative to offshore financial centers and retain financial services business within the country."
+        }
+      ]
+    }
+  }
+}

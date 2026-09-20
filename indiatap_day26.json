@@ -1,0 +1,326 @@
+{
+  "day": 26,
+  "date": "2026-10-26",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d26_satpura",
+          "location": { "name": "Satpura National Park, Madhya Pradesh", "lat": 22.5000, "lng": 78.4000 },
+          "questions": [
+            { "question": "Satpura National Park is distinguished for offering visitors which unique safari option?", "options": ["Canoeing and walking safaris", "Underwater diving", "Hot air balloon rides", "Desert camel treks"], "correctIndex": 0 },
+            { "question": "Satpura National Park is located within which mountain range?", "options": ["Satpura range", "Vindhya range", "Aravalli range", "Western Ghats"], "correctIndex": 0 },
+            { "question": "Besides tigers and leopards, Satpura supports a healthy population of?", "options": ["Indian bison", "Asiatic lions", "Snow leopards", "Rhinoceros"], "correctIndex": 0 },
+            { "question": "Satpura's hills contain numerous cave systems with ancient?", "options": ["Rock paintings", "Buddhist stupas", "Jain temples", "Sufi shrines"], "correctIndex": 0 },
+            { "question": "Satpura forms part of a larger contiguous forest landscape connecting with which neighboring reserve?", "options": ["Pench", "Kaziranga", "Gir", "Sundarbans"], "correctIndex": 0 }
+          ],
+          "summary": "Satpura National Park, in Madhya Pradesh, is distinguished among Indian tiger reserves for offering canoeing and walking safaris in addition to conventional jeep safaris. The park's dense forests support tigers, leopards, and a healthy population of Indian bison, alongside numerous cave systems with ancient rock paintings. Satpura forms part of a larger contiguous forest landscape connecting with neighboring Pench, contributing to one of central India's significant interconnected wildlife corridors, and its rugged character has preserved a wilder, less commercialized visitor experience."
+        },
+        {
+          "id": "geo_d26_eravikulam",
+          "location": { "name": "Eravikulam National Park, Kerala", "lat": 10.1700, "lng": 77.0500 },
+          "questions": [
+            { "question": "Eravikulam National Park was established primarily to protect which species?", "options": ["Nilgiri tahr", "Bengal tiger", "Asiatic lion", "Snow leopard"], "correctIndex": 0 },
+            { "question": "Eravikulam National Park is located near which Kerala hill station?", "options": ["Munnar", "Wayanad", "Idukki town", "Thekkady"], "correctIndex": 0 },
+            { "question": "The rare flower associated with Eravikulam's grasslands, blooming once every twelve years, is?", "options": ["Neelakurinji", "Rhododendron", "Lotus", "Dzukou lily"], "correctIndex": 0 },
+            { "question": "Eravikulam National Park is located in which Indian state?", "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "Eravikulam's careful management has been credited with a steady increase in the population of?", "options": ["Nilgiri tahr", "Bengal tigers", "Elephants", "Rhinoceros"], "correctIndex": 0 }
+          ],
+          "summary": "Eravikulam National Park, in Kerala's Western Ghats near Munnar, was established primarily to protect the largest surviving population of the endangered Nilgiri tahr. The park's grasslands and shola forest patches also provide habitat for the rare Neelakurinji flower, which blooms in a striking blue-purple hue only once every twelve years. Eravikulam's core zone remains largely undisturbed by human settlement, and its careful management approach has been credited with a steady increase in the Nilgiri tahr population, making it a notable conservation success story."
+        },
+        {
+          "id": "geo_d26_nagarjunsagar_srisailam",
+          "location": { "name": "Nagarjunsagar-Srisailam Tiger Reserve", "lat": 16.0500, "lng": 78.8667 },
+          "questions": [
+            { "question": "Nagarjunsagar-Srisailam Tiger Reserve is notable as India's?", "options": ["Largest tiger reserve by area", "Smallest tiger reserve", "Oldest tiger reserve", "Only coastal tiger reserve"], "correctIndex": 0 },
+            { "question": "Nagarjunsagar-Srisailam Tiger Reserve spans parts of which two states?", "options": ["Andhra Pradesh and Telangana", "Karnataka and Kerala", "Odisha and Chhattisgarh", "Tamil Nadu and Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "The reserve takes its name partly from which ancient Jyotirlinga temple?", "options": ["Srisailam Temple", "Somnath Temple", "Mahakaleshwar Temple", "Kashi Vishwanath Temple"], "correctIndex": 0 },
+            { "question": "The reserve is also named after which major dam?", "options": ["Nagarjuna Sagar Dam", "Bhakra Dam", "Hirakud Dam", "Tehri Dam"], "correctIndex": 0 },
+            { "question": "The reserve is located along which hills range?", "options": ["Nallamala Hills", "Nilgiri Hills", "Aravalli Hills", "Vindhya Hills"], "correctIndex": 0 }
+          ],
+          "summary": "Nagarjunsagar-Srisailam Tiger Reserve, spanning parts of Andhra Pradesh and Telangana, is India's largest tiger reserve by area, encompassing dry deciduous forest along the Nallamala Hills. The reserve takes its name from two significant sites within its boundaries: the Nagarjuna Sagar Dam and the ancient Srisailam Temple, one of the twelve Jyotirlinga shrines. Despite its massive size, tiger density remains relatively lower than smaller reserves, and the reserve also holds cultural significance, containing numerous ancient temple ruins layering conservation with heritage preservation."
+        },
+        {
+          "id": "geo_d26_guindy",
+          "location": { "name": "Guindy National Park, Chennai", "lat": 13.0067, "lng": 80.2206 },
+          "questions": [
+            { "question": "Guindy National Park is notable for being located within which city's limits?", "options": ["Chennai", "Mumbai", "Delhi", "Kolkata"], "correctIndex": 0 },
+            { "question": "Guindy National Park is among the world's?", "options": ["Smallest national parks", "Largest national parks", "Oldest national parks", "Highest-altitude national parks"], "correctIndex": 0 },
+            { "question": "Guindy National Park was originally part of the estate grounds of which colonial-era official?", "options": ["The Governor of Madras", "The Viceroy of India", "The Governor of Bengal", "The Governor-General"], "correctIndex": 0 },
+            { "question": "Guindy National Park is home to blackbuck antelope and?", "options": ["Spotted deer", "Bengal tigers", "Asiatic lions", "Elephants"], "correctIndex": 0 },
+            { "question": "Guindy's existence reflects broader challenges facing?", "options": ["Urban conservation areas", "Coastal fisheries", "Desert agriculture", "Mountain trekking routes"], "correctIndex": 0 }
+          ],
+          "summary": "Guindy National Park, located within Chennai's city limits, is among the smallest national parks in the world, offering a rare example of protected wilderness surviving within a dense urban environment. Originally part of the estate grounds of the Governor of Madras during British colonial rule, the park preserves dry evergreen forest amid Chennai's urban sprawl. Home to blackbuck antelope and spotted deer, Guindy's continued existence reflects broader challenges facing urban conservation areas balancing habitat protection with adjacent population growth."
+        },
+        {
+          "id": "geo_d26_nokrek",
+          "location": { "name": "Nokrek National Park, Meghalaya", "lat": 25.4667, "lng": 90.4667 },
+          "questions": [
+            { "question": "Nokrek National Park is located in which hills of Meghalaya?", "options": ["Garo Hills", "Khasi Hills", "Jaintia Hills", "Nilgiri Hills"], "correctIndex": 0 },
+            { "question": "Nokrek National Park is recognized as a UNESCO?", "options": ["Biosphere Reserve", "World Heritage Site", "Natural Wonder", "Global Geopark"], "correctIndex": 0 },
+            { "question": "Nokrek is considered a genetic reservoir for wild varieties of which fruit?", "options": ["Citrus fruits", "Mangoes", "Bananas", "Apples"], "correctIndex": 0 },
+            { "question": "Nokrek's forests support which endangered mammal?", "options": ["Red panda", "Bengal tiger", "Asiatic lion", "Snow leopard"], "correctIndex": 0 },
+            { "question": "Nokrek holds particular significance for which indigenous tribal community?", "options": ["Garo", "Khasi", "Naga", "Bodo"], "correctIndex": 0 }
+          ],
+          "summary": "Nokrek National Park, in the Garo Hills of Meghalaya, is notable for its designation as a UNESCO Biosphere Reserve, protecting subtropical forest considered a genetic reservoir for wild citrus fruit varieties. The park's forests support the endangered red panda, along with the slow loris and various primates. Nokrek holds particular significance for the indigenous Garo tribal community, whose traditional forest management practices have coexisted alongside its conservation status, and its remote terrain has kept aspects of its biodiversity still being documented."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d26_kedarnath",
+          "location": { "name": "Kedarnath Temple", "lat": 30.7346, "lng": 79.0669 },
+          "questions": [
+            { "question": "Kedarnath Temple is one of the twelve shrines dedicated to which deity, known as Jyotirlingas?", "options": ["Shiva", "Vishnu", "Brahma", "Ganesha"], "correctIndex": 0 },
+            { "question": "Kedarnath Temple is one of the four sites forming which pilgrimage circuit?", "options": ["Char Dham", "Panch Kedar", "Shakti Peethas", "Divya Desams"], "correctIndex": 0 },
+            { "question": "Kedarnath's restoration is sometimes attributed to which philosopher?", "options": ["Adi Shankaracharya", "Ramanuja", "Madhvacharya", "Basava"], "correctIndex": 0 },
+            { "question": "Kedarnath gained international attention in 2013 due to catastrophic?", "options": ["Flash floods", "An earthquake", "A volcanic eruption", "A wildfire"], "correctIndex": 0 },
+            { "question": "Kedarnath Temple remains closed to pilgrims during which season?", "options": ["Winter", "Summer", "Monsoon", "Spring"], "correctIndex": 0 }
+          ],
+          "summary": "Kedarnath Temple, in Uttarakhand, is one of the twelve Jyotirlinga shrines dedicated to Shiva and one of the four sites forming the Char Dham pilgrimage circuit, accessible only by a trek through challenging Himalayan terrain. Built from massive stone slabs and believed to date back over a thousand years, its restoration is sometimes attributed to philosopher Adi Shankaracharya. Kedarnath gained international attention in 2013 due to catastrophic flash floods, though the temple structure survived largely intact, and it remains closed to pilgrims during the harsh winter months."
+        },
+        {
+          "id": "cul_d26_badrinath",
+          "location": { "name": "Badrinath Temple", "lat": 30.7433, "lng": 79.4938 },
+          "questions": [
+            { "question": "Badrinath Temple is dedicated to which deity?", "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"], "correctIndex": 0 },
+            { "question": "Badrinath Temple is situated along the banks of which river?", "options": ["Alaknanda River", "Bhagirathi River", "Mandakini River", "Yamuna River"], "correctIndex": 0 },
+            { "question": "Unlike Kedarnath, Badrinath is accessible by?", "options": ["Road", "Only helicopter", "Only boat", "Only cable car"], "correctIndex": 0 },
+            { "question": "Badrinath Temple's rituals are traditionally performed by priests from which South Indian community?", "options": ["Kerala's Namboodiri Brahmins", "Tamil Iyers", "Andhra Niyogis", "Karnataka Madhvas"], "correctIndex": 0 },
+            { "question": "During Badrinath's winter closure, the deity's idol is traditionally moved to a?", "options": ["Nearby village", "Different state entirely", "Underground vault", "Foreign country"], "correctIndex": 0 }
+          ],
+          "summary": "Badrinath Temple, in Uttarakhand, is dedicated to Vishnu and is another of the four sites forming the Char Dham pilgrimage circuit, situated along the Alaknanda River in the Garhwal Himalayas. Unlike Kedarnath's remote trekking access, Badrinath is accessible by road. The temple's rituals are traditionally performed by priests from Kerala's Namboodiri Brahmin community, reflecting historical religious connections between north and south India, and like Kedarnath, the temple closes during winter, with the deity's idol moved to a nearby village."
+        },
+        {
+          "id": "cul_d26_shirdi",
+          "location": { "name": "Shirdi Sai Baba Temple", "lat": 19.7645, "lng": 74.4762 },
+          "questions": [
+            { "question": "The Shirdi temple is dedicated to which spiritual figure?", "options": ["Sai Baba", "Ramakrishna", "Swami Vivekananda", "Guru Nanak"], "correctIndex": 0 },
+            { "question": "Sai Baba's teachings emphasized tolerance and unity between which two religious traditions?", "options": ["Hindu and Muslim", "Hindu and Buddhist", "Sikh and Christian", "Jain and Zoroastrian"], "correctIndex": 0 },
+            { "question": "Sai Baba lived and taught in Shirdi until his death in which year?", "options": ["1918", "1947", "1900", "1965"], "correctIndex": 0 },
+            { "question": "Shirdi Sai Baba Temple is located in which Indian state?", "options": ["Maharashtra", "Karnataka", "Gujarat", "Madhya Pradesh"], "correctIndex": 0 },
+            { "question": "Compared to many older Hindu pilgrimage sites, Shirdi's status as a major destination developed?", "options": ["Relatively recently", "In ancient Vedic times", "During the Mughal era", "During the Gupta period"], "correctIndex": 0 }
+          ],
+          "summary": "The Sai Baba Temple, in Shirdi, Maharashtra, is dedicated to the 19th-century spiritual figure Sai Baba, whose teachings emphasized religious tolerance and unity between Hindu and Muslim traditions. Sai Baba lived and taught in Shirdi until his death in 1918, and the temple built at his samadhi has grown into one of India's most visited pilgrimage sites. Unlike many older Hindu sites, Shirdi's status developed relatively recently, and the temple's massive visitor numbers have made it a significant driver of the local economy."
+        },
+        {
+          "id": "cul_d26_kashi_vishwanath",
+          "location": { "name": "Kashi Vishwanath Temple, Varanasi", "lat": 25.3109, "lng": 83.0107 },
+          "questions": [
+            { "question": "The Kashi Vishwanath Temple is dedicated to which deity?", "options": ["Shiva", "Vishnu", "Brahma", "Ganesha"], "correctIndex": 0 },
+            { "question": "The current Kashi Vishwanath Temple structure dates primarily to which century, funded by a Maratha queen?", "options": ["18th century", "12th century", "5th century", "20th century"], "correctIndex": 0 },
+            { "question": "The Maratha queen who funded the temple's reconstruction was?", "options": ["Ahilyabai Holkar", "Jijabai", "Tarabai", "Yesubai"], "correctIndex": 0 },
+            { "question": "In 2021, the Indian government inaugurated which major redevelopment project at the temple?", "options": ["Kashi Vishwanath Corridor", "Char Dham Highway Project", "Namami Gange Project", "Statue of Unity Project"], "correctIndex": 0 },
+            { "question": "The Kashi Vishwanath Temple is located along the banks of which river?", "options": ["Ganga", "Yamuna", "Godavari", "Narmada"], "correctIndex": 0 }
+          ],
+          "summary": "The Kashi Vishwanath Temple, in Varanasi, is one of the twelve Jyotirlinga shrines dedicated to Shiva and one of the holiest Hindu temples in India. The temple has been destroyed and rebuilt multiple times, with the current structure dating primarily to the 18th century, funded by Maratha queen Ahilyabai Holkar. In 2021, the government inaugurated the Kashi Vishwanath Corridor, a major redevelopment connecting the temple to the Ganga's ghats, reinforcing Varanasi's status as one of India's most visited pilgrimage destinations."
+        },
+        {
+          "id": "cul_d26_mahalakshmi_kolhapur",
+          "location": { "name": "Mahalakshmi Temple, Kolhapur", "lat": 16.7050, "lng": 74.0433 },
+          "questions": [
+            { "question": "The Mahalakshmi Temple in Kolhapur is dedicated to which goddess?", "options": ["Mahalakshmi", "Durga", "Saraswati", "Kali"], "correctIndex": 0 },
+            { "question": "The Mahalakshmi Temple is considered one of the?", "options": ["Shakti Peethas", "Jyotirlingas", "Char Dham sites", "Panch Kedar sites"], "correctIndex": 0 },
+            { "question": "The temple is architecturally notable for its precise?", "options": ["Astronomical alignment", "Underground tunnels", "Rotating domes", "Glass mosaics"], "correctIndex": 0 },
+            { "question": "The Mahalakshmi Temple is located in which Indian state?", "options": ["Maharashtra", "Karnataka", "Gujarat", "Madhya Pradesh"], "correctIndex": 0 },
+            { "question": "The Mahalakshmi Temple draws particularly large crowds during which major festival?", "options": ["Navratri", "Diwali", "Holi", "Ganesh Chaturthi"], "correctIndex": 0 }
+          ],
+          "summary": "The Mahalakshmi Temple, in Kolhapur, Maharashtra, is dedicated to the goddess Mahalakshmi and considered one of the Shakti Peethas, with historical roots dating back over a thousand years. The temple is architecturally notable for its precise astronomical alignment, with sunlight reportedly falling directly on the deity's idol during specific periods of the year. The temple draws large crowds especially during Navratri, and its intricate stone carvings spanning multiple ruling dynasties reflect Kolhapur's long-standing importance in southern Maharashtra."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d26_ennore_port",
+          "location": { "name": "Ennore Port (Kamarajar Port)", "lat": 13.2500, "lng": 80.3167 },
+          "questions": [
+            { "question": "Ennore Port is officially known by which name?", "options": ["Kamarajar Port", "Jawaharlal Nehru Port", "Deendayal Port", "Syama Prasad Mookerjee Port"], "correctIndex": 0 },
+            { "question": "Ennore Port holds the distinction of being India's only major?", "options": ["Corporatized port", "Nuclear-powered port", "Underground port", "Floating port"], "correctIndex": 0 },
+            { "question": "Ennore Port primarily handles which type of cargo?", "options": ["Bulk cargo including coal", "Passenger ferries only", "Fishing vessels only", "Military equipment only"], "correctIndex": 0 },
+            { "question": "Ennore Port is located near which city?", "options": ["Chennai", "Mumbai", "Kochi", "Visakhapatnam"], "correctIndex": 0 },
+            { "question": "Ennore's corporatized structure was intended to introduce greater operational?", "options": ["Flexibility and efficiency", "Military security", "Religious significance", "Agricultural output"], "correctIndex": 0 }
+          ],
+          "summary": "Ennore Port, officially known as Kamarajar Port, near Chennai in Tamil Nadu, holds the distinction of being India's only major corporatized port, structured as a public limited company rather than under the traditional port trust model. The port primarily handles bulk cargo, including coal, serving nearby thermal power plants. Ennore's corporatized structure was intended to introduce greater operational flexibility compared to the more bureaucratic port trust model, reflecting Tamil Nadu's efforts to support its industrial base through improved coastal logistics."
+        },
+        {
+          "id": "eco_d26_new_mangalore_port",
+          "location": { "name": "New Mangalore Port, Karnataka", "lat": 12.9500, "lng": 74.8000 },
+          "questions": [
+            { "question": "New Mangalore Port is located in which Indian state?", "options": ["Karnataka", "Kerala", "Goa", "Maharashtra"], "correctIndex": 0 },
+            { "question": "New Mangalore Port handles significant volumes of cargo including petroleum products, fertilizers, and?", "options": ["Iron ore exports", "Textile imports only", "Automobile parts only", "Space equipment"], "correctIndex": 0 },
+            { "question": "New Mangalore Port serves as an important hub for the region's?", "options": ["Fishing industry", "Space research", "Nuclear power", "Film production"], "correctIndex": 0 },
+            { "question": "New Mangalore Port's iron ore exports primarily come from which part of Karnataka?", "options": ["Interior mining regions", "Coastal fishing villages", "Urban centers", "Forest reserves"], "correctIndex": 0 },
+            { "question": "New Mangalore Port's development required substantial infrastructure investment due to Karnataka's coastline having limited?", "options": ["Natural harbors", "Rainfall", "Sunlight", "Wind patterns"], "correctIndex": 0 }
+          ],
+          "summary": "New Mangalore Port, in Karnataka, is one of India's major western coast ports, handling significant volumes of petroleum products, fertilizers, and iron ore exports from the state's interior mining regions. The port's development reflects Karnataka's strategy of improving coastal infrastructure for both export and import logistics. New Mangalore Port also serves as an important hub for the region's fishing industry, and its development required substantial infrastructure investment given the limited natural harbors along this stretch of Karnataka's coastline."
+        },
+        {
+          "id": "eco_d26_tata_steel_kalinganagar",
+          "location": { "name": "Tata Steel Kalinganagar, Odisha", "lat": 20.9333, "lng": 86.1167 },
+          "questions": [
+            { "question": "Tata Steel's Kalinganagar plant is located in which Indian state?", "options": ["Odisha", "Jharkhand", "West Bengal", "Chhattisgarh"], "correctIndex": 0 },
+            { "question": "The Kalinganagar plant represents Tata Steel's expansion beyond its historic base in which city?", "options": ["Jamshedpur", "Bhilai", "Rourkela", "Durgapur"], "correctIndex": 0 },
+            { "question": "The Kalinganagar plant's establishment faced significant challenges including violent clashes in which year?", "options": ["2006", "1990", "2015", "2000"], "correctIndex": 0 },
+            { "question": "The clashes at Kalinganagar highlighted broader tensions surrounding?", "options": ["Industrial land acquisition", "Foreign trade policy", "Currency devaluation", "Election disputes"], "correctIndex": 0 },
+            { "question": "Kalinganagar's development illustrates the balance between economic development and the rights of?", "options": ["Local and tribal communities", "Foreign investors", "Urban elites", "Government officials only"], "correctIndex": 0 }
+          ],
+          "summary": "Tata Steel's Kalinganagar plant, in Odisha, represents one of the company's newer major steel facilities, developed as part of expansion beyond its historic base in Jamshedpur. The plant's establishment faced significant challenges, including prolonged land acquisition disputes that led to violent clashes in 2006, highlighting tensions surrounding industrial land acquisition in India's mineral-rich but often underdeveloped tribal regions. Despite early difficulties, the facility has since become operational, illustrating the balance industrial expansion often requires with local community rights."
+        },
+        {
+          "id": "eco_d26_essar_steel_hazira",
+          "location": { "name": "Essar Steel, Hazira", "lat": 21.1167, "lng": 72.6500 },
+          "questions": [
+            { "question": "Essar Steel's Hazira plant is located in which Indian state?", "options": ["Gujarat", "Maharashtra", "Odisha", "Jharkhand"], "correctIndex": 0 },
+            { "question": "Essar Steel Hazira's coastal location facilitates raw material imports and?", "options": ["Finished product exports", "Only domestic sales", "Only agricultural trade", "Only textile trade"], "correctIndex": 0 },
+            { "question": "Essar Steel underwent a major acquisition by which joint venture following financial distress?", "options": ["ArcelorMittal-Nippon Steel", "Tata-JSW", "SAIL-NALCO", "Adani-Vedanta"], "correctIndex": 0 },
+            { "question": "Hazira's industrial development has also attracted investments in which other sector besides steel?", "options": ["Petrochemicals", "Textiles", "Agriculture", "Software services"], "correctIndex": 0 },
+            { "question": "Essar Steel's ownership transition is cited as an example of India's evolving?", "options": ["Corporate bankruptcy and restructuring framework", "Election law", "Environmental regulation", "Foreign policy"], "correctIndex": 0 }
+          ],
+          "summary": "Essar Steel's plant at Hazira, in Gujarat, is one of India's significant integrated steel facilities, notable for its coastal location facilitating raw material imports and product exports. The plant underwent a major acquisition by the ArcelorMittal-Nippon Steel joint venture following financial distress and insolvency proceedings. Hazira's industrial development has also attracted petrochemical investments, and Essar Steel's ownership transition through India's insolvency resolution process has been cited as an example of the country's evolving bankruptcy framework."
+        },
+        {
+          "id": "eco_d26_ongc_duliajan",
+          "location": { "name": "ONGC Duliajan, Assam", "lat": 27.3500, "lng": 95.3333 },
+          "questions": [
+            { "question": "ONGC's operations at Duliajan represent one of India's oldest continuously producing?", "options": ["Oil regions", "Coal regions", "Gold mining regions", "Diamond mining regions"], "correctIndex": 0 },
+            { "question": "Commercial oil extraction in the broader Duliajan area dates back to which century?", "options": ["Late 19th century", "Early 20th century", "Mid 20th century", "Late 20th century"], "correctIndex": 0 },
+            { "question": "Duliajan serves as a significant operational base for ONGC's operations in which state?", "options": ["Assam", "Gujarat", "Rajasthan", "Tamil Nadu"], "correctIndex": 0 },
+            { "question": "Duliajan's long oil production history has made it a center for expertise in managing?", "options": ["Aging oil infrastructure", "New nuclear technology", "Space equipment", "Textile machinery"], "correctIndex": 0 },
+            { "question": "Duliajan's oil operations, alongside nearby historic sites, reflect which state's foundational role in India's oil history?", "options": ["Assam", "Gujarat", "Rajasthan", "Andhra Pradesh"], "correctIndex": 0 }
+          ],
+          "summary": "ONGC's operations at Duliajan, in Assam, represent one of India's oldest continuously producing oil regions, with commercial extraction dating back to the late 19th century. Duliajan serves as a significant operational base for ONGC's Assam operations, supporting extraction across mature but still productive oil fields. The area's long production history has made it an important center for expertise in managing aging oil infrastructure, and Duliajan, alongside nearby Digboi, reflects Assam's foundational role in India's oil production history."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d26_ram_navami_bhadrachalam",
+          "location": { "name": "Ram Navami, Bhadrachalam", "lat": 17.6667, "lng": 80.8833 },
+          "questions": [
+            { "question": "Ram Navami marks the birth anniversary of which deity?", "options": ["Lord Rama", "Lord Krishna", "Lord Shiva", "Lord Ganesha"], "correctIndex": 0 },
+            { "question": "Bhadrachalam's Ram Navami celebrations distinctively include a reenactment of which event?", "options": ["Rama's wedding to Sita", "Rama's coronation", "Rama's exile", "Rama's battle with Ravana"], "correctIndex": 0 },
+            { "question": "Bhadrachalam's temple is associated with a legend involving which 17th-century devotee?", "options": ["Bhakta Ramadasu", "Tulsidas", "Kabir", "Tukaram"], "correctIndex": 0 },
+            { "question": "According to legend, Bhakta Ramadasu was imprisoned for using government funds to?", "options": ["Renovate the temple", "Build a palace", "Fund a war", "Start a school"], "correctIndex": 0 },
+            { "question": "Bhadrachalam is located in which Indian state?", "options": ["Telangana", "Andhra Pradesh", "Tamil Nadu", "Karnataka"], "correctIndex": 0 }
+          ],
+          "summary": "Ram Navami, celebrated prominently at the Bhadrachalam temple in Telangana, marks the birth anniversary of Lord Rama, observed with a distinctive symbolic celestial wedding ceremony reenacting Rama's marriage to Sita. The celebration's significance is tied to a legend involving Bhakta Ramadasu, a 17th-century devotee imprisoned for using government funds to renovate the temple, later reportedly visited in prison by Rama and Lakshmana. Bhadrachalam's continued significance reflects the deep devotional traditions of Rama worship across the Telugu-speaking region."
+        },
+        {
+          "id": "evt_d26_pongal_thanjavur",
+          "location": { "name": "Pongal, Thanjavur", "lat": 10.7867, "lng": 79.1391 },
+          "questions": [
+            { "question": "Pongal marks the end of which traditional agricultural cycle?", "options": ["Tamil agricultural cycle", "Bengali agricultural cycle", "Punjabi agricultural cycle", "Gujarati agricultural cycle"], "correctIndex": 0 },
+            { "question": "Pongal's centerpiece dish, cooked until it boils over symbolizing abundance, is called?", "options": ["Pongal", "Payasam", "Kheer", "Halwa"], "correctIndex": 0 },
+            { "question": "The second day of Pongal, dedicated to honoring cattle, is called?", "options": ["Mattu Pongal", "Thai Pongal", "Kaanum Pongal", "Bhogi Pongal"], "correctIndex": 0 },
+            { "question": "Pongal is celebrated over how many days?", "options": ["Four days", "One day", "Seven days", "Ten days"], "correctIndex": 0 },
+            { "question": "Thanjavur holds particular resonance for Pongal due to its role as a center of which agricultural feature?", "options": ["Rice-growing delta region", "Coffee plantations", "Cotton fields", "Spice gardens"], "correctIndex": 0 }
+          ],
+          "summary": "Pongal, celebrated widely across Tamil Nadu including in Thanjavur, is a major harvest festival marking the end of the traditional Tamil agricultural cycle, observed over four days. The centerpiece involves cooking a sweet rice dish, also called 'pongal,' in a clay pot until it boils over, symbolizing abundance. The second day, Mattu Pongal, is dedicated to honoring cattle, and Thanjavur, as a historic center of Tamil Nadu's rice-growing delta region, holds particular cultural resonance for the festival's celebration of agricultural abundance."
+        },
+        {
+          "id": "evt_d26_buddha_purnima",
+          "location": { "name": "Buddha Purnima, Sarnath", "lat": 25.3811, "lng": 83.0225 },
+          "questions": [
+            { "question": "Buddha Purnima marks which three events in Buddha's life, believed to occur on the same day?", "options": ["Birth, enlightenment, and death", "Only his birth", "Only his enlightenment", "Only his first sermon"], "correctIndex": 0 },
+            { "question": "Sarnath's Buddha Purnima celebrations hold significance due to the site's association with Buddha's?", "options": ["First sermon", "Birth", "Death", "Final meal"], "correctIndex": 0 },
+            { "question": "Buddha Purnima celebrations at Sarnath center around which stupa?", "options": ["Dhamek Stupa", "Sanchi Stupa", "Amaravati Stupa", "Bharhut Stupa"], "correctIndex": 0 },
+            { "question": "Buddha Purnima observances typically include recitations from Buddhist scriptures and offerings of flowers and?", "options": ["Incense", "Gold coins", "Silver ornaments", "Precious gems"], "correctIndex": 0 },
+            { "question": "Sarnath is located near which Indian city?", "options": ["Varanasi", "Lucknow", "Prayagraj", "Kanpur"], "correctIndex": 0 }
+          ],
+          "summary": "Buddha Purnima, celebrated at Sarnath near Varanasi, marks the birth, enlightenment, and death of Gautama Buddha, all believed to have occurred on the same full moon day. Sarnath's celebrations hold particular significance given the site's association with Buddha's first sermon, drawing pilgrims and monks for prayers and meditation around the Dhamek Stupa. The day includes recitations from Buddhist scriptures and offerings of flowers and incense, reflecting India's continued role as a global center for Buddhist religious tourism."
+        },
+        {
+          "id": "evt_d26_christmas_bom_jesus",
+          "location": { "name": "Christmas at Basilica of Bom Jesus, Goa", "lat": 15.5008, "lng": 73.9119 },
+          "questions": [
+            { "question": "The Basilica of Bom Jesus houses the mortal remains of which 16th-century missionary?", "options": ["St. Francis Xavier", "St. Thomas", "St. Paul", "St. Ignatius of Loyola"], "correctIndex": 0 },
+            { "question": "Christmas celebrations in Goa reflect the region's centuries-old colonial heritage from which European power?", "options": ["Portugal", "Britain", "France", "Netherlands"], "correctIndex": 0 },
+            { "question": "Goan Christmas traditions distinctively incorporate specific local sweets and traditional?", "options": ["Portuguese-influenced music", "Only classical Carnatic music", "Only Bollywood songs", "Only folk drums"], "correctIndex": 0 },
+            { "question": "The Basilica of Bom Jesus is located in which Indian state?", "options": ["Goa", "Maharashtra", "Karnataka", "Kerala"], "correctIndex": 0 },
+            { "question": "Goa's Christmas celebrations exemplify the state's identity as a distinctive cultural?", "options": ["Crossroads", "Isolated enclave", "Military zone", "Industrial hub"], "correctIndex": 0 }
+          ],
+          "summary": "Christmas celebrations at the Basilica of Bom Jesus, in Goa, reflect the region's centuries-old Portuguese colonial heritage, drawing large crowds for midnight Mass. The basilica, housing the remains of St. Francis Xavier, holds particular significance during Christmas as a focal point for religious devotion and cultural tourism. Goan Christmas traditions incorporate specific local sweets and Portuguese-influenced music, exemplifying Goa's broader identity as a distinctive cultural crossroads shaped by its long colonial past."
+        },
+        {
+          "id": "evt_d26_guru_nanak_jayanti",
+          "location": { "name": "Guru Nanak Jayanti, Amritsar", "lat": 31.6200, "lng": 74.8765 },
+          "questions": [
+            { "question": "Guru Nanak Jayanti marks the birth anniversary of which figure?", "options": ["Guru Nanak", "Guru Gobind Singh", "Guru Arjan Dev", "Guru Hargobind"], "correctIndex": 0 },
+            { "question": "The early morning devotional procession during Guru Nanak Jayanti is called?", "options": ["Prabhat Pheri", "Nagar Kirtan only", "Akhand Path", "Ardas"], "correctIndex": 0 },
+            { "question": "A grand procession during the celebration features the \"Panj Pyare,\" representing how many beloved disciples?", "options": ["Five", "Ten", "Three", "Seven"], "correctIndex": 0 },
+            { "question": "Guru Nanak was the founder of which religion?", "options": ["Sikhism", "Jainism", "Buddhism", "Zoroastrianism"], "correctIndex": 0 },
+            { "question": "The continuous free community meals served during Sikh celebrations are known as?", "options": ["Langar", "Prasad", "Naivedyam", "Bhog"], "correctIndex": 0 }
+          ],
+          "summary": "Guru Nanak Jayanti, celebrated at the Golden Temple in Amritsar, marks the birth anniversary of Guru Nanak, the founder of Sikhism, observed with processions, recitations of the Guru Granth Sahib, and community meals. The celebration begins with a 'Prabhat Pheri' morning procession, followed by a grand procession featuring the 'Panj Pyare,' representing five beloved disciples. The Golden Temple becomes a focal point for devotees worldwide, and the continuous free community meals known as 'langar' embody Sikh principles of equality and service."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d26_article_371h",
+          "location": { "name": "Article 371H, Itanagar", "lat": 27.0844, "lng": 93.6053 },
+          "questions": [
+            { "question": "Article 371H grants special discretionary powers to which official in Arunachal Pradesh?", "options": ["The Governor", "The Chief Minister", "The Speaker of the Assembly", "The Chief Justice"], "correctIndex": 0 },
+            { "question": "Article 371H's discretionary powers primarily concern matters of?", "options": ["Law and order", "Foreign trade", "Currency policy", "Agricultural subsidies"], "correctIndex": 0 },
+            { "question": "Article 371H reflects the strategic sensitivity of Arunachal Pradesh's border with which country?", "options": ["China", "Myanmar", "Bhutan", "Bangladesh"], "correctIndex": 0 },
+            { "question": "Under Article 371H, the Governor exercises discretionary powers after consulting the state's?", "options": ["Council of Ministers", "Central Cabinet", "Supreme Court", "Election Commission"], "correctIndex": 0 },
+            { "question": "Itanagar is the capital of which Indian state?", "options": ["Arunachal Pradesh", "Assam", "Nagaland", "Manipur"], "correctIndex": 0 }
+          ],
+          "summary": "Itanagar, the capital of Arunachal Pradesh, oversees a state granted special constitutional provisions under Article 371H, which grants the state's Governor discretionary powers regarding law and order, exercisable after consulting the Council of Ministers but not strictly bound by their advice. This arrangement reflects the strategic sensitivity of Arunachal Pradesh's location along India's disputed border with China. Article 371H represents one of several tailored constitutional provisions extended to northeastern states addressing specific historical and security considerations."
+        },
+        {
+          "id": "pol_d26_article_371b",
+          "location": { "name": "Article 371B, Assam", "lat": 26.1445, "lng": 91.7362 },
+          "questions": [
+            { "question": "Article 371B allows for the creation of a special legislative committee representing which areas of Assam?", "options": ["Tribal areas, particularly Hills Districts", "Coastal fishing areas", "Urban commercial districts", "Border trading zones"], "correctIndex": 0 },
+            { "question": "Article 371B's committee mechanism was designed to ensure adequate?", "options": ["Political representation for tribal communities", "Military recruitment quotas", "Foreign trade access", "Currency management"], "correctIndex": 0 },
+            { "question": "Article 371B differs from more far-reaching arrangements like which autonomous council?", "options": ["Bodoland Territorial Council", "Gorkhaland Territorial Administration", "Ladakh Hill Council", "Darjeeling Gorkha Hill Council"], "correctIndex": 0 },
+            { "question": "Article 371B represents a comparatively lighter-touch approach compared to establishing separate?", "options": ["Autonomous governance structures", "Military zones", "Trade unions", "Religious institutions"], "correctIndex": 0 },
+            { "question": "Dispur is the capital of which Indian state?", "options": ["Assam", "Meghalaya", "Nagaland", "Manipur"], "correctIndex": 0 }
+          ],
+          "summary": "Dispur, Assam's capital, oversees a state whose Constitution includes Article 371B, allowing for a special legislative committee within the state assembly representing tribal areas, particularly the Hills Districts. This arrangement was designed to ensure adequate political representation for tribal communities within Assam's legislative structure. Article 371B's committee mechanism differs from more far-reaching arrangements like the Bodoland Territorial Council, representing a lighter-touch approach to tribal political voice within the standard state legislative framework."
+        },
+        {
+          "id": "pol_d26_article_371d",
+          "location": { "name": "Article 371D, Hyderabad", "lat": 17.3850, "lng": 78.4867 },
+          "questions": [
+            { "question": "Article 371D was originally designed to protect local employment and educational opportunities within which state, before its 2014 bifurcation?", "options": ["Unified Andhra Pradesh", "Unified Bengal", "Unified Punjab", "Unified Bombay State"], "correctIndex": 0 },
+            { "question": "Article 371D allowed for the creation of local cadres for state government employment and?", "options": ["Educational admission quotas", "Military recruitment quotas", "Foreign trade licenses", "Currency management"], "correctIndex": 0 },
+            { "question": "Article 371D's provisions were originally intended to address grievances from which region regarding underrepresentation?", "options": ["Telangana region", "Rayalaseema region", "North coastal region", "Only Hyderabad city"], "correctIndex": 0 },
+            { "question": "Article 371D aimed to prevent any single region from disproportionately dominating?", "options": ["Government jobs and higher education seats", "Foreign trade contracts", "Military commands", "Religious institutions"], "correctIndex": 0 },
+            { "question": "Despite Telangana's creation as a separate state, elements of Article 371D have continued to shape policy in?", "options": ["Both successor states", "Only Telangana", "Only Andhra Pradesh", "Neither successor state"], "correctIndex": 0 }
+          ],
+          "summary": "Hyderabad, historically the shared capital of both Telangana and residual Andhra Pradesh, is closely tied to Article 371D, a provision originally designed to protect local employment and educational opportunities within unified Andhra Pradesh before its 2014 bifurcation. The article allowed local cadres for government employment and educational quotas, aimed at addressing grievances from the Telangana region regarding underrepresentation compared to coastal Andhra. Elements of Article 371D's framework have continued shaping employment and educational policy in both successor states."
+        },
+        {
+          "id": "pol_d26_northeastern_council",
+          "location": { "name": "North Eastern Council, Shillong", "lat": 25.5788, "lng": 91.8933 },
+          "questions": [
+            { "question": "The North Eastern Council is headquartered in which city?", "options": ["Shillong", "Guwahati", "Itanagar", "Imphal"], "correctIndex": 0 },
+            { "question": "The North Eastern Council was established in which year?", "options": ["1971", "1950", "1985", "2000"], "correctIndex": 0 },
+            { "question": "The North Eastern Council serves as a statutory body for?", "options": ["Regional planning and development coordination", "Military command", "Judicial oversight", "Currency management"], "correctIndex": 0 },
+            { "question": "The Northeastern region's geographic isolation from mainland India is connected primarily through a narrow?", "options": ["Land corridor", "Sea route", "Air corridor only", "River route"], "correctIndex": 0 },
+            { "question": "The North Eastern Council has advocated for special central government funding directed toward addressing?", "options": ["Infrastructure and connectivity challenges", "Foreign trade deficits", "Currency devaluation", "Military expansion"], "correctIndex": 0 }
+          ],
+          "summary": "The North Eastern Council, headquartered in Shillong, Meghalaya, is a statutory advisory body established in 1971 to coordinate regional planning and development across India's northeastern states. The council includes representatives from each northeastern state, supporting infrastructure, agriculture, and other development priorities benefiting multiple states. Its establishment reflected recognition of the region's distinct developmental needs, given its isolation from mainland India through a narrow land corridor, and the council has advocated for special funding addressing connectivity challenges."
+        },
+        {
+          "id": "pol_d26_finance_commission",
+          "location": { "name": "Finance Commission of India, New Delhi", "lat": 28.6150, "lng": 77.2100 },
+          "questions": [
+            { "question": "The Finance Commission of India is reconstituted approximately every how many years?", "options": ["Five years", "One year", "Ten years", "Twenty years"], "correctIndex": 0 },
+            { "question": "The Finance Commission is primarily responsible for recommending the distribution of?", "options": ["Tax revenues between central and state governments", "Military budgets", "Foreign aid", "Election funding"], "correctIndex": 0 },
+            { "question": "The Finance Commission's recommendations take into account factors including population, income levels, and?", "options": ["Geographic area", "Religious composition", "Political party affiliation", "Foreign trade volume"], "correctIndex": 0 },
+            { "question": "The Finance Commission plays a central role in India's structure of?", "options": ["Fiscal federalism", "Military command", "Judicial review", "Foreign diplomacy"], "correctIndex": 0 },
+            { "question": "Is the central government constitutionally bound to accept every specific Finance Commission recommendation?", "options": ["No, it is not constitutionally bound", "Yes, it is fully bound", "Only for defense-related recommendations", "Only during election years"], "correctIndex": 0 }
+          ],
+          "summary": "The Finance Commission of India, a constitutional body reconstituted every five years, is responsible for recommending the distribution of tax revenues between the central government and states, playing a central role in India's fiscal federalism structure. The commission's recommendations address how the divisible pool of central tax revenues should be shared, considering factors like population, income levels, and geographic area. Each commission's recommendations generally guide fiscal transfers for five years, though the government is not constitutionally bound to accept every specific recommendation."
+        }
+      ]
+    }
+  }
+}

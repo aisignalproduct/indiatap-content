@@ -1,0 +1,326 @@
+{
+  "day": 11,
+  "date": "2026-10-11",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d11_dal_lake",
+          "location": { "name": "Dal Lake, Srinagar", "lat": 34.1210, "lng": 74.8630 },
+          "questions": [
+            { "question": "In which Indian city is Dal Lake located?", "options": ["Jammu", "Srinagar", "Leh", "Shimla"], "correctIndex": 1 },
+            { "question": "What are the traditional wooden boats used to ferry tourists on Dal Lake called?", "options": ["Shikara", "Catamaran", "Gondola", "Dhow"], "correctIndex": 0 },
+            { "question": "Dal Lake is popularly nicknamed the \"Jewel in the crown of ___.\"", "options": ["India", "Kashmir", "Punjab", "Himalayas"], "correctIndex": 1 },
+            { "question": "What floating agricultural feature is unique to Dal Lake, used by local families to grow vegetables?", "options": ["Floating gardens (Raad)", "Floating markets only", "Floating forests", "Floating rice paddies"], "correctIndex": 0 },
+            { "question": "Dal Lake is located in which Union Territory?", "options": ["Ladakh", "Jammu and Kashmir", "Himachal Pradesh", "Punjab"], "correctIndex": 1 }
+          ],
+          "summary": "Dal Lake is a Himalayan urban lake in Srinagar, Jammu & Kashmir, famous for its houseboats and floating vegetable markets. It covers roughly 18 square kilometers and is fed by mountain streams, with a network of canals, shikara boats, and floating gardens called 'raad' cultivated by local Kashmiri families. It has long been called the 'Jewel in the crown of Kashmir' and plays a central role in Srinagar's tourism economy. The lake also faces environmental pressure from pollution and encroachment, prompting long-running conservation efforts."
+        },
+        {
+          "id": "geo_d11_talakaveri",
+          "location": { "name": "Talakaveri, Karnataka", "lat": 12.3800, "lng": 75.4900 },
+          "questions": [
+            { "question": "Talakaveri is regarded as the source of which major South Indian river?", "options": ["Godavari", "Krishna", "Cauvery", "Tungabhadra"], "correctIndex": 2 },
+            { "question": "Talakaveri is located in which district of Karnataka?", "options": ["Kodagu (Coorg)", "Mysuru", "Hassan", "Chikkamagaluru"], "correctIndex": 0 },
+            { "question": "The annual festival at Talakaveri marking a symbolic upsurge of water is called?", "options": ["Tula Sankramana", "Makar Sankranti", "Pongal", "Onam"], "correctIndex": 0 },
+            { "question": "Talakaveri sits atop which hill range?", "options": ["Nilgiri Hills", "Brahmagiri Hills", "Anaimalai Hills", "Palani Hills"], "correctIndex": 1 },
+            { "question": "After originating near Talakaveri, the Cauvery eventually flows into which body of water?", "options": ["Arabian Sea", "Bay of Bengal", "Indian Ocean directly", "Lakshadweep Sea"], "correctIndex": 1 }
+          ],
+          "summary": "Talakaveri, in the Western Ghats of Kodagu (Coorg) district, Karnataka, is the traditionally revered source of the Cauvery River. A small spring here is considered sacred and is believed to be the origin point, even though the river's actual perennial source lies underground and re-emerges nearby. Every October, thousands of pilgrims gather for 'Tula Sankramana' to witness a brief upsurge of water believed to be auspicious. The site sits atop the Brahmagiri hills and marks the start of one of South India's most important rivers, flowing through Karnataka and Tamil Nadu before reaching the Bay of Bengal."
+        },
+        {
+          "id": "geo_d11_anaimudi",
+          "location": { "name": "Anaimudi Peak, Kerala", "lat": 10.1698, "lng": 77.0656 },
+          "questions": [
+            { "question": "Anaimudi is the highest peak in which mountain range?", "options": ["Himalayas", "Western Ghats", "Aravalli Range", "Vindhya Range"], "correctIndex": 1 },
+            { "question": "What does the name \"Anaimudi\" mean in Malayalam?", "options": ["Elephant's forehead", "Tiger's eye", "Lion's mane", "Peacock's crown"], "correctIndex": 0 },
+            { "question": "Anaimudi is located in which Kerala district?", "options": ["Wayanad", "Idukki", "Munnar Taluk (Idukki)", "Palakkad"], "correctIndex": 1 },
+            { "question": "Which endangered mountain goat species is closely associated with the grasslands around Anaimudi?", "options": ["Nilgiri tahr", "Himalayan ibex", "Markhor", "Blackbuck"], "correctIndex": 0 },
+            { "question": "Approximately how tall is Anaimudi peak?", "options": ["About 1,500 m", "About 2,000 m", "About 2,695 m", "About 3,500 m"], "correctIndex": 2 }
+          ],
+          "summary": "Anaimudi, located near the Eravikulam National Park in Idukki district, Kerala, is the highest peak in the Western Ghats and in peninsular India south of the Himalayas, standing at about 2,695 meters. Its name means 'elephant's forehead' in Malayalam, describing its rounded, massive shape. The peak lies within a landscape of rolling grasslands and shola forests that are home to the endangered Nilgiri tahr. Because of its height, Anaimudi also acts as a major water divide feeding rivers that flow into both Kerala and Tamil Nadu."
+        },
+        {
+          "id": "geo_d11_dzukou_valley",
+          "location": { "name": "Dzukou Valley, Nagaland-Manipur border", "lat": 25.5667, "lng": 94.0333 },
+          "questions": [
+            { "question": "Dzukou Valley lies on the border between Nagaland and which other state?", "options": ["Assam", "Manipur", "Mizoram", "Arunachal Pradesh"], "correctIndex": 1 },
+            { "question": "What rare flower is closely associated with Dzukou Valley?", "options": ["Dzukou lily", "Blue poppy", "Rhododendron", "Lotus"], "correctIndex": 0 },
+            { "question": "Dzukou Valley can typically only be reached by?", "options": ["Cable car", "Trekking", "Road only", "Boat"], "correctIndex": 1 },
+            { "question": "Approximately what altitude is Dzukou Valley at?", "options": ["About 500 m", "About 1,200 m", "About 2,438 m", "About 4,000 m"], "correctIndex": 2 },
+            { "question": "A common starting point village for treks into Dzukou Valley is?", "options": ["Viswema", "Kohima town center", "Imphal", "Dimapur"], "correctIndex": 0 }
+          ],
+          "summary": "Dzukou Valley, sitting at roughly 2,438 meters on the border of Nagaland and Manipur, is famed for its rolling green hills, seasonal flower blooms, and cool climate that draws trekkers year-round. Between June and September, the valley turns a vivid green and hosts the rare Dzukou lily, found almost nowhere else in the world. Its remote location, reachable only by trekking from villages like Viswema, has helped keep the valley relatively untouched. The valley has occasionally faced wildfires that damaged its unique flora, prompting local conservation efforts."
+        },
+        {
+          "id": "geo_d11_bhedaghat",
+          "location": { "name": "Bhedaghat Marble Rocks, Madhya Pradesh", "lat": 23.1360, "lng": 79.8280 },
+          "questions": [
+            { "question": "The Marble Rocks at Bhedaghat are carved by which river?", "options": ["Godavari", "Narmada", "Tapi", "Chambal"], "correctIndex": 1 },
+            { "question": "Near which city is Bhedaghat located?", "options": ["Bhopal", "Indore", "Jabalpur", "Gwalior"], "correctIndex": 2 },
+            { "question": "What does \"Dhuandhar\" mean, referring to the nearby waterfall?", "options": ["Smoke cascade", "Golden fall", "Silent fall", "Twin fall"], "correctIndex": 0 },
+            { "question": "What is a popular way to experience the Bhedaghat gorge?", "options": ["Boat ride through the gorge", "Cable car crossing", "Bungee jumping", "Hot air balloon"], "correctIndex": 0 },
+            { "question": "The marble cliffs at Bhedaghat are composed mainly of what type of rock?", "options": ["Granite", "Marble/limestone", "Sandstone", "Basalt"], "correctIndex": 1 }
+          ],
+          "summary": "Near Jabalpur in Madhya Pradesh, the Narmada River carves through a narrow gorge of gleaming white and black marble cliffs at Bhedaghat, rising up to about 100 feet on either bank. Boat rides through the gorge, especially under moonlight, are a major tourist draw, and the site also features the Dhuandhar Falls, where the river plunges and produces a mist resembling smoke ('dhuandhar' means 'smoke cascade'). The marble formations were shaped over millions of years by the erosive action of the Narmada, and the area holds both geological and religious significance for pilgrims following the Narmada Parikrama route."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d11_fatehpur_sikri",
+          "location": { "name": "Fatehpur Sikri, Uttar Pradesh", "lat": 27.0940, "lng": 77.6710 },
+          "questions": [
+            { "question": "Which Mughal emperor built Fatehpur Sikri?", "options": ["Babur", "Humayun", "Akbar", "Shah Jahan"], "correctIndex": 2 },
+            { "question": "Why was Fatehpur Sikri abandoned as capital?", "options": ["Earthquake damage", "Water scarcity", "Foreign invasion", "Fire"], "correctIndex": 1 },
+            { "question": "Which massive gateway at Fatehpur Sikri is among the tallest in the world?", "options": ["Buland Darwaza", "India Gate", "Gateway of India", "Charminar"], "correctIndex": 0 },
+            { "question": "The tomb of which Sufi saint is located within Fatehpur Sikri?", "options": ["Nizamuddin Auliya", "Salim Chishti", "Moinuddin Chishti", "Baba Farid"], "correctIndex": 1 },
+            { "question": "Fatehpur Sikri is located near which major city?", "options": ["Delhi", "Agra", "Lucknow", "Jaipur"], "correctIndex": 1 }
+          ],
+          "summary": "Fatehpur Sikri, in Uttar Pradesh near Agra, was built by Mughal emperor Akbar in the late 16th century as his capital, blending Persian, Islamic, and Indian architectural styles. It was abandoned after only about 15 years, largely due to water scarcity, leaving a remarkably well-preserved ghost city. Key structures include the Buland Darwaza, one of the tallest gateways in the world, and the tomb of Sufi saint Salim Chishti. Today it is a UNESCO World Heritage Site known for its intricately carved red sandstone buildings."
+        },
+        {
+          "id": "cul_d11_konark_sun_temple",
+          "location": { "name": "Konark Sun Temple, Odisha", "lat": 19.8876, "lng": 86.0945 },
+          "questions": [
+            { "question": "The Konark Sun Temple is built in the shape of a giant?", "options": ["Chariot", "Lotus", "Elephant", "Mountain"], "correctIndex": 0 },
+            { "question": "How many carved wheels does the Konark Sun Temple famously have?", "options": ["12", "18", "24", "30"], "correctIndex": 2 },
+            { "question": "Which dynasty built the Konark Sun Temple?", "options": ["Chola", "Eastern Ganga", "Chalukya", "Pallava"], "correctIndex": 1 },
+            { "question": "The wheels of Konark Sun Temple also function as?", "options": ["Sundials", "Water clocks", "Compasses", "Calendars only"], "correctIndex": 0 },
+            { "question": "European sailors historically nicknamed Konark Sun Temple the?", "options": ["Black Pagoda", "White Tower", "Golden Spire", "Red Fort"], "correctIndex": 0 }
+          ],
+          "summary": "The 13th-century Sun Temple at Konark, Odisha, was designed as a colossal stone chariot for the sun god Surya, complete with 24 intricately carved wheels and a team of seven stone horses. Built under King Narasimhadeva I of the Eastern Ganga dynasty, it showcases some of the finest stone carving in Indian temple architecture, though its main tower collapsed centuries ago. The wheels famously function as sundials, capable of telling time from the position of their shadows. It is a UNESCO World Heritage Site, often called the 'Black Pagoda' by old European sailors who used it as a landmark."
+        },
+        {
+          "id": "cul_d11_charminar",
+          "location": { "name": "Charminar, Hyderabad", "lat": 17.3616, "lng": 78.4747 },
+          "questions": [
+            { "question": "Who built Charminar?", "options": ["Muhammad Quli Qutb Shah", "Aurangzeb", "Nizam Ali Khan", "Akbar"], "correctIndex": 0 },
+            { "question": "What does \"Charminar\" mean?", "options": ["Four gardens", "Four minarets", "Four gates", "Four domes"], "correctIndex": 1 },
+            { "question": "In which city is Charminar located?", "options": ["Bengaluru", "Hyderabad", "Chennai", "Vijayawada"], "correctIndex": 1 },
+            { "question": "What famous bazaar surrounds Charminar, known for bangles?", "options": ["Laad Bazaar", "Chandni Chowk", "Johari Bazaar", "Crawford Market"], "correctIndex": 0 },
+            { "question": "Charminar is believed by some to have been built to commemorate the end of a?", "options": ["War", "Plague epidemic", "Famine", "Flood"], "correctIndex": 1 }
+          ],
+          "summary": "Charminar, built in 1591 by Sultan Muhammad Quli Qutb Shah, marks the founding of Hyderabad and stands at the heart of the old city's bustling markets. Its name means 'four minarets,' referring to the four towering minarets at each corner of the structure, which some believe were built to commemorate the end of a plague epidemic. The monument blends Persian and Qutb Shahi architectural styles and has a mosque on its upper floor. Today Charminar is surrounded by the busy Laad Bazaar, famous for bangles, remaining one of India's most recognizable historic landmarks."
+        },
+        {
+          "id": "cul_d11_mahabodhi_temple",
+          "location": { "name": "Mahabodhi Temple, Bodh Gaya", "lat": 24.6959, "lng": 84.9917 },
+          "questions": [
+            { "question": "The Mahabodhi Temple marks the site of the Buddha's?", "options": ["Birth", "Enlightenment", "First sermon", "Death"], "correctIndex": 1 },
+            { "question": "In which Indian state is Bodh Gaya located?", "options": ["Uttar Pradesh", "West Bengal", "Bihar", "Jharkhand"], "correctIndex": 2 },
+            { "question": "The tree beside the Mahabodhi Temple is a descendant of which original tree?", "options": ["Banyan Tree", "Bodhi Tree", "Neem Tree", "Peepal of Sarnath"], "correctIndex": 1 },
+            { "question": "Which period does much of the original Mahabodhi Temple structure date back to?", "options": ["Maurya period", "Gupta period", "Mughal period", "Chola period"], "correctIndex": 1 },
+            { "question": "Mahabodhi Temple is one of the four most important pilgrimage sites for which religion?", "options": ["Hinduism", "Buddhism", "Jainism", "Sikhism"], "correctIndex": 1 }
+          ],
+          "summary": "The Mahabodhi Temple in Bodh Gaya, Bihar, marks the spot where Siddhartha Gautama is believed to have attained enlightenment under the Bodhi Tree, becoming the Buddha. Portions of the current temple complex date back to the Gupta period around the 5th-6th century, though it has been rebuilt and restored several times since. A descendant of the original Bodhi Tree still stands beside the temple, said to have been grown from a cutting brought back from Sri Lanka. As a UNESCO World Heritage Site, it draws Buddhist pilgrims from across the world and remains one of Buddhism's four most important pilgrimage sites."
+        },
+        {
+          "id": "cul_d11_dilwara_temples",
+          "location": { "name": "Dilwara Temples, Mount Abu", "lat": 24.6089, "lng": 72.7080 },
+          "questions": [
+            { "question": "The Dilwara Temples are dedicated to which religion?", "options": ["Hinduism", "Buddhism", "Jainism", "Sikhism"], "correctIndex": 2 },
+            { "question": "Near which hill station are the Dilwara Temples located?", "options": ["Shimla", "Mount Abu", "Ooty", "Darjeeling"], "correctIndex": 1 },
+            { "question": "Dilwara Temples are especially famous for their intricate carvings in which material?", "options": ["Sandstone", "Marble", "Granite", "Wood"], "correctIndex": 1 },
+            { "question": "Which of these is one of the most celebrated temples at Dilwara?", "options": ["Vimal Vasahi", "Meenakshi Temple", "Brihadeeswara", "Sun Temple"], "correctIndex": 0 },
+            { "question": "The Dilwara Temples were mainly built between which centuries?", "options": ["5th-7th century", "8th-9th century", "11th-13th century", "16th-17th century"], "correctIndex": 2 }
+          ],
+          "summary": "The Dilwara Temples, near Mount Abu in Rajasthan, are a group of Jain temples built between the 11th and 13th centuries, renowned for astonishingly intricate marble carvings on their ceilings, pillars, and doorways. The Vimal Vasahi temple, dedicated to the first Tirthankara, and the Luna Vasahi, dedicated to the 22nd Tirthankara, are the most celebrated of the five temples in the complex. Craftsmen reportedly were paid by the weight of marble dust they removed, encouraging extraordinarily fine detail. Despite their plain exteriors, the interiors are considered among the finest examples of Jain temple architecture in India."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d11_chenani_nashri_tunnel",
+          "location": { "name": "Chenani-Nashri Tunnel, Jammu & Kashmir", "lat": 33.1500, "lng": 75.2500 },
+          "questions": [
+            { "question": "The Chenani-Nashri Tunnel is officially named after whom?", "options": ["Syama Prasad Mookerjee", "Jawaharlal Nehru", "Sardar Patel", "Atal Bihari Vajpayee"], "correctIndex": 0 },
+            { "question": "On which highway is the Chenani-Nashri Tunnel located?", "options": ["Delhi-Mumbai Expressway", "Jammu-Srinagar National Highway", "Golden Quadrilateral", "Leh-Manali Highway"], "correctIndex": 1 },
+            { "question": "What was notable about this tunnel when it opened in 2017?", "options": ["It was India's longest road tunnel at the time", "It was India's first underwater tunnel", "It was the world's highest tunnel", "It was built entirely by robots"], "correctIndex": 0 },
+            { "question": "What safety feature runs parallel to the main tunnel?", "options": ["An escape tunnel", "A railway line", "A canal", "A second highway"], "correctIndex": 0 },
+            { "question": "The tunnel primarily helps bypass which kind of hazard on the older route?", "options": ["Desert sandstorms", "Landslides and snow", "Flooding rivers", "Volcanic activity"], "correctIndex": 1 }
+          ],
+          "summary": "The Chenani-Nashri Tunnel in Jammu & Kashmir, officially named the Syama Prasad Mookerjee Tunnel, was India's longest road tunnel when it opened in 2017, running about 9 kilometers through the Patnitop range on the Jammu-Srinagar National Highway. It significantly cut travel time and distance by bypassing a notoriously landslide- and snow-prone mountain stretch, while avoiding several higher, harder-to-navigate passes. The tunnel is equipped with a parallel escape tunnel, fire hydrants, and CCTV monitoring for safety, marking a major step in improving all-weather connectivity to the Kashmir Valley."
+        },
+        {
+          "id": "eco_d11_barc_trombay",
+          "location": { "name": "Bhabha Atomic Research Centre, Trombay, Mumbai", "lat": 19.0170, "lng": 72.9250 },
+          "questions": [
+            { "question": "Who founded the Bhabha Atomic Research Centre?", "options": ["Vikram Sarabhai", "Homi J. Bhabha", "C.V. Raman", "APJ Abdul Kalam"], "correctIndex": 1 },
+            { "question": "In which city is BARC located?", "options": ["Chennai", "Bengaluru", "Mumbai", "Kolkata"], "correctIndex": 2 },
+            { "question": "What was the name of India's first nuclear reactor, housed at BARC?", "options": ["Apsara", "Dhruva", "Cirus", "Purnima"], "correctIndex": 0 },
+            { "question": "In which year was India's first reactor commissioned?", "options": ["1948", "1956", "1965", "1974"], "correctIndex": 1 },
+            { "question": "Besides power research, BARC also produces isotopes used in which field?", "options": ["Agriculture only", "Medicine and industry", "Textiles", "Aviation only"], "correctIndex": 1 }
+          ],
+          "summary": "The Bhabha Atomic Research Centre (BARC) in Trombay, Mumbai, is India's premier nuclear research facility, founded in 1954 by Homi J. Bhabha. It houses India's first nuclear reactor, Apsara, commissioned in 1956, marking the beginning of the country's atomic energy program. BARC has been central to India's nuclear power development, isotope production for medical and industrial use, and nuclear research more broadly. The institute continues to conduct wide-ranging research across nuclear science, materials, and related engineering fields."
+        },
+        {
+          "id": "eco_d11_kudankulam_npp",
+          "location": { "name": "Kudankulam Nuclear Power Plant, Tamil Nadu", "lat": 8.1700, "lng": 77.7100 },
+          "questions": [
+            { "question": "Kudankulam Nuclear Power Plant was built in collaboration with which country?", "options": ["France", "Russia", "United States", "Japan"], "correctIndex": 1 },
+            { "question": "In which state is the Kudankulam plant located?", "options": ["Andhra Pradesh", "Kerala", "Tamil Nadu", "Karnataka"], "correctIndex": 2 },
+            { "question": "What type of reactors does Kudankulam use?", "options": ["Pressurized Heavy Water Reactors", "VVER-1000 Pressurized Water Reactors", "Boiling Water Reactors", "Fast Breeder Reactors"], "correctIndex": 1 },
+            { "question": "When did Kudankulam's first unit begin commercial operation?", "options": ["2005", "2013", "2018", "2020"], "correctIndex": 1 },
+            { "question": "Global scrutiny of plants like Kudankulam increased after which 2011 disaster?", "options": ["Chernobyl", "Fukushima", "Three Mile Island", "Bhopal Gas Tragedy"], "correctIndex": 1 }
+          ],
+          "summary": "The Kudankulam Nuclear Power Plant in Tamil Nadu, built with Russian collaboration, is one of India's largest nuclear power stations, using VVER-1000 pressurized water reactors. Its first unit began commercial operation in 2013 after years of technical and environmental review, and construction of additional units has continued the site's expansion. Located near the southern coast, it supplies electricity to the southern grid and represents one of India's major Indo-Russian energy partnerships, though the project has also faced local protests over safety concerns after the 2011 Fukushima disaster."
+        },
+        {
+          "id": "eco_d11_bokaro_steel_plant",
+          "location": { "name": "Bokaro Steel Plant, Jharkhand", "lat": 23.6693, "lng": 86.1511 },
+          "questions": [
+            { "question": "Bokaro Steel Plant is located in which state?", "options": ["Odisha", "West Bengal", "Jharkhand", "Bihar"], "correctIndex": 2 },
+            { "question": "Which country assisted in setting up the Bokaro Steel Plant?", "options": ["United States", "Soviet Union", "United Kingdom", "Germany"], "correctIndex": 1 },
+            { "question": "Bokaro Steel Plant operates under which public sector company?", "options": ["SAIL", "NTPC", "ONGC", "Coal India"], "correctIndex": 0 },
+            { "question": "Bokaro Steel Plant primarily produces what kind of steel products?", "options": ["Flat steel products", "Only steel wires", "Only railway tracks", "Stainless cutlery"], "correctIndex": 0 },
+            { "question": "When was Bokaro Steel Plant broadly commissioned?", "options": ["1950s", "Late 1960s", "1980s", "1990s"], "correctIndex": 1 }
+          ],
+          "summary": "Bokaro Steel Plant in Jharkhand, set up with Soviet assistance and commissioned in stages from the late 1960s, is one of the largest integrated steel plants under Steel Authority of India Limited (SAIL). It was built as part of India's push for self-reliance in heavy industry during the post-independence era and helped develop Bokaro into a major industrial township. The plant primarily produces flat steel products used in construction, automobiles, and other manufacturing sectors, reflecting Cold War-era India's balancing of both Western and Soviet industrial partnerships."
+        },
+        {
+          "id": "eco_d11_haldia_port",
+          "location": { "name": "Haldia Port, West Bengal", "lat": 22.0333, "lng": 88.0600 },
+          "questions": [
+            { "question": "Haldia Port is located on which river?", "options": ["Ganga", "Hooghly", "Brahmaputra", "Mahanadi"], "correctIndex": 1 },
+            { "question": "Haldia Port was developed to relieve pressure on which older port?", "options": ["Chennai Port", "Kolkata Port", "Mumbai Port", "Kandla Port"], "correctIndex": 1 },
+            { "question": "What major industrial facility is located near Haldia Port?", "options": ["Steel plant", "Oil refinery and petrochemical complex", "Shipyard only", "Textile mill"], "correctIndex": 1 },
+            { "question": "Haldia Port is administratively part of which port authority?", "options": ["Jawaharlal Nehru Port Trust", "Syama Prasad Mookerjee Port", "Cochin Port Trust", "Paradip Port Trust"], "correctIndex": 1 },
+            { "question": "Which landlocked neighboring countries rely partly on Haldia for trade access?", "options": ["Nepal and Bhutan", "Sri Lanka and Maldives", "Myanmar and Bangladesh", "Pakistan and Afghanistan"], "correctIndex": 0 }
+          ],
+          "summary": "Haldia Port, on the Hooghly River in West Bengal, was developed in the 1960s and 70s to relieve pressure on Kolkata Port, which struggled with siltation limiting the size of ships it could handle. It became a major hub for bulk cargo, petroleum products, and fertilizers, home to a large oil refinery and petrochemical complex nearby. Haldia is administered jointly with Kolkata as the Syama Prasad Mookerjee Port and serves eastern India and landlocked neighboring countries like Nepal and Bhutan for trade, its deep-water access allowing larger vessels than Kolkata's older docks could accommodate."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d11_hola_mohalla",
+          "location": { "name": "Hola Mohalla, Anandpur Sahib", "lat": 31.2300, "lng": 76.5000 },
+          "questions": [
+            { "question": "Which Sikh Guru established the Hola Mohalla festival?", "options": ["Guru Nanak", "Guru Gobind Singh", "Guru Arjan Dev", "Guru Tegh Bahadur"], "correctIndex": 1 },
+            { "question": "Hola Mohalla is celebrated at which town in Punjab?", "options": ["Amritsar", "Anandpur Sahib", "Patiala", "Ludhiana"], "correctIndex": 1 },
+            { "question": "Hola Mohalla is traditionally held right after which festival?", "options": ["Diwali", "Holi", "Baisakhi", "Lohri"], "correctIndex": 1 },
+            { "question": "What kind of displays are central to Hola Mohalla?", "options": ["Mock battles and martial arts", "Kite flying", "Boat races", "Classical dance only"], "correctIndex": 0 },
+            { "question": "Which warrior group is prominently associated with Hola Mohalla processions?", "options": ["Nihangs", "Gurkhas", "Rajputs", "Marathas"], "correctIndex": 0 }
+          ],
+          "summary": "Hola Mohalla is a Sikh festival held annually at Anandpur Sahib, Punjab, a day after Holi, established by Guru Gobind Singh in the late 17th century as a martial display for the Khalsa. Unlike the playful color-throwing of Holi, Hola Mohalla features mock battles, horse-riding displays, martial arts demonstrations, and processions of Nihang warriors in traditional attire. The festival showcases Sikh military tradition and community spirit, drawing large crowds from across Punjab and beyond, with Anandpur Sahib itself holding special significance as the birthplace of the Khalsa in 1699."
+        },
+        {
+          "id": "evt_d11_nuakhai",
+          "location": { "name": "Nuakhai, Sambalpur, Odisha", "lat": 21.4700, "lng": 83.9700 },
+          "questions": [
+            { "question": "What does \"Nuakhai\" literally mean?", "options": ["New eat", "Full moon", "Harvest dance", "First rain"], "correctIndex": 0 },
+            { "question": "Nuakhai is especially significant in which region of Odisha?", "options": ["Coastal Odisha", "Western Odisha", "Northern Odisha", "Southern Odisha"], "correctIndex": 1 },
+            { "question": "What crop's harvest does Nuakhai primarily celebrate?", "options": ["Wheat", "Rice", "Sugarcane", "Millet"], "correctIndex": 1 },
+            { "question": "Before eating the new rice themselves, families first offer it to?", "options": ["Guests", "The presiding deity", "The village elder", "Livestock"], "correctIndex": 1 },
+            { "question": "Nuakhai is closely tied to identity in which city?", "options": ["Bhubaneswar", "Sambalpur", "Cuttack", "Puri"], "correctIndex": 1 }
+          ],
+          "summary": "Nuakhai is a harvest festival celebrated mainly in western Odisha, especially around Sambalpur, marking the arrival of new rice for the season. The name comes from 'Nua' (new) and 'Khai' (eat), reflecting the central ritual where families first offer newly harvested rice to their presiding deity before eating it themselves. It is deeply tied to regional identity in western Odisha and is celebrated with as much or more enthusiasm than Durga Puja in that part of the state, with community feasts, cultural programs, and family reunions marking the day in early autumn."
+        },
+        {
+          "id": "evt_d11_ganga_sagar_mela",
+          "location": { "name": "Ganga Sagar Mela, Sagar Island, West Bengal", "lat": 21.6500, "lng": 88.0800 },
+          "questions": [
+            { "question": "Ganga Sagar Mela is held at the confluence of the Ganga and which body of water?", "options": ["Arabian Sea", "Bay of Bengal", "Indian Ocean", "Andaman Sea"], "correctIndex": 1 },
+            { "question": "Ganga Sagar Mela coincides with which festival?", "options": ["Diwali", "Makar Sankranti", "Holi", "Navratri"], "correctIndex": 1 },
+            { "question": "Which temple do pilgrims visit at Ganga Sagar?", "options": ["Kapil Muni Temple", "Jagannath Temple", "Kalighat Temple", "Dakshineswar Temple"], "correctIndex": 0 },
+            { "question": "How is Sagar Island primarily accessed?", "options": ["By road bridge", "By ferry", "By rail", "By air only"], "correctIndex": 1 },
+            { "question": "Ganga Sagar Mela is often called the largest religious gathering in India after which event?", "options": ["Kumbh Mela", "Rath Yatra", "Pushkar Fair", "Durga Puja"], "correctIndex": 0 }
+          ],
+          "summary": "Ganga Sagar Mela is an annual pilgrimage and fair held at Sagar Island, where the Ganga River meets the Bay of Bengal in West Bengal, coinciding with Makar Sankranti in mid-January. Pilgrims gather to take a holy dip at the confluence and visit the Kapil Muni Temple, believed to mark the spot where sage Kapila's gaze once reduced King Sagara's sons to ashes, according to Hindu mythology. It is considered one of the largest religious gatherings in India after the Kumbh Mela, drawing lakhs of devotees despite the island's remote, ferry-only access."
+        },
+        {
+          "id": "evt_d11_tarnetar_fair",
+          "location": { "name": "Tarnetar Fair, Surendranagar, Gujarat", "lat": 22.6000, "lng": 71.3300 },
+          "questions": [
+            { "question": "The Tarnetar Fair is held in which Indian state?", "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Maharashtra"], "correctIndex": 1 },
+            { "question": "Tarnetar Fair is linked to the legend of which epic hero winning a bride through an archery contest?", "options": ["Rama", "Arjuna", "Krishna", "Bhima"], "correctIndex": 1 },
+            { "question": "What decorated item did young men traditionally carry at Tarnetar as a marriage-eligibility display?", "options": ["Swords", "Umbrellas", "Flags", "Lanterns"], "correctIndex": 1 },
+            { "question": "Tarnetar Fair centers around which temple?", "options": ["Somnath Temple", "Trineteshwar Mahadev Temple", "Dwarkadhish Temple", "Akshardham"], "correctIndex": 1 },
+            { "question": "Tarnetar Fair is a showcase of the culture of which region?", "options": ["Saurashtra", "Malwa", "Marwar", "Konkan"], "correctIndex": 0 }
+          ],
+          "summary": "The Tarnetar Fair, held in Surendranagar district, Gujarat, around the Trineteshwar Mahadev Temple, is one of the state's most colorful folk fairs, traditionally linked to the legend of Arjuna winning Draupadi's hand through an archery contest at this very site. The fair is especially known as a matchmaking event in rural Gujarat, where young men traditionally carried decorated umbrellas as a display of eligibility for marriage. Folk music, dance, and handicrafts from the Kathi and other pastoral communities are central to the three-day celebration, showcasing rural Saurashtra culture and tradition."
+        },
+        {
+          "id": "evt_d11_wangala_festival",
+          "location": { "name": "Wangala Festival, Tura, Meghalaya", "lat": 25.5138, "lng": 90.2172 },
+          "questions": [
+            { "question": "The Wangala Festival is celebrated by which tribal community?", "options": ["Khasi", "Garo", "Naga", "Mizo"], "correctIndex": 1 },
+            { "question": "Wangala is also known by which nickname, referring to its musical instruments?", "options": ["Hundred Drums Festival", "Thousand Lamps Festival", "Bamboo Dance Festival", "Silent Valley Festival"], "correctIndex": 0 },
+            { "question": "Wangala is a thanksgiving festival dedicated to which deity?", "options": ["Saljong (sun god of fertility)", "Indra", "Surya of the Vedas", "Varuna"], "correctIndex": 0 },
+            { "question": "Wangala Festival is centered around which town in Meghalaya?", "options": ["Shillong", "Tura", "Jowai", "Nongpoh"], "correctIndex": 1 },
+            { "question": "Wangala Festival marks the end of which cycle?", "options": ["Monsoon season", "Agricultural/harvest cycle", "School year", "Lunar calendar year"], "correctIndex": 1 }
+          ],
+          "summary": "The Wangala Festival, celebrated by the Garo tribe primarily around Tura in the Garo Hills of Meghalaya, is a post-harvest thanksgiving festival dedicated to Saljong, the sun god of fertility. Also called the 'Hundred Drums Festival,' it features large groups of dancers moving in unison to the rhythmic beating of long cylindrical drums called 'dama,' accompanied by traditional attire and headgear. The festival marks the end of the agricultural cycle and is one of the most vibrant expressions of Garo cultural identity, typically taking place over several days in October or November after the harvest."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d11_raipur",
+          "location": { "name": "Raipur, Chhattisgarh", "lat": 21.2514, "lng": 81.6296 },
+          "questions": [
+            { "question": "Raipur is the capital of which state, formed in 2000?", "options": ["Jharkhand", "Chhattisgarh", "Uttarakhand", "Telangana"], "correctIndex": 1 },
+            { "question": "Chhattisgarh was carved out of which state?", "options": ["Odisha", "Madhya Pradesh", "Bihar", "Maharashtra"], "correctIndex": 1 },
+            { "question": "What is the name of the newly planned capital area near Raipur?", "options": ["Naya Raipur (Atal Nagar)", "New Bhopal", "Navi Indore", "Greater Raipur"], "correctIndex": 0 },
+            { "question": "Chhattisgarh is often nicknamed the \"___ of India\" due to its agriculture.", "options": ["Wheat bowl", "Rice bowl", "Sugar bowl", "Fruit basket"], "correctIndex": 1 },
+            { "question": "In which year did Chhattisgarh become a separate state?", "options": ["1998", "2000", "2002", "2005"], "correctIndex": 1 }
+          ],
+          "summary": "Raipur has been the capital of Chhattisgarh since the state was carved out of Madhya Pradesh in November 2000, becoming India's 26th state at the time. Historically a trading center on the fertile Chhattisgarh plain, Raipur grew rapidly as an administrative and commercial hub after statehood, with a new planned capital area, Naya Raipur (now Atal Nagar), developed nearby to house government offices. The city sits amid a region rich in rice cultivation, earning Chhattisgarh the nickname 'rice bowl of India,' reflecting broader trends of new state capitals built for administrative efficiency after India's state reorganizations."
+        },
+        {
+          "id": "pol_d11_dehradun",
+          "location": { "name": "Dehradun, Uttarakhand", "lat": 30.3165, "lng": 78.0322 },
+          "questions": [
+            { "question": "Dehradun is the capital of which state?", "options": ["Himachal Pradesh", "Uttarakhand", "Punjab", "Haryana"], "correctIndex": 1 },
+            { "question": "Uttarakhand was originally known by what name at formation, before its 2007 renaming?", "options": ["Uttar Bharat", "Uttaranchal", "Himachal", "Garhwal Pradesh"], "correctIndex": 1 },
+            { "question": "Dehradun lies in which valley?", "options": ["Kashmir Valley", "Doon Valley", "Kangra Valley", "Kullu Valley"], "correctIndex": 1 },
+            { "question": "Which town was declared Uttarakhand's summer capital?", "options": ["Nainital", "Gairsain", "Mussoorie", "Rishikesh"], "correctIndex": 1 },
+            { "question": "Uttarakhand was carved out of which state?", "options": ["Himachal Pradesh", "Uttar Pradesh", "Punjab", "Bihar"], "correctIndex": 1 }
+          ],
+          "summary": "Dehradun serves as the interim capital of Uttarakhand, formed in November 2000 when it was carved out of Uttar Pradesh, originally as Uttaranchal before being renamed in 2007. Nestled in the Doon Valley between the Himalayan foothills and the Shivalik range, the city has long been known for its pleasant climate, prestigious institutions like the Forest Research Institute and Indian Military Academy, and its basmati rice and lychee cultivation. Despite being the seat of government, Gairsain was later declared the state's summer capital in an effort to bring administration closer to the state's mountainous interior regions."
+        },
+        {
+          "id": "pol_d11_thiruvananthapuram",
+          "location": { "name": "Thiruvananthapuram, Kerala", "lat": 8.5241, "lng": 76.9366 },
+          "questions": [
+            { "question": "Thiruvananthapuram is the capital of which state?", "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"], "correctIndex": 2 },
+            { "question": "Kerala was formed in 1956 under which legislation?", "options": ["Government of India Act", "States Reorganisation Act", "Panchayati Raj Act", "Constitution (Amendment) Act"], "correctIndex": 1 },
+            { "question": "What does \"Thiruvananthapuram\" mean?", "options": ["City of Lord Anantha", "City of the Sun", "City of Rivers", "City of Kings"], "correctIndex": 0 },
+            { "question": "Thiruvananthapuram was historically the capital of which princely state?", "options": ["Cochin", "Travancore", "Mysore", "Hyderabad"], "correctIndex": 1 },
+            { "question": "Which famous, extremely wealthy temple is located in Thiruvananthapuram?", "options": ["Padmanabhaswamy Temple", "Guruvayur Temple", "Meenakshi Temple", "Sabarimala Temple"], "correctIndex": 0 }
+          ],
+          "summary": "Thiruvananthapuram, also known as Trivandrum, has been the capital of Kerala since the state's formation in 1956 under the States Reorganisation Act, which merged Malayalam-speaking regions from Travancore-Cochin and Madras State. The city's name means 'City of Lord Anantha,' referring to the deity of the famous Padmanabhaswamy Temple, one of the richest temples in the world. Long a seat of power even before independence as the capital of the princely state of Travancore, it retained its administrative importance into the modern era, and today is also a hub for IT and space research."
+        },
+        {
+          "id": "pol_d11_dispur",
+          "location": { "name": "Dispur, Assam", "lat": 26.1433, "lng": 91.7898 },
+          "questions": [
+            { "question": "Dispur is the capital of which state?", "options": ["Meghalaya", "Assam", "Nagaland", "Manipur"], "correctIndex": 1 },
+            { "question": "Dispur became Assam's capital after the seat of government moved from where?", "options": ["Kolkata", "Shillong", "Itanagar", "Imphal"], "correctIndex": 1 },
+            { "question": "Dispur is technically a locality within which larger city?", "options": ["Guwahati", "Silchar", "Dibrugarh", "Tezpur"], "correctIndex": 0 },
+            { "question": "In what year did Dispur become Assam's capital?", "options": ["1956", "1973", "1987", "2000"], "correctIndex": 1 },
+            { "question": "Assam's capital shifted from Shillong after which state was created?", "options": ["Nagaland", "Meghalaya", "Mizoram", "Arunachal Pradesh"], "correctIndex": 1 }
+          ],
+          "summary": "Dispur, a locality within Guwahati, has served as the capital of Assam since 1973, when the seat of government shifted from Shillong after Meghalaya was carved out as a separate state. Unlike most state capitals, Dispur is not a distinct city but a planned administrative area housing the state secretariat and legislative assembly, effectively functioning as part of greater Guwahati. Many people mistakenly assume Guwahati itself is the official capital, given Dispur's small footprint compared to the sprawling city around it, reflecting the complex post-independence reorganization of India's northeastern states."
+        },
+        {
+          "id": "pol_d11_kargil",
+          "location": { "name": "Kargil, Ladakh", "lat": 34.5539, "lng": 76.1349 },
+          "questions": [
+            { "question": "Kargil is a district in which Union Territory, formed in 2019?", "options": ["Jammu and Kashmir", "Ladakh", "Himachal Pradesh", "Punjab"], "correctIndex": 1 },
+            { "question": "The 1999 Kargil War was fought between India and which country?", "options": ["China", "Pakistan", "Bangladesh", "Nepal"], "correctIndex": 1 },
+            { "question": "Ladakh became a Union Territory following the reorganization of which former state?", "options": ["Punjab", "Jammu and Kashmir", "Himachal Pradesh", "Sikkim"], "correctIndex": 1 },
+            { "question": "What is the other main district of Ladakh besides Kargil?", "options": ["Leh", "Srinagar", "Jammu", "Poonch"], "correctIndex": 0 },
+            { "question": "Unlike Leh's Buddhist majority, Kargil has a predominantly what population?", "options": ["Hindu", "Shia Muslim", "Sikh", "Christian"], "correctIndex": 1 }
+          ],
+          "summary": "Kargil, one of two districts in the Union Territory of Ladakh, gained global attention during the 1999 Kargil War between India and Pakistan, fought over infiltration across the Line of Control in the high-altitude terrain nearby. Ladakh itself became a separate Union Territory in October 2019, following the reorganization of the former state of Jammu and Kashmir, with Kargil and Leh remaining its two constituent districts. Unlike the Buddhist-majority Leh district, Kargil has a predominantly Shia Muslim population, giving Ladakh a notably diverse religious and cultural makeup, and the town serves as an important gateway along the Srinagar-Leh highway."
+        }
+      ]
+    }
+  }
+}

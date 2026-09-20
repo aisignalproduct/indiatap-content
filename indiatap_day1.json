@@ -1,0 +1,326 @@
+{
+  "day": 1,
+  "date": "2026-10-01",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d1_varanasi_ganga",
+          "location": { "name": "Ganga — Varanasi Ghats", "lat": 25.3176, "lng": 83.0062 },
+          "questions": [
+            { "question": "Varanasi sits on which bank of the Ganga?", "options": ["East bank", "West bank", "Both banks", "On a tributary, not the Ganga"], "correctIndex": 0 },
+            { "question": "The Ganga originates at which glacier?", "options": ["Siachen", "Zemu", "Gangotri", "Milam"], "correctIndex": 2 },
+            { "question": "Varanasi is also known by which ancient name?", "options": ["Pataliputra", "Kashi", "Ujjain", "Takshashila"], "correctIndex": 1 },
+            { "question": "The Ganga empties into which body of water?", "options": ["Arabian Sea", "Indian Ocean", "Bay of Bengal", "Lakshadweep Sea"], "correctIndex": 2 },
+            { "question": "Which famous ghat in Varanasi is used exclusively for cremation?", "options": ["Dasaswamedh Ghat", "Manikarnika Ghat", "Assi Ghat", "Harishchandra Ghat"], "correctIndex": 1 }
+          ],
+          "summary": "The Ganga at Varanasi is more than a river — it is the spiritual spine of India. Varanasi, one of the world's oldest continuously inhabited cities, sits on the western (left) bank of the river. The ghats — broad stone staircases descending to the water — host daily rituals, cremations, and the celebrated Ganga Aarti ceremony every evening. The river travels 2,525 km from the Gangotri Glacier in Uttarakhand before emptying into the Bay of Bengal at the Sundarbans delta."
+        },
+        {
+          "id": "geo_d1_thar_jaisalmer",
+          "location": { "name": "Thar Desert — Jaisalmer", "lat": 26.9157, "lng": 70.9083 },
+          "questions": [
+            { "question": "The Thar Desert is also known by which name?", "options": ["Rann Desert", "Great Indian Desert", "Deccan Desert", "Sindh Desert"], "correctIndex": 1 },
+            { "question": "Which river flows seasonally through the Thar region?", "options": ["Luni", "Chambal", "Banas", "Mahi"], "correctIndex": 0 },
+            { "question": "Jaisalmer Fort is built from which distinctive stone?", "options": ["Red sandstone", "Marble", "Yellow sandstone", "Granite"], "correctIndex": 2 },
+            { "question": "The Thar Desert covers approximately what percentage of India's land area?", "options": ["2%", "5%", "10%", "15%"], "correctIndex": 1 },
+            { "question": "Which border does the Thar Desert share with a neighbouring country?", "options": ["China", "Nepal", "Pakistan", "Bangladesh"], "correctIndex": 2 }
+          ],
+          "summary": "The Thar Desert — also called the Great Indian Desert — stretches across western Rajasthan and into Pakistan's Sindh province, covering roughly 200,000 sq km. Despite its arid reputation, the Thar is one of the most densely populated deserts in the world. Jaisalmer, known as the Golden City, rises from the desert on a rocky outcrop. Its 12th-century fort, built from honey-yellow Jaisalmer sandstone, is one of the world's few living forts — thousands of people still reside inside its walls."
+        },
+        {
+          "id": "geo_d1_kangchenjunga",
+          "location": { "name": "Kangchenjunga — Sikkim", "lat": 27.7025, "lng": 88.1475 },
+          "questions": [
+            { "question": "Kangchenjunga is the world's third-highest peak. What is its elevation?", "options": ["8,201m", "8,386m", "8,586m", "8,611m"], "correctIndex": 2 },
+            { "question": "Kangchenjunga straddles which two countries?", "options": ["India and China", "India and Nepal", "Nepal and China", "India and Bhutan"], "correctIndex": 1 },
+            { "question": "What does 'Kangchenjunga' roughly translate to?", "options": ["Five treasures of snow", "Crown of the Himalayas", "Eternal white peak", "Mountain of storms"], "correctIndex": 0 },
+            { "question": "The first successful ascent of Kangchenjunga was achieved in which year?", "options": ["1950", "1953", "1955", "1960"], "correctIndex": 2 },
+            { "question": "Kangchenjunga is the highest peak in which Indian state?", "options": ["Arunachal Pradesh", "Uttarakhand", "Himachal Pradesh", "Sikkim"], "correctIndex": 3 }
+          ],
+          "summary": "At 8,586 metres, Kangchenjunga is the world's third-highest mountain and India's highest peak. It sits on the border between Sikkim and Nepal, and its name in Tibetan means 'Five Treasures of Snow' — referring to its five summits, each said to hold divine treasures (gold, silver, gems, grain, and holy scriptures). The Sikkimese and Nepali communities regard the mountain as sacred, and by convention, summiteers stop just short of the true summit to preserve its spiritual status."
+        },
+        {
+          "id": "geo_d1_chilika_lake",
+          "location": { "name": "Chilika Lake — Odisha", "lat": 19.7167, "lng": 85.3167 },
+          "questions": [
+            { "question": "Chilika Lake is classified as which type of water body?", "options": ["Freshwater lake", "Saltwater lake", "Brackish lagoon", "Reservoir"], "correctIndex": 2 },
+            { "question": "Chilika is Asia's largest lake of its type. Approximately how large is it?", "options": ["500 sq km", "1,100 sq km", "1,800 sq km", "2,500 sq km"], "correctIndex": 1 },
+            { "question": "Which migratory bird species draws the most visitors to Chilika each winter?", "options": ["Greater Flamingo", "Irrawaddy Dolphin", "Bar-headed Goose", "Flamingo"], "correctIndex": 2 },
+            { "question": "Chilika Lake is designated under which international wetland convention?", "options": ["CITES", "Ramsar Convention", "Basel Convention", "Bonn Convention"], "correctIndex": 1 },
+            { "question": "Chilika Lake connects to which sea?", "options": ["Arabian Sea", "Laccadive Sea", "Bay of Bengal", "Indian Ocean"], "correctIndex": 2 }
+          ],
+          "summary": "Chilika Lake in Odisha is Asia's largest brackish-water lagoon, spanning roughly 1,100 sq km along the coast of the Bay of Bengal. A Ramsar Wetland of International Importance since 1981, Chilika hosts over a million migratory birds each winter — including bar-headed geese, flamingos, and grey pelicans arriving from Central Asia and Siberia. The lake also shelters a small population of rare Irrawaddy dolphins. The Nalabana Island at its centre is a designated bird sanctuary and is restricted during nesting season."
+        },
+        {
+          "id": "geo_d1_western_ghats",
+          "location": { "name": "Western Ghats — Agasthyamalai", "lat": 8.6164, "lng": 77.2436 },
+          "questions": [
+            { "question": "How long does the Western Ghats mountain range stretch along India's western coast?", "options": ["800 km", "1,100 km", "1,600 km", "2,000 km"], "correctIndex": 2 },
+            { "question": "The Western Ghats is recognised as one of the world's eight hottest biodiversity hotspots. By whom?", "options": ["IUCN", "UNESCO", "WWF", "UNEP"], "correctIndex": 1 },
+            { "question": "Which of these major rivers does NOT originate in the Western Ghats?", "options": ["Krishna", "Godavari", "Kaveri", "Ganga"], "correctIndex": 3 },
+            { "question": "Agasthyamalai, at the southern tip of the Western Ghats, is in which state?", "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"], "correctIndex": 1 },
+            { "question": "The Western Ghats are older than the Himalayas by approximately how many million years?", "options": ["10 million", "50 million", "100 million", "150 million"], "correctIndex": 2 }
+          ],
+          "summary": "The Western Ghats — a UNESCO World Heritage Site since 2012 — run for 1,600 km along India's western coast, from Gujarat in the north to the southernmost tip of Tamil Nadu. The range is geologically ancient, far older than the Himalayas, and acts as a critical climatic barrier: it intercepts the southwest monsoon and triggers the heavy rainfall that feeds peninsular India's major rivers — the Krishna, Godavari, and Kaveri among them. The range hosts over 5,000 species of flowering plants, 139 mammal species, and 508 bird species, many found nowhere else on Earth."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d1_taj_mahal",
+          "location": { "name": "Taj Mahal — Agra", "lat": 27.1751, "lng": 78.0421 },
+          "questions": [
+            { "question": "The Taj Mahal was built by which Mughal emperor?", "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Humayun"], "correctIndex": 2 },
+            { "question": "In whose memory was the Taj Mahal constructed?", "options": ["Nur Jahan", "Mumtaz Mahal", "Razia Sultana", "Jodha Bai"], "correctIndex": 1 },
+            { "question": "Approximately how many workers were involved in building the Taj Mahal?", "options": ["2,000", "5,000", "20,000", "50,000"], "correctIndex": 2 },
+            { "question": "The main dome of the Taj Mahal is approximately how tall?", "options": ["43m", "53m", "63m", "73m"], "correctIndex": 3 },
+            { "question": "Which river flows behind the Taj Mahal?", "options": ["Ganga", "Chambal", "Yamuna", "Betwa"], "correctIndex": 2 }
+          ],
+          "summary": "The Taj Mahal, commissioned by Mughal Emperor Shah Jahan in 1631 to honour his wife Mumtaz Mahal, took 22 years and an estimated 20,000 workers to complete. Built primarily from white Makrana marble quarried in Rajasthan, the complex includes a mosque, a guest house, and formal gardens in the classic Mughal charbagh style. The Yamuna River flows behind the tomb, and Shah Jahan intended to build a matching black marble mausoleum for himself on the opposite bank — a plan abandoned after his son Aurangzeb imprisoned him. A UNESCO World Heritage Site since 1983."
+        },
+        {
+          "id": "cul_d1_hampi",
+          "location": { "name": "Hampi — Karnataka", "lat": 15.335, "lng": 76.46 },
+          "questions": [
+            { "question": "Hampi was the capital of which medieval empire?", "options": ["Maratha Empire", "Vijayanagara Empire", "Hoysala Kingdom", "Bahmani Sultanate"], "correctIndex": 1 },
+            { "question": "In which year was Hampi sacked and destroyed?", "options": ["1485", "1520", "1565", "1600"], "correctIndex": 2 },
+            { "question": "The Virupaksha Temple at Hampi is dedicated to which deity?", "options": ["Vishnu", "Brahma", "Shiva", "Ganesha"], "correctIndex": 2 },
+            { "question": "Hampi sits on the banks of which river?", "options": ["Krishna", "Tungabhadra", "Kaveri", "Malaprabha"], "correctIndex": 1 },
+            { "question": "Approximately how many structures survive at Hampi today?", "options": ["200", "500", "1,000", "2,000"], "correctIndex": 2 }
+          ],
+          "summary": "Hampi, on the banks of the Tungabhadra River in Karnataka, was the magnificent capital of the Vijayanagara Empire — at its peak in the early 16th century, one of the largest cities in the world with a population of around 500,000. In 1565, a coalition of Deccan Sultanates defeated the empire at the Battle of Talikota and systematically destroyed the city over several months. Today, over 1,000 surviving structures — temples, market streets, royal enclosures, and elephant stables — spread across a surreal boulder-strewn landscape, earning UNESCO World Heritage status in 1986."
+        },
+        {
+          "id": "cul_d1_khajuraho",
+          "location": { "name": "Khajuraho — Madhya Pradesh", "lat": 24.8318, "lng": 79.9199 },
+          "questions": [
+            { "question": "The temples of Khajuraho were built by which dynasty?", "options": ["Chalukya", "Rashtrakuta", "Chandela", "Paramara"], "correctIndex": 2 },
+            { "question": "Khajuraho temples are best known for their sculptures depicting what?", "options": ["Battle scenes", "Astronomical charts", "Erotic and celestial themes", "Agricultural scenes"], "correctIndex": 2 },
+            { "question": "Out of the original 85 temples built at Khajuraho, approximately how many survive?", "options": ["10", "20", "35", "60"], "correctIndex": 2 },
+            { "question": "The Khajuraho temples were constructed primarily between which centuries?", "options": ["4th–6th century CE", "7th–9th century CE", "10th–12th century CE", "13th–15th century CE"], "correctIndex": 2 },
+            { "question": "Khajuraho temples are dedicated to which two religious traditions?", "options": ["Hindu and Buddhist", "Hindu and Jain", "Jain and Buddhist", "Hindu and Sikh"], "correctIndex": 1 }
+          ],
+          "summary": "The Khajuraho temple complex in Madhya Pradesh contains some of medieval India's most remarkable stone sculptures. Built by the Chandela Rajput dynasty between roughly 950 and 1150 CE, the temples are famous for the band of erotic carvings that run along their outer walls — though these occupy only about 10% of the total sculptural surface. The majority of the carvings depict celestial beings, daily life, and mythological narratives. Of the original 85 temples, around 25 survive. The complex spans two religious traditions — Shaivite Hindu and Jain — and has been a UNESCO World Heritage Site since 1986."
+        },
+        {
+          "id": "cul_d1_meenakshi_temple",
+          "location": { "name": "Meenakshi Amman Temple — Madurai", "lat": 9.9195, "lng": 78.1193 },
+          "questions": [
+            { "question": "How many gopurams (towers) does the Meenakshi Temple complex have?", "options": ["6", "10", "14", "18"], "correctIndex": 2 },
+            { "question": "Meenakshi Amman is another name for which goddess?", "options": ["Lakshmi", "Saraswati", "Parvati", "Durga"], "correctIndex": 2 },
+            { "question": "The tallest gopuram of Meenakshi Temple stands approximately how high?", "options": ["38m", "52m", "61m", "72m"], "correctIndex": 2 },
+            { "question": "Madurai is located on the banks of which river?", "options": ["Kaveri", "Vaigai", "Tamiraparani", "Palar"], "correctIndex": 1 },
+            { "question": "The current structure of Meenakshi Temple was largely built during which period?", "options": ["Sangam era (1st–3rd century CE)", "Pallava period (7th–9th century)", "Nayak dynasty (16th–17th century)", "British colonial period (19th century)"], "correctIndex": 2 }
+          ],
+          "summary": "The Meenakshi Amman Temple in Madurai is one of the greatest examples of Dravidian temple architecture. Its 14 towering gopurams — the tallest reaching 61 metres — are covered with thousands of brightly painted stucco sculptures depicting deities, mythological creatures, and celestial beings. The temple complex covers 4.5 hectares and contains shrines to both Meenakshi (a form of Parvati) and her consort Sundareswarar (Shiva). The Madurai Nayak dynasty substantially rebuilt and expanded the complex in the 16th and 17th centuries. An estimated 15,000 visitors pass through the temple daily."
+        },
+        {
+          "id": "cul_d1_ajanta_caves",
+          "location": { "name": "Ajanta Caves — Maharashtra", "lat": 20.5519, "lng": 75.7033 },
+          "questions": [
+            { "question": "How many rock-cut caves make up the Ajanta complex?", "options": ["12", "20", "30", "45"], "correctIndex": 2 },
+            { "question": "The Ajanta Caves primarily depict the life of which religious figure?", "options": ["Mahavira", "Buddha", "Shankaracharya", "Guru Nanak"], "correctIndex": 1 },
+            { "question": "In which century were the Ajanta Caves rediscovered by Europeans?", "options": ["17th century", "18th century", "19th century", "20th century"], "correctIndex": 2 },
+            { "question": "The Ajanta Caves are carved into a horseshoe-shaped gorge overlooking which river?", "options": ["Godavari", "Tapti", "Waghora", "Purna"], "correctIndex": 2 },
+            { "question": "The paintings at Ajanta are notable for their use of which technique?", "options": ["Fresco secco", "Tempera", "Oil painting", "Fresco buono"], "correctIndex": 0 }
+          ],
+          "summary": "The 30 rock-cut Buddhist caves at Ajanta in Maharashtra were carved between the 2nd century BCE and the 5th century CE. They contain some of the finest surviving examples of ancient Indian painting — intricate murals depicting the Jataka tales, the life of the Buddha, and courtly scenes from the Satavahana and Vakataka periods. The caves were sealed and forgotten after the decline of Buddhist patronage, rediscovered by a British officer on a tiger hunt in 1819. UNESCO inscribed them as a World Heritage Site in 1983. The pigments used in the paintings, though 1,500 years old, still retain remarkable vibrancy."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d1_nhava_sheva",
+          "location": { "name": "Jawaharlal Nehru Port — Nhava Sheva", "lat": 18.9489, "lng": 72.9479 },
+          "questions": [
+            { "question": "Jawaharlal Nehru Port is India's largest container port. In which state is it located?", "options": ["Gujarat", "Maharashtra", "Goa", "Karnataka"], "correctIndex": 1 },
+            { "question": "JN Port handles approximately what share of India's containerised cargo?", "options": ["20%", "35%", "50%", "65%"], "correctIndex": 2 },
+            { "question": "JN Port was inaugurated in which year?", "options": ["1979", "1984", "1989", "1994"], "correctIndex": 2 },
+            { "question": "What is the deepest draft that JN Port's main channels can handle?", "options": ["10m", "12m", "14m", "16m"], "correctIndex": 2 },
+            { "question": "JN Port is connected to which major city by a dedicated freight corridor?", "options": ["Pune", "Nashik", "Mumbai", "Nagpur"], "correctIndex": 2 }
+          ],
+          "summary": "Jawaharlal Nehru Port at Nhava Sheva, across Mumbai Harbour from the city, is India's largest and busiest container port. Opened in 1989, it handles roughly half of India's containerised sea trade — primarily textiles, engineering goods, and chemicals. The port is operated by Jawaharlal Nehru Port Authority and includes five container terminals managed by a mix of public and private operators, including a majority stake held by Adani Ports since 2022. Its Dedicated Freight Corridor link to the hinterland is a major infrastructure project designed to decongest road and rail routes to Mumbai."
+        },
+        {
+          "id": "eco_d1_bhakra_nangal",
+          "location": { "name": "Bhakra Nangal Dam — Himachal Pradesh", "lat": 31.4113, "lng": 76.4348 },
+          "questions": [
+            { "question": "Bhakra Nangal Dam is built on which river?", "options": ["Beas", "Ravi", "Sutlej", "Jhelum"], "correctIndex": 2 },
+            { "question": "Jawaharlal Nehru famously called Bhakra Nangal the 'New Temples of Modern India'. When was it inaugurated?", "options": ["1950", "1958", "1963", "1970"], "correctIndex": 2 },
+            { "question": "The Bhakra Dam is one of the world's highest gravity dams. How tall is it?", "options": ["116m", "166m", "226m", "286m"], "correctIndex": 2 },
+            { "question": "The reservoir created by Bhakra Dam is called what?", "options": ["Gobind Sagar", "Bhakra Sagar", "Sutlej Sagar", "Nangal Sagar"], "correctIndex": 0 },
+            { "question": "Bhakra Nangal irrigates agricultural land across which states primarily?", "options": ["Rajasthan and Gujarat", "Punjab, Haryana and Rajasthan", "UP and Bihar", "Madhya Pradesh and Maharashtra"], "correctIndex": 1 }
+          ],
+          "summary": "The Bhakra Dam on the Sutlej River in Himachal Pradesh is one of the world's tallest gravity dams at 226 metres. Nehru called it a 'new temple of resurgent India' when inaugurated in 1963 — its reservoir, Gobind Sagar, stretches 90 km upstream and stores 9.34 billion cubic metres of water. The dam's hydroelectric power stations generate about 1,325 MW, and its irrigation canals water millions of hectares across Punjab, Haryana, and Rajasthan, transforming these states into India's breadbasket during the Green Revolution."
+        },
+        {
+          "id": "eco_d1_jamshedpur",
+          "location": { "name": "Jamshedpur — Jharkhand", "lat": 22.8046, "lng": 86.2029 },
+          "questions": [
+            { "question": "Jamshedpur is named after which industrialist?", "options": ["Jamsetji Tata", "Homi Bhabha", "Jehangir Ratanji Tata", "Dorabji Tata"], "correctIndex": 0 },
+            { "question": "In which year did Tata Steel begin production at Jamshedpur?", "options": ["1897", "1907", "1912", "1919"], "correctIndex": 1 },
+            { "question": "Jamshedpur sits at the confluence of which two rivers?", "options": ["Damodar and Barakar", "Subarnarekha and Kharkai", "Mahanadi and Ib", "Ajay and Usri"], "correctIndex": 1 },
+            { "question": "Jamshedpur is notable for being a city NOT governed by which type of body?", "options": ["Tata Steel", "A municipal corporation", "A cantonment board", "A port trust"], "correctIndex": 1 },
+            { "question": "Which landmark Tata product was first manufactured at Jamshedpur?", "options": ["Tata Nano", "Tata Indica", "Tata trucks", "Tata Safari"], "correctIndex": 2 }
+          ],
+          "summary": "Jamshedpur in Jharkhand is India's first planned industrial city, created from scratch by Jamsetji Nusserwanji Tata in 1907 when Tata Steel (then TISCO) began steel production at the confluence of the Subarnarekha and Kharkai rivers. The city is unique in India for having no municipal corporation — Tata Steel manages infrastructure, water, electricity, and roads through its civic wing, Jusco. Today Jamshedpur is home to multiple Tata Group plants and over a million residents. It consistently ranks among India's cleanest and best-managed cities."
+        },
+        {
+          "id": "eco_d1_mundra_port",
+          "location": { "name": "Mundra Port — Gujarat", "lat": 22.7394, "lng": 69.7219 },
+          "questions": [
+            { "question": "Mundra Port is operated by which conglomerate?", "options": ["Reliance Industries", "L&T", "Adani Group", "JSW Group"], "correctIndex": 2 },
+            { "question": "Mundra Port is located on which gulf?", "options": ["Gulf of Khambhat", "Gulf of Kutch", "Gulf of Oman", "Gulf of Mannar"], "correctIndex": 1 },
+            { "question": "Mundra is India's largest commercial port by cargo volume. When did it first open?", "options": ["1985", "1995", "2001", "2008"], "correctIndex": 1 },
+            { "question": "Mundra Port has one of India's largest capacity for which energy import?", "options": ["Natural gas", "Crude oil", "Coal", "LNG"], "correctIndex": 2 },
+            { "question": "Mundra Port is in which district of Gujarat?", "options": ["Rajkot", "Kutch", "Surat", "Vadodara"], "correctIndex": 1 }
+          ],
+          "summary": "Mundra Port on the Gulf of Kutch in Gujarat is India's largest commercial port by cargo volume, handling over 140 million metric tonnes annually. Developed by the Adani Group from a small fishing village into a major industrial hub since 1995, it includes a Special Economic Zone, a thermal power plant, and a liquefied natural gas (LNG) terminal. Its deep natural draft allows it to berth the largest cargo vessels, and its rail and road connectivity to the north Indian hinterland has made it the preferred gateway for imports of coal, crude oil, and fertilisers."
+        },
+        {
+          "id": "eco_d1_kalpakkam",
+          "location": { "name": "Kalpakkam Nuclear Plant — Tamil Nadu", "lat": 12.5528, "lng": 80.1722 },
+          "questions": [
+            { "question": "The Kalpakkam nuclear complex houses India's first indigenously built nuclear power reactor. What is it called?", "options": ["CIRUS", "Apsara", "MAPS", "Dhruva"], "correctIndex": 2 },
+            { "question": "Kalpakkam is home to the prototype of which future reactor type?", "options": ["Pressurised Heavy Water Reactor", "Fast Breeder Reactor", "Light Water Reactor", "Boiling Water Reactor"], "correctIndex": 1 },
+            { "question": "Kalpakkam is located on the coast of which ocean/sea?", "options": ["Arabian Sea", "Lakshadweep Sea", "Bay of Bengal", "Indian Ocean"], "correctIndex": 2 },
+            { "question": "The Kalpakkam township was severely affected by which natural disaster in 2004?", "options": ["Cyclone Thane", "Indian Ocean Tsunami", "Cyclone Vardah", "Cyclone Gaja"], "correctIndex": 1 },
+            { "question": "Which organisation operates the Kalpakkam nuclear facility?", "options": ["ISRO", "BARC", "NPCIL", "DRDO"], "correctIndex": 2 }
+          ],
+          "summary": "The Kalpakkam nuclear complex, 60 km south of Chennai on the Bay of Bengal, is one of India's most strategically important energy sites. It houses the Madras Atomic Power Station (MAPS) — India's first fully indigenously designed pressurised heavy water reactors — and the Prototype Fast Breeder Reactor (PFBR), a technology that could eventually allow India to use thorium (of which it has vast reserves) as fuel. Operated by NPCIL, the complex also includes a fuel reprocessing facility and a heavy water plant, making it a nearly complete nuclear fuel cycle site."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d1_kumbh_prayagraj",
+          "location": { "name": "Kumbh Mela — Prayagraj Sangam", "lat": 25.4358, "lng": 81.8463 },
+          "questions": [
+            { "question": "The Kumbh Mela at Prayagraj is held at the confluence of how many rivers?", "options": ["Two", "Three", "Four", "Five"], "correctIndex": 1 },
+            { "question": "The Prayagraj Kumbh (Maha Kumbh) occurs once every how many years?", "options": ["4 years", "6 years", "12 years", "24 years"], "correctIndex": 2 },
+            { "question": "The 2019 Kumbh Mela at Prayagraj set a world record for the largest peaceful human gathering. How many people attended?", "options": ["50 million", "100 million", "150 million", "240 million"], "correctIndex": 3 },
+            { "question": "Which legendary river, considered mythologically subterranean, is said to join the Sangam at Prayagraj?", "options": ["Saraswati", "Sindhu", "Narmada", "Tapti"], "correctIndex": 0 },
+            { "question": "The most auspicious bathing date during Kumbh is called what?", "options": ["Makar Sankranti", "Shahi Snan (Royal Bath)", "Akshaya Tritiya", "Purnima"], "correctIndex": 1 }
+          ],
+          "summary": "The Kumbh Mela at Prayagraj, held at the Sangam — the confluence of the Ganga, Yamuna, and the mythical underground Saraswati — is the largest peaceful gathering of human beings anywhere on Earth. Pilgrims believe bathing at the Sangam during the Kumbh washes away sins and breaks the cycle of rebirth. The 2019 Maha Kumbh drew an estimated 240 million visitors over 49 days, surpassing any other event in recorded history. UNESCO inscribed Kumbh Mela on its Intangible Cultural Heritage list in 2017."
+        },
+        {
+          "id": "evt_d1_kaziranga",
+          "location": { "name": "Kaziranga National Park — Assam", "lat": 26.58, "lng": 93.17 },
+          "questions": [
+            { "question": "Kaziranga National Park is home to approximately what percentage of the world's one-horned rhinoceros?", "options": ["30%", "50%", "65%", "80%"], "correctIndex": 2 },
+            { "question": "Kaziranga is located on the floodplains of which river?", "options": ["Lohit", "Brahmaputra", "Barak", "Subansiri"], "correctIndex": 1 },
+            { "question": "Apart from rhinos, Kaziranga has the world's highest density of which big cat?", "options": ["Leopard", "Clouded Leopard", "Tiger", "Cheetah"], "correctIndex": 2 },
+            { "question": "Kaziranga became a UNESCO World Heritage Site in which year?", "options": ["1974", "1985", "1992", "2000"], "correctIndex": 1 },
+            { "question": "Who is credited with initiating the creation of Kaziranga as a protected area after a visit in 1904?", "options": ["Lord Curzon's wife Mary Curzon", "Jim Corbett", "Indira Gandhi", "Jawaharlal Nehru"], "correctIndex": 0 }
+          ],
+          "summary": "Kaziranga National Park in Assam, on the south bank of the Brahmaputra River, protects approximately 2,200 Indian one-horned rhinoceroses — about 65% of the global population. The park was established after Mary Curzon, wife of Viceroy Lord Curzon, visited and found not a single rhino during her tour in 1904, prompting immediate conservation action. Today Kaziranga is also a UNESCO World Heritage Site with the world's highest density of Bengal tigers. During the annual Brahmaputra floods, animals migrate to higher ground and a special shooting order protects them in buffer areas."
+        },
+        {
+          "id": "evt_d1_hornbill_nagaland",
+          "location": { "name": "Hornbill Festival — Kisama, Nagaland", "lat": 25.6293, "lng": 94.0987 },
+          "questions": [
+            { "question": "The Hornbill Festival is held annually at Kisama Heritage Village. Which state hosts it?", "options": ["Manipur", "Mizoram", "Nagaland", "Meghalaya"], "correctIndex": 2 },
+            { "question": "The Hornbill Festival is held every year in which month?", "options": ["October", "November", "December", "January"], "correctIndex": 2 },
+            { "question": "The festival is named after the hornbill bird because it symbolises what in Naga culture?", "options": ["War and bravery", "Wealth and trade", "Respect, valour, and is frequently depicted in Naga headgear", "Harvests and agriculture"], "correctIndex": 2 },
+            { "question": "How many Naga tribes are showcased at the Hornbill Festival?", "options": ["6", "10", "16", "20"], "correctIndex": 2 },
+            { "question": "Kisama is located near which city that serves as Nagaland's capital?", "options": ["Dimapur", "Mokokchung", "Wokha", "Kohima"], "correctIndex": 3 }
+          ],
+          "summary": "The Hornbill Festival, held annually in the first week of December at Kisama Heritage Village near Kohima, is Nagaland's largest cultural showcase — dubbed the 'Festival of Festivals.' It brings together all 16 major Naga tribes, each performing their traditional dances, songs, and martial displays in a common arena. The festival was started in 2000 by the state government to promote Naga heritage and tourism, and takes its name from the great hornbill — a bird whose feathers prominently adorn traditional Naga warriors' headgear as a symbol of valour and respect."
+        },
+        {
+          "id": "evt_d1_sundarbans",
+          "location": { "name": "Sundarbans — West Bengal", "lat": 21.9497, "lng": 88.8833 },
+          "questions": [
+            { "question": "The Sundarbans is the world's largest mangrove forest. It is shared between India and which country?", "options": ["Sri Lanka", "Myanmar", "Bangladesh", "Nepal"], "correctIndex": 2 },
+            { "question": "The Royal Bengal Tiger in the Sundarbans is known for an unusual behaviour. What is it?", "options": ["Swimming between islands to hunt", "Hunting during daylight", "Only eating fish", "Living in groups"], "correctIndex": 0 },
+            { "question": "The 'Sundarbans' name derives from which dominant mangrove tree species?", "options": ["Bakul", "Sundari", "Keora", "Goran"], "correctIndex": 1 },
+            { "question": "The Sundarbans delta is formed by which rivers?", "options": ["Ganga, Brahmaputra and Meghna", "Mahanadi and Godavari", "Kaveri and Krishna", "Damodar and Rupnarayan"], "correctIndex": 0 },
+            { "question": "The Sundarbans was designated a UNESCO World Heritage Site in which year?", "options": ["1984", "1987", "1992", "2000"], "correctIndex": 1 }
+          ],
+          "summary": "The Sundarbans, straddling the India-Bangladesh border at the mouth of the Ganga-Brahmaputra-Meghna delta, is the world's largest mangrove forest at over 10,000 sq km. Named after the sundari tree (Heritiera littoralis) that dominates its canopy, the ecosystem is one of the most complex and fragile on Earth. The Indian portion is a UNESCO World Heritage Site (1987) and a Biosphere Reserve, home to approximately 100 Bengal tigers — adapted to swimming between islands. The region is severely threatened by rising sea levels from climate change."
+        },
+        {
+          "id": "evt_d1_pushkar_fair",
+          "location": { "name": "Pushkar Camel Fair — Rajasthan", "lat": 26.4898, "lng": 74.5511 },
+          "questions": [
+            { "question": "The Pushkar Camel Fair is held in which month of the Hindu calendar (corresponding to Oct-Nov)?", "options": ["Ashwin", "Kartik", "Phalgun", "Shravan"], "correctIndex": 1 },
+            { "question": "Pushkar is famous for being home to the only major temple in India dedicated to which deity?", "options": ["Saraswati", "Lakshmi", "Brahma", "Indra"], "correctIndex": 2 },
+            { "question": "Pushkar Lake is considered sacred and is believed to have been created by what?", "options": ["A meteor impact", "Brahma dropping a lotus flower", "Lord Shiva's tears", "A divine spring"], "correctIndex": 1 },
+            { "question": "The Pushkar Fair attracts approximately how many camels at its peak?", "options": ["5,000", "20,000", "50,000", "100,000"], "correctIndex": 2 },
+            { "question": "Pushkar is located in which district of Rajasthan?", "options": ["Jodhpur", "Bikaner", "Ajmer", "Barmer"], "correctIndex": 2 }
+          ],
+          "summary": "The Pushkar Camel Fair, held on the full moon of the Hindu month of Kartik (October-November), is one of the world's largest livestock fairs and one of India's most iconic cultural events. Around 50,000 camels, horses, and cattle are traded over five days, alongside folk performances, competitions, and the famous camel beauty pageant. Pushkar itself is one of the five sacred dhams of Hinduism, home to the only significant Brahma temple in India, and its holy lake is believed to have formed where Brahma's lotus fell to earth. The event draws hundreds of thousands of domestic and international visitors annually."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d1_chandigarh",
+          "location": { "name": "Chandigarh — Union Territory", "lat": 30.7333, "lng": 76.7794 },
+          "questions": [
+            { "question": "Chandigarh serves as the capital of which two states simultaneously?", "options": ["Haryana and Himachal Pradesh", "Punjab and Haryana", "Punjab and Himachal Pradesh", "Haryana and Uttarakhand"], "correctIndex": 1 },
+            { "question": "Chandigarh was designed by which famous architect?", "options": ["Edwin Lutyens", "Charles Correa", "Le Corbusier", "Balkrishna Doshi"], "correctIndex": 2 },
+            { "question": "Chandigarh's famous 'Rock Garden' was created by which individual?", "options": ["Nek Chand", "Ram Kinkar Baij", "Satish Gujral", "Somnath Hore"], "correctIndex": 0 },
+            { "question": "After Partition, Chandigarh was built to replace which city that went to Pakistan?", "options": ["Multan", "Sialkot", "Lahore", "Rawalpindi"], "correctIndex": 2 },
+            { "question": "Chandigarh is divided into numbered sectors. Which sector houses the legislative and administrative buildings?", "options": ["Sector 1", "Sector 7", "Sector 17", "Sector 22"], "correctIndex": 0 }
+          ],
+          "summary": "Chandigarh is one of India's most unusual administrative entities — a Union Territory that simultaneously serves as the state capital of both Punjab and Haryana. It was built from scratch after Partition, when the old Punjab capital Lahore was ceded to Pakistan. Swiss-French architect Le Corbusier designed the master plan, dividing the city into numbered sectors around the Capitol Complex (Sector 1). Its clean grid layout, green buffer zones, and modernist public buildings were revolutionary for post-independence India. Nek Chand's Rock Garden — built secretly from industrial waste — became an internationally celebrated example of outsider art."
+        },
+        {
+          "id": "pol_d1_lakshadweep",
+          "location": { "name": "Lakshadweep — Union Territory", "lat": 10.5667, "lng": 72.6417 },
+          "questions": [
+            { "question": "Lakshadweep is India's smallest Union Territory. What is its total land area?", "options": ["12 sq km", "32 sq km", "72 sq km", "102 sq km"], "correctIndex": 1 },
+            { "question": "How many of Lakshadweep's 36 islands are inhabited?", "options": ["5", "11", "18", "24"], "correctIndex": 1 },
+            { "question": "What is the administrative capital of Lakshadweep?", "options": ["Agatti", "Andrott", "Kavaratti", "Minicoy"], "correctIndex": 2 },
+            { "question": "Lakshadweep's islands are of which geological type?", "options": ["Volcanic islands", "Continental shelf islands", "Coral atolls", "Barrier islands"], "correctIndex": 2 },
+            { "question": "What percentage of Lakshadweep's population follows Islam?", "options": ["50%", "75%", "90%", "96%"], "correctIndex": 3 }
+          ],
+          "summary": "Lakshadweep — meaning 'One Hundred Thousand Islands' in Sanskrit — is India's smallest Union Territory, comprising 36 coral islands with a total land area of just 32 sq km, scattered 200–440 km off Kerala's coast in the Arabian Sea. Only 11 of the 36 islands are inhabited, with a total population of under 65,000. The islands are among India's most pristine marine ecosystems, with coral reefs supporting rich biodiversity. Over 96% of the population is Muslim, making Lakshadweep unique among India's states and UTs. Kavaratti serves as the administrative capital."
+        },
+        {
+          "id": "pol_d1_gangtok_sikkim",
+          "location": { "name": "Gangtok — Sikkim Capital", "lat": 27.3389, "lng": 88.6065 },
+          "questions": [
+            { "question": "Sikkim became India's 22nd state in which year?", "options": ["1971", "1973", "1975", "1977"], "correctIndex": 2 },
+            { "question": "Before joining India, Sikkim was governed by rulers of which title?", "options": ["Raja", "Nawab", "Chogyal", "Maharaja"], "correctIndex": 2 },
+            { "question": "Sikkim is India's least populous state. What is its approximate population?", "options": ["200,000", "650,000", "1.2 million", "2 million"], "correctIndex": 1 },
+            { "question": "Sikkim was the first Indian state to become fully organic. In which year did it achieve this?", "options": ["2006", "2010", "2016", "2020"], "correctIndex": 2 },
+            { "question": "Gangtok sits at approximately what altitude?", "options": ["800m", "1,437m", "2,150m", "3,200m"], "correctIndex": 1 }
+          ],
+          "summary": "Gangtok, at 1,437 metres on a ridge overlooking the Kangchenjunga range, is the capital of Sikkim — India's least populous state and a former kingdom ruled by the Chogyal (Buddhist king). Sikkim joined India in 1975 following a referendum, making it the last state to accede. Bordering Nepal, China, and Bhutan, it occupies a strategically critical position. In 2016, Sikkim became India's — and one of the world's — first fully organic agricultural states, banning synthetic pesticides and fertilisers across all farming. The state is majority Buddhist and retains a distinct Lepcha, Bhutia, and Nepali cultural heritage."
+        },
+        {
+          "id": "pol_d1_puducherry",
+          "location": { "name": "Puducherry — Union Territory", "lat": 11.9416, "lng": 79.8083 },
+          "questions": [
+            { "question": "Puducherry was a colony of which European country until 1954?", "options": ["Portugal", "Dutch Netherlands", "France", "Britain"], "correctIndex": 2 },
+            { "question": "Puducherry comprises enclaves within which states?", "options": ["Tamil Nadu and Kerala only", "Tamil Nadu, Kerala, Andhra Pradesh, and formerly Karaikal area", "Tamil Nadu, Andhra Pradesh, Kerala, and Karnataka", "Tamil Nadu and Andhra Pradesh only"], "correctIndex": 2 },
+            { "question": "The Sri Aurobindo Ashram, a major spiritual institution, is headquartered in Puducherry. Who founded it?", "options": ["Swami Vivekananda", "Sri Aurobindo and The Mother", "Ramakrishna Paramahamsa", "Sathya Sai Baba"], "correctIndex": 1 },
+            { "question": "Puducherry has a distinct quarter known by which name, reflecting its French colonial heritage?", "options": ["French Quarter", "White Town", "Ville Blanche", "Le Quartier"], "correctIndex": 1 },
+            { "question": "Auroville, an international township near Puducherry, was founded in which year?", "options": ["1958", "1962", "1968", "1975"], "correctIndex": 2 }
+          ],
+          "summary": "Puducherry (formerly Pondicherry) served as the capital of French India for over two centuries before being transferred to India in 1954. Its French Quarter — known as White Town — retains a distinctive European character: wide boulevards named after French figures, colonial bungalows painted in yellow and white, and French street signs still evident today. The territory is unusual in consisting of four geographically separated districts on India's eastern and western coasts. Puducherry is also the home of Sri Aurobindo's ashram and Auroville, an internationally recognised experimental township dedicated to human unity, founded in 1968."
+        },
+        {
+          "id": "pol_d1_daman_diu",
+          "location": { "name": "Daman — Union Territory", "lat": 20.3974, "lng": 72.8328 },
+          "questions": [
+            { "question": "Daman and Diu was a colony of which European power?", "options": ["France", "Netherlands", "Britain", "Portugal"], "correctIndex": 3 },
+            { "question": "In which year did India forcibly integrate Daman and Diu along with Goa?", "options": ["1947", "1954", "1961", "1965"], "correctIndex": 2 },
+            { "question": "Daman and Diu was merged with which Union Territory in 2019?", "options": ["Dadra and Nagar Haveli", "Lakshadweep", "Chandigarh", "Puducherry"], "correctIndex": 0 },
+            { "question": "The Moti Daman Fort (Fort of Our Lady of the Sea) in Daman was built by which colonial power?", "options": ["Dutch", "British", "Portuguese", "French"], "correctIndex": 2 },
+            { "question": "Diu island is located off the coast of which Indian state?", "options": ["Maharashtra", "Goa", "Gujarat", "Karnataka"], "correctIndex": 2 }
+          ],
+          "summary": "Daman, on the Gujarat coast, was a Portuguese colonial outpost for over 450 years before Indian military forces integrated it along with Goa and Diu in 1961 in Operation Vijay. In 2019, Daman and Diu was merged with the neighbouring Union Territory of Dadra and Nagar Haveli to form a single UT. The Moti Daman Fort, built by the Portuguese in the 16th century, is one of the best-preserved colonial military fortifications on India's west coast, enclosing a cathedral, a chapel, and colonial-era government buildings within its massive walls."
+        }
+      ]
+    }
+  }
+}

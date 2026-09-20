@@ -1,0 +1,326 @@
+{
+  "day": 2,
+  "date": "2026-10-02",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d2_brahmaputra_majuli",
+          "location": { "name": "Majuli Island — Brahmaputra, Assam", "lat": 26.9500, "lng": 94.1667 },
+          "questions": [
+            { "question": "Majuli is the world's largest river island. On which river does it sit?", "options": ["Ganga", "Godavari", "Brahmaputra", "Mahanadi"], "correctIndex": 2 },
+            { "question": "Majuli became India's first island district in which year?", "options": ["2010", "2014", "2016", "2020"], "correctIndex": 2 },
+            { "question": "Majuli is famous as the seat of which unique cultural tradition?", "options": ["Bihu dance academies", "Vaishnavite Satra monasteries", "Silk weaving guilds", "Boat-building craft"], "correctIndex": 1 },
+            { "question": "Majuli's area has been shrinking due to which primary cause?", "options": ["Deforestation", "Brahmaputra floods and erosion", "Earthquake subsidence", "Sand mining"], "correctIndex": 1 },
+            { "question": "How many Satra (Vaishnavite monasteries) does Majuli currently have?", "options": ["About 10", "About 22", "About 65", "Over 200"], "correctIndex": 1 }
+          ],
+          "summary": "Majuli, in the Brahmaputra River in Assam, is the world's largest river island — though its area has shrunk dramatically from around 1,250 sq km a century ago to approximately 350 sq km today due to severe erosion and annual flooding. In 2016 it became India's first island district. Majuli is the cultural heartland of Assamese Neo-Vaishnavism — the religious reform movement founded by Saint Srimanta Sankardeva in the 15th century — with 22 surviving Satras (monasteries) that preserve classical mask dance, music, and manuscript painting traditions. The island is considered one of India's most endangered inhabited landforms."
+        },
+        {
+          "id": "geo_d2_godavari_nashik",
+          "location": { "name": "Godavari River — Trimbakeshwar, Nashik", "lat": 19.9322, "lng": 73.5321 },
+          "questions": [
+            { "question": "The Godavari is India's second-longest river. Where does it originate?", "options": ["Mahabaleshwar", "Trimbakeshwar near Nashik", "Amarkantak", "Satpura Range"], "correctIndex": 1 },
+            { "question": "What is the Godavari's approximate length?", "options": ["900 km", "1,465 km", "1,600 km", "2,100 km"], "correctIndex": 1 },
+            { "question": "The Godavari is called the 'Dakshin Ganga' meaning what?", "options": ["Ganges of the South", "Second Ganges", "Sacred River of the South", "Mother of Southern Rivers"], "correctIndex": 0 },
+            { "question": "Nashik on the Godavari hosts the Kumbh Mela every how many years?", "options": ["4 years", "6 years", "12 years", "24 years"], "correctIndex": 2 },
+            { "question": "The Godavari empties into which body of water?", "options": ["Arabian Sea", "Bay of Bengal", "Gulf of Mannar", "Indian Ocean"], "correctIndex": 1 }
+          ],
+          "summary": "The Godavari — India's second-longest river at 1,465 km — rises from a kund (sacred tank) at Trimbakeshwar near Nashik in Maharashtra at an altitude of 1,067 metres. It flows eastward across the Deccan Plateau and Andhra Pradesh before emptying into the Bay of Bengal through a broad, fertile delta. Called the 'Dakshin Ganga' (Ganges of the South), it is one of India's seven sacred rivers. Nashik, on its banks, is one of the four cities hosting the Kumbh Mela — pilgrims believe bathing in the Godavari during Kumbh washes away all sins. The Godavari delta, covering approximately 5,800 sq km in Andhra Pradesh, is one of India's most productive rice-growing regions."
+        },
+        {
+          "id": "geo_d2_thar_sam_dunes",
+          "location": { "name": "Sam Sand Dunes — Thar Desert, Rajasthan", "lat": 26.8800, "lng": 70.6200 },
+          "questions": [
+            { "question": "The Sam Sand Dunes are located near which city in Rajasthan?", "options": ["Bikaner", "Barmer", "Jaisalmer", "Jodhpur"], "correctIndex": 2 },
+            { "question": "The Thar Desert covers roughly what area in India?", "options": ["100,000 sq km", "200,000 sq km", "350,000 sq km", "500,000 sq km"], "correctIndex": 1 },
+            { "question": "What is the dominant type of sand dune in the Thar Desert?", "options": ["Barchan (crescent-shaped)", "Star dunes", "Linear/seif dunes", "Parabolic dunes"], "correctIndex": 0 },
+            { "question": "The Indira Gandhi Canal brought water to parts of the Thar. From which river does it draw?", "options": ["Luni", "Chambal", "Beas and Sutlej (via Harike Barrage)", "Ravi"], "correctIndex": 2 },
+            { "question": "The Desert National Park near Jaisalmer protects which critically endangered bird?", "options": ["Great Indian Bustard", "Lesser Florican", "Indian Courser", "Stoliczka's Bushchat"], "correctIndex": 0 }
+          ],
+          "summary": "The Sam Sand Dunes near Jaisalmer are among the most dramatic in the Thar Desert — towering golden dunes stretching to the Pakistan border. The Thar covers approximately 200,000 sq km in Rajasthan and is the world's most densely populated desert. The Desert National Park nearby is the last stronghold of the critically endangered Great Indian Bustard (Godawan) — India's heaviest flying bird, reduced to fewer than 150 individuals by habitat loss and power line collisions. The Indira Gandhi Canal, drawing water from the Beas-Sutlej system via Harike Barrage, has transformed parts of the Thar into irrigated farmland — a remarkable engineering achievement but one that has disrupted the delicate desert ecosystem."
+        },
+        {
+          "id": "geo_d2_kerala_backwaters",
+          "location": { "name": "Kerala Backwaters — Alappuzha", "lat": 9.4981, "lng": 76.3388 },
+          "questions": [
+            { "question": "Kerala's backwaters are a network of lakes, canals, and lagoons. Approximately how long is this system?", "options": ["200 km", "500 km", "900 km", "1,500 km"], "correctIndex": 2 },
+            { "question": "The famous snake boat races during Onam are held in the backwaters. What are these long racing boats called?", "options": ["Chundan Vallam", "Thoni", "Kettuvallam", "Manchua"], "correctIndex": 0 },
+            { "question": "Vembanad Lake — part of the backwaters — is the longest lake in India. How long is it?", "options": ["46 km", "83 km", "96 km", "120 km"], "correctIndex": 2 },
+            { "question": "Kumarakom Bird Sanctuary on the backwaters is famous for hosting which migrant species?", "options": ["Flamingos from Pakistan", "Siberian Cranes", "Migratory waterfowl including darters and herons", "Bar-headed geese from Tibet"], "correctIndex": 2 },
+            { "question": "The traditional houseboat used on Kerala backwaters is called?", "options": ["Shikara", "Kettuvallam", "Punja boat", "Naalu kettuvallam"], "correctIndex": 1 }
+          ],
+          "summary": "Kerala's backwaters — a 900-km network of interconnected canals, rivers, lakes, and lagoons running parallel to the Arabian Sea — are one of India's most unique geographic features and its most iconic tourist landscape. Vembanad Lake, the longest lake in India at 96 km, is the centrepiece. The traditional Kettuvallam (houseboat), once used to transport rice and spices, has been converted into a floating homestay industry. The annual Nehru Trophy Boat Race on the backwaters — snake boats (Chundan Vallam) up to 40 metres long, rowed by 100+ oarsmen — is one of the world's most thrilling sporting spectacles, drawing crowds of over 100,000 annually."
+        },
+        {
+          "id": "geo_d2_deccan_lava",
+          "location": { "name": "Deccan Volcanic Province — Nashik Plateau", "lat": 20.0000, "lng": 74.0000 },
+          "questions": [
+            { "question": "The Deccan Traps were formed by volcanic eruptions approximately how long ago?", "options": ["25 million years", "66 million years", "150 million years", "250 million years"], "correctIndex": 1 },
+            { "question": "The Deccan Traps coincide with which mass extinction event?", "options": ["Permian-Triassic extinction", "Cretaceous-Paleogene extinction (end of dinosaurs)", "Devonian extinction", "Ordovician extinction"], "correctIndex": 1 },
+            { "question": "The volcanic basalt rock has weathered into which distinctive soil type that covers much of the Deccan?", "options": ["Red laterite soil", "Alluvial soil", "Black cotton soil (regur)", "Sandy loam"], "correctIndex": 2 },
+            { "question": "How thick are the Deccan Trap lava flows in some areas?", "options": ["Up to 100 metres", "Up to 500 metres", "Up to 2,000 metres", "Up to 5,000 metres"], "correctIndex": 2 },
+            { "question": "The Deccan Traps cover approximately what area of India?", "options": ["100,000 sq km", "300,000 sq km", "500,000 sq km", "700,000 sq km"], "correctIndex": 2 }
+          ],
+          "summary": "The Deccan Volcanic Province — one of Earth's largest volcanic features — covers approximately 500,000 sq km of peninsular India with basalt lava flows up to 2,000 metres thick. The eruptions occurred approximately 66 million years ago, coinciding with (and possibly contributing to) the mass extinction event that wiped out non-avian dinosaurs. Over millions of years, the basalt has weathered into the Deccan's characteristic black cotton soil (regur) — one of the most agriculturally fertile soils in the world, retaining moisture exceptionally well. The geological record preserved in the Deccan Traps continues to be studied to understand one of Earth's most dramatic events."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d2_amber_fort",
+          "location": { "name": "Amber Fort — Jaipur, Rajasthan", "lat": 26.9855, "lng": 75.8513 },
+          "questions": [
+            { "question": "Amber Fort was the capital of which Rajput clan?", "options": ["Sisodia Rajputs of Mewar", "Kachwaha Rajputs of Amber/Jaipur", "Rathore Rajputs of Marwar", "Chauhan Rajputs of Ajmer"], "correctIndex": 1 },
+            { "question": "Which Mughal emperor formed a famous alliance with the Kachwaha rulers of Amber?", "options": ["Babur", "Humayun", "Akbar", "Shah Jahan"], "correctIndex": 2 },
+            { "question": "Amber Fort is included in which UNESCO listing?", "options": ["Forts of the Mughal Period", "Hill Forts of Rajasthan", "Rajput Military Architecture", "Monuments of Jaipur"], "correctIndex": 1 },
+            { "question": "The famous Sheesh Mahal (Hall of Mirrors) inside Amber Fort is designed so that?", "options": ["A single candle illuminates the entire hall via mirror reflections", "Sunlight creates rainbow patterns", "The room stays cool in summer", "Stars are visible from inside at night"], "correctIndex": 0 },
+            { "question": "The fort is situated on which hill overlooking Maota Lake?", "options": ["Nahargarh Hill", "Jaigarh Hill", "Aravalli foothills above Maota Lake", "Moti Dungri Hill"], "correctIndex": 2 }
+          ],
+          "summary": "Amber Fort, overlooking Maota Lake 11 km from Jaipur, was the capital of the Kachwaha Rajputs for over six centuries before Jai Singh II founded the new planned city of Jaipur in 1727. The fort represents a remarkable synthesis of Rajput and Mughal architectural styles — a result of the Kachwahas' close alliance with Emperor Akbar. The Sheesh Mahal (Hall of Mirrors) is its greatest artistic achievement: hundreds of tiny mirrors embedded in the ceiling and walls amplify a single candle flame to illuminate the entire chamber. Part of UNESCO's Hill Forts of Rajasthan (2013), Amber receives over a million visitors annually and is approached by a winding road — or traditionally by elephant."
+        },
+        {
+          "id": "cul_d2_humayuns_tomb",
+          "location": { "name": "Humayun's Tomb — Delhi", "lat": 28.5933, "lng": 77.2507 },
+          "questions": [
+            { "question": "Humayun's Tomb was built by whom?", "options": ["Akbar, for his father Humayun", "Humayun's wife Bega Begum (Haji Begum)", "Shah Jahan, for his grandfather", "Humayun's son Akbar and daughter-in-law"], "correctIndex": 1 },
+            { "question": "Humayun's Tomb is considered the precursor to which later, more famous monument?", "options": ["Red Fort", "Qutb Minar", "Taj Mahal", "Fatehpur Sikri"], "correctIndex": 2 },
+            { "question": "The tomb was completed in which year?", "options": ["1530", "1565", "1572", "1600"], "correctIndex": 1 },
+            { "question": "The garden surrounding the tomb is laid out in which Mughal garden style?", "options": ["Char bagh (four-quadrant garden)", "Persian pairidaeza", "Anatolian courtyard style", "Rajput zenana garden"], "correctIndex": 0 },
+            { "question": "How many Mughal rulers are buried in the Humayun's Tomb complex?", "options": ["Only Humayun", "3 rulers", "Over 150 Mughal family members", "6 emperors"], "correctIndex": 2 }
+          ],
+          "summary": "Humayun's Tomb in Delhi, commissioned by Humayun's widow Haji Begum and completed in 1572, was the first garden-tomb in the Indian subcontinent — a revolutionary concept that directly inspired the Taj Mahal 80 years later. The double-dome structure rising above a broad char bagh (four-quadrant garden) established the template for all subsequent Mughal funerary architecture. The complex contains over 150 graves of Mughal family members — more than any other Mughal monument — and was a place of last refuge for the last Mughal emperor Bahadur Shah Zafar in 1857. A UNESCO World Heritage Site since 1993."
+        },
+        {
+          "id": "cul_d2_rani_ki_vav",
+          "location": { "name": "Rani-ki-Vav — Patan, Gujarat", "lat": 23.8588, "lng": 72.1008 },
+          "questions": [
+            { "question": "Rani-ki-Vav is an intricately carved stepwell. Who built it?", "options": ["Queen Udayamati of the Solanki dynasty", "Ahilyabai Holkar", "Rani Padmini of Chittor", "Queen Rudramadevi of Kakatiya"], "correctIndex": 0 },
+            { "question": "Rani-ki-Vav was built as a memorial to which king?", "options": ["Kumarpal", "Bhimdev I", "King Bhimdev I's father Mularaja II", "King Bhimdev I — it was built by his wife"], "correctIndex": 3 },
+            { "question": "How many sculptural panels does Rani-ki-Vav contain approximately?", "options": ["500", "1,500", "5,000", "10,000"], "correctIndex": 1 },
+            { "question": "Rani-ki-Vav was submerged for centuries under which river's silt?", "options": ["Sabarmati", "Saraswati", "Mahi", "Narmada"], "correctIndex": 1 },
+            { "question": "Rani-ki-Vav appears on which Indian currency note?", "options": ["₹50 note", "₹100 note", "₹500 note", "₹1000 note"], "correctIndex": 1 }
+          ],
+          "summary": "Rani-ki-Vav ('Queen's Stepwell') in Patan, Gujarat, built by Queen Udayamati in the 11th century CE as a memorial to her husband King Bhimdev I of the Solanki dynasty, is the most elaborately carved stepwell in India. Its seven levels descend 30 metres and contain approximately 1,500 sculptural panels — primarily depicting the Dashavatara (ten avatars of Vishnu) — in a state of extraordinary preservation. The stepwell was buried under Saraswati River silt for centuries, which protected it; excavation began in the 1980s. A UNESCO World Heritage Site since 2014, it now appears on India's ₹100 note."
+        },
+        {
+          "id": "cul_d2_meenakshi_temple",
+          "location": { "name": "Shore Temple — Mahabalipuram, Tamil Nadu", "lat": 12.6167, "lng": 80.1997 },
+          "questions": [
+            { "question": "The Shore Temple at Mahabalipuram was built by which dynasty?", "options": ["Chola", "Pallava", "Pandya", "Vijayanagara"], "correctIndex": 1 },
+            { "question": "The Shore Temple is one of the oldest structural temples in South India, dating from approximately?", "options": ["3rd century CE", "5th century CE", "7th–8th century CE", "10th century CE"], "correctIndex": 2 },
+            { "question": "The 2004 Indian Ocean Tsunami at Mahabalipuram revealed what?", "options": ["Ancient gold artifacts", "Submerged temple structures — confirming legends of a sunken city", "A shipwreck from the Roman era", "Underground burial chambers"], "correctIndex": 1 },
+            { "question": "The Shore Temple is dedicated to which deity primarily?", "options": ["Vishnu", "Brahma", "Shiva", "Murugan"], "correctIndex": 2 },
+            { "question": "The Shore Temple is a UNESCO World Heritage Site as part of which group?", "options": ["Temples of the Pallava Dynasty", "Group of Monuments at Mahabalipuram", "Dravidian Temple Architecture Sites", "Tamil Nadu Heritage Circuit"], "correctIndex": 1 }
+          ],
+          "summary": "The Shore Temple at Mahabalipuram, built by the Pallava king Rajasimha in the late 7th–early 8th century CE, is one of the earliest surviving structural temples in South India — most earlier temples were rock-cut rather than built. It stands directly on the shore of the Bay of Bengal and its saltwater exposure over 1,300 years has significantly weathered the stone. The 2004 tsunami momentarily receded the sea and briefly exposed submerged temple structures adjacent to it, confirming ancient texts and local legends of a 'Seven Pagodas' — a mythical sunken city once stretching into the sea. UNESCO World Heritage Site since 1984 as part of the Group of Monuments at Mahabalipuram."
+        },
+        {
+          "id": "cul_d2_vikramshila",
+          "location": { "name": "Vikramshila University Ruins — Bihar", "lat": 25.3167, "lng": 87.2833 },
+          "questions": [
+            { "question": "Vikramshila University was founded by which ruler?", "options": ["Ashoka", "Dharmapala of the Pala dynasty", "Chandragupta II", "Harshavardhana"], "correctIndex": 1 },
+            { "question": "Vikramshila was particularly renowned as a centre for which branch of Buddhist learning?", "options": ["Theravada Buddhism", "Vajrayana (Tantric) Buddhism", "Zen Buddhism", "Mahayana philosophy only"], "correctIndex": 1 },
+            { "question": "When was Vikramshila destroyed?", "options": ["1193 CE by Qutb ud-Din Aibak", "1203 CE by Bakhtiyar Khilji", "1398 CE by Timur", "1526 CE by Babur"], "correctIndex": 1 },
+            { "question": "Vikramshila was located on the banks of which river?", "options": ["Ganga", "Son", "Gandak", "Kosi"], "correctIndex": 0 },
+            { "question": "The famous Tibetan Buddhist scholar Atisha who helped establish Buddhism in Tibet was educated at?", "options": ["Nalanda only", "Vikramshila", "Taxila", "Valabhi"], "correctIndex": 1 }
+          ],
+          "summary": "Vikramshila University, founded by the Pala king Dharmapala in the 8th century CE on the Ganga's south bank in Bihar, was one of ancient India's two great centres of Buddhist learning — the other being Nalanda. It specialised in Vajrayana (Tantric) Buddhism and attracted scholars from Tibet, Nepal, and Southeast Asia. The great scholar Atisha, who transformed Tibetan Buddhism in the 11th century, studied here for many years. Like Nalanda, it was destroyed by Bakhtiyar Khilji's forces in approximately 1203 CE. Archaeological excavations since the 1960s have revealed the university's cruciform central temple, monks' cells, and inscriptions confirming its scholarly reputation."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d2_bpcl_kochi",
+          "location": { "name": "Kochi Refinery — BPCL, Kerala", "lat": 10.0167, "lng": 76.3167 },
+          "questions": [
+            { "question": "The Kochi Refinery was established in which year?", "options": ["1957", "1963", "1966", "1975"], "correctIndex": 1 },
+            { "question": "Kochi Refinery is operated by which company?", "options": ["HPCL", "IOCL", "BPCL (Bharat Petroleum)", "ONGC"], "correctIndex": 2 },
+            { "question": "The refinery was set up with technical collaboration from which country?", "options": ["USA", "USSR", "UK", "Germany"], "correctIndex": 0 },
+            { "question": "Kochi Refinery processes crude oil from which primary source currently?", "options": ["Domestic Bombay High only", "Imported crude from Middle East primarily", "Assam oil fields", "Rajasthan oil fields"], "correctIndex": 1 },
+            { "question": "The LNG terminal near Kochi receives gas from which countries primarily?", "options": ["Russia and Iran", "Qatar and USA primarily", "Australia and Malaysia", "Kuwait and Iraq"], "correctIndex": 1 }
+          ],
+          "summary": "Kochi Refinery, established in 1963 with American technical collaboration, was one of independent India's earliest major industrial investments and the first large refinery in South India. Operated by Bharat Petroleum Corporation Ltd (BPCL), it processes imported crude oil — primarily from the Middle East — into fuels and petrochemicals supplying Kerala, Tamil Nadu, and Karnataka. The adjacent Kochi LNG terminal, built in 2013, receives liquefied natural gas from Qatar and the USA, supplying fuel to Kerala's power and industrial sector. Together, the refinery and LNG complex form one of South India's critical energy infrastructure nodes."
+        },
+        {
+          "id": "eco_d2_chennai_auto",
+          "location": { "name": "Chennai Auto Hub — Tamil Nadu", "lat": 13.0827, "lng": 80.2707 },
+          "questions": [
+            { "question": "Chennai is called the 'Detroit of India' due to its automobile manufacturing. Approximately what share of India's vehicle output comes from here?", "options": ["10%", "25%", "40%", "60%"], "correctIndex": 2 },
+            { "question": "Which South Korean company built one of India's first large foreign automobile plants near Chennai?", "options": ["LG", "Hyundai", "Samsung", "Kia"], "correctIndex": 1 },
+            { "question": "Renault-Nissan's India manufacturing base is located in which Chennai suburb?", "options": ["Ambattur", "Oragadam", "Sriperumbudur", "Manali"], "correctIndex": 2 },
+            { "question": "The Chennai port facilitates vehicle exports. India exports cars primarily to?", "options": ["Only African markets", "South Africa, Mexico, Australia and Gulf countries", "Only Middle East", "Only Southeast Asia"], "correctIndex": 1 },
+            { "question": "Which major global electronics company also has a large plant near Chennai at Sriperumbudur?", "options": ["Apple (Foxconn)", "Samsung", "LG", "Nokia"], "correctIndex": 0 }
+          ],
+          "summary": "Chennai's Oragadam-Sriperumbudur industrial corridor has become India's most concentrated automobile manufacturing zone — often called the 'Detroit of India.' It produces approximately 40% of India's total vehicle output, with plants operated by Hyundai (since 1998), Renault-Nissan, Royal Enfield, Ford (now closed), Daimler, and dozens of component manufacturers. India has become a significant global vehicle exporter — primarily to South Africa, Mexico, Australia, and Gulf countries. The corridor also hosts Apple's contract manufacturer Foxconn, producing iPhones for domestic sale and export — part of India's push to capture a share of global electronics manufacturing from China."
+        },
+        {
+          "id": "eco_d2_dvc_damodar",
+          "location": { "name": "Damodar Valley Corporation — Jharkhand/West Bengal", "lat": 23.6500, "lng": 86.1500 },
+          "questions": [
+            { "question": "The Damodar Valley Corporation (DVC) was modelled on which American organisation?", "options": ["Panama Canal Authority", "Tennessee Valley Authority (TVA)", "Hoover Dam Commission", "Corps of Engineers"], "correctIndex": 1 },
+            { "question": "DVC was established in which year as one of India's first major multipurpose river valley projects?", "options": ["1947", "1948", "1952", "1956"], "correctIndex": 1 },
+            { "question": "The Damodar River flows through which two states?", "options": ["Bihar and West Bengal", "Jharkhand and West Bengal", "Odisha and West Bengal", "Jharkhand and Odisha"], "correctIndex": 1 },
+            { "question": "The Damodar was historically called the 'Sorrow of Bengal' due to what?", "options": ["Pollution from coal mining", "Catastrophic annual floods in its lower reaches", "Saltwater intrusion near Kolkata", "Frequent droughts"], "correctIndex": 1 },
+            { "question": "DVC's primary focus was on flood control, irrigation, and what else?", "options": ["Navigation only", "Hydroelectric and thermal power generation", "Drinking water supply", "Industrial cooling water"], "correctIndex": 1 }
+          ],
+          "summary": "The Damodar Valley Corporation, established in 1948, was independent India's first major multipurpose river valley project — consciously modelled on the American Tennessee Valley Authority. The Damodar River, flowing through coal-rich Jharkhand and West Bengal, was historically known as the 'Sorrow of Bengal' for its catastrophic annual floods that devastated downstream communities. DVC built a series of dams and reservoirs controlling the river, combined with thermal power stations using local coal, transforming the valley from a flood-prone region into an industrial powerhouse. The coal mines of Jharia and Raniganj nearby supply the raw material; the DVC's power stations provide electricity to West Bengal and Jharkhand."
+        },
+        {
+          "id": "eco_d2_nhpc_subansiri",
+          "location": { "name": "Subansiri Lower Hydroelectric Project — Assam/Arunachal Pradesh", "lat": 27.5000, "lng": 94.2000 },
+          "questions": [
+            { "question": "The Subansiri Lower project on the Subansiri River is being built by which organisation?", "options": ["NHPC (National Hydroelectric Power Corporation)", "NTPC", "NEEPCO", "BHEL"], "correctIndex": 0 },
+            { "question": "When complete, Subansiri Lower will be India's largest hydroelectric power station. Its planned capacity?", "options": ["1,000 MW", "2,000 MW", "2,400 MW", "3,000 MW"], "correctIndex": 2 },
+            { "question": "The project faced significant delays due to protests from which groups?", "options": ["Religious communities downstream", "Environmental groups and downstream farming communities in Assam", "Tibetan refugees", "Coal mining companies"], "correctIndex": 1 },
+            { "question": "The Subansiri River is a tributary of which major river?", "options": ["Ganga", "Brahmaputra", "Irrawaddy", "Mahanadi"], "correctIndex": 1 },
+            { "question": "Arunachal Pradesh is estimated to have how much of India's total hydropower potential?", "options": ["5%", "15%", "30%", "50%"], "correctIndex": 2 }
+          ],
+          "summary": "The Subansiri Lower Hydroelectric Project on the Assam-Arunachal Pradesh border — under construction by NHPC — will be India's largest hydroelectric station at 2,000 MW when complete. The project has faced years of delay due to protests from environmental groups and downstream farming communities in Assam concerned about seismic risks (the region is in one of the world's most earthquake-prone zones) and the impact of sudden dam releases on farming and fishing. Arunachal Pradesh is estimated to hold approximately 30% of India's total hydropower potential — a resource that, if developed, could make India energy self-sufficient but requires careful environmental management."
+        },
+        {
+          "id": "eco_d2_maruti_gurugram",
+          "location": { "name": "Maruti Suzuki — Gurugram, Haryana", "lat": 28.4022, "lng": 76.9822 },
+          "questions": [
+            { "question": "Maruti Suzuki was established as a joint venture in which year?", "options": ["1975", "1981", "1983", "1990"], "correctIndex": 1 },
+            { "question": "The Maruti 800, India's first affordable small car, was launched in which year?", "options": ["1981", "1983", "1985", "1987"], "correctIndex": 1 },
+            { "question": "Maruti Suzuki currently holds approximately what percentage of India's passenger vehicle market?", "options": ["20%", "35%", "42%", "60%"], "correctIndex": 2 },
+            { "question": "The Indian government's stake in Maruti Suzuki was which initially and is now?", "options": ["100% — now 0%", "Initially majority govt stake — now Suzuki is the majority shareholder", "Always 50-50 joint venture", "Always private"], "correctIndex": 1 },
+            { "question": "Maruti's second manufacturing plant is located in?", "options": ["Pune", "Manesar, Haryana", "Sanand, Gujarat", "Chennai"], "correctIndex": 1 }
+          ],
+          "summary": "Maruti Udyog Ltd was established in 1981 as a government company to produce an affordable people's car for India — a partnership with Japan's Suzuki that transformed India's automobile landscape. The Maruti 800, launched in 1983, was India's first genuinely affordable family car, replacing the outdated Ambassador and Fiat Padmini and triggering India's automobile revolution. Today, Maruti Suzuki (now majority-owned by Suzuki) holds approximately 42% of India's passenger vehicle market — the dominant position by far. Its Gurugram and Manesar plants in Haryana form the core of India's largest automobile manufacturing cluster, with a supply chain of hundreds of ancillary units across the NCR region."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d2_bihu_assam",
+          "location": { "name": "Bihu Festival — Guwahati, Assam", "lat": 26.1445, "lng": 91.7362 },
+          "questions": [
+            { "question": "How many types of Bihu are celebrated in Assam?", "options": ["One", "Two", "Three", "Four"], "correctIndex": 2 },
+            { "question": "Rongali (Bohag) Bihu marks the beginning of?", "options": ["Rice planting season and Assamese New Year", "Harvest season", "Flood season", "Dry season"], "correctIndex": 0 },
+            { "question": "The primary instrument accompanying Bihu dance is?", "options": ["Tabla", "Mridangam", "Dhol (drum) and Pepa (buffalo-horn flute)", "Sitar"], "correctIndex": 2 },
+            { "question": "Which Bihu is performed in January during harvest?", "options": ["Rongali Bihu", "Kongali Bihu", "Bhogali (Magh) Bihu", "Bohag Bihu"], "correctIndex": 2 },
+            { "question": "The Bihu dance is performed by?", "options": ["Elderly community leaders only", "Young men and women together", "Women only", "Trained male dancers only"], "correctIndex": 1 }
+          ],
+          "summary": "Bihu is Assam's defining cultural expression — three distinct festivals corresponding to three phases of the agricultural year. Rongali (Bohag) Bihu in April marks the Assamese New Year and rice-planting; Kongali Bihu in October is the 'barren' festival when granaries are empty; Bhogali (Magh) Bihu in January celebrates the harvest with community feasting (meji bonfires and communal cooking). The Bihu dance — energetic, performed by young men and women together — is accompanied by the dhol (drum) and pepa (a distinctive buffalo-horn flute). Bihu is being considered by UNESCO for Intangible Cultural Heritage recognition."
+        },
+        {
+          "id": "evt_d2_onam_kerala",
+          "location": { "name": "Onam Festival — Thrissur, Kerala", "lat": 10.5276, "lng": 76.2144 },
+          "questions": [
+            { "question": "Onam celebrates the annual return of which legendary king?", "options": ["Cheraman Perumal", "Mahabali", "Kulasekhara", "Vikramaditya"], "correctIndex": 1 },
+            { "question": "The traditional feast on Onam served on a banana leaf is called?", "options": ["Sadhya", "Onasadya", "Biryani Sadhya", "Keral Sadhya"], "correctIndex": 1 },
+            { "question": "The Nehru Trophy Boat Race is held during Onam season. Where?", "options": ["Vembanad Lake, Alappuzha", "Dal Lake, Kashmir", "Chilika Lake, Odisha", "Loktak Lake, Manipur"], "correctIndex": 0 },
+            { "question": "The intricate flower carpet laid during Onam is called?", "options": ["Rangoli", "Kolam", "Pookalam", "Alpana"], "correctIndex": 2 },
+            { "question": "Onam is the official state festival of which Indian state?", "options": ["Tamil Nadu", "Andhra Pradesh", "Karnataka", "Kerala"], "correctIndex": 3 }
+          ],
+          "summary": "Onam, Kerala's most important festival, celebrates the annual return of the legendary King Mahabali — believed to visit his people during the Malayalam month of Chingam (August-September). The ten-day harvest festival features the Pookalam (intricate flower carpet), the Onasadya (a 26-dish vegetarian feast on banana leaves — one of the world's most elaborate traditional meals), the Vallam Kali (snake-boat races), and Pulikali (tiger dance). The Nehru Trophy Boat Race on Vembanad Lake, Alappuzha — where Chundan Vallam (snake boats) up to 40 metres long race — is one of Onam's most spectacular events. Kerala's official state festival since 1961."
+        },
+        {
+          "id": "evt_d2_bali_yatra_odisha",
+          "location": { "name": "Bali Yatra — Cuttack, Odisha", "lat": 20.4625, "lng": 85.8828 },
+          "questions": [
+            { "question": "Bali Yatra commemorates what historical tradition?", "options": ["A pilgrimage to the Himalayas", "Ancient Odishan mariners sailing to Bali and Southeast Asia", "A battle victory against the Mughals", "The founding of Cuttack city"], "correctIndex": 1 },
+            { "question": "Bali Yatra is held on the banks of which river in Cuttack?", "options": ["Mahanadi", "Brahmani", "Kathajodi", "Subarnarekha"], "correctIndex": 2 },
+            { "question": "The festival is held on the full moon of which month?", "options": ["Ashwin (Oct)", "Kartik (Nov)", "Phalgun (Feb)", "Chaitra (Mar)"], "correctIndex": 1 },
+            { "question": "Small paper boats with candles are floated during Bali Yatra to symbolise?", "options": ["Prayers for rain", "The ancient mariners' voyage across the sea", "Remembrance of the dead", "The harvest of the sea"], "correctIndex": 1 },
+            { "question": "Bali Yatra is claimed to be one of Asia's largest outdoor trade fairs. How many days does it last?", "options": ["3 days", "7 days", "8 days", "15 days"], "correctIndex": 2 }
+          ],
+          "summary": "Bali Yatra ('Voyage to Bali') in Cuttack on the Kathajodi River commemorates the ancient maritime tradition of Odisha's Sadhabas — merchant sailors who navigated the seas to Bali, Java, Sumatra, and Sri Lanka, spreading Odishan culture, art, and Buddhism across Southeast Asia. Held on the full moon of Kartik (November), it is Asia's largest open-air trade fair, drawing over two million visitors over eight days. Boats with lit lamps are floated on the Kathajodi at night, recreating the ancient mariners' departure. The festival reflects Odisha's often-overlooked maritime heritage and its historical connections to Southeast Asian civilisations."
+        },
+        {
+          "id": "evt_d2_elephant_thrissur",
+          "location": { "name": "Guruvayur Elephant Festival — Kerala", "lat": 10.5941, "lng": 76.0412 },
+          "questions": [
+            { "question": "The Guruvayur Sri Krishna Temple is famous for owning a large herd of elephants. These elephants are called?", "options": ["Devaswom elephants", "Guruvayur devasam", "The Lord's elephants (donated to the temple)", "Kerala state elephants"], "correctIndex": 2 },
+            { "question": "The Guruvayur Elephant Race (Aanayottam) is held during which festival?", "options": ["Onam", "Thrissur Pooram", "Guruvayur Ekadasi", "Vishu"], "correctIndex": 2 },
+            { "question": "Guruvayur Temple is one of the most visited temples in India. It is dedicated to which deity?", "options": ["Shiva", "Krishna (Guruvayurappan)", "Vishnu in general form", "Ganesha"], "correctIndex": 1 },
+            { "question": "The elephant at Guruvayur which became most famous was named?", "options": ["Gajendra", "Kesavan", "Padmanabhan", "Guruvayur Hari"], "correctIndex": 1 },
+            { "question": "How many elephants does Guruvayur Temple typically own?", "options": ["About 10", "About 30", "About 60", "Over 100"], "correctIndex": 2 }
+          ],
+          "summary": "Guruvayur Sri Krishna Temple in Thrissur district, Kerala, is one of India's most sacred and visited Hindu temples — entry is restricted to Hindus. The temple is unique in owning approximately 60 captive elephants, donated by devotees over centuries, all consecrated to Lord Krishna (Guruvayurappan). The most celebrated of these was Kesavan — a legendary tusker who served the temple for over 60 years until his death in 1976 and is commemorated with a life-size statue. The annual Guruvayur Ekadasi festival features the Aanayottam (elephant race) and a month-long Utsavam (festival) with caparisoned elephants processing around the temple with traditional percussion music."
+        },
+        {
+          "id": "evt_d2_sundarbans_honey",
+          "location": { "name": "Sundarban Honey Hunters — West Bengal", "lat": 21.9497, "lng": 88.8833 },
+          "questions": [
+            { "question": "The honey hunters of the Sundarbans are called?", "options": ["Mawalis", "Bawalis", "Mouals", "Jalars"], "correctIndex": 2 },
+            { "question": "The Sundarbans honey is collected from which type of bee primarily?", "options": ["Indian honey bee", "Rock bee (Apis dorsata)", "Stingless bee", "European honey bee"], "correctIndex": 1 },
+            { "question": "Honey hunters wear masks on the back of their heads while working. Why?", "options": ["To protect from bees stinging the back of the head", "Because tigers attack from behind — rear-facing masks may deter them", "For religious ritual purposes", "To communicate direction to fellow hunters"], "correctIndex": 1 },
+            { "question": "Honey collection in the Sundarbans is permitted only during which months?", "options": ["Year-round", "April to June only (government-regulated season)", "October to December", "January to March"], "correctIndex": 1 },
+            { "question": "Moual (honey hunter) deaths are primarily caused by which threat in the Sundarbans?", "options": ["Bee stings", "Crocodile attacks", "Tiger attacks", "Drowning in tidal channels"], "correctIndex": 2 }
+          ],
+          "summary": "The Mouals — honey hunters of the Sundarbans — practice one of India's most dangerous traditional livelihoods. Each April-to-June season, they enter the tiger reserve in small groups to collect honey from the hives of rock bees (Apis dorsata) in the mangrove canopy. Because tigers are known to stalk prey from behind, Mouals wear human face masks on the back of their heads — research suggests this has reduced tiger attacks. Despite this precaution, several Mouals are killed by tigers each year. The honey they collect — Sundarbans raw honey, renowned for its distinctive mangrove floral notes — is sold at a premium and provides crucial income for some of India's poorest communities."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d2_meghalaya_shillong",
+          "location": { "name": "Shillong — Meghalaya Capital", "lat": 25.5788, "lng": 91.8933 },
+          "questions": [
+            { "question": "Meghalaya was carved from which state?", "options": ["Assam", "Nagaland", "Manipur", "Tripura"], "correctIndex": 0 },
+            { "question": "Meghalaya became a full state in which year?", "options": ["1963", "1966", "1972", "1975"], "correctIndex": 2 },
+            { "question": "Meghalaya is one of the few places in India where which family system is matrilineal (property passes through the mother)?", "options": ["Garo and Khasi societies", "All tribal communities in the state", "Jaintia community only", "All communities equally"], "correctIndex": 0 },
+            { "question": "Shillong was the capital of undivided Assam under the British. Why was it chosen?", "options": ["It was the largest city", "Its cool climate on the plateau suited British administrators", "It was centrally located", "It had the best port facilities"], "correctIndex": 1 },
+            { "question": "The Mawsynram and Cherrapunji areas in Meghalaya hold records for the world's?", "options": ["Coldest temperatures in India", "Highest average annual rainfall on Earth", "Deepest river gorge in Asia", "Largest natural cave system in South Asia"], "correctIndex": 1 }
+          ],
+          "summary": "Meghalaya — 'Abode of Clouds' — was carved from Assam in 1972 to give greater autonomy to the Khasi, Garo, and Jaintia tribal peoples. Shillong, at 1,491 metres on the Shillong Plateau, was the capital of undivided Assam under the British (who valued its cool climate) before becoming Meghalaya's capital. The Khasi and Garo communities practise matrilineal inheritance — one of few such systems in South Asia — where property passes through the youngest daughter. Meghalaya receives the world's highest average annual rainfall (Mawsynram holds the record), yet paradoxically faces water scarcity in dry months due to rapid runoff on the steep terrain."
+        },
+        {
+          "id": "pol_d2_sikkim_gangtok",
+          "location": { "name": "Gangtok — Sikkim Capital", "lat": 27.3389, "lng": 88.6065 },
+          "questions": [
+            { "question": "Sikkim became India's 22nd state in which year?", "options": ["1971", "1973", "1975", "1977"], "correctIndex": 2 },
+            { "question": "The rulers of Sikkim held which title?", "options": ["Raja", "Nawab", "Chogyal", "Maharaja"], "correctIndex": 2 },
+            { "question": "Sikkim in 2016 became the first fully organic state in India. What did this mean?", "options": ["No synthetic pesticides or fertilisers used anywhere in the state", "Only organic food shops allowed", "Government buildings went carbon neutral", "Tourism restricted to eco-tourists only"], "correctIndex": 0 },
+            { "question": "Sikkim is India's least populous state. Its approximate population is?", "options": ["200,000", "650,000", "1.2 million", "2 million"], "correctIndex": 1 },
+            { "question": "Gangtok sits at approximately which altitude?", "options": ["800m", "1,437m", "2,150m", "3,200m"], "correctIndex": 1 }
+          ],
+          "summary": "Gangtok, at 1,437 metres on a Himalayan ridge overlooking Kangchenjunga, is the capital of Sikkim — India's least populous state and one of its most ecologically significant. The former kingdom, ruled by Chogyals (Buddhist kings), was integrated into India in 1975 following a controversial referendum. Sikkim borders Nepal, China (Tibet), and Bhutan, making it one of India's most strategically sensitive states. In 2016, Sikkim became India's — and one of the world's — first fully organic agricultural states, banning all synthetic pesticides and fertilisers, receiving international recognition for this achievement. The state's Kanchenjunga National Park is a UNESCO World Heritage Site."
+        },
+        {
+          "id": "pol_d2_dadra_silvassa",
+          "location": { "name": "Silvassa — Dadra & Nagar Haveli and Daman & Diu", "lat": 20.2766, "lng": 73.0148 },
+          "questions": [
+            { "question": "Dadra and Nagar Haveli was a Portuguese territory that was liberated in which year?", "options": ["1947", "1954", "1961", "1965"], "correctIndex": 1 },
+            { "question": "Dadra and Nagar Haveli merged with Daman and Diu to form a single UT in?", "options": ["2015", "2017", "2019", "2020"], "correctIndex": 2 },
+            { "question": "The Silvassa region is known for which primary industry?", "options": ["Fishing and maritime trade", "Manufacturing — chemicals, textiles, pharmaceuticals", "Agriculture — rice and spices", "IT services"], "correctIndex": 1 },
+            { "question": "The dominant tribal community in Dadra and Nagar Haveli is?", "options": ["Bhil","Warli", "Gond", "Santhal"], "correctIndex": 1 },
+            { "question": "Dadra and Nagar Haveli is surrounded by which states?", "options": ["Maharashtra only", "Gujarat and Maharashtra", "Gujarat only", "Goa and Maharashtra"], "correctIndex": 1 }
+          ],
+          "summary": "Dadra and Nagar Haveli was a small Portuguese enclave completely surrounded by Indian territory — liberated in 1954 by Indian nationalists (three years before Goa) in one of the first direct actions against colonial rule in post-independence India. In 2020, it was merged with Daman and Diu (also formerly Portuguese, liberated in 1961) to form a single Union Territory headquartered at Daman. Silvassa, the administrative capital of the Dadra and Nagar Haveli portion, has transformed into a significant industrial hub — particularly for textiles, chemicals, and pharmaceuticals — due to historical tax incentives. The predominantly Warli tribal community maintains distinctive traditional art traditions."
+        },
+        {
+          "id": "pol_d2_himachal_shimla",
+          "location": { "name": "Shimla — Himachal Pradesh Capital", "lat": 31.1048, "lng": 77.1734 },
+          "questions": [
+            { "question": "Shimla served as the summer capital of British India. During which months did the Viceroy shift here?", "options": ["January to March", "April to October", "June to September only", "Only during heat waves"], "correctIndex": 1 },
+            { "question": "Himachal Pradesh was formed as a full state in which year?", "options": ["1956", "1966", "1971", "1975"], "correctIndex": 2 },
+            { "question": "The Shimla Agreement of 1972 between India and Pakistan was signed to normalise relations after which war?", "options": ["1965 war", "1971 war (Bangladesh Liberation War)", "Kargil conflict", "1962 India-China war"], "correctIndex": 1 },
+            { "question": "Shimla is connected to Kalka by a UNESCO-listed?", "options": ["Mountain road", "Toy train (narrow gauge railway)", "Ropeway", "Historic highway"], "correctIndex": 1 },
+            { "question": "Himachal Pradesh is one of India's leading producers of?", "options": ["Rice and wheat", "Apples and hydroelectric power", "Cotton and tobacco", "Coal and iron ore"], "correctIndex": 1 }
+          ],
+          "summary": "Shimla at 2,206 metres was the summer capital of British India — the entire Raj administration, including the Viceroy, relocated here from Calcutta/Delhi during the hot season (April-October), a logistical marvel that shaped the town's colonial character. The Kalka-Shimla Railway (UNESCO World Heritage Site since 2008) — a narrow-gauge line climbing 1,400 metres through 102 tunnels — was built to connect this remote hill station to the plains. Shimla hosted the 1972 Shimla Agreement between Indira Gandhi and Zulfikar Ali Bhutto that established the Line of Control in Kashmir following the 1971 India-Pakistan War. Himachal Pradesh is India's leading apple-producing state and a major hydroelectric power generator."
+        },
+        {
+          "id": "pol_d2_andhra_amaravati",
+          "location": { "name": "Amaravati — Andhra Pradesh Capital", "lat": 16.5733, "lng": 80.3567 },
+          "questions": [
+            { "question": "Andhra Pradesh was bifurcated to create Telangana in which year?", "options": ["2012", "2013", "2014", "2015"], "correctIndex": 2 },
+            { "question": "After bifurcation, which city was designated as a temporary joint capital shared with Telangana?", "options": ["Vijayawada", "Visakhapatnam", "Hyderabad", "Kurnool"], "correctIndex": 2 },
+            { "question": "The proposed new capital Amaravati was planned on the banks of which river?", "options": ["Godavari", "Krishna", "Tungabhadra", "Penna"], "correctIndex": 1 },
+            { "question": "The ancient Amaravati was a major centre of which religion?", "options": ["Hinduism", "Buddhism — famous for a great stupa", "Jainism", "All three equally"], "correctIndex": 1 },
+            { "question": "Andhra Pradesh's coastline — the longest of any Indian state — extends approximately how far?", "options": ["600 km", "974 km", "1,200 km", "1,600 km"], "correctIndex": 1 }
+          ],
+          "summary": "The bifurcation of Andhra Pradesh in 2014 to create Telangana was one of modern India's most politically contentious state reorganisations, driven by decades of Telangana's demand for a separate identity. The new Andhra Pradesh lost Hyderabad to Telangana and proposed an entirely new capital — Amaravati — on the Krishna River's north bank. The ancient Amaravati was a major Buddhist centre (2nd century BCE–3rd century CE), home to one of India's greatest stupas whose sculptures are now in museums worldwide. The new capital project, one of India's most ambitious urban planning exercises, has faced funding challenges and political changes in the state government. Andhra Pradesh has India's longest coastline at approximately 974 km."
+        }
+      ]
+    }
+  }
+}

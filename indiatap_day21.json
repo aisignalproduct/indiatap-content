@@ -1,0 +1,326 @@
+{
+  "day": 21,
+  "date": "2026-10-21",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d21_indravati",
+          "location": { "name": "Indravati Tiger Reserve, Chhattisgarh", "lat": 19.2000, "lng": 80.9500 },
+          "questions": [
+            { "question": "Indravati Tiger Reserve is located in which Indian state?", "options": ["Chhattisgarh", "Odisha", "Madhya Pradesh", "Maharashtra"], "correctIndex": 0 },
+            { "question": "Indravati is considered one of the last strongholds of which species in central India?", "options": ["Wild buffalo", "Asiatic lion", "Snow leopard", "Indian rhinoceros"], "correctIndex": 0 },
+            { "question": "Indravati Tiger Reserve is located in which district?", "options": ["Bijapur", "Raipur", "Durg", "Bilaspur"], "correctIndex": 0 },
+            { "question": "What has historically limited tourism access and wildlife surveys at Indravati?", "options": ["Insurgency-related security concerns", "Extreme heat", "Frequent flooding", "Volcanic activity"], "correctIndex": 0 },
+            { "question": "Indravati is located within which broader forested region?", "options": ["Bastar region", "Vidarbha region", "Konkan region", "Malwa region"], "correctIndex": 0 }
+          ],
+          "summary": "Indravati Tiger Reserve, in Chhattisgarh's Bijapur district, is one of India's most remote and least accessible tiger reserves, situated along the border with Maharashtra in a dense forest region historically affected by insurgency-related security concerns. The reserve is notable as one of the last strongholds of the wild buffalo in central India, a species that has declined sharply elsewhere due to habitat loss and interbreeding with domestic cattle. Indravati's remote, difficult terrain has limited both tourism access and comprehensive wildlife surveys, reflecting the Bastar region's status as ecologically significant but historically underdeveloped."
+        },
+        {
+          "id": "geo_d21_point_calimere",
+          "location": { "name": "Point Calimere Wildlife Sanctuary, Tamil Nadu", "lat": 10.2833, "lng": 79.8500 },
+          "questions": [
+            { "question": "Point Calimere Wildlife Sanctuary is especially known for seasonal visits by large flocks of?", "options": ["Flamingos", "Penguins", "Ostriches", "Peacocks"], "correctIndex": 0 },
+            { "question": "Point Calimere is located on the coast of which strait?", "options": ["Palk Strait", "Gulf of Kutch", "Gulf of Mannar", "Ten Degree Channel"], "correctIndex": 0 },
+            { "question": "Point Calimere Wildlife Sanctuary is located in which Indian state?", "options": ["Tamil Nadu", "Kerala", "Andhra Pradesh", "Karnataka"], "correctIndex": 0 },
+            { "question": "Point Calimere also holds historical significance as the site of ancient?", "options": ["Port ruins", "Royal palaces", "Battlefields", "Mining operations"], "correctIndex": 0 },
+            { "question": "Point Calimere's location is significant for bird migration between Central Asia and?", "options": ["Sri Lanka", "Australia", "East Africa", "Southeast Asia only"], "correctIndex": 0 }
+          ],
+          "summary": "Point Calimere Wildlife Sanctuary, on Tamil Nadu's Palk Strait coast, is a critical stopover site for migratory birds, including large flocks of flamingos that arrive seasonally to feed in the sanctuary's shallow coastal lagoons. The sanctuary's unique blend of dry evergreen forest, mangrove patches, and mudflats makes it one of India's most significant coastal bird habitats. Point Calimere also holds historical significance as the site of ancient port ruins linked to early maritime trade networks, and its location along a major bird migration flyway gives it importance for international conservation."
+        },
+        {
+          "id": "geo_d21_nalsarovar",
+          "location": { "name": "Nalsarovar Bird Sanctuary, Gujarat", "lat": 22.7500, "lng": 72.0333 },
+          "questions": [
+            { "question": "Nalsarovar Bird Sanctuary centers on one of the largest what in Gujarat?", "options": ["Wetlands", "Deserts", "Mountain ranges", "Forests"], "correctIndex": 0 },
+            { "question": "Nalsarovar attracts migratory waterfowl traveling from as far as?", "options": ["Siberia and Central Asia", "South America", "Australia", "Antarctica"], "correctIndex": 0 },
+            { "question": "Nalsarovar is an important wintering ground along which migratory route?", "options": ["Central Asian Flyway", "East Asian-Australasian Flyway", "Pacific Flyway", "Atlantic Flyway"], "correctIndex": 0 },
+            { "question": "Which communities have traditionally depended on Nalsarovar's resources?", "options": ["Local fishing communities", "Mountaineering guides", "Desert traders", "Textile weavers"], "correctIndex": 0 },
+            { "question": "Nalsarovar's accessibility from which city has made it a popular birdwatching destination?", "options": ["Ahmedabad", "Surat", "Vadodara", "Rajkot"], "correctIndex": 0 }
+          ],
+          "summary": "Nalsarovar Bird Sanctuary, in Gujarat, centers on one of the largest wetlands in the state, attracting large numbers of migratory waterfowl each winter, including flamingos, pelicans, and various ducks and geese arriving from as far as Siberia and Central Asia. The shallow lake provides a crucial wintering ground for species traveling along the Central Asian Flyway. Local fishing communities have traditionally depended on the lake's resources, and Nalsarovar's accessibility from Ahmedabad has made it a popular destination for birdwatchers interested in Gujarat's wetland biodiversity."
+        },
+        {
+          "id": "geo_d21_keoladeo",
+          "location": { "name": "Keoladeo National Park, Bharatpur", "lat": 27.1509, "lng": 77.5227 },
+          "questions": [
+            { "question": "Keoladeo National Park is historically famous for hosting which critically endangered crane species?", "options": ["Siberian crane", "Sarus crane", "Demoiselle crane", "Black-necked crane"], "correctIndex": 0 },
+            { "question": "Keoladeo National Park is located in which Rajasthan town?", "options": ["Bharatpur", "Jaipur", "Udaipur", "Jodhpur"], "correctIndex": 0 },
+            { "question": "Keoladeo National Park was originally developed as a royal reserve for?", "options": ["Duck hunting", "Tiger hunting", "Elephant capture", "Falconry only"], "correctIndex": 0 },
+            { "question": "Keoladeo National Park is recognized internationally as a?", "options": ["UNESCO World Heritage Site", "Special Economic Zone", "National Capital Region", "Biosphere Reserve only"], "correctIndex": 0 },
+            { "question": "Keoladeo's water levels are managed through a?", "options": ["Canal system", "Underground pump network only", "Rainwater harvesting only", "Desalination plant"], "correctIndex": 0 }
+          ],
+          "summary": "Keoladeo National Park, in Bharatpur, Rajasthan, is a UNESCO World Heritage Site renowned as one of the world's most important bird breeding and wintering grounds, historically famous for hosting the critically endangered Siberian crane. Originally developed as a royal duck-hunting reserve by the Maharajas of Bharatpur, the wetland was later converted into a protected sanctuary. The park's carefully managed water levels, fed by a canal system, support dense breeding colonies of herons, storks, and other waterbirds, making Keoladeo one of India's premier birdwatching destinations."
+        },
+        {
+          "id": "geo_d21_sultanpur",
+          "location": { "name": "Sultanpur National Park, Haryana", "lat": 28.4602, "lng": 76.8963 },
+          "questions": [
+            { "question": "Sultanpur National Park is located near which Haryana city?", "options": ["Gurugram", "Faridabad", "Panchkula", "Karnal"], "correctIndex": 0 },
+            { "question": "Sultanpur National Park primarily serves as a habitat for which type of wildlife?", "options": ["Migratory birds", "Tigers", "Elephants", "Snow leopards"], "correctIndex": 0 },
+            { "question": "Sultanpur National Park's ecological importance is notable given its location within?", "options": ["A rapidly urbanizing region", "A remote desert", "A dense forest", "A coastal area"], "correctIndex": 0 },
+            { "question": "Sultanpur National Park's proximity to which major city has made it popular with urban birdwatchers?", "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"], "correctIndex": 0 },
+            { "question": "Sultanpur highlights broader challenges facing wetland conservation in India's?", "options": ["National Capital Region", "Western Ghats", "Northeast frontier", "Southern coastline"], "correctIndex": 0 }
+          ],
+          "summary": "Sultanpur National Park, near Gurugram in Haryana, is a relatively small but ecologically significant wetland sanctuary, providing an important stopover and wintering habitat for migratory birds despite its location within one of India's most rapidly urbanizing regions. The park attracts species including ducks, herons, and other waterfowl during the winter migration season. Sultanpur's proximity to Delhi and Gurugram has made it an accessible destination for urban birdwatchers, highlighting broader challenges facing wetland conservation in India's fast-growing National Capital Region."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d21_ranakpur",
+          "location": { "name": "Ranakpur Jain Temple, Rajasthan", "lat": 25.1167, "lng": 73.4833 },
+          "questions": [
+            { "question": "The Ranakpur Jain Temple is dedicated to which Tirthankara?", "options": ["Rishabhanatha", "Mahavira", "Parshvanatha", "Neminatha"], "correctIndex": 0 },
+            { "question": "Ranakpur Jain Temple is renowned for having over how many carved marble pillars?", "options": ["1,400", "100", "500", "5,000"], "correctIndex": 0 },
+            { "question": "A notable feature of Ranakpur's pillars is that?", "options": ["No two pillars have exactly the same design", "They are all identical", "They are made of wood", "They have no carvings at all"], "correctIndex": 0 },
+            { "question": "Ranakpur Jain Temple was built under the patronage of a wealthy?", "options": ["Jain merchant", "Mughal governor", "British trader", "Portuguese noble"], "correctIndex": 0 },
+            { "question": "Ranakpur Jain Temple is located in which Indian state?", "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Maharashtra"], "correctIndex": 0 }
+          ],
+          "summary": "The Ranakpur Jain Temple, in Rajasthan, dedicated to the Jain Tirthankara Rishabhanatha, is renowned for its extraordinary interior featuring over 1,400 intricately carved marble pillars, each reportedly bearing a unique design with no two pillars exactly alike. Built in the 15th century under the patronage of a wealthy Jain merchant with the support of the local Rajput ruler, the temple's construction is said to have taken decades to complete. The temple follows a distinctive multi-spired design and remains an important active pilgrimage site for Jains."
+        },
+        {
+          "id": "cul_d21_amarnath_cave",
+          "location": { "name": "Amarnath Cave, Jammu and Kashmir", "lat": 34.2136, "lng": 75.5000 },
+          "questions": [
+            { "question": "The Amarnath Cave is centered on a naturally forming ice formation resembling a?", "options": ["Shiva lingam", "Buddha statue", "Krishna idol", "Ganesha figure"], "correctIndex": 0 },
+            { "question": "The annual pilgrimage to Amarnath Cave is called the?", "options": ["Amarnath Yatra", "Char Dham Yatra", "Kailash Yatra", "Kanwar Yatra"], "correctIndex": 0 },
+            { "question": "According to mythology, Shiva revealed the secret of immortality at Amarnath Cave to which consort?", "options": ["Parvati", "Ganga", "Lakshmi", "Saraswati"], "correctIndex": 0 },
+            { "question": "The Amarnath pilgrimage typically takes place during which season?", "options": ["Summer", "Winter", "Spring", "Monsoon peak"], "correctIndex": 0 },
+            { "question": "Amarnath Cave is located in which Indian Union Territory?", "options": ["Jammu and Kashmir", "Ladakh", "Himachal Pradesh", "Punjab"], "correctIndex": 0 }
+          ],
+          "summary": "The Amarnath Cave, in Jammu and Kashmir's Himalayan terrain, is a major Hindu pilgrimage site centered on a naturally forming ice stalagmite believed to represent a Shiva lingam, which grows and shrinks with the seasons. The annual Amarnath Yatra draws hundreds of thousands of devotees who trek through difficult mountainous terrain, typically during summer months. According to mythology, the cave is where Shiva revealed the secret of immortality to Parvati, making it one of the most sacred sites in Shaivism, and the pilgrimage requires significant security arrangements each year."
+        },
+        {
+          "id": "cul_d21_belur_math",
+          "location": { "name": "Belur Math, Kolkata", "lat": 22.6320, "lng": 88.3487 },
+          "questions": [
+            { "question": "Belur Math serves as the headquarters of which organization?", "options": ["Ramakrishna Mission", "Arya Samaj", "Brahmo Samaj", "Theosophical Society"], "correctIndex": 0 },
+            { "question": "Belur Math is located on the banks of which river?", "options": ["Hooghly River", "Ganga River", "Yamuna River", "Brahmaputra River"], "correctIndex": 0 },
+            { "question": "Belur Math's main temple architecture deliberately blends which religious design elements?", "options": ["Hindu, Christian, and Islamic", "Only Hindu elements", "Only Buddhist elements", "Only colonial European elements"], "correctIndex": 0 },
+            { "question": "Which disciple played a central role in establishing the mission's international outreach?", "options": ["Swami Vivekananda", "Swami Dayananda", "Raja Ram Mohan Roy", "Debendranath Tagore"], "correctIndex": 0 },
+            { "question": "Vivekananda became internationally known following his 1893 speech at which event?", "options": ["World's Parliament of Religions", "League of Nations", "United Nations Assembly", "First Round Table Conference"], "correctIndex": 0 }
+          ],
+          "summary": "Belur Math, on the banks of the Hooghly River near Kolkata, serves as the headquarters of the Ramakrishna Mission, founded in the tradition of the 19th-century mystic Sri Ramakrishna and his disciple Swami Vivekananda. The main temple's architecture deliberately blends Hindu, Christian, and Islamic design elements, symbolizing the movement's philosophy of unity of all religions. Vivekananda, credited with introducing Vedanta philosophy to a wider Western audience following his 1893 speech at Chicago's World's Parliament of Religions, played a central role in establishing the mission's international outreach."
+        },
+        {
+          "id": "cul_d21_rameswaram",
+          "location": { "name": "Rameswaram Ramanathaswamy Temple", "lat": 9.2881, "lng": 79.3129 },
+          "questions": [
+            { "question": "The Ramanathaswamy Temple is located in which town?", "options": ["Rameswaram", "Madurai", "Kanyakumari", "Thanjavur"], "correctIndex": 0 },
+            { "question": "Ramanathaswamy Temple is renowned for having the longest what of any Hindu temple in India?", "options": ["Corridor", "Tower", "Staircase", "Moat"], "correctIndex": 0 },
+            { "question": "According to the Ramayana, Rama worshipped Shiva at Rameswaram to atone for killing whom?", "options": ["Ravana", "Kumbhakarna", "Indrajit", "Vibhishana"], "correctIndex": 0 },
+            { "question": "Ramanathaswamy Temple is part of both the Char Dham circuit and which other pilgrimage grouping?", "options": ["The twelve Jyotirlingas", "The Panch Kedar", "The Shakti Peethas", "The Divya Desams only"], "correctIndex": 0 },
+            { "question": "Rameswaram is connected to the mainland by which bridge?", "options": ["Pamban Bridge", "Bandra-Worli Sea Link", "Howrah Bridge", "Vidyasagar Setu"], "correctIndex": 0 }
+          ],
+          "summary": "The Ramanathaswamy Temple, in Rameswaram, Tamil Nadu, is one of India's most significant Hindu pilgrimage sites, forming part of both the Char Dham circuit and the twelve Jyotirlinga sites dedicated to Shiva. The temple is renowned for having the longest corridor of any Hindu temple in India. According to the Ramayana, Rameswaram is where Rama worshipped Shiva to atone for killing Ravana before beginning his journey back to Ayodhya, and the island is connected to the mainland by the Pamban Bridge."
+        },
+        {
+          "id": "cul_d21_vivekananda_rock",
+          "location": { "name": "Vivekananda Rock Memorial, Kanyakumari", "lat": 8.0778, "lng": 77.5385 },
+          "questions": [
+            { "question": "The Vivekananda Rock Memorial marks the spot where Vivekananda is said to have?", "options": ["Meditated in 1892", "Been born", "Passed away", "Given his first public speech"], "correctIndex": 0 },
+            { "question": "The Vivekananda Rock Memorial was built in which year?", "options": ["1947", "1970", "1990", "2010"], "correctIndex": 1 },
+            { "question": "The memorial complex also includes a structure commemorating which poet-saint?", "options": ["Thiruvalluvar", "Kabir", "Tulsidas", "Kalidasa"], "correctIndex": 0 },
+            { "question": "Kanyakumari is located at the confluence of the Bay of Bengal, Arabian Sea, and?", "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Red Sea"], "correctIndex": 0 },
+            { "question": "The Vivekananda Rock Memorial's architecture combines elements representing?", "options": ["Various regional Indian temple styles", "Only South Indian styles", "Only Mughal styles", "Only colonial European styles"], "correctIndex": 0 }
+          ],
+          "summary": "The Vivekananda Rock Memorial, on a small island off the coast of Kanyakumari, marks the spot where Swami Vivekananda is said to have meditated in 1892 before his famous journey to Chicago's World's Parliament of Religions. Built in 1970 after a nationwide fundraising campaign, the memorial combines architectural elements representing various regional Indian temple styles, symbolizing national unity. The complex also commemorates the poet-saint Thiruvalluvar nearby, and Kanyakumari's location at the confluence of three bodies of water adds symbolic significance."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d21_bharat_forge",
+          "location": { "name": "Bharat Forge, Pune", "lat": 18.5204, "lng": 73.8567 },
+          "questions": [
+            { "question": "Bharat Forge specializes in which manufacturing process?", "options": ["Metal forging", "Textile weaving", "Software development", "Food processing"], "correctIndex": 0 },
+            { "question": "Bharat Forge is headquartered in which Indian city?", "options": ["Pune", "Mumbai", "Nashik", "Nagpur"], "correctIndex": 0 },
+            { "question": "Bharat Forge primarily supplies components to which sectors?", "options": ["Automotive, aerospace, defense, and energy", "Only textiles", "Only agriculture", "Only mining"], "correctIndex": 0 },
+            { "question": "Bharat Forge has expanded into which sector in recent years, aligning with India's self-reliance push?", "options": ["Defense manufacturing", "Film production", "Tourism", "Retail"], "correctIndex": 0 },
+            { "question": "Bharat Forge's growth reflects India's expanding role in international?", "options": ["Automotive supply chains", "Diplomatic negotiations", "Space exploration", "Agricultural exports"], "correctIndex": 0 }
+          ],
+          "summary": "Bharat Forge, headquartered in Pune, Maharashtra, is one of the world's largest forging companies, producing critical components for the automotive, aerospace, defense, and energy sectors through advanced metal forging processes. The company has grown since its founding in the 1960s to become a major supplier of engine and chassis components to global automotive manufacturers. Bharat Forge has also expanded into defense manufacturing in recent years, aligning with India's broader push toward greater self-reliance in defense equipment production."
+        },
+        {
+          "id": "eco_d21_noida_electronics",
+          "location": { "name": "Noida Electronics Manufacturing Cluster, Uttar Pradesh", "lat": 28.5355, "lng": 77.3910 },
+          "questions": [
+            { "question": "Noida's electronics cluster primarily produces?", "options": ["Mobile phones and consumer electronics", "Steel products", "Textiles", "Automobiles"], "correctIndex": 0 },
+            { "question": "Noida's electronics manufacturing growth has been supported by?", "options": ["Government incentive schemes", "Foreign military aid", "Agricultural subsidies", "Religious endowments"], "correctIndex": 0 },
+            { "question": "Noida's electronics cluster aims to reduce India's historical reliance on imported?", "options": ["Electronics, particularly smartphones", "Steel", "Textiles", "Agricultural equipment"], "correctIndex": 0 },
+            { "question": "Noida's proximity to which city has supported its industrial growth?", "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"], "correctIndex": 0 },
+            { "question": "Noida's electronics cluster complements similar manufacturing clusters that have developed in?", "options": ["Southern India", "Northeastern India", "Central India", "Western deserts"], "correctIndex": 0 }
+          ],
+          "summary": "Noida, in Uttar Pradesh, has developed into one of India's major electronics manufacturing clusters, hosting facilities for companies producing mobile phones, consumer electronics, and related components. The cluster's growth has been supported by government incentive schemes aimed at reducing India's historical reliance on imported electronics, particularly smartphones. Noida's proximity to Delhi and established industrial infrastructure has made it attractive for electronics assembly, complementing similar clusters that have developed in southern India."
+        },
+        {
+          "id": "eco_d21_concor_tughlakabad",
+          "location": { "name": "CONCOR Tughlakabad ICD, Delhi", "lat": 28.5000, "lng": 77.2667 },
+          "questions": [
+            { "question": "The Tughlakabad Inland Container Depot is operated by which organization?", "options": ["Container Corporation of India (CONCOR)", "Indian Railways directly", "Indian Oil Corporation", "Airports Authority of India"], "correctIndex": 0 },
+            { "question": "Inland Container Depots like Tughlakabad primarily help reduce congestion at?", "options": ["Coastal seaports", "Airports", "Highways only", "Railway stations only"], "correctIndex": 0 },
+            { "question": "The Tughlakabad ICD is located in which Indian city?", "options": ["Delhi", "Mumbai", "Chennai", "Kolkata"], "correctIndex": 0 },
+            { "question": "CONCOR primarily facilitates the movement of?", "options": ["Containerized cargo", "Passenger trains", "Oil pipelines", "Agricultural produce only"], "correctIndex": 0 },
+            { "question": "The inland container depot model reflects a strategy of shifting freight logistics toward?", "options": ["More efficient rail-based systems", "Exclusively air freight", "Exclusively road transport", "Exclusively river barges"], "correctIndex": 0 }
+          ],
+          "summary": "The Inland Container Depot at Tughlakabad, in Delhi, operated by the Container Corporation of India (CONCOR), is one of India's largest dry ports, facilitating containerized cargo movement between the National Capital Region and major seaports through dedicated rail links. Established to reduce congestion at coastal ports, the facility plays a crucial role in India's export-import logistics chain for northern India. CONCOR operates a network of such depots across the country, with Tughlakabad ranking among its busiest given Delhi's central location within India's transportation network."
+        },
+        {
+          "id": "eco_d21_lt_kattupalli",
+          "location": { "name": "L&T Shipyard, Kattupalli", "lat": 13.3167, "lng": 80.3333 },
+          "questions": [
+            { "question": "L&T's Kattupalli shipyard is located near which city?", "options": ["Chennai", "Kochi", "Visakhapatnam", "Mumbai"], "correctIndex": 0 },
+            { "question": "The Kattupalli shipyard primarily builds?", "options": ["Naval ships, cargo vessels, and offshore support ships", "Only fishing boats", "Only passenger ferries", "Only submarines"], "correctIndex": 0 },
+            { "question": "L&T's shipbuilding venture reflects increasing participation of which sector in Indian shipbuilding?", "options": ["Private sector", "Only foreign companies", "Only state governments", "Only cooperative societies"], "correctIndex": 0 },
+            { "question": "Indian shipbuilding has traditionally been dominated by public sector yards like Mazagon Dock and?", "options": ["Cochin Shipyard", "Tata Steel", "Reliance Industries", "ONGC"], "correctIndex": 0 },
+            { "question": "Kattupalli's development reflects India's push to expand private participation in?", "options": ["Strategic manufacturing sectors", "Only agriculture", "Only retail", "Only tourism"], "correctIndex": 0 }
+          ],
+          "summary": "Larsen & Toubro's shipyard at Kattupalli, near Chennai in Tamil Nadu, is one of India's most advanced private sector shipbuilding facilities, constructing naval ships, commercial cargo vessels, and specialized offshore support ships. Developed as part of L&T's diversification into heavy engineering and defense manufacturing, the facility reflects the increasing role of private companies in India's shipbuilding sector, traditionally dominated by public sector yards like Mazagon Dock and Cochin Shipyard, and India's push to expand private participation in strategic manufacturing."
+        },
+        {
+          "id": "eco_d21_apollo_tyres",
+          "location": { "name": "Apollo Tyres, Perambra, Kerala", "lat": 10.3667, "lng": 76.2667 },
+          "questions": [
+            { "question": "Apollo Tyres' facility in Perambra is located in which Indian state?", "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "Apollo Tyres primarily manufactures?", "options": ["Tyres for vehicles", "Steel products", "Textiles", "Electronics"], "correctIndex": 0 },
+            { "question": "In which decade was Apollo Tyres founded?", "options": ["1970s", "1950s", "1990s", "2000s"], "correctIndex": 0 },
+            { "question": "Kerala's tyre manufacturing presence benefits from the state's association with cultivating?", "options": ["Natural rubber", "Cotton", "Wheat", "Sugarcane"], "correctIndex": 0 },
+            { "question": "Apollo Tyres has expanded internationally through acquisitions in?", "options": ["Europe and other regions", "Only South America", "Only the Middle East", "Only Southeast Asia"], "correctIndex": 0 }
+          ],
+          "summary": "Apollo Tyres, with a manufacturing facility in Perambra, Kerala, is one of India's leading tyre manufacturers, producing tyres for passenger vehicles, commercial trucks, and two-wheelers for domestic and international markets. Founded in the 1970s, the company has grown into one of India's most recognized tyre brands, expanding internationally through acquisitions in Europe. Kerala's tyre manufacturing presence benefits from the state's historical association with natural rubber cultivation, supporting India's automotive component manufacturing base."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d21_aranmula_boat_race",
+          "location": { "name": "Aranmula Boat Race, Kerala", "lat": 9.3333, "lng": 76.6167 },
+          "questions": [
+            { "question": "The Aranmula Boat Race is held on which river?", "options": ["Pamba River", "Periyar River", "Bharathapuzha River", "Chaliyar River"], "correctIndex": 0 },
+            { "question": "The Aranmula Boat Race is closely linked to rituals of which temple?", "options": ["Aranmula Parthasarathy Temple", "Guruvayur Temple", "Sabarimala Temple", "Padmanabhaswamy Temple"], "correctIndex": 0 },
+            { "question": "The long, narrow boats used in Kerala's snake boat races are called?", "options": ["Chundan Vallams", "Shikaras", "Coracles", "Dhonis"], "correctIndex": 0 },
+            { "question": "Traditional boat songs sung during Kerala's snake boat races are called?", "options": ["Vanchipattu", "Baul songs", "Lavani", "Qawwali"], "correctIndex": 0 },
+            { "question": "The Aranmula Boat Race, unlike some other Kerala boat races, remains closely tied to?", "options": ["Religious observance", "Only tourism promotion", "Only political events", "Only school competitions"], "correctIndex": 0 }
+          ],
+          "summary": "The Aranmula Boat Race, held on the Pamba River near Aranmula in Kerala, is one of the state's oldest snake boat races, closely linked to the Aranmula Parthasarathy Temple's traditional rituals rather than functioning purely as a secular competition. The race originated from a ritual practice of transporting offerings for the temple's deity in ceremonial boats. The 'Chundan Vallams' used are crewed by dozens of oarsmen guided by traditional boat songs called Vanchipattu, and the race remains deeply tied to religious observance during the Onam season."
+        },
+        {
+          "id": "evt_d21_kanwar_yatra",
+          "location": { "name": "Kanwar Yatra, Sultanganj, Bihar", "lat": 25.2500, "lng": 86.7333 },
+          "questions": [
+            { "question": "Participants in the Kanwar Yatra are known as?", "options": ["Kanwariyas", "Sadhus", "Yatris only", "Pilgrims of Shiva only"], "correctIndex": 0 },
+            { "question": "The Kanwar Yatra involves collecting sacred water from which river?", "options": ["Ganga", "Yamuna", "Godavari", "Kaveri"], "correctIndex": 0 },
+            { "question": "Sultanganj, a common starting point for the Kanwar Yatra, is located in which state?", "options": ["Bihar", "Uttar Pradesh", "Jharkhand", "West Bengal"], "correctIndex": 0 },
+            { "question": "The Kanwar Yatra typically takes place during which Hindu month?", "options": ["Shravan", "Kartik", "Chaitra", "Vaishakh"], "correctIndex": 0 },
+            { "question": "Kanwariyas traditionally avoid letting the kanwar do what during the journey?", "options": ["Touch the ground", "Get wet", "Face north", "Be photographed"], "correctIndex": 0 }
+          ],
+          "summary": "The Kanwar Yatra is an annual Hindu pilgrimage in which devotees, known as Kanwariyas, travel on foot to collect sacred water from the Ganga, often starting from towns like Sultanganj in Bihar, before carrying it in decorated containers to offer at Shiva temples. The pilgrimage typically takes place during the Hindu month of Shravan, drawing millions who undertake journeys of significant distances on foot. Kanwariyas observe strict rules, including refraining from letting the kanwar touch the ground once the water has been collected."
+        },
+        {
+          "id": "evt_d21_dhanu_yatra",
+          "location": { "name": "Dhanu Yatra, Bargarh, Odisha", "lat": 20.3833, "lng": 83.6167 },
+          "questions": [
+            { "question": "Dhanu Yatra is often described as the world's largest?", "options": ["Open-air theatrical event", "Boat race", "Kite festival", "Cattle fair"], "correctIndex": 0 },
+            { "question": "Dhanu Yatra re-enacts episodes from the life of which deity?", "options": ["Krishna", "Rama", "Shiva", "Ganesha"], "correctIndex": 0 },
+            { "question": "Dhanu Yatra centers on Krishna's conflict with which tyrannical king?", "options": ["Kansa", "Ravana", "Duryodhana", "Hiranyakashipu"], "correctIndex": 0 },
+            { "question": "In Dhanu Yatra, which river represents the mythological Yamuna River?", "options": ["Mahanadi River", "Godavari River", "Krishna River", "Brahmani River"], "correctIndex": 0 },
+            { "question": "Dhanu Yatra is held annually in which Odisha town?", "options": ["Bargarh", "Sambalpur", "Cuttack", "Puri"], "correctIndex": 0 }
+          ],
+          "summary": "Dhanu Yatra, held annually in Bargarh, Odisha, is often described as the world's largest open-air theatrical event, re-enacting episodes from the life of Lord Krishna, particularly his conflict with the tyrannical king Kansa, across the entire town. The Mahanadi River represents the mythological Yamuna River, and various locations serve as settings for different scenes performed over multiple days. Local residents take on major roles, including Kansa, and the festival's scale has made it a significant cultural event in western Odisha."
+        },
+        {
+          "id": "evt_d21_thaipusam",
+          "location": { "name": "Thaipusam, Palani", "lat": 10.4500, "lng": 77.5167 },
+          "questions": [
+            { "question": "Thaipusam is dedicated to which deity?", "options": ["Murugan", "Shiva", "Vishnu", "Ganesha"], "correctIndex": 0 },
+            { "question": "Devotees during Thaipusam carry ornate offering structures called?", "options": ["Kavadis", "Rath", "Palanquins", "Toranas"], "correctIndex": 0 },
+            { "question": "Thaipusam commemorates Parvati giving Murugan a divine?", "options": ["Spear (vel)", "Sword", "Bow", "Discus"], "correctIndex": 0 },
+            { "question": "Some devotees during Thaipusam practice physical penance including?", "options": ["Piercing the skin with hooks or skewers", "Complete silence for a month", "Wearing only white clothing", "Sleeping outdoors for a year"], "correctIndex": 0 },
+            { "question": "The Palani temple associated with Thaipusam is located in which Indian state?", "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"], "correctIndex": 0 }
+          ],
+          "summary": "Thaipusam, celebrated prominently at the Palani Murugan Temple in Tamil Nadu, is a major Hindu festival dedicated to Lord Murugan, marked by devotees carrying ornate structures called 'kavadis,' often accompanied by physical penance including piercing the skin with hooks or skewers. The festival commemorates the goddess Parvati giving Murugan a divine spear to vanquish evil forces. Devotees undertaking intense penance typically prepare through weeks of fasting, and Palani's hilltop temple makes Thaipusam one of South India's most visually striking annual religious festivals."
+        },
+        {
+          "id": "evt_d21_dol_purnima",
+          "location": { "name": "Dol Purnima, Nabadwip", "lat": 23.4058, "lng": 88.3776 },
+          "questions": [
+            { "question": "Dol Purnima is the Bengali Vaishnavite version of which festival?", "options": ["Holi", "Diwali", "Navratri", "Dussehra"], "correctIndex": 0 },
+            { "question": "Nabadwip is significant as the birthplace of which 16th-century saint?", "options": ["Chaitanya Mahaprabhu", "Ramakrishna", "Kabir", "Tulsidas"], "correctIndex": 0 },
+            { "question": "During Dol Purnima, images of Krishna and Radha are placed on decorated?", "options": ["Swings (dols)", "Chariots", "Boats", "Elephants"], "correctIndex": 0 },
+            { "question": "Chaitanya Mahaprabhu is a central figure in which devotional movement?", "options": ["Gaudiya Vaishnavism", "Shaivism", "Arya Samaj", "Brahmo Samaj"], "correctIndex": 0 },
+            { "question": "Gaudiya Vaishnavism traces its philosophical roots to Chaitanya's teachings and connects to which modern international movement?", "options": ["The Hare Krishna movement", "The Theosophical Society", "The Ramakrishna Mission", "The Brahmo Samaj"], "correctIndex": 0 }
+          ],
+          "summary": "Dol Purnima, celebrated in Nabadwip, West Bengal, is the Bengali Vaishnavite version of Holi, closely associated with the birthplace of the 16th-century saint Chaitanya Mahaprabhu, a central figure in Gaudiya Vaishnavism. The festival involves processions in which images of Krishna and Radha are placed on decorated swings, or 'dols,' while devotees sing devotional kirtans and throw colored powder. Nabadwip's significance as Chaitanya's birthplace makes Dol Purnima particularly significant for followers of the tradition, including the international Hare Krishna movement."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d21_kerala_high_court",
+          "location": { "name": "Kerala High Court, Kochi", "lat": 9.9756, "lng": 76.2789 },
+          "questions": [
+            { "question": "The Kerala High Court is headquartered in which city?", "options": ["Kochi (Ernakulam)", "Thiruvananthapuram", "Kozhikode", "Thrissur"], "correctIndex": 0 },
+            { "question": "In which year was the Kerala High Court established?", "options": ["1947", "1956", "1966", "1975"], "correctIndex": 1 },
+            { "question": "Besides Kerala, the Kerala High Court's jurisdiction also covers which Union Territory?", "options": ["Lakshadweep", "Puducherry", "Andaman and Nicobar Islands", "Daman and Diu"], "correctIndex": 0 },
+            { "question": "Kerala state was formed through the merger of Travancore-Cochin with which district, previously part of Madras State?", "options": ["Malabar district", "Coimbatore district", "Nilgiris district", "Salem district"], "correctIndex": 0 },
+            { "question": "The Kerala High Court's establishment coincided with which major nationwide reorganization?", "options": ["1956 linguistic states reorganization", "1947 Partition", "1966 Punjab reorganization", "1972 Northeast reorganization"], "correctIndex": 0 }
+          ],
+          "summary": "The Kerala High Court, headquartered in Kochi (Ernakulam), was established in 1956 following the formation of Kerala state through the merger of Travancore-Cochin with Malabar district, previously part of Madras State. The court's jurisdiction covers the entire state of Kerala as well as the Union Territory of Lakshadweep, reflecting administrative convenience given geographic proximity. The court has handled significant cases relevant to Kerala's distinctive social and political landscape, and its establishment coincided with the 1956 linguistic states reorganization."
+        },
+        {
+          "id": "pol_d21_karnataka_high_court",
+          "location": { "name": "Karnataka High Court, Bengaluru", "lat": 12.9791, "lng": 77.5913 },
+          "questions": [
+            { "question": "The Karnataka High Court traces its roots back to which earlier court?", "options": ["Mysore High Court", "Madras High Court", "Bombay High Court", "Hyderabad High Court"], "correctIndex": 0 },
+            { "question": "The Karnataka High Court's main building is known by which name?", "options": ["Attara Kacheri", "Vidhana Soudha", "Rashtrapati Bhavan", "Raj Bhavan"], "correctIndex": 0 },
+            { "question": "The Karnataka High Court's jurisdiction expanded significantly following which year's reorganization?", "options": ["1956", "1966", "1972", "1991"], "correctIndex": 0 },
+            { "question": "The Karnataka High Court is headquartered in which city?", "options": ["Bengaluru", "Mysuru", "Hubballi", "Mangaluru"], "correctIndex": 0 },
+            { "question": "Karnataka High Court's Attara Kacheri building is constructed primarily from?", "options": ["Red brick", "Marble", "Granite", "Sandstone"], "correctIndex": 0 }
+          ],
+          "summary": "The Karnataka High Court, headquartered in Bengaluru, traces its institutional roots back to the erstwhile Mysore High Court, established during the princely state era before Karnataka's boundaries were reorganized following 1956. The court's main building, known as the Attara Kacheri, is a distinctive red-brick colonial-era structure that has served as a prominent Bengaluru landmark for well over a century. The court's jurisdiction expanded significantly as the state grew through incorporation of Kannada-speaking regions during the 1956 reorganization."
+        },
+        {
+          "id": "pol_d21_punjab_haryana_high_court",
+          "location": { "name": "Punjab and Haryana High Court, Chandigarh", "lat": 30.7461, "lng": 76.7891 },
+          "questions": [
+            { "question": "The Punjab and Haryana High Court is headquartered in which city?", "options": ["Chandigarh", "Amritsar", "Ludhiana", "Gurugram"], "correctIndex": 0 },
+            { "question": "The Punjab and Haryana High Court uniquely serves as a common judicial authority for how many states?", "options": ["Two", "Three", "One", "Four"], "correctIndex": 0 },
+            { "question": "The shared court arrangement emerged from Punjab's reorganization in which year?", "options": ["1966", "1947", "1956", "1972"], "correctIndex": 0 },
+            { "question": "The Punjab and Haryana High Court building reflects the architectural design philosophy of?", "options": ["Le Corbusier", "Edwin Lutyens", "Herbert Baker", "Charles Correa"], "correctIndex": 0 },
+            { "question": "Besides Punjab and Haryana, the court also exercises jurisdiction over?", "options": ["Chandigarh itself", "Himachal Pradesh", "Delhi", "Rajasthan"], "correctIndex": 0 }
+          ],
+          "summary": "The Punjab and Haryana High Court, headquartered in Chandigarh, uniquely serves as a common judicial authority for two separate states, reflecting the shared administrative arrangements from Punjab's 1966 reorganization when Haryana was carved out. This shared structure is unusual among Indian states, and the court building itself, designed as part of Chandigarh's modernist plan under Le Corbusier, reflects the same architectural philosophy visible elsewhere in the city. The court also exercises jurisdiction over Chandigarh itself."
+        },
+        {
+          "id": "pol_d21_sikkim_organic",
+          "location": { "name": "Sikkim — India's First Fully Organic State", "lat": 27.3389, "lng": 88.6065 },
+          "questions": [
+            { "question": "In which year did Sikkim become India's first fully organic state?", "options": ["2003", "2010", "2016", "2020"], "correctIndex": 2 },
+            { "question": "Sikkim's organic transition was formalized through which mission, launched in 2003?", "options": ["Sikkim Organic Mission", "Green Revolution Mission", "National Agriculture Mission", "Clean India Mission"], "correctIndex": 0 },
+            { "question": "Sikkim's organic farming policy involved phasing out the use of?", "options": ["Chemical fertilizers and pesticides", "Traditional irrigation methods", "All modern farming equipment", "Government subsidies entirely"], "correctIndex": 0 },
+            { "question": "Sikkim's transition to organic farming was made more feasible by its?", "options": ["Small size and hilly terrain", "Large flat agricultural plains", "Massive population size", "Coastal location"], "correctIndex": 0 },
+            { "question": "Sikkim's organic farming model has been studied by policymakers considering?", "options": ["Similar sustainable agriculture transitions", "Industrial expansion plans", "Urban housing policies", "Military strategy"], "correctIndex": 0 }
+          ],
+          "summary": "Gangtok, the capital of Sikkim, oversees a state that made history in 2016 by becoming India's first fully organic state, phasing out chemical fertilizers and pesticides across its agricultural sector over more than a decade. The transition, formalized through the Sikkim Organic Mission launched in 2003, involved training farmers in organic techniques and certifying agricultural land. Sikkim's small size and hilly terrain made the transition more feasible than in larger states, and its model has been studied by policymakers considering similar sustainable agriculture transitions."
+        },
+        {
+          "id": "pol_d21_goa_smallest",
+          "location": { "name": "Goa — India's Smallest State by Area", "lat": 15.4909, "lng": 73.8278 },
+          "questions": [
+            { "question": "Goa is notable as India's smallest state by?", "options": ["Area", "Population", "Coastline length", "Number of districts"], "correctIndex": 0 },
+            { "question": "Goa achieved full statehood in which year?", "options": ["1961", "1975", "1987", "2000"], "correctIndex": 2 },
+            { "question": "Goa's economy is significantly driven by tourism, mining, and?", "options": ["A services-oriented economy", "Heavy manufacturing only", "Agriculture only", "Coal mining only"], "correctIndex": 0 },
+            { "question": "Goa's distinct colonial history has given it a unique?", "options": ["Civil code", "National anthem", "Currency", "Time zone"], "correctIndex": 0 },
+            { "question": "Panaji is the capital of which Indian state?", "options": ["Goa", "Maharashtra", "Karnataka", "Kerala"], "correctIndex": 0 }
+          ],
+          "summary": "Panaji, the capital of Goa, oversees India's smallest state by area, a distinction the former Portuguese colony has held since its full statehood was granted in 1987, following an earlier period as a Union Territory after its 1961 liberation. Despite its small size, Goa has developed one of India's highest per capita income levels, driven by tourism, mining, and a services-oriented economy. Goa's distinct Portuguese colonial history continues to shape its legal landscape, including its unique civil code, differing from personal law systems used in most other Indian states."
+        }
+      ]
+    }
+  }
+}

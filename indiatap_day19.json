@@ -1,0 +1,326 @@
+{
+  "day": 19,
+  "date": "2026-10-19",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d19_bandhavgarh",
+          "location": { "name": "Bandhavgarh National Park, Madhya Pradesh", "lat": 23.6333, "lng": 81.0333 },
+          "questions": [
+            { "question": "Bandhavgarh National Park is known for having a particularly high density of which animal?", "options": ["Bengal tigers", "Asiatic lions", "Snow leopards", "Indian rhinoceros"], "correctIndex": 0 },
+            { "question": "Bandhavgarh National Park is located in which Indian state?", "options": ["Madhya Pradesh", "Chhattisgarh", "Uttar Pradesh", "Rajasthan"], "correctIndex": 0 },
+            { "question": "Bandhavgarh Fort, within the park, is believed by legend to have been gifted by Lord Rama to which brother?", "options": ["Lakshmana", "Bharata", "Shatrughna", "Hanuman"], "correctIndex": 0 },
+            { "question": "Besides tigers, Bandhavgarh's forested hills contain numerous ancient?", "options": ["Rock-cut caves", "Underground tunnels", "Stepwells", "Iron mines"], "correctIndex": 0 },
+            { "question": "Bandhavgarh's relatively compact core area has made it popular for?", "options": ["Wildlife photography and tiger tourism", "Mountain climbing", "Scuba diving", "Desert camping"], "correctIndex": 0 }
+          ],
+          "summary": "Bandhavgarh National Park, in Madhya Pradesh, is renowned for having one of the highest densities of Bengal tigers of any reserve in India. The park's landscape is dominated by Bandhavgarh Fort, an ancient hilltop fortress dating back over two thousand years, believed by legend to have been gifted by Lord Rama to his brother Lakshmana. Besides tigers, the park supports leopards, various deer species, and numerous ancient rock-cut caves scattered throughout its forested hills, making it one of India's most popular destinations for wildlife photography."
+        },
+        {
+          "id": "geo_d19_periyar",
+          "location": { "name": "Periyar National Park, Kerala", "lat": 9.4667, "lng": 77.1667 },
+          "questions": [
+            { "question": "Periyar National Park's wildlife viewing is distinctively centered on?", "options": ["Boat safaris on a lake", "Jeep safaris only", "Horseback rides", "Cable car rides"], "correctIndex": 0 },
+            { "question": "Periyar's central lake was formed by which dam?", "options": ["Mullaperiyar Dam", "Idukki Dam", "Bhakra Dam", "Hirakud Dam"], "correctIndex": 0 },
+            { "question": "Periyar National Park is an important reserve for tigers and which other large mammal?", "options": ["Elephants", "Rhinoceros", "Giraffes", "Bison only"], "correctIndex": 0 },
+            { "question": "Periyar National Park is located in which Indian state?", "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "Periyar's boat rides pass by submerged remnants of the original?", "options": ["Forest (tree trunks)", "Ancient temple", "Village", "Railway line"], "correctIndex": 0 }
+          ],
+          "summary": "Periyar National Park, in Kerala's Western Ghats, is centered around a large artificial lake formed by the Mullaperiyar Dam, offering a distinctive boat-safari experience for wildlife viewing. The park is an important tiger and elephant reserve, with herds of wild elephants frequently spotted along the lake's shores, especially during drier months. Periyar's forests also support the endangered Nilgiri tahr in higher elevation areas, and its boat rides winding past submerged tree trunks have made it one of Kerala's most popular wildlife tourism destinations."
+        },
+        {
+          "id": "geo_d19_pin_valley",
+          "location": { "name": "Pin Valley National Park, Himachal Pradesh", "lat": 32.2167, "lng": 78.2333 },
+          "questions": [
+            { "question": "Pin Valley National Park is located in which Himachal Pradesh region?", "options": ["Spiti", "Kullu", "Kangra", "Chamba"], "correctIndex": 0 },
+            { "question": "Pin Valley National Park primarily protects which type of ecosystem?", "options": ["Cold desert", "Tropical rainforest", "Mangrove wetland", "Coastal grassland"], "correctIndex": 0 },
+            { "question": "Pin Valley is an important habitat for which elusive big cat?", "options": ["Snow leopard", "Bengal tiger", "Asiatic lion", "Clouded leopard"], "correctIndex": 0 },
+            { "question": "Which high-altitude bird species is found in Pin Valley?", "options": ["Himalayan snowcock", "Great Indian Bustard", "Sarus crane", "Indian peafowl"], "correctIndex": 0 },
+            { "question": "Pin Valley's ecosystem is classified as belonging to which zone?", "options": ["Trans-Himalayan zone", "Western Ghats zone", "Deccan Plateau zone", "Gangetic plains zone"], "correctIndex": 0 }
+          ],
+          "summary": "Pin Valley National Park, in Himachal Pradesh's Spiti region, protects a cold desert ecosystem characterized by sparse vegetation, rugged mountains, and extreme temperature variations. The park is an important habitat for the elusive snow leopard, along with other high-altitude species like the Siberian ibex and the Himalayan snowcock. Its remote, high-altitude location has helped preserve the area's fragile ecosystem, and its stark, largely treeless landscape reflects the unique trans-Himalayan ecological zone it belongs to."
+        },
+        {
+          "id": "geo_d19_keibul_lamjao",
+          "location": { "name": "Keibul Lamjao National Park, Manipur", "lat": 24.5000, "lng": 93.8167 },
+          "questions": [
+            { "question": "Keibul Lamjao National Park is unique for being the world's only?", "options": ["Floating national park", "Underwater park", "Desert national park", "Volcanic national park"], "correctIndex": 0 },
+            { "question": "Keibul Lamjao is located on which lake?", "options": ["Loktak Lake", "Dal Lake", "Chilika Lake", "Wular Lake"], "correctIndex": 0 },
+            { "question": "The park's floating terrain is made up of masses called?", "options": ["Phumdis", "Shola", "Chaurs", "Bhurja"], "correctIndex": 0 },
+            { "question": "Keibul Lamjao is the last natural habitat of which endangered deer species?", "options": ["Sangai (brow-antlered deer)", "Barasingha", "Chital", "Musk deer"], "correctIndex": 0 },
+            { "question": "Keibul Lamjao National Park is located in which Indian state?", "options": ["Manipur", "Assam", "Nagaland", "Tripura"], "correctIndex": 0 }
+          ],
+          "summary": "Keibul Lamjao National Park, on Loktak Lake in Manipur, is unique as the world's only floating national park, its terrain formed by 'phumdis,' thick floating mats of vegetation that support animals and vegetation atop the lake's surface. The park is the last natural habitat of the Sangai, or brow-antlered deer, an endangered species found nowhere else and considered a symbol of Manipur's cultural identity. Conservation faces unique challenges due to the floating terrain, including managing water levels from a nearby hydroelectric project."
+        },
+        {
+          "id": "geo_d19_dachigam",
+          "location": { "name": "Dachigam National Park, Jammu and Kashmir", "lat": 34.1833, "lng": 74.9833 },
+          "questions": [
+            { "question": "Dachigam National Park is the last refuge of which critically endangered deer?", "options": ["Hangul (Kashmir stag)", "Barasingha", "Sangai", "Chital"], "correctIndex": 0 },
+            { "question": "What does \"Dachigam\" mean?", "options": ["Ten villages", "Golden valley", "Snow peak", "Deer forest"], "correctIndex": 0 },
+            { "question": "Dachigam National Park is located near which city?", "options": ["Srinagar", "Jammu", "Leh", "Anantnag"], "correctIndex": 0 },
+            { "question": "Dachigam's terrain ranges from lower valley forests to?", "options": ["High alpine meadows", "Coastal wetlands", "Desert dunes", "Mangrove swamps"], "correctIndex": 0 },
+            { "question": "Besides the hangul, Dachigam also supports which other animal across its elevation gradient?", "options": ["Himalayan black bear and brown bear", "Asiatic lion", "Snow leopard only", "Indian rhinoceros"], "correctIndex": 0 }
+          ],
+          "summary": "Dachigam National Park, near Srinagar in Jammu and Kashmir, is the last refuge of the hangul, or Kashmir stag, a critically endangered subspecies of red deer found nowhere else. The park's name, meaning 'ten villages,' refers to villages once located within its boundaries before residents were relocated. Dachigam's terrain ranges from lower valley forests to high alpine meadows, supporting the Himalayan black bear and brown bear, and its proximity to Srinagar has made conservation efforts particularly important."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d19_jama_masjid",
+          "location": { "name": "Jama Masjid, Delhi", "lat": 28.6507, "lng": 77.2334 },
+          "questions": [
+            { "question": "Who commissioned the construction of Jama Masjid?", "options": ["Shah Jahan", "Akbar", "Aurangzeb", "Humayun"], "correctIndex": 0 },
+            { "question": "In which year was Jama Masjid completed?", "options": ["1556", "1656", "1756", "1856"], "correctIndex": 1 },
+            { "question": "Jama Masjid is built primarily from which materials?", "options": ["Red sandstone and white marble", "Granite and wood", "Limestone and brick", "Black basalt"], "correctIndex": 0 },
+            { "question": "Jama Masjid is located in which Indian city?", "options": ["Delhi", "Agra", "Lucknow", "Ajmer"], "correctIndex": 0 },
+            { "question": "Jama Masjid's construction occurred around the same time as which other famous Mughal monument?", "options": ["Taj Mahal", "Red Fort of Agra", "Fatehpur Sikri", "Humayun's Tomb"], "correctIndex": 0 }
+          ],
+          "summary": "Jama Masjid, in Old Delhi, is one of India's largest mosques, commissioned by Mughal emperor Shah Jahan and completed in 1656, roughly around the same period as his more famous Taj Mahal. Built primarily from red sandstone and white marble, the mosque's courtyard can accommodate tens of thousands of worshippers, particularly during major Islamic festivals like Eid. The mosque's three grand gateways, four towers, and two 40-meter-high minarets remain prominent features of Old Delhi's skyline, and it continues to function as an active mosque today."
+        },
+        {
+          "id": "cul_d19_sittanavasal",
+          "location": { "name": "Sittanavasal Cave Temple, Tamil Nadu", "lat": 10.4167, "lng": 78.7333 },
+          "questions": [
+            { "question": "Sittanavasal Cave Temple is primarily associated with which religion?", "options": ["Jainism", "Hinduism", "Buddhism", "Sikhism"], "correctIndex": 0 },
+            { "question": "Sittanavasal is especially renowned for its ceiling?", "options": ["Fresco paintings", "Marble carvings", "Metal inlays", "Stained glass"], "correctIndex": 0 },
+            { "question": "Sittanavasal's frescoes were expanded under the patronage of which dynasty?", "options": ["Pandya dynasty", "Chola dynasty", "Pallava dynasty", "Chera dynasty"], "correctIndex": 0 },
+            { "question": "Sittanavasal's frescoes are often compared to those at which other famous site?", "options": ["Ajanta", "Ellora", "Khajuraho", "Konark"], "correctIndex": 0 },
+            { "question": "The rock beds at Sittanavasal indicate its historical use as a?", "options": ["Meditation retreat for Jain monks", "Royal palace", "Military barracks", "Trading warehouse"], "correctIndex": 0 }
+          ],
+          "summary": "The Sittanavasal Cave Temple, in Tamil Nadu, is a Jain rock-cut cave complex dating back to around the 2nd century BCE, later expanded with notable fresco paintings around the 7th to 9th centuries CE under Pandya patronage. The cave is especially renowned for its ceiling frescoes depicting lotus ponds, fish, elephants, and dancing figures, considered among the finest surviving examples of ancient Indian mural painting alongside those at Ajanta. The site also contains rock beds carved for Jain monks, indicating its use as a meditation retreat for ascetics."
+        },
+        {
+          "id": "cul_d19_jantar_mantar_ujjain",
+          "location": { "name": "Jantar Mantar, Ujjain", "lat": 23.1667, "lng": 75.7667 },
+          "questions": [
+            { "question": "The Jantar Mantar at Ujjain was built by which ruler?", "options": ["Maharaja Jai Singh II", "Akbar", "Ranjit Singh", "Shivaji"], "correctIndex": 0 },
+            { "question": "How many Jantar Mantar observatories did Jai Singh II build in total?", "options": ["Three", "Five", "Seven", "Ten"], "correctIndex": 1 },
+            { "question": "Ujjain has traditionally been regarded in Hindu astronomy as sitting on the?", "options": ["Prime meridian", "Equator", "Tropic of Cancer", "International Date Line"], "correctIndex": 0 },
+            { "question": "The Jantar Mantar instruments were primarily used for?", "options": ["Astronomical and astrological calculations", "Military strategy planning", "Naval navigation", "Agricultural surveying"], "correctIndex": 0 },
+            { "question": "Besides Ujjain, other Jantar Mantar observatories exist in Jaipur, Delhi, Varanasi, and?", "options": ["Mathura", "Lucknow", "Agra", "Patna"], "correctIndex": 0 }
+          ],
+          "summary": "The Jantar Mantar observatory at Ujjain, Madhya Pradesh, is one of five such astronomical observatories built by Maharaja Jai Singh II of Jaipur in the early 18th century. Ujjain's observatory holds particular significance because the city has long been regarded in Indian astronomical tradition as sitting on the prime meridian for Hindu astronomical calculations, similar to Greenwich's role in Western timekeeping. The instruments reflect a sophisticated blend of observational astronomy and astrological calculation important to traditional Hindu calendar-making."
+        },
+        {
+          "id": "cul_d19_chandragiri_fort",
+          "location": { "name": "Chandragiri Fort, Andhra Pradesh", "lat": 13.5833, "lng": 79.3167 },
+          "questions": [
+            { "question": "Chandragiri Fort served as the last capital of which empire?", "options": ["Vijayanagara Empire", "Chola Empire", "Maurya Empire", "Gupta Empire"], "correctIndex": 0 },
+            { "question": "Chandragiri became the capital after the destruction of which earlier capital?", "options": ["Hampi", "Madurai", "Thanjavur", "Warangal"], "correctIndex": 0 },
+            { "question": "The Raja Mahal at Chandragiri is built in which architectural style?", "options": ["Indo-Islamic", "Purely Dravidian", "Gothic", "Indo-Saracenic"], "correctIndex": 0 },
+            { "question": "Chandragiri Fort was notable as an early site of presence for which colonial power?", "options": ["East India Company (British)", "Portuguese", "Dutch", "French"], "correctIndex": 0 },
+            { "question": "Chandragiri Fort is located in which Indian state?", "options": ["Andhra Pradesh", "Telangana", "Tamil Nadu", "Karnataka"], "correctIndex": 0 }
+          ],
+          "summary": "Chandragiri Fort, in Andhra Pradesh, served as the last capital of the Vijayanagara Empire in the early 17th century, after the empire's earlier capital at Hampi was destroyed following a major military defeat. The fort complex includes the Raja Mahal, a distinctive Indo-Islamic style palace that later served briefly as an East India Company administrative center, notable as one of the earliest sites of British colonial presence in South India. Today the fort houses a museum showcasing artifacts from the late Vijayanagara period."
+        },
+        {
+          "id": "cul_d19_daulatabad_fort",
+          "location": { "name": "Daulatabad Fort, Maharashtra", "lat": 19.9425, "lng": 75.2078 },
+          "questions": [
+            { "question": "Daulatabad Fort briefly served as the capital of which empire in the 14th century?", "options": ["Delhi Sultanate", "Mughal Empire", "Vijayanagara Empire", "Maratha Empire"], "correctIndex": 0 },
+            { "question": "Which Sultan controversially moved Delhi's population to Daulatabad?", "options": ["Muhammad bin Tughlaq", "Alauddin Khilji", "Firoz Shah Tughlaq", "Balban"], "correctIndex": 0 },
+            { "question": "Daulatabad Fort's moat was historically filled with?", "options": ["Crocodiles", "Sharks", "Piranhas", "Snakes only"], "correctIndex": 0 },
+            { "question": "Daulatabad Fort was originally built by which dynasty?", "options": ["Yadava dynasty", "Chalukya dynasty", "Rashtrakuta dynasty", "Chola dynasty"], "correctIndex": 0 },
+            { "question": "Daulatabad Fort is located in which Indian state?", "options": ["Maharashtra", "Madhya Pradesh", "Karnataka", "Gujarat"], "correctIndex": 0 }
+          ],
+          "summary": "Daulatabad Fort, in Maharashtra, is renowned for its formidable defensive design, including a moat once filled with crocodiles and a confusing labyrinth of dark tunnels intended to disorient invaders. The fort briefly served as the capital of the Delhi Sultanate in the 14th century, when Sultan Muhammad bin Tughlaq controversially ordered the entire population of Delhi to relocate there, a decision later reversed. Originally built by the Yadava dynasty before later expansions, the fort's massive scale made it considered nearly impregnable in its time."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d19_tata_motors_pimpri",
+          "location": { "name": "Tata Motors Pimpri, Maharashtra", "lat": 18.6298, "lng": 73.8131 },
+          "questions": [
+            { "question": "Tata Motors' Pimpri plant is located near which city?", "options": ["Pune", "Mumbai", "Nashik", "Aurangabad"], "correctIndex": 0 },
+            { "question": "Tata Motors' Pimpri plant has historically been significant for producing?", "options": ["Trucks and buses", "Passenger cars only", "Motorcycles", "Tractors only"], "correctIndex": 0 },
+            { "question": "Tata Motors' operations at Pimpri began in which decade?", "options": ["1940s", "1960s", "1980s", "2000s"], "correctIndex": 1 },
+            { "question": "Pimpri's development reflects the growth of which region into a major manufacturing center?", "options": ["Pune region", "Mumbai region", "Nagpur region", "Nashik region"], "correctIndex": 0 },
+            { "question": "Tata Motors' presence in Pimpri has spurred growth of numerous?", "options": ["Ancillary component suppliers", "Textile mills", "IT parks", "Film studios"], "correctIndex": 0 }
+          ],
+          "summary": "Tata Motors' Pimpri plant, near Pune in Maharashtra, was one of the company's earliest and most significant manufacturing facilities, playing a central role in establishing Tata Motors as India's leading commercial vehicle manufacturer since operations began there in the 1960s. The plant has historically produced trucks and buses that formed the backbone of India's road freight and public transport infrastructure. Pimpri's development reflects the broader growth of the Pune region into one of India's most important automobile manufacturing centers."
+        },
+        {
+          "id": "eco_d19_hero_motocorp",
+          "location": { "name": "Hero MotoCorp, Dharuhera, Haryana", "lat": 28.2000, "lng": 76.7833 },
+          "questions": [
+            { "question": "Hero MotoCorp's Dharuhera plant is located in which Indian state?", "options": ["Haryana", "Punjab", "Uttar Pradesh", "Delhi"], "correctIndex": 0 },
+            { "question": "Hero MotoCorp was originally a joint venture with which company before splitting in 2010?", "options": ["Honda", "Yamaha", "Suzuki", "Kawasaki"], "correctIndex": 0 },
+            { "question": "Hero MotoCorp is recognized as one of the world's largest manufacturers of?", "options": ["Two-wheelers", "Passenger cars", "Commercial trucks", "Bicycles only"], "correctIndex": 0 },
+            { "question": "Dharuhera's location places it within which state's broader automobile manufacturing belt?", "options": ["Haryana", "Maharashtra", "Tamil Nadu", "Gujarat"], "correctIndex": 0 },
+            { "question": "Hero MotoCorp's products serve both India's domestic market and growing?", "options": ["Export markets", "Government-only markets", "Military markets only", "Agricultural markets"], "correctIndex": 0 }
+          ],
+          "summary": "Hero MotoCorp's plant in Dharuhera, Haryana, is one of the company's key manufacturing facilities, contributing to its position as one of the world's largest manufacturers of two-wheelers by volume. The company, originally a joint venture with Honda before the two firms split in 2010, has continued expanding its independent manufacturing capacity. Dharuhera's location within Haryana's broader industrial belt places it alongside other major automobile manufacturing clusters, reflecting the state's significant role in India's automotive sector."
+        },
+        {
+          "id": "eco_d19_tvs_hosur",
+          "location": { "name": "TVS Motor, Hosur, Tamil Nadu", "lat": 12.7409, "lng": 77.8253 },
+          "questions": [
+            { "question": "TVS Motor Company's plant in Hosur is located in which Indian state?", "options": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Kerala"], "correctIndex": 0 },
+            { "question": "TVS Motor primarily manufactures which type of vehicles at Hosur?", "options": ["Two-wheelers", "Commercial trucks", "Passenger cars", "Tractors"], "correctIndex": 0 },
+            { "question": "TVS's origins trace back to a business in which sector, founded in the early 20th century?", "options": ["Transport business", "Textile business", "Banking business", "Agriculture business"], "correctIndex": 0 },
+            { "question": "Hosur's strategic location places it near the border of which other state?", "options": ["Karnataka", "Kerala", "Andhra Pradesh", "Telangana"], "correctIndex": 0 },
+            { "question": "TVS Motor's product lineup at Hosur includes mopeds, motorcycles, and?", "options": ["Scooters", "Aircraft", "Boats", "Bicycles only"], "correctIndex": 0 }
+          ],
+          "summary": "TVS Motor Company's plant in Hosur, Tamil Nadu, is one of India's oldest and most significant two-wheeler manufacturing facilities, with the company's roots tracing back to a transport business founded in the early 20th century. Hosur's strategic location near the Karnataka border has made it an important industrial town within Tamil Nadu's broader automotive manufacturing ecosystem. TVS Motor has developed a diverse product lineup spanning mopeds, motorcycles, and scooters, contributing to Hosur's growth as a hub for auto component industries."
+        },
+        {
+          "id": "eco_d19_godrej_boyce",
+          "location": { "name": "Godrej & Boyce, Vikhroli, Mumbai", "lat": 19.1075, "lng": 72.9282 },
+          "questions": [
+            { "question": "Godrej & Boyce is headquartered in which Mumbai neighborhood?", "options": ["Vikhroli", "Andheri", "Bandra", "Colaba"], "correctIndex": 0 },
+            { "question": "In which year was Godrej & Boyce founded?", "options": ["1897", "1920", "1947", "1965"], "correctIndex": 0 },
+            { "question": "Godrej & Boyce's Vikhroli campus notably includes one of Mumbai's largest surviving?", "options": ["Mangrove forests", "Freshwater lakes", "Botanical gardens", "Wildlife sanctuaries"], "correctIndex": 0 },
+            { "question": "Godrej is historically credited with producing India's first indigenous?", "options": ["Typewriter", "Automobile", "Aircraft", "Television"], "correctIndex": 0 },
+            { "question": "Godrej & Boyce's business model is best described as?", "options": ["A diversified conglomerate", "A single-product manufacturer", "A purely IT services firm", "A government-owned monopoly"], "correctIndex": 0 }
+          ],
+          "summary": "Godrej & Boyce, headquartered in Vikhroli, Mumbai, is one of India's oldest and most diversified manufacturing conglomerates, founded in 1897 and known for producing everything from locks and safes to furniture, appliances, and industrial equipment. The company's sprawling Vikhroli campus includes one of Mumbai's largest surviving mangrove forests, preserved amid the city's dense urban development. Godrej's long manufacturing history includes producing India's first indigenous typewriter, reflecting a distinctive Indian conglomerate structure built over more than a century."
+        },
+        {
+          "id": "eco_d19_britannia",
+          "location": { "name": "Britannia Industries, Kolkata", "lat": 22.5726, "lng": 88.3639 },
+          "questions": [
+            { "question": "Britannia Industries is headquartered in which Indian city?", "options": ["Kolkata", "Mumbai", "Chennai", "Delhi"], "correctIndex": 0 },
+            { "question": "Britannia's origins trace back to a small?", "options": ["Bakery", "Textile mill", "Tea plantation", "Steel foundry"], "correctIndex": 0 },
+            { "question": "Britannia played a role in supplying biscuits to British troops during which conflicts?", "options": ["Both World Wars", "Only the Napoleonic Wars", "Only the Korean War", "Only colonial-era local conflicts"], "correctIndex": 0 },
+            { "question": "Britannia is primarily known as a major manufacturer of?", "options": ["Biscuits and bakery products", "Automobiles", "Steel products", "Electronics"], "correctIndex": 0 },
+            { "question": "Britannia's long history in Kolkata reflects the city's historical role as a center of?", "options": ["Early Indian industrial and commercial enterprise", "Naval shipbuilding only", "Space research", "Nuclear research"], "correctIndex": 0 }
+          ],
+          "summary": "Britannia Industries, headquartered in Kolkata, is one of India's oldest and largest food companies, with its origins tracing back to a small bakery established in the late 19th century that grew into a major biscuit and bakery products manufacturer. The company played an important role in supplying biscuits to British troops during both World Wars, helping establish its manufacturing scale and brand recognition. Over subsequent decades, Britannia diversified into bread, dairy products, and biscuit brands that remain household staples across Indian kitchens today."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d19_dev_deepawali",
+          "location": { "name": "Dev Deepawali, Varanasi", "lat": 25.3070, "lng": 83.0100 },
+          "questions": [
+            { "question": "Dev Deepawali is celebrated how many days after the main Diwali festival?", "options": ["Five days", "Fifteen days", "Thirty days", "Sixty days"], "correctIndex": 1 },
+            { "question": "Dev Deepawali is associated with the legend of Shiva's victory over which demon?", "options": ["Tripurasura", "Ravana", "Mahishasura", "Hiranyakashipu"], "correctIndex": 0 },
+            { "question": "Dev Deepawali is primarily celebrated in which city?", "options": ["Varanasi", "Haridwar", "Ayodhya", "Prayagraj"], "correctIndex": 0 },
+            { "question": "A central feature of Dev Deepawali is the lighting of millions of?", "options": ["Oil lamps along the ghats", "Fireworks displays only", "Paper lanterns", "Candles in temples only"], "correctIndex": 0 },
+            { "question": "Dev Deepawali celebrates the gods' own version of which major festival?", "options": ["Diwali", "Holi", "Navratri", "Dussehra"], "correctIndex": 0 }
+          ],
+          "summary": "Dev Deepawali, celebrated in Varanasi fifteen days after the main Diwali festival, transforms the city's ghats along the Ganga into a spectacular sight, with millions of oil lamps lit in what devotees describe as the gods' own Diwali. The festival is associated with the legend of Lord Shiva's victory over the demon Tripurasura, celebrated by the gods descending to Varanasi to bathe in the sacred river. Elaborate ganga aarti ceremonies, boat processions, and cultural performances accompany the lamp-lighting, drawing large crowds of pilgrims and tourists."
+        },
+        {
+          "id": "evt_d19_bhil_holi",
+          "location": { "name": "Bhil Holi, Chhota Udepur, Gujarat", "lat": 22.3000, "lng": 74.0167 },
+          "questions": [
+            { "question": "Chhota Udepur's distinctive Holi traditions are associated with which tribal communities?", "options": ["Rathwa and Bhil", "Gond and Santhal", "Khasi and Garo", "Toda and Kota"], "correctIndex": 0 },
+            { "question": "A distinctive local art form associated with Chhota Udepur's festival period is?", "options": ["Pithora murals", "Madhubani paintings", "Warli paintings", "Gond art"], "correctIndex": 0 },
+            { "question": "Pithora murals are traditionally created as offerings for?", "options": ["Prosperity and protection", "Academic success only", "Military victory", "Rainfall only"], "correctIndex": 0 },
+            { "question": "Chhota Udepur is located in which Indian state?", "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Maharashtra"], "correctIndex": 0 },
+            { "question": "Chhota Udepur's tribal Holi differs from urban Holi mainly in its?", "options": ["Specific rituals and dances passed through generations", "Complete absence of colors", "Ban on all celebrations", "Focus only on fireworks"], "correctIndex": 0 }
+          ],
+          "summary": "Chhota Udepur, in Gujarat, hosts a distinctive tribal Holi celebration among the Rathwa and Bhil communities, blending traditional Holi color celebrations with unique local customs. A distinctive feature involves painted 'Pithora' murals, created by tribal artists on the walls of homes as offerings to deities for prosperity and protection, often unveiled around the festival period. The tribal Holi celebrations include specific rituals and dances passed down through generations, reflecting Gujarat's cultural diversity beyond its more commonly known mainstream festivals."
+        },
+        {
+          "id": "evt_d19_wagah_border",
+          "location": { "name": "Beating Retreat Ceremony, Wagah Border", "lat": 31.6046, "lng": 74.5734 },
+          "questions": [
+            { "question": "The Beating Retreat Ceremony at Wagah is performed by which forces?", "options": ["Border security forces of India and Pakistan", "Only the Indian Army", "Only the Pakistani Army", "Local police forces"], "correctIndex": 0 },
+            { "question": "The Wagah border ceremony has been held since which year?", "options": ["1947", "1959", "1971", "1999"], "correctIndex": 1 },
+            { "question": "The Wagah border is located near which Indian city?", "options": ["Amritsar", "Ludhiana", "Jalandhar", "Chandigarh"], "correctIndex": 0 },
+            { "question": "The ceremony features which type of dramatic military display?", "options": ["Synchronized high-kicking marches", "Tank parades", "Aerial flypasts", "Naval salutes"], "correctIndex": 0 },
+            { "question": "The Wagah border ceremony takes place at what time of day?", "options": ["Sunset", "Sunrise", "Midnight", "Noon"], "correctIndex": 0 }
+          ],
+          "summary": "The Beating Retreat Ceremony at the Wagah-Attari border, between India and Pakistan near Amritsar, Punjab, is a daily military drill performed by soldiers from both countries' border forces, featuring synchronized high-kicking marches and flag-lowering at sunset. The ceremony, held since 1959, has evolved into a major patriotic spectacle drawing large crowds cheering for their respective national forces. Despite tense broader relations between India and Pakistan, the ceremony has continued for decades, becoming one of Punjab's most visited patriotic tourist attractions."
+        },
+        {
+          "id": "evt_d19_ras_lila",
+          "location": { "name": "Ras Lila, Vrindavan", "lat": 27.5820, "lng": 77.7064 },
+          "questions": [
+            { "question": "Ras Lila re-enacts the divine love stories of Krishna and which other figure?", "options": ["Radha", "Sita", "Draupadi", "Rukmini"], "correctIndex": 0 },
+            { "question": "Ras Lila performances are especially associated with which festival?", "options": ["Janmashtami", "Diwali", "Holi", "Navratri"], "correctIndex": 0 },
+            { "question": "Ras Lila is traditionally performed in which town closely associated with Krishna's childhood?", "options": ["Vrindavan", "Ayodhya", "Dwarka", "Puri"], "correctIndex": 0 },
+            { "question": "In traditional Ras Lila, the roles of Krishna, Radha, and gopis are often taken on by?", "options": ["Young boys", "Professional adult actresses only", "Temple priests only", "Foreign performers"], "correctIndex": 0 },
+            { "question": "Ras Lila reflects the broader emphasis of which religious movement on personal devotion?", "options": ["The Bhakti movement", "The Sufi movement", "The Arya Samaj movement", "The Brahmo Samaj movement"], "correctIndex": 0 }
+          ],
+          "summary": "Ras Lila, performed in Vrindavan, Uttar Pradesh, is a traditional dance-drama re-enacting the divine love stories of Lord Krishna and Radha, along with the gopis, performed especially during festivals like Janmashtami. The performances combine classical dance elements, devotional singing, and elaborate costumes, with young boys traditionally taking on the roles of Krishna, Radha, and the gopis. Vrindavan hosts numerous Ras Lila performances throughout the year, reflecting the broader Bhakti movement's emphasis on personal devotion through storytelling and dramatic performance."
+        },
+        {
+          "id": "evt_d19_pulikali",
+          "location": { "name": "Pulikali, Thrissur", "lat": 10.5276, "lng": 76.2144 },
+          "questions": [
+            { "question": "Pulikali translates roughly to which phrase?", "options": ["Tiger play", "Lion dance", "Elephant march", "Snake charm"], "correctIndex": 0 },
+            { "question": "Pulikali is performed during which major Kerala festival?", "options": ["Onam", "Vishu", "Thrissur Pooram", "Attukal Pongala"], "correctIndex": 0 },
+            { "question": "Pulikali performers paint their bodies to resemble?", "options": ["Tigers and hunters", "Elephants", "Peacocks", "Snakes"], "correctIndex": 0 },
+            { "question": "Pulikali is believed to have originated as entertainment for whose court?", "options": ["The Maharaja of Kochi", "The Maharaja of Travancore", "The Zamorin of Calicut", "The Nizam of Hyderabad"], "correctIndex": 0 },
+            { "question": "Thrissur's Pulikali procession is held on which day of Onam?", "options": ["The fourth day", "The first day", "The last day", "The seventh day"], "correctIndex": 0 }
+          ],
+          "summary": "Pulikali, or 'tiger play,' is a folk art performed in Thrissur, Kerala, during the Onam festival, in which performers paint their bodies to resemble tigers and hunters, then dance energetically through the streets to traditional percussion. The tradition is believed to have originated as entertainment for the Maharaja of Kochi's court centuries ago. Preparing the elaborate tiger body paint takes several hours, and Thrissur's Pulikali procession, held on the fourth day of Onam, has grown into one of the festival's most visually distinctive public spectacles."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d19_odisha_1936",
+          "location": { "name": "Cuttack — Odisha's 1936 Formation", "lat": 20.4625, "lng": 85.8828 },
+          "questions": [
+            { "question": "Odisha was formed in 1936 primarily on which basis?", "options": ["Linguistic basis", "Religious basis", "Economic basis", "Military basis"], "correctIndex": 0 },
+            { "question": "Odisha was separated from which larger province in 1936?", "options": ["Bihar and Orissa Province", "Bengal Presidency", "Madras Presidency", "Central Provinces"], "correctIndex": 0 },
+            { "question": "Odisha's 1936 formation predated a much larger wave of linguistic reorganization by how long?", "options": ["More than a decade", "Only a few years", "Over a century", "Less than a year"], "correctIndex": 0 },
+            { "question": "Which city served as Odisha's capital before Bhubaneswar?", "options": ["Cuttack", "Puri", "Konark", "Sambalpur"], "correctIndex": 0 },
+            { "question": "The movement for Odisha's formation was driven by concerns over?", "options": ["Odia language and cultural identity recognition", "Border disputes with Bengal", "Religious minority rights", "Economic tariffs"], "correctIndex": 0 }
+          ],
+          "summary": "Cuttack, historically Odisha's capital before Bhubaneswar, is closely tied to the state's formation in 1936, when Odisha became the first Indian state carved out primarily on a linguistic basis, separating Odia-speaking areas from the larger Bihar and Orissa Province. This reorganization predated India's independence by more than a decade and set an important precedent for the later, much larger wave of linguistic state reorganizations in the 1950s and 60s. Cuttack's long history as a political and commercial center made it a natural administrative hub before Bhubaneswar was later developed as a planned capital."
+        },
+        {
+          "id": "pol_d19_kurnool_andhra",
+          "location": { "name": "Kurnool — Andhra State's First Capital", "lat": 15.8281, "lng": 78.0373 },
+          "questions": [
+            { "question": "Kurnool served as the first capital of which state, created in 1953?", "options": ["Andhra State", "Madras State", "Hyderabad State", "Mysore State"], "correctIndex": 0 },
+            { "question": "Andhra State's formation followed the death of which activist after a hunger strike?", "options": ["Potti Sreeramulu", "Vinoba Bhave", "Jayaprakash Narayan", "Rajaji"], "correctIndex": 0 },
+            { "question": "Andhra State's 1953 formation is credited with triggering which broader nationwide process?", "options": ["States Reorganisation", "Partition", "The Quit India Movement", "The Non-Cooperation Movement"], "correctIndex": 0 },
+            { "question": "The comprehensive linguistic reorganization of Indian states occurred in which year?", "options": ["1950", "1956", "1966", "1972"], "correctIndex": 1 },
+            { "question": "After merging with Telangana in 1956, which city became the joint capital of the larger Andhra Pradesh?", "options": ["Hyderabad", "Kurnool", "Vijayawada", "Warangal"], "correctIndex": 0 }
+          ],
+          "summary": "Kurnool, in present-day Andhra Pradesh, served as the first capital of Andhra State when it was created in 1953, becoming the first state in independent India formed explicitly on linguistic grounds, following the death of activist Potti Sreeramulu after a hunger strike. Andhra State's formation is widely credited with triggering the broader States Reorganisation process across India, leading to the comprehensive linguistic reorganization of Indian states in 1956. Kurnool served as capital only briefly before Hyderabad became the joint capital of the newly formed larger Andhra Pradesh."
+        },
+        {
+          "id": "pol_d19_jammu_accession",
+          "location": { "name": "Jammu — 1947 Instrument of Accession", "lat": 32.7266, "lng": 74.8570 },
+          "questions": [
+            { "question": "The Instrument of Accession joining Jammu and Kashmir to India was signed in which year?", "options": ["1947", "1950", "1962", "1971"], "correctIndex": 0 },
+            { "question": "Who signed the Instrument of Accession on behalf of Jammu and Kashmir?", "options": ["Maharaja Hari Singh", "Sheikh Abdullah", "Jawaharlal Nehru", "Lord Mountbatten"], "correctIndex": 0 },
+            { "question": "The Maharaja's accession request was prompted by an invasion from?", "options": ["Tribal militias from Pakistan", "Chinese forces", "Afghan forces", "Nepalese forces"], "correctIndex": 0 },
+            { "question": "Before finally acceding, the Maharaja initially sought to?", "options": ["Remain independent", "Join Pakistan immediately", "Declare war on India", "Merge with Afghanistan"], "correctIndex": 0 },
+            { "question": "Jammu served as which type of capital for the former princely state?", "options": ["Winter capital", "Only capital", "Summer capital", "Judicial capital only"], "correctIndex": 0 }
+          ],
+          "summary": "Jammu, part of the former princely state of Jammu and Kashmir, is closely tied to the events of October 1947, when Maharaja Hari Singh signed the Instrument of Accession, formally joining the state to India amid Partition and an invasion by tribal militias from Pakistan. The accession followed weeks of hesitation by the Maharaja, who initially sought to remain independent before requesting Indian military assistance, conditioning his request on formal accession. This accession has remained a subject of ongoing dispute between India and Pakistan, and Jammu's role as the winter capital gave it particular administrative significance."
+        },
+        {
+          "id": "pol_d19_delhi_nct",
+          "location": { "name": "Delhi NCT Status, New Delhi", "lat": 28.6304, "lng": 77.2177 },
+          "questions": [
+            { "question": "Delhi's National Capital Territory status was formalized under which constitutional article?", "options": ["Article 239AA", "Article 370", "Article 356", "Article 371"], "correctIndex": 0 },
+            { "question": "Article 239AA was added to the Constitution through an amendment in which year?", "options": ["1975", "1991", "2001", "2014"], "correctIndex": 1 },
+            { "question": "Delhi's NCT arrangement grants an elected legislative assembly while reserving which powers for the central government?", "options": ["Police and land", "Education and health", "Agriculture and irrigation", "Foreign trade"], "correctIndex": 0 },
+            { "question": "Disputes over Delhi's governance have periodically arisen between the elected government and which centrally appointed official?", "options": ["The Lieutenant Governor", "The Chief Justice", "The Election Commissioner", "The Army Chief"], "correctIndex": 0 },
+            { "question": "Delhi's partial statehood status continues to see periodic political demands for?", "options": ["Full statehood", "Merger with Haryana", "Abolition of elections", "Return to British rule"], "correctIndex": 0 }
+          ],
+          "summary": "New Delhi's status as the National Capital Territory (NCT) was formalized under Article 239AA of the Constitution, added through a 1991 amendment that granted Delhi a partial form of statehood with its own elected legislative assembly and Chief Minister, while reserving key powers including police and land for the central government. This arrangement reflects Delhi's unique position as both a major state-like city and the seat of India's central government. The division of powers between Delhi's elected government and the centrally appointed Lieutenant Governor has periodically led to political and legal disputes."
+        },
+        {
+          "id": "pol_d19_lakshadweep_governance",
+          "location": { "name": "Lakshadweep Governance, Kavaratti", "lat": 10.5669, "lng": 72.6420 },
+          "questions": [
+            { "question": "Lakshadweep is notable as India's smallest Union Territory by which measures?", "options": ["Population and land area", "Only land area", "Only population", "Coastline length"], "correctIndex": 0 },
+            { "question": "Lakshadweep is administered directly by a centrally appointed?", "options": ["Administrator", "Chief Minister", "Governor", "Lieutenant Governor with legislature"], "correctIndex": 0 },
+            { "question": "Unlike Lakshadweep, which other Union Territory has its own elected Legislative Assembly?", "options": ["Puducherry", "Chandigarh", "Daman and Diu", "Ladakh"], "correctIndex": 0 },
+            { "question": "Lakshadweep's population is spread across a series of?", "options": ["Coral atolls in the Arabian Sea", "Mountain valleys", "Desert oases", "River delta islands"], "correctIndex": 0 },
+            { "question": "Kavaratti serves as the capital of which Union Territory?", "options": ["Lakshadweep", "Andaman and Nicobar Islands", "Puducherry", "Daman and Diu"], "correctIndex": 0 }
+          ],
+          "summary": "Kavaratti, the capital of Lakshadweep, oversees India's smallest Union Territory both by population and land area, administered directly by a centrally appointed Administrator rather than through an elected state-style legislature. Unlike Puducherry, which has its own Legislative Assembly, Lakshadweep's governance more closely resembles a traditional centrally administered territory. The territory's small, geographically scattered population across a series of coral atolls in the Arabian Sea presents distinctive administrative challenges related to connectivity and environmental protection."
+        }
+      ]
+    }
+  }
+}

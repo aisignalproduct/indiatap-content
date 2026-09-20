@@ -1,0 +1,326 @@
+{
+  "day": 25,
+  "date": "2026-10-25",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d25_wayanad",
+          "location": { "name": "Wayanad Wildlife Sanctuary, Kerala", "lat": 11.6854, "lng": 76.1320 },
+          "questions": [
+            { "question": "Wayanad Wildlife Sanctuary forms part of which larger biosphere reserve?", "options": ["Nilgiri Biosphere Reserve", "Sundarbans Biosphere Reserve", "Nanda Devi Biosphere Reserve", "Gulf of Mannar Biosphere Reserve"], "correctIndex": 0 },
+            { "question": "Wayanad Wildlife Sanctuary supports one of South India's largest interconnected populations of?", "options": ["Elephants", "Tigers only", "Rhinoceros", "Asiatic lions"], "correctIndex": 0 },
+            { "question": "Wayanad is home to indigenous tribal communities including the Kattunayakan and?", "options": ["Paniya", "Bhil", "Gond", "Santhal"], "correctIndex": 0 },
+            { "question": "Wayanad Wildlife Sanctuary is located in which Indian state?", "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "Similar to other Nilgiri corridor reserves, Wayanad has required measures to reduce?", "options": ["Vehicle-related wildlife casualties", "Agricultural runoff", "Coastal erosion", "Air pollution"], "correctIndex": 0 }
+          ],
+          "summary": "Wayanad Wildlife Sanctuary, in Kerala, forms an important link within the larger Nilgiri Biosphere Reserve, connecting with neighboring protected areas in Karnataka and Tamil Nadu to support one of South India's largest interconnected elephant populations. The sanctuary's forests support tigers, leopards, and gaur alongside significant elephant herds that migrate seasonally across state borders. Wayanad's hilly terrain also holds cultural significance, home to indigenous tribal communities including the Kattunayakan and Paniya, and the sanctuary has required measures to reduce vehicle-related wildlife casualties along its highway."
+        },
+        {
+          "id": "geo_d25_kishtwar",
+          "location": { "name": "Kishtwar National Park, Jammu and Kashmir", "lat": 33.5000, "lng": 75.9167 },
+          "questions": [
+            { "question": "Kishtwar National Park is an important habitat for which endangered wild goat species?", "options": ["Markhor", "Nilgiri tahr", "Himalayan ibex", "Blue sheep"], "correctIndex": 0 },
+            { "question": "The markhor is notable for its distinctive?", "options": ["Spiraling horns", "Long tail", "Colorful mane", "Webbed feet"], "correctIndex": 0 },
+            { "question": "Kishtwar National Park is located in which region of Jammu and Kashmir?", "options": ["Jammu region", "Kashmir Valley", "Ladakh region", "Poonch region"], "correctIndex": 0 },
+            { "question": "Kishtwar's remote terrain has historically limited both scientific study and?", "options": ["Tourism", "Agriculture", "Mining", "Urban development"], "correctIndex": 0 },
+            { "question": "Besides the markhor, Kishtwar also supports the Himalayan brown bear and various species of?", "options": ["Pheasants", "Parrots", "Cranes", "Flamingos"], "correctIndex": 0 }
+          ],
+          "summary": "Kishtwar National Park, in the Jammu region of Jammu and Kashmir, protects a remote high-altitude Himalayan ecosystem, serving as an important habitat for the endangered markhor, a wild goat species with distinctive spiraling horns. The park's rugged, largely inaccessible terrain has historically limited both scientific study and tourism. Kishtwar also supports other high-altitude species including the Himalayan brown bear and various pheasant species, and its remote location within a security-sensitive border region has added complexity to conservation efforts."
+        },
+        {
+          "id": "geo_d25_dibru_saikhowa",
+          "location": { "name": "Dibru-Saikhowa National Park, Assam", "lat": 27.6167, "lng": 95.3333 },
+          "questions": [
+            { "question": "Dibru-Saikhowa National Park is formed by which two rivers?", "options": ["Brahmaputra and Lohit", "Ganga and Yamuna", "Godavari and Krishna", "Indus and Sutlej"], "correctIndex": 0 },
+            { "question": "Dibru-Saikhowa is notable for hosting a population of feral?", "options": ["Horses", "Cattle", "Camels", "Goats"], "correctIndex": 0 },
+            { "question": "The park's feral horses are believed to descend from animals abandoned during which historical event?", "options": ["World War II", "World War I", "The 1962 Indo-China War", "The 1971 Indo-Pak War"], "correctIndex": 0 },
+            { "question": "Dibru-Saikhowa hosts which rare and endangered waterfowl species?", "options": ["White-winged wood duck", "Siberian crane", "Sarus crane", "Great Indian Bustard"], "correctIndex": 0 },
+            { "question": "Dibru-Saikhowa National Park is located in which Indian state?", "options": ["Assam", "Arunachal Pradesh", "Nagaland", "Meghalaya"], "correctIndex": 0 }
+          ],
+          "summary": "Dibru-Saikhowa National Park, in Assam, is a unique riverine ecosystem formed by the Brahmaputra and Lohit rivers, notable for hosting feral horses believed to descend from animals abandoned by the military during World War II. The park's swampy grasslands support the endangered white-winged wood duck, one of the rarest waterfowl species in the world, alongside wild buffalo and primates. Dibru-Saikhowa's constantly shifting river channels create a dynamic environment, and its remote riverine access has kept visitor numbers low, preserving its fragile floodplain ecosystem."
+        },
+        {
+          "id": "geo_d25_pench",
+          "location": { "name": "Pench Tiger Reserve", "lat": 21.6667, "lng": 79.3000 },
+          "questions": [
+            { "question": "Pench Tiger Reserve is widely believed to have inspired the setting of which literary work?", "options": ["The Jungle Book", "Life of Pi", "Discovery of India", "The Man-Eaters of Kumaon"], "correctIndex": 0 },
+            { "question": "Pench Tiger Reserve is located in the district associated with Kipling's stories, called?", "options": ["Seoni", "Betul", "Chhindwara", "Balaghat"], "correctIndex": 0 },
+            { "question": "Pench Tiger Reserve spans parts of Madhya Pradesh and which other state?", "options": ["Maharashtra", "Chhattisgarh", "Odisha", "Gujarat"], "correctIndex": 0 },
+            { "question": "Pench Tiger Reserve is bisected by which river, from which it takes its name?", "options": ["Pench River", "Ken River", "Betwa River", "Narmada River"], "correctIndex": 0 },
+            { "question": "Pench's accessibility from which nearby city has made it a popular tourism destination?", "options": ["Nagpur", "Bhopal", "Indore", "Raipur"], "correctIndex": 0 }
+          ],
+          "summary": "Pench Tiger Reserve, spanning parts of Madhya Pradesh and Maharashtra, is widely believed to have inspired the setting of Rudyard Kipling's 'The Jungle Book,' with the reserve's Seoni district location matching descriptions in Kipling's stories. Bisected by the Pench River, from which it takes its name, the reserve features teak-dominated forests interspersed with grasslands. Pench maintains a healthy tiger population alongside leopards and wild dogs, and its accessibility from nearby Nagpur has made it an increasingly popular wildlife tourism destination."
+        },
+        {
+          "id": "geo_d25_chinnar",
+          "location": { "name": "Chinnar Wildlife Sanctuary, Kerala", "lat": 10.2833, "lng": 77.1167 },
+          "questions": [
+            { "question": "Chinnar Wildlife Sanctuary is notable for its distinctive?", "options": ["Rain shadow dry scrub ecosystem", "Mangrove wetland", "Alpine meadow", "Coastal lagoon"], "correctIndex": 0 },
+            { "question": "Chinnar supports significant populations of which restricted-range squirrel species?", "options": ["Grizzled Giant Squirrel", "Indian giant squirrel", "Flying squirrel", "Palm squirrel"], "correctIndex": 0 },
+            { "question": "Chinnar's dry terrain results from its location on which side of the Western Ghats?", "options": ["Leeward side", "Windward side", "Coastal side", "Northern side"], "correctIndex": 0 },
+            { "question": "Chinnar Wildlife Sanctuary is located in which Kerala district?", "options": ["Idukki", "Wayanad", "Palakkad", "Kottayam"], "correctIndex": 0 },
+            { "question": "Chinnar's ecosystem differs distinctly from the more common type found across Kerala's?", "options": ["Western Ghats region", "Coastal plains", "Backwater regions", "Eastern lowlands"], "correctIndex": 0 }
+          ],
+          "summary": "Chinnar Wildlife Sanctuary, in Kerala's Idukki district, is notable for its rain shadow ecosystem, featuring dry scrub and thorn forest vegetation distinctly different from the lush, wet forests typical of Kerala's Western Ghats. The sanctuary supports significant populations of the Grizzled Giant Squirrel, a species with a very restricted range. Chinnar's dry terrain, shaped by its location on the leeward side of the Western Ghats, gives it a unique ecological character, and its lesser-known status has helped preserve its distinctive dry forest ecosystem."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d25_nagaur_fort",
+          "location": { "name": "Nagaur Fort, Rajasthan", "lat": 27.2020, "lng": 73.7440 },
+          "questions": [
+            { "question": "Nagaur Fort's history spans which groups of rulers?", "options": ["Rajput, Mughal, and various regional rulers", "Only British colonial rulers", "Only Portuguese traders", "Only Maratha rulers"], "correctIndex": 0 },
+            { "question": "Nagaur Fort's palaces feature intricate frescoes and a distinctive system of?", "options": ["Water management tanks and channels", "Underground tunnels", "Rotating towers", "Glass mosaics"], "correctIndex": 0 },
+            { "question": "Nagaur Fort has become known for hosting which musical festival?", "options": ["World Sacred Spirit Festival", "Sindhu Darshan Festival", "Rajasthan International Folk Festival", "Ziro Music Festival"], "correctIndex": 0 },
+            { "question": "The World Sacred Spirit Festival blends Sufi and other?", "options": ["Spiritual musical traditions from around the world", "Only Rajasthani folk songs", "Only classical Carnatic music", "Only Western pop music"], "correctIndex": 0 },
+            { "question": "Nagaur town is also historically significant as the site of India's first?", "options": ["Panchayati Raj inauguration", "Kumbh Mela", "Republic Day parade", "General election"], "correctIndex": 0 }
+          ],
+          "summary": "Nagaur Fort, in Rajasthan, is a large medieval fortification with a layered history spanning Rajput, Mughal, and various regional rulers. The fort includes elaborately decorated palaces with intricate frescoes and a distinctive water management system of tanks and channels. Nagaur has become known for hosting the World Sacred Spirit Festival, blending Sufi and spiritual musical traditions from around the world, and the town itself is also historically significant as the site of India's first Panchayati Raj inauguration in 1959."
+        },
+        {
+          "id": "cul_d25_uparkot_fort",
+          "location": { "name": "Uparkot Fort, Junagadh", "lat": 21.5222, "lng": 70.4579 },
+          "questions": [
+            { "question": "Uparkot Fort is believed to date back over how many years?", "options": ["Two thousand years", "Five hundred years", "One hundred years", "Ten thousand years"], "correctIndex": 0 },
+            { "question": "Uparkot Fort complex includes ancient rock-cut caves associated with which religion?", "options": ["Buddhism", "Hinduism", "Jainism", "Zoroastrianism"], "correctIndex": 0 },
+            { "question": "The deep step-well carved into solid rock at Uparkot Fort is called?", "options": ["Adi Kadi Vav", "Chand Baori", "Rani ki Vav", "Agrasen ki Baoli"], "correctIndex": 0 },
+            { "question": "Uparkot Fort is located in which Gujarat city?", "options": ["Junagadh", "Ahmedabad", "Rajkot", "Bhuj"], "correctIndex": 0 },
+            { "question": "Uparkot Fort's layered history reflects Junagadh's significance in which region of Gujarat?", "options": ["Saurashtra region", "Kutch region", "South Gujarat region", "Central Gujarat region"], "correctIndex": 0 }
+          ],
+          "summary": "Uparkot Fort, in Junagadh, Gujarat, is an ancient fortification believed to date back over two thousand years, rebuilt and expanded by successive rulers across multiple dynasties. The complex includes ancient rock-cut Buddhist caves alongside later step-wells and mosques reflecting the site's diverse religious history. One notable feature is Adi Kadi Vav, a deep step-well carved into solid rock, and Uparkot's layered history reflects Junagadh's long significance as a strategic and religiously diverse settlement in Gujarat's Saurashtra region."
+        },
+        {
+          "id": "cul_d25_padmanabhaswamy",
+          "location": { "name": "Padmanabhaswamy Temple, Thiruvananthapuram", "lat": 8.4828, "lng": 76.9435 },
+          "questions": [
+            { "question": "The Padmanabhaswamy Temple is dedicated to Vishnu in which reclining form?", "options": ["Padmanabha", "Narasimha", "Varaha", "Vamana"], "correctIndex": 0 },
+            { "question": "A 2011 Supreme Court-ordered inventory revealed the temple's underground vaults contained treasures worth?", "options": ["Billions of dollars", "Millions of dollars", "A modest sum", "Nothing of significant value"], "correctIndex": 0 },
+            { "question": "The Padmanabhaswamy Temple's presiding deity is traditionally considered the sovereign ruler of which former kingdom?", "options": ["Travancore", "Cochin", "Mysore", "Hyderabad"], "correctIndex": 0 },
+            { "question": "The Padmanabhaswamy Temple is built in which architectural style?", "options": ["Dravidian style", "Nagara style", "Indo-Islamic style", "Gothic style"], "correctIndex": 0 },
+            { "question": "The Padmanabhaswamy Temple is located in which Kerala city?", "options": ["Thiruvananthapuram", "Kochi", "Kozhikode", "Thrissur"], "correctIndex": 0 }
+          ],
+          "summary": "The Padmanabhaswamy Temple, in Thiruvananthapuram, Kerala, is dedicated to Vishnu as Padmanabha and gained global attention in 2011 when a Supreme Court-ordered inventory of its underground vaults revealed treasures worth billions of dollars. The temple's historical association with the former royal family of Travancore remains significant, with the deity traditionally considered the kingdom's sovereign ruler. Built in Dravidian style with an imposing seven-story gopuram, Padmanabhaswamy's wealth, royal ties, and ongoing legal significance make it one of India's most distinctively unusual major temples."
+        },
+        {
+          "id": "cul_d25_akshardham",
+          "location": { "name": "Akshardham Temple, Delhi", "lat": 28.6127, "lng": 77.2773 },
+          "questions": [
+            { "question": "The Akshardham Temple in Delhi was completed in which year?", "options": ["2005", "1990", "2015", "1975"], "correctIndex": 0 },
+            { "question": "Akshardham Temple was built by which religious organization?", "options": ["Bochasanwasi Akshar Purushottam Swaminarayan Sanstha", "Ramakrishna Mission", "Arya Samaj", "Brahmo Samaj"], "correctIndex": 0 },
+            { "question": "Akshardham Temple holds a Guinness World Record for being the largest?", "options": ["Comprehensive Hindu temple in the world", "Mosque in Asia", "Church in the world", "Buddhist stupa in Asia"], "correctIndex": 0 },
+            { "question": "Akshardham's construction notably avoided using which structural material?", "options": ["Structural steel reinforcement", "Stone", "Wood", "Marble"], "correctIndex": 0 },
+            { "question": "Akshardham combines religious worship with elements of a broader?", "options": ["Cultural and educational theme park experience", "Shopping mall", "Sports complex", "Military museum"], "correctIndex": 0 }
+          ],
+          "summary": "The Akshardham Temple, in Delhi, is a large modern Hindu temple complex completed in 2005, built by the Bochasanwasi Akshar Purushottam Swaminarayan Sanstha organization. The complex combines an ornately carved central monument with exhibition halls, gardens, and a large water show. Akshardham holds the Guinness World Record for the largest comprehensive Hindu temple in the world, and its construction using traditional stone-on-stone building techniques without structural steel reinforcement reflects an unusual modern application of ancient temple-building methods."
+        },
+        {
+          "id": "cul_d25_vijay_vilas",
+          "location": { "name": "Vijay Vilas Palace, Kutch", "lat": 23.2833, "lng": 69.1000 },
+          "questions": [
+            { "question": "Vijay Vilas Palace was built by which ruling family of Kutch?", "options": ["Jadeja rulers", "Chudasama rulers", "Gaekwad rulers", "Solanki rulers"], "correctIndex": 0 },
+            { "question": "Vijay Vilas Palace's architecture blends Rajput influences with which other style?", "options": ["Colonial architectural influences", "Mughal influences only", "Gothic influences", "Buddhist influences"], "correctIndex": 0 },
+            { "question": "Vijay Vilas Palace has gained recognition as a filming location for which industry's productions?", "options": ["Bollywood", "Hollywood only", "South Korean cinema", "French cinema"], "correctIndex": 0 },
+            { "question": "Vijay Vilas Palace's ownership status is best described as?", "options": ["Privately owned by royal family descendants", "Fully government-owned", "Owned by a foreign trust", "Abandoned and unclaimed"], "correctIndex": 0 },
+            { "question": "Vijay Vilas Palace is located in which region of Gujarat?", "options": ["Kutch", "Saurashtra", "South Gujarat", "Central Gujarat"], "correctIndex": 0 }
+          ],
+          "summary": "Vijay Vilas Palace, in the Kutch region of Gujarat, was built in the early 20th century by the Jadeja rulers of Kutch as a summer retreat, blending Rajput and colonial architectural influences. The palace features domed pavilions, ornate jharokhas, and expansive courtyards reflecting a fusion of traditional Kutchi craftsmanship with early 20th-century construction techniques. Vijay Vilas has gained recognition as a Bollywood filming location, and it remains privately owned by descendants of the Kutch royal family, who have opened portions to public visitors."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d25_tcs",
+          "location": { "name": "TCS, Chennai", "lat": 13.0827, "lng": 80.2707 },
+          "questions": [
+            { "question": "Tata Consultancy Services (TCS) is recognized as India's largest?", "options": ["Information technology services company", "Steel producer", "Automobile manufacturer", "Pharmaceutical company"], "correctIndex": 0 },
+            { "question": "TCS is a core part of which larger business conglomerate?", "options": ["Tata Group", "Reliance Group", "Adani Group", "Birla Group"], "correctIndex": 0 },
+            { "question": "TCS provides services including software development, IT consulting, and?", "options": ["Business process outsourcing", "Automobile manufacturing", "Steel production", "Textile weaving"], "correctIndex": 0 },
+            { "question": "TCS's Chennai delivery center reflects the geographically distributed nature of India's?", "options": ["IT services industry", "Steel industry", "Textile industry", "Agricultural sector"], "correctIndex": 0 },
+            { "question": "India's IT services industry has grown well beyond its early concentration in which city?", "options": ["Bengaluru", "Mumbai", "Chennai", "Kolkata"], "correctIndex": 0 }
+          ],
+          "summary": "Tata Consultancy Services (TCS), with a major delivery center in Chennai, is India's largest information technology services company and one of the world's biggest IT services providers by market value, forming a core part of the Tata Group. TCS provides software development, business process outsourcing, and IT consulting to clients across numerous industries and countries. Chennai's growth as a significant TCS delivery hub reflects the geographically distributed nature of India's IT services industry, which has grown well beyond its early concentration in Bengaluru."
+        },
+        {
+          "id": "eco_d25_hcl",
+          "location": { "name": "HCL Technologies, Noida", "lat": 28.5355, "lng": 77.3910 },
+          "questions": [
+            { "question": "HCL Technologies originally began as a company focused on?", "options": ["Hardware manufacturing", "Textile production", "Agricultural equipment", "Banking services"], "correctIndex": 0 },
+            { "question": "HCL Technologies has a significant presence in which Uttar Pradesh city?", "options": ["Noida", "Lucknow", "Kanpur", "Agra"], "correctIndex": 0 },
+            { "question": "In its early history, HCL was involved in pioneering some of India's first?", "options": ["Personal computers", "Automobiles", "Aircraft", "Textile mills"], "correctIndex": 0 },
+            { "question": "HCL's core business has since shifted toward?", "options": ["Software services and IT consulting", "Only hardware manufacturing", "Only agricultural equipment", "Only textile production"], "correctIndex": 0 },
+            { "question": "HCL's Noida operations contribute to which region's growth as a technology hub?", "options": ["National Capital Region", "Western Ghats region", "Northeastern region", "Southern coastal region"], "correctIndex": 0 }
+          ],
+          "summary": "HCL Technologies, with a significant presence in Noida, Uttar Pradesh, is one of India's major IT services and consulting companies, having grown from its origins as a hardware manufacturer in the late 1970s. The company's early history included pioneering some of India's first personal computers before its strategic shift toward software services and IT consulting. HCL's Noida operations contribute to the National Capital Region's growth as a technology hub, complementing more historically established IT centers in southern India."
+        },
+        {
+          "id": "eco_d25_bajaj_auto",
+          "location": { "name": "Bajaj Auto, Chakan", "lat": 18.7500, "lng": 73.8667 },
+          "questions": [
+            { "question": "Bajaj Auto's Chakan plant is located near which city?", "options": ["Pune", "Mumbai", "Nashik", "Nagpur"], "correctIndex": 0 },
+            { "question": "Bajaj Auto is primarily known for manufacturing?", "options": ["Two-wheelers and three-wheelers", "Passenger cars", "Aircraft", "Ships"], "correctIndex": 0 },
+            { "question": "Bajaj Auto's iconic scooter models became a common mode of transportation for which group of Indians?", "options": ["Middle-class families", "Only wealthy elites", "Only rural farmers", "Only government officials"], "correctIndex": 0 },
+            { "question": "Bajaj Auto later shifted much of its focus toward motorcycles and?", "options": ["Three-wheeled auto-rickshaws", "Passenger cars", "Commercial trucks", "Bicycles"], "correctIndex": 0 },
+            { "question": "Bajaj Auto is a top exporter of vehicles particularly to markets in Africa, Latin America, and?", "options": ["Southeast Asia", "Only Western Europe", "Only North America", "Only the Middle East"], "correctIndex": 0 }
+          ],
+          "summary": "Bajaj Auto, with a major manufacturing plant in Chakan near Pune, Maharashtra, is one of India's leading two-wheeler and three-wheeler manufacturers, with a history dating back to the pre-independence era. The company played a significant role in India's industrialization, known for iconic scooter models that became common transportation for middle-class families. Bajaj Auto later shifted focus toward motorcycles and auto-rickshaws while remaining a top exporter to Africa, Latin America, and Southeast Asia."
+        },
+        {
+          "id": "eco_d25_lt_construction",
+          "location": { "name": "L&T Construction, Chennai", "lat": 13.0674, "lng": 80.2376 },
+          "questions": [
+            { "question": "Larsen & Toubro's construction division is headquartered in which Indian city?", "options": ["Chennai", "Mumbai", "Bengaluru", "Delhi"], "correctIndex": 0 },
+            { "question": "Larsen & Toubro was originally founded by engineers of which nationality?", "options": ["Danish", "British", "German", "French"], "correctIndex": 0 },
+            { "question": "In which decade was Larsen & Toubro founded?", "options": ["1930s", "1950s", "1970s", "1990s"], "correctIndex": 0 },
+            { "question": "L&T Construction has been involved in major infrastructure projects including bridges and?", "options": ["Metro rail systems", "Only residential housing", "Only agricultural equipment", "Only textile mills"], "correctIndex": 0 },
+            { "question": "Besides construction, Larsen & Toubro's broader business spans defense manufacturing, technology services, and?", "options": ["Financial services", "Agriculture", "Textiles", "Mining"], "correctIndex": 0 }
+          ],
+          "summary": "Larsen & Toubro's construction division, headquartered in Chennai, is one of India's largest engineering and construction companies, involved in major infrastructure projects spanning buildings, transportation, power plants, and industrial facilities. Founded in the 1930s by Danish engineers, the company has grown into a diversified conglomerate spanning construction, defense manufacturing, technology services, and financial services. L&T Construction's engineering expertise has made it a preferred contractor for numerous large-scale infrastructure initiatives across India."
+        },
+        {
+          "id": "eco_d25_icici",
+          "location": { "name": "ICICI Bank, Mumbai", "lat": 19.0654, "lng": 72.8306 },
+          "questions": [
+            { "question": "ICICI Bank is headquartered in which Indian city?", "options": ["Mumbai", "Delhi", "Bengaluru", "Chennai"], "correctIndex": 0 },
+            { "question": "ICICI Bank originated as a development financial institution established in which decade?", "options": ["1950s", "1930s", "1970s", "1990s"], "correctIndex": 0 },
+            { "question": "ICICI Bank transformed into a full-fledged commercial bank following restructuring in which period?", "options": ["1990s and 2000s", "1950s and 1960s", "1970s and 1980s", "2010s and 2020s"], "correctIndex": 0 },
+            { "question": "ICICI Bank's transformation reflects broader changes in India's financial sector following?", "options": ["Economic liberalization", "Partition", "Independence in 1947", "Demonetization"], "correctIndex": 0 },
+            { "question": "ICICI Bank is recognized as one of India's largest?", "options": ["Private sector banks", "Public sector banks", "Cooperative banks", "Foreign banks"], "correctIndex": 0 }
+          ],
+          "summary": "ICICI Bank, headquartered in Mumbai, is one of India's largest private sector banks, having evolved from a development financial institution established in the 1950s into a full-fledged commercial bank following restructuring in the 1990s and 2000s. The bank's transformation reflects broader changes in India's financial sector following economic liberalization, which allowed greater private sector participation in banking. ICICI Bank offers retail and corporate banking services, competing alongside other major private banks in India's post-liberalization banking expansion."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d25_muharram",
+          "location": { "name": "Muharram, Hyderabad", "lat": 17.3616, "lng": 78.4747 },
+          "questions": [
+            { "question": "Muharram, for Shia Muslims, commemorates the martyrdom of which historical figure?", "options": ["Imam Hussain", "Prophet Muhammad", "Caliph Ali", "Caliph Umar"], "correctIndex": 0 },
+            { "question": "Imam Hussain was martyred at which historical battle?", "options": ["Battle of Karbala", "Battle of Badr", "Battle of Uhud", "Battle of Plassey"], "correctIndex": 0 },
+            { "question": "Hyderabad's Muharram procession centers on a replica standard called?", "options": ["Bibi Ka Alam", "Tazia only", "Alam Sawari", "Zuljanah"], "correctIndex": 0 },
+            { "question": "Hyderabad's Shia heritage is tied to which founding dynasty?", "options": ["Qutb Shahi dynasty", "Nizam Shahi dynasty", "Adil Shahi dynasty", "Bahmani dynasty"], "correctIndex": 0 },
+            { "question": "Muharram marks the beginning of which calendar?", "options": ["Islamic New Year", "Hindu Vikram Samvat calendar", "Bengali calendar", "Gregorian calendar"], "correctIndex": 0 }
+          ],
+          "summary": "Muharram, observed prominently in Hyderabad, marks the beginning of the Islamic New Year and, for Shia Muslims, commemorates the martyrdom of Imam Hussain at the Battle of Karbala. Hyderabad's observances include a distinctive procession centered on the 'Bibi Ka Alam,' a replica standard associated with the Karbala battlefield. The city's historical Shia heritage, tied to its founding Qutb Shahi dynasty, has given Hyderabad's Muharram particular scale, and the processions historically drew participation from Hindu communities in a syncretic tradition of shared mourning."
+        },
+        {
+          "id": "evt_d25_durga_puja",
+          "location": { "name": "Durga Puja, Kolkata", "lat": 22.5726, "lng": 88.3639 },
+          "questions": [
+            { "question": "Durga Puja celebrates the goddess Durga's victory over which buffalo demon?", "options": ["Mahishasura", "Ravana", "Kansa", "Hiranyakashipu"], "correctIndex": 0 },
+            { "question": "Durga Puja's temporary decorated pavilions housing idols are called?", "options": ["Pandals", "Mandapas", "Gopurams", "Toranas"], "correctIndex": 0 },
+            { "question": "Durga Puja has been recognized by UNESCO as an element of?", "options": ["Intangible Cultural Heritage", "World Heritage Sites", "Natural Heritage List", "Memory of the World Register"], "correctIndex": 0 },
+            { "question": "Kolkata's Durga Puja pandals are known for increasingly elaborate and creative?", "options": ["Themes", "Colors only", "Sizes only", "Materials only"], "correctIndex": 0 },
+            { "question": "Durga Puja has a significant economic impact on Kolkata, supporting artisans and?", "options": ["Decorators and related industries", "Only foreign trade", "Only agriculture", "Only mining"], "correctIndex": 0 }
+          ],
+          "summary": "Durga Puja, celebrated with particular grandeur in Kolkata, is a major Hindu festival honoring the goddess Durga's victory over the buffalo demon Mahishasura, marked by elaborately decorated pandals housing artistic clay idols. The festival has been recognized by UNESCO as an element of Intangible Cultural Heritage. Kolkata's pandals are known for increasingly elaborate creative themes each year, drawing millions of visitors, and Durga Puja's massive economic impact supports artisans, decorators, and related industries across West Bengal."
+        },
+        {
+          "id": "evt_d25_bwisagu",
+          "location": { "name": "Bwisagu, Kokrajhar", "lat": 26.4000, "lng": 90.2667 },
+          "questions": [
+            { "question": "Bwisagu marks the New Year for which community?", "options": ["Bodo community", "Assamese Hindu community", "Bengali community", "Naga community"], "correctIndex": 0 },
+            { "question": "The centerpiece dance of Bwisagu is called?", "options": ["Bagurumba dance", "Bihu dance", "Cheraw dance", "Garba dance"], "correctIndex": 0 },
+            { "question": "The Bagurumba dance's coordinated movements are said to resemble?", "options": ["Fluttering butterflies", "Flowing rivers", "Falling leaves", "Soaring birds"], "correctIndex": 0 },
+            { "question": "Bwisagu typically coincides with the broader regional celebration of?", "options": ["Spring harvest festival season", "Winter solstice", "Monsoon arrival", "Autumn equinox"], "correctIndex": 0 },
+            { "question": "Bwisagu is celebrated by the Bodo community in which Indian state?", "options": ["Assam", "Nagaland", "Manipur", "Tripura"], "correctIndex": 0 }
+          ],
+          "summary": "Bwisagu, celebrated by the Bodo community including in Kokrajhar, Assam, marks the Bodo New Year and the arrival of spring, observed with traditional dance, music, and community feasting. The festival's centerpiece is the Bagurumba dance, in which dancers move in coordinated formations resembling fluttering butterflies, accompanied by traditional Bodo instruments. Bwisagu typically coincides with the broader regional spring harvest season, though the Bodo community's specific traditions distinguish it from other Assamese observances."
+        },
+        {
+          "id": "evt_d25_naba_kalebara",
+          "location": { "name": "Naba Kalebara, Puri", "lat": 19.8048, "lng": 85.8188 },
+          "questions": [
+            { "question": "What does \"Naba Kalebara\" mean?", "options": ["New body", "Divine light", "Sacred fire", "Eternal soul"], "correctIndex": 0 },
+            { "question": "Naba Kalebara occurs at irregular intervals of roughly every how many years?", "options": ["12 to 19 years", "1 to 2 years", "50 to 60 years", "Every single year"], "correctIndex": 0 },
+            { "question": "During Naba Kalebara, the wooden idols of Jagannath, Balabhadra, and which other deity are replaced?", "options": ["Subhadra", "Lakshmi", "Saraswati", "Durga"], "correctIndex": 0 },
+            { "question": "New idols for Naba Kalebara are carved from specifically selected?", "options": ["Neem trees", "Sandalwood trees", "Banyan trees", "Peepal trees"], "correctIndex": 0 },
+            { "question": "The mysterious sacred object transferred between old and new idols during Naba Kalebara is called the?", "options": ["Brahma", "Atman", "Prana", "Moksha"], "correctIndex": 0 }
+          ],
+          "summary": "Naba Kalebara, meaning 'new body,' is a rare ritual at the Jagannath Temple in Puri, occurring roughly every twelve to nineteen years, during which the wooden idols of Jagannath, Balabhadra, and Subhadra are ceremonially replaced. The ritual involves selecting specific neem trees believed to bear divine markings, from which craftsmen carve new idols following traditional guidelines. A closely guarded aspect involves transferring a sacred object called the 'Brahma' between old and new idols, and the rare ceremony draws enormous crowds of pilgrims to Puri."
+        },
+        {
+          "id": "evt_d25_sekrenyi",
+          "location": { "name": "Sekrenyi Festival, Kohima", "lat": 25.6751, "lng": 94.1086 },
+          "questions": [
+            { "question": "Sekrenyi is celebrated by which Naga tribe?", "options": ["Angami", "Konyak", "Ao", "Sumi"], "correctIndex": 0 },
+            { "question": "Sekrenyi marks the beginning of the traditional?", "options": ["Angami new year", "Islamic calendar", "Bengali calendar", "Gregorian calendar"], "correctIndex": 0 },
+            { "question": "The ceremonial bathing ritual performed during Sekrenyi is called?", "options": ["Dzuseva", "Baharana Sahib", "Ganga Snan", "Jal Abhishek"], "correctIndex": 0 },
+            { "question": "Sekrenyi is primarily aimed at achieving what for individuals and the community?", "options": ["Purification from impurities", "Military victory", "Financial prosperity", "Academic success"], "correctIndex": 0 },
+            { "question": "Sekrenyi is celebrated in and around which Nagaland town?", "options": ["Kohima", "Dimapur", "Mon", "Wokha"], "correctIndex": 0 }
+          ],
+          "summary": "Sekrenyi, celebrated by the Angami Naga tribe in and around Kohima, Nagaland, is a purification festival marking the beginning of the traditional Angami new year. The festival includes a ceremonial bathing ritual called 'Dzuseva,' performed at a sacred water source, believed to purify participants physically and spiritually. Sekrenyi also features traditional games, feasting, and distinctive Angami attire, reflecting the broader pattern across Nagaland's diverse tribal communities, each maintaining distinct New Year and purification traditions."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d25_sikkim_371f",
+          "location": { "name": "Sikkim — Article 371F", "lat": 27.3389, "lng": 88.6065 },
+          "questions": [
+            { "question": "Sikkim's special constitutional protections are provided under which article?", "options": ["Article 371F", "Article 370", "Article 371A", "Article 35A"], "correctIndex": 0 },
+            { "question": "Article 371F was designed to safeguard existing laws, land rights, and political arrangements that predated Sikkim's?", "options": ["Full integration as an Indian state", "Independence movement", "British colonial rule", "Partition"], "correctIndex": 0 },
+            { "question": "Article 371F protects reserved legislative representation for which community?", "options": ["Sikkimese Bhutia-Lepcha community", "Nepali community exclusively", "Tibetan refugees", "Assamese community"], "correctIndex": 0 },
+            { "question": "Article 371F allows continued application of certain pre-merger?", "options": ["Sikkimese laws", "Foreign treaties", "Military arrangements", "Currency systems"], "correctIndex": 0 },
+            { "question": "Gangtok is the capital of which Indian state?", "options": ["Sikkim", "Meghalaya", "Nagaland", "Manipur"], "correctIndex": 0 }
+          ],
+          "summary": "Gangtok, the capital of Sikkim, oversees a state whose merger with India in 1975 came with special constitutional protections under Article 371F, designed to safeguard existing laws, land rights, and political arrangements. The provision protects Sikkim's seat-sharing arrangements in its legislature, including reserved representation for the Bhutia-Lepcha community. Article 371F also allows continued application of certain pre-merger Sikkimese laws, reflecting India's pattern of tailored provisions accommodating regions incorporated under differing historical circumstances."
+        },
+        {
+          "id": "pol_d25_mizoram_371g",
+          "location": { "name": "Mizoram — Article 371G", "lat": 23.7271, "lng": 92.7176 },
+          "questions": [
+            { "question": "Mizoram's special constitutional protections are provided under which article?", "options": ["Article 371G", "Article 371A", "Article 370", "Article 35A"], "correctIndex": 0 },
+            { "question": "Article 371G was part of the arrangement following which 1986 agreement?", "options": ["Mizo Peace Accord", "Assam Accord", "Bodo Accord", "Sixteen-Point Agreement"], "correctIndex": 0 },
+            { "question": "Article 371G protects Mizo customary law and social practices related to land ownership and?", "options": ["Religious practices and traditional customs", "Foreign trade", "Currency policy", "Military recruitment"], "correctIndex": 0 },
+            { "question": "Under Article 371G, Parliament cannot apply certain laws to Mizoram without the consent of the state's?", "options": ["Legislative assembly", "Central cabinet", "Supreme Court", "Election Commission"], "correctIndex": 0 },
+            { "question": "Article 371G is similar in spirit to protections extended to Nagaland under which article?", "options": ["Article 371A", "Article 370", "Article 35A", "Article 356"], "correctIndex": 0 }
+          ],
+          "summary": "Aizawl, the capital of Mizoram, oversees a state granted special constitutional protections under Article 371G, part of the arrangement establishing statehood following the 1986 Mizo Peace Accord. The provision protects Mizo customary law and social practices, requiring Parliament to obtain the state legislature's consent before applying certain laws related to land ownership or traditional customs. Article 371G, similar in spirit to protections extended to Nagaland under Article 371A, reflects India's approach to accommodating ethnic autonomy demands as part of peace settlements."
+        },
+        {
+          "id": "pol_d25_manipur_ilp",
+          "location": { "name": "Manipur — Inner Line Permit System", "lat": 24.8170, "lng": 93.9368 },
+          "questions": [
+            { "question": "Manipur implemented the Inner Line Permit (ILP) system in which year?", "options": ["2019", "2000", "1985", "2010"], "correctIndex": 0 },
+            { "question": "The ILP system requires non-Manipuri Indian citizens to obtain special permission before?", "options": ["Entering the state", "Voting in elections", "Owning agricultural land only", "Attending religious festivals"], "correctIndex": 0 },
+            { "question": "The ILP system traces its origins to regulations first introduced by which colonial administrators?", "options": ["British administrators", "Portuguese administrators", "Dutch administrators", "French administrators"], "correctIndex": 0 },
+            { "question": "Manipur's adoption of the ILP followed concerns about unregulated migration affecting demographic balance and?", "options": ["Land ownership patterns", "Foreign trade balances", "Currency exchange rates", "Military recruitment"], "correctIndex": 0 },
+            { "question": "Besides Manipur, the ILP system also applies in Nagaland, Mizoram, and?", "options": ["Arunachal Pradesh", "Assam", "Tripura", "Meghalaya"], "correctIndex": 0 }
+          ],
+          "summary": "Imphal, the capital of Manipur, oversees a state that implemented the Inner Line Permit (ILP) system in 2019, requiring non-Manipuri Indian citizens to obtain special permission before entering the state. The system traces its origins to colonial-era regulations introduced by British administrators to control settlement in northeastern frontier regions. Manipur's adoption followed local advocacy concerned about migration affecting demographic balance and land ownership, similar to arrangements already in place in neighboring Nagaland, Mizoram, and Arunachal Pradesh."
+        },
+        {
+          "id": "pol_d25_nia",
+          "location": { "name": "National Investigation Agency, New Delhi", "lat": 28.6250, "lng": 77.2150 },
+          "questions": [
+            { "question": "The National Investigation Agency was established in which year?", "options": ["2008", "2001", "2014", "1998"], "correctIndex": 0 },
+            { "question": "The NIA's establishment followed which major terrorist attack?", "options": ["Mumbai terror attacks", "Delhi bombing", "Kashmir insurgency start", "Punjab militancy"], "correctIndex": 0 },
+            { "question": "The NIA has jurisdiction to investigate terrorism-related offenses across state boundaries without requiring?", "options": ["Individual state government consent", "Parliamentary approval", "Supreme Court clearance", "International cooperation"], "correctIndex": 0 },
+            { "question": "The NIA is India's federal agency specializing in?", "options": ["Counter-terrorism investigation", "Tax collection", "Election oversight", "Environmental protection"], "correctIndex": 0 },
+            { "question": "The National Investigation Agency is headquartered in which city?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "correctIndex": 0 }
+          ],
+          "summary": "The National Investigation Agency (NIA), headquartered in New Delhi, is India's federal counter-terrorism investigative agency, established in 2008 following the Mumbai terror attacks that exposed gaps in India's coordinated counter-terrorism response. The agency can investigate terrorism-related offenses across state boundaries without requiring individual state government consent, a notable departure from typical jurisdictional constraints on Indian investigative agencies. Since its establishment, the NIA has handled numerous high-profile terrorism and extremism-related cases across India."
+        },
+        {
+          "id": "pol_d25_crpf",
+          "location": { "name": "Central Reserve Police Force, New Delhi", "lat": 28.6100, "lng": 77.2050 },
+          "questions": [
+            { "question": "The Central Reserve Police Force is India's largest?", "options": ["Central paramilitary force", "State police force", "Naval force", "Air defense force"], "correctIndex": 0 },
+            { "question": "The CRPF was originally established in 1939 during British rule as the?", "options": ["Crown Representative's Police", "Imperial Police Service", "Indian Home Guard", "Royal Indian Army"], "correctIndex": 0 },
+            { "question": "The CRPF's duties include counter-insurgency operations, riot control, and?", "options": ["Election security", "Foreign diplomacy", "Tax collection", "Currency printing"], "correctIndex": 0 },
+            { "question": "The CRPF has been deployed extensively in Jammu and Kashmir and regions experiencing?", "options": ["Left-wing extremist activity", "Foreign invasion", "Natural disasters only", "Trade disputes"], "correctIndex": 0 },
+            { "question": "The Central Reserve Police Force is headquartered in which city?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "correctIndex": 0 }
+          ],
+          "summary": "The Central Reserve Police Force (CRPF), headquartered in New Delhi, is India's largest central paramilitary force, tasked with internal security duties including counter-insurgency, riot control, election security, and disaster response. Established in 1939 during British rule as the Crown Representative's Police, the force was restructured after independence to serve the newly sovereign state's security needs. The CRPF has been deployed extensively in Jammu and Kashmir and regions experiencing left-wing extremist activity, making its welfare a recurring policy discussion topic."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "day": 16,
+  "date": "2026-10-16",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d16_sandakphu",
+          "location": { "name": "Sandakphu, West Bengal", "lat": 27.1167, "lng": 88.0000 },
+          "questions": [
+            { "question": "Sandakphu is the highest point in which Indian state?", "options": ["Sikkim", "West Bengal", "Assam", "Meghalaya"], "correctIndex": 1 },
+            { "question": "Sandakphu lies along which ridge?", "options": ["Singalila Ridge", "Pir Panjal Range", "Zanskar Range", "Dhauladhar Range"], "correctIndex": 0 },
+            { "question": "From Sandakphu, on clear days, how many of the world's five highest peaks can be seen?", "options": ["One", "Two", "Four", "All five"], "correctIndex": 2 },
+            { "question": "Sandakphu lies within which national park?", "options": ["Singalila National Park", "Kaziranga National Park", "Namdapha National Park", "Gir National Park"], "correctIndex": 0 },
+            { "question": "The trek to Sandakphu is especially popular in spring due to blooming?", "options": ["Rhododendron forests", "Cherry blossoms", "Sunflowers", "Lotus fields"], "correctIndex": 0 }
+          ],
+          "summary": "Sandakphu, at about 3,636 meters, is the highest point in West Bengal, located along the Singalila Ridge near the Nepal border. It is famous for offering panoramic views of four of the world's five highest peaks, including Everest, Kangchenjunga, Lhotse, and Makalu, all visible from a single vantage point on clear days. The trek to Sandakphu passes through rhododendron forests that bloom vividly in spring, and Sandakphu lies within the Singalila National Park, which also supports diverse wildlife including the red panda."
+        },
+        {
+          "id": "geo_d16_namdapha",
+          "location": { "name": "Namdapha National Park, Arunachal Pradesh", "lat": 27.5000, "lng": 96.3667 },
+          "questions": [
+            { "question": "Namdapha National Park is uniquely known for hosting how many big cat species?", "options": ["Two", "Three", "Four", "Five"], "correctIndex": 2 },
+            { "question": "Namdapha National Park is located in which Indian state?", "options": ["Assam", "Arunachal Pradesh", "Nagaland", "Manipur"], "correctIndex": 1 },
+            { "question": "Which endangered species is found only in Namdapha and nowhere else?", "options": ["Namdapha flying squirrel", "Snow leopard", "Red panda", "Hoolock gibbon"], "correctIndex": 0 },
+            { "question": "Namdapha's ecosystems range from tropical rainforest to?", "options": ["Coastal wetlands", "High alpine terrain", "Coral reefs", "Desert dunes"], "correctIndex": 1 },
+            { "question": "Namdapha is located in which district of Arunachal Pradesh?", "options": ["Changlang", "Tawang", "Itanagar", "West Kameng"], "correctIndex": 0 }
+          ],
+          "summary": "Namdapha National Park, in Arunachal Pradesh's Changlang district, is notable as the only protected area in the world where four big cat species, the tiger, leopard, snow leopard, and clouded leopard, are all found within a single park. Spanning a huge range of elevations from lowland tropical rainforest to high alpine terrain, the park supports an extraordinarily diverse range of ecosystems. It is also home to rare species like the Namdapha flying squirrel, found nowhere else on earth, and due to its remote location, much of the park remains relatively unexplored."
+        },
+        {
+          "id": "geo_d16_desert_national_park",
+          "location": { "name": "Desert National Park, Rajasthan", "lat": 26.8189, "lng": 70.8189 },
+          "questions": [
+            { "question": "Desert National Park is primarily located in which desert?", "options": ["Thar Desert", "Kutch Desert", "Rann Desert", "Cholistan Desert"], "correctIndex": 0 },
+            { "question": "Desert National Park is a critical habitat for which critically endangered bird?", "options": ["Great Indian Bustard", "Sarus Crane", "Siberian Crane", "Indian Peafowl"], "correctIndex": 0 },
+            { "question": "The Great Indian Bustard's population has declined sharply partly due to collisions with?", "options": ["Power lines", "Wind turbines only", "Aircraft", "Fishing nets"], "correctIndex": 0 },
+            { "question": "Desert National Park is located near which Rajasthan city?", "options": ["Jaisalmer", "Bikaner", "Jodhpur", "Udaipur"], "correctIndex": 0 },
+            { "question": "Besides birds, Desert National Park also supports which desert mammal?", "options": ["Chinkara gazelle", "Snow leopard", "Asiatic lion", "Red panda"], "correctIndex": 0 }
+          ],
+          "summary": "Desert National Park, spread across the Thar Desert near Jaisalmer, Rajasthan, protects one of the largest expanses of desert ecosystem in India, featuring sand dunes, salt lake bottoms, and rocky terrain. It serves as a critical habitat for the critically endangered Great Indian Bustard, one of the heaviest flying birds in the world, whose population has declined sharply due to habitat loss and collisions with power lines. Conservation efforts increasingly focus on protecting the bustard through measures like underground power cabling and captive breeding programs."
+        },
+        {
+          "id": "geo_d16_manas_np",
+          "location": { "name": "Manas National Park, Assam", "lat": 26.6667, "lng": 91.0000 },
+          "questions": [
+            { "question": "Manas National Park is located on the border of Assam and which country?", "options": ["Bhutan", "Myanmar", "Bangladesh", "Nepal"], "correctIndex": 0 },
+            { "question": "Manas National Park is recognized as a?", "options": ["UNESCO World Heritage Site", "Special Economic Zone", "National Capital Region", "Ramsar site only"], "correctIndex": 0 },
+            { "question": "Manas is an important habitat for which rare primate?", "options": ["Golden langur", "Lion-tailed macaque", "Hoolock gibbon", "Nilgiri langur"], "correctIndex": 0 },
+            { "question": "In the 1990s, Manas was affected by which issues leading to it being listed as endangered?", "options": ["Political unrest and poaching", "Volcanic eruption", "Severe drought", "Industrial pollution"], "correctIndex": 0 },
+            { "question": "Manas is part of a larger conservation landscape connecting with protected areas in?", "options": ["Bhutan", "China", "Myanmar", "Bangladesh"], "correctIndex": 0 }
+          ],
+          "summary": "Manas National Park, on the border of Assam and Bhutan, is a UNESCO World Heritage Site and tiger reserve known for its rich biodiversity, including rare species like the golden langur, pygmy hog, and Bengal florican. The park suffered significant damage during periods of political unrest and poaching in the 1990s, leading UNESCO to briefly place it on its list of World Heritage Sites in danger before conservation efforts helped restore much of its ecological health. Manas is part of a larger transboundary conservation landscape connecting with protected areas in Bhutan."
+        },
+        {
+          "id": "geo_d16_gir_forest",
+          "location": { "name": "Gir Forest, Gujarat", "lat": 21.1500, "lng": 70.8000 },
+          "questions": [
+            { "question": "Gir National Park is the last natural habitat of which big cat?", "options": ["Bengal tiger", "Asiatic lion", "Snow leopard", "Clouded leopard"], "correctIndex": 1 },
+            { "question": "Gir National Park is located in which Indian state?", "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Maharashtra"], "correctIndex": 1 },
+            { "question": "In the early 20th century, the Asiatic lion population had dropped to roughly how many individuals?", "options": ["A few dozen", "A few hundred", "About a thousand", "About five thousand"], "correctIndex": 0 },
+            { "question": "Which pastoral community traditionally lives within the Gir forest?", "options": ["Maldhari", "Bhotia", "Gaddi", "Toda"], "correctIndex": 0 },
+            { "question": "A key conservation concern about Gir is the risk associated with?", "options": ["Having a single concentrated lion population", "Overpopulation of tigers", "Excessive rainfall", "Volcanic activity"], "correctIndex": 0 }
+          ],
+          "summary": "Gir National Park, in Gujarat, is the last remaining natural habitat of the Asiatic lion, a subspecies once found across much of southwest Asia but now confined almost entirely to this single protected area. Conservation efforts since the early 20th century, when lion numbers had dropped to only a few dozen, have helped the population recover to several hundred individuals today. Gir's dry deciduous forest ecosystem also supports leopards, deer species, and a variety of birdlife, coexisting with several small Maldhari pastoral communities living within the forest."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d16_bhimbetka",
+          "location": { "name": "Bhimbetka Rock Shelters, Madhya Pradesh", "lat": 22.9345, "lng": 77.6088 },
+          "questions": [
+            { "question": "The Bhimbetka Rock Shelters are primarily significant for their ancient?", "options": ["Cave paintings", "Metal sculptures", "Stepwells", "Temple carvings"], "correctIndex": 0 },
+            { "question": "Bhimbetka is located in which Indian state?", "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Chhattisgarh"], "correctIndex": 0 },
+            { "question": "Who discovered the Bhimbetka Rock Shelters in 1957?", "options": ["V.S. Wakankar", "Alexander Cunningham", "John Marshall", "R.D. Banerji"], "correctIndex": 0 },
+            { "question": "Roughly how many rock shelters make up the Bhimbetka site?", "options": ["About 50", "Over 700", "About 100", "Over 5,000"], "correctIndex": 1 },
+            { "question": "The name \"Bhimbetka\" is popularly (though not historically) linked to which Mahabharata figure?", "options": ["Bhima", "Arjuna", "Yudhishthira", "Krishna"], "correctIndex": 0 }
+          ],
+          "summary": "The Bhimbetka Rock Shelters, in Madhya Pradesh, contain some of the earliest known evidence of human life in India, with cave paintings dating back tens of thousands of years, spanning the Mesolithic period through to historical times. The site's more than 700 rock shelters feature paintings depicting hunting scenes, dancing figures, and animals. Discovered by archaeologist V.S. Wakankar in 1957, Bhimbetka is now recognized as a UNESCO World Heritage Site, and the name is popularly linked to the legendary Mahabharata figure Bhima, though this connection is folklore rather than historical fact."
+        },
+        {
+          "id": "cul_d16_vaishno_devi",
+          "location": { "name": "Vaishno Devi, Jammu and Kashmir", "lat": 33.0306, "lng": 74.9496 },
+          "questions": [
+            { "question": "The Vaishno Devi shrine is located in which mountain range?", "options": ["Trikuta Hills", "Pir Panjal Range", "Zanskar Range", "Shivalik Range"], "correctIndex": 0 },
+            { "question": "Pilgrims typically begin their trek to Vaishno Devi from which base town?", "options": ["Katra", "Jammu city", "Udhampur", "Srinagar"], "correctIndex": 0 },
+            { "question": "Approximately how long is the trek from Katra to the Vaishno Devi shrine?", "options": ["About 5 km", "About 13 km", "About 30 km", "About 50 km"], "correctIndex": 1 },
+            { "question": "The Vaishno Devi Shrine Board was established in which year?", "options": ["1970", "1986", "2000", "2010"], "correctIndex": 1 },
+            { "question": "Vaishno Devi is regarded as one of the?", "options": ["Shakti Peethas", "Jyotirlingas", "Char Dham sites", "Panch Kedar sites"], "correctIndex": 0 }
+          ],
+          "summary": "The Vaishno Devi shrine, located in the Trikuta Hills of Jammu and Kashmir, is one of India's most visited Hindu pilgrimage sites, drawing millions of devotees annually to a cave temple dedicated to the goddess Vaishno Devi. Pilgrims typically undertake a roughly 13-kilometer trek from the base town of Katra to reach the shrine. The shrine's board, established in 1986, has developed extensive infrastructure to accommodate the massive annual pilgrim traffic, and Vaishno Devi is regarded as one of the Shakti Peethas, sites associated with the worship of the divine feminine."
+        },
+        {
+          "id": "cul_d16_airavatesvara_temple",
+          "location": { "name": "Airavatesvara Temple, Darasuram", "lat": 10.7667, "lng": 79.4500 },
+          "questions": [
+            { "question": "The Airavatesvara Temple is located in which town?", "options": ["Darasuram", "Thanjavur", "Kumbakonam", "Trichy"], "correctIndex": 0 },
+            { "question": "Which Chola king built the Airavatesvara Temple?", "options": ["Rajaraja I", "Rajaraja II", "Rajendra Chola I", "Kulottunga I"], "correctIndex": 1 },
+            { "question": "The Airavatesvara Temple is one of three temples recognized together under which UNESCO listing?", "options": ["Great Living Chola Temples", "Hill Forts of Rajasthan", "Group of Monuments at Hampi", "Sun Temple Konark"], "correctIndex": 0 },
+            { "question": "The temple's name refers to which divine elephant believed to have worshipped Shiva there?", "options": ["Airavata", "Ganesha", "Gajendra", "Nalagiri"], "correctIndex": 0 },
+            { "question": "The temple's front mandapa is uniquely designed to resemble a?", "options": ["Chariot with stone wheels", "Lotus flower", "Ship", "Mountain peak"], "correctIndex": 0 }
+          ],
+          "summary": "The Airavatesvara Temple, in Darasuram, Tamil Nadu, was built in the 12th century by Chola king Rajaraja II and is one of the three 'Great Living Chola Temples' recognized together as a UNESCO World Heritage Site, alongside the Brihadeeswara Temple in Thanjavur and the temple at Gangaikonda Cholapuram. Named after the divine elephant Airavata, believed to have worshipped Shiva at this site, the temple is celebrated for its exceptionally refined stone carvings. A distinctive feature is its front mandapa designed to resemble a chariot with stone wheels, similar in concept to the later Konark Sun Temple."
+        },
+        {
+          "id": "cul_d16_bishnupur",
+          "location": { "name": "Bishnupur Terracotta Temples, West Bengal", "lat": 23.0742, "lng": 87.3200 },
+          "questions": [
+            { "question": "Bishnupur's distinctive temples are built primarily from?", "options": ["Terracotta (clay)", "Marble", "Granite", "Sandstone"], "correctIndex": 0 },
+            { "question": "Bishnupur's temples were built primarily by which dynasty?", "options": ["Malla dynasty", "Pala dynasty", "Sena dynasty", "Chola dynasty"], "correctIndex": 0 },
+            { "question": "Why did Bishnupur's builders rely on terracotta rather than stone?", "options": ["Lack of good building stone in the region", "Religious prohibition on stone", "Cost savings only", "Faster construction time only"], "correctIndex": 0 },
+            { "question": "The Rasmancha at Bishnupur served as a venue for displaying deities during which festival?", "options": ["Ras festival", "Durga Puja", "Holi", "Rath Yatra"], "correctIndex": 0 },
+            { "question": "Bishnupur is historically significant as the birthplace of which musical tradition?", "options": ["Bishnupur gharana", "Gwalior gharana", "Kirana gharana", "Patiala gharana"], "correctIndex": 0 }
+          ],
+          "summary": "Bishnupur, in West Bengal, is renowned for its distinctive terracotta temples built primarily by the Malla dynasty rulers between the 17th and 18th centuries, using locally available clay in the absence of good building stone in the region. The temples feature elaborately carved terracotta panels depicting scenes from Hindu epics, courtly life, and floral motifs. The most famous among them, the Rasmancha, served as a venue for displaying deities during the Ras festival, and Bishnupur is also historically significant as the birthplace of the Bishnupur gharana, a distinct classical music tradition."
+        },
+        {
+          "id": "cul_d16_neermahal",
+          "location": { "name": "Neermahal Palace, Tripura", "lat": 23.6167, "lng": 91.3333 },
+          "questions": [
+            { "question": "Neermahal Palace is located in which Indian state?", "options": ["Tripura", "Assam", "Manipur", "Meghalaya"], "correctIndex": 0 },
+            { "question": "Neermahal Palace was built by which Maharaja?", "options": ["Bir Bikram Kishore Manikya", "Ranjit Singh", "Sawai Jai Singh", "Krishnaraja Wadiyar"], "correctIndex": 0 },
+            { "question": "Neermahal Palace is situated in the middle of which lake?", "options": ["Rudrasagar Lake", "Dal Lake", "Loktak Lake", "Chilika Lake"], "correctIndex": 0 },
+            { "question": "Neermahal's architecture combines which two styles?", "options": ["Hindu and Islamic", "Buddhist and Jain", "Gothic and Mughal", "Colonial and tribal"], "correctIndex": 0 },
+            { "question": "Neermahal Palace is accessible only by?", "options": ["Boat", "Cable car", "Helicopter", "Underground tunnel"], "correctIndex": 0 }
+          ],
+          "summary": "Neermahal, in Tripura, is a striking water palace built in the 1930s by Maharaja Bir Bikram Kishore Manikya, situated in the middle of Rudrasagar Lake and accessible only by boat. Combining Hindu and Islamic architectural styles, the palace served as a royal summer retreat, offering the ruling family a secluded escape surrounded by water. Its design, with domes, pavilions, and reflecting pools, drew inspiration from lake palaces elsewhere in India, and today Neermahal hosts an annual water festival featuring boat races and cultural performances."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d16_salem_steel",
+          "location": { "name": "Salem Steel Plant, Tamil Nadu", "lat": 11.6500, "lng": 78.1667 },
+          "questions": [
+            { "question": "Salem Steel Plant specializes in producing which type of steel?", "options": ["Stainless steel", "Carbon steel only", "Cast iron", "Galvanized steel only"], "correctIndex": 0 },
+            { "question": "Salem Steel Plant is a unit of which company?", "options": ["SAIL", "Tata Steel", "JSW Steel", "Jindal Steel"], "correctIndex": 0 },
+            { "question": "Salem Steel Plant is located in which Indian state?", "options": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Kerala"], "correctIndex": 0 },
+            { "question": "In which decade was Salem Steel Plant established?", "options": ["1960s", "1980s", "2000s", "2010s"], "correctIndex": 1 },
+            { "question": "Salem Steel Plant's specialization reflects SAIL's strategy to serve which type of markets?", "options": ["Niche, higher-value steel product markets", "Only export markets", "Only defense contracts", "Only agricultural equipment"], "correctIndex": 0 }
+          ],
+          "summary": "Salem Steel Plant, a unit of Steel Authority of India Limited (SAIL) in Tamil Nadu, specializes in producing stainless steel, distinguishing it from most other SAIL plants that primarily manufacture carbon steel. Established in the 1980s, the plant supplies stainless steel sheets and coils used in industries ranging from kitchenware and architecture to automotive and industrial equipment manufacturing. Salem Steel Plant's specialization reflects SAIL's broader diversification strategy to serve niche, higher-value steel product markets alongside its core bulk steel operations."
+        },
+        {
+          "id": "eco_d16_iffco_phulpur",
+          "location": { "name": "IFFCO Phulpur, Uttar Pradesh", "lat": 25.5333, "lng": 82.1167 },
+          "questions": [
+            { "question": "IFFCO's Phulpur plant is located in which state?", "options": ["Bihar", "Uttar Pradesh", "Madhya Pradesh", "Punjab"], "correctIndex": 1 },
+            { "question": "IFFCO stands for which type of organization?", "options": ["Indian Farmers Fertiliser Cooperative", "Indian Federal Finance Corporation", "Indian Food and Fertilizer Company", "Indian Farmers Federal Cooperative"], "correctIndex": 0 },
+            { "question": "IFFCO's ownership structure is unique because it is owned by?", "options": ["Farmer cooperative societies", "The central government directly", "Private shareholders only", "Foreign investors"], "correctIndex": 0 },
+            { "question": "The Phulpur plant primarily manufactures which fertilizer product?", "options": ["Urea", "Potash", "Superphosphate", "Compost"], "correctIndex": 0 },
+            { "question": "IFFCO's model aims to make fertilizer more accessible for?", "options": ["Member farmers", "Foreign buyers only", "Urban consumers", "Industrial clients only"], "correctIndex": 0 }
+          ],
+          "summary": "IFFCO's Phulpur plant, in Uttar Pradesh, is one of the flagship facilities of the Indian Farmers Fertiliser Cooperative (IFFCO), a cooperative society structure unique among major Indian fertilizer producers, owned collectively by farmer cooperative societies rather than the government or private shareholders. Established in the 1970s, the plant primarily manufactures urea, a key input supporting India's Green Revolution-era and subsequent agricultural productivity gains. IFFCO's cooperative model has made it one of the world's largest fertilizer cooperatives, aiming to keep fertilizer more accessible for member farmers."
+        },
+        {
+          "id": "eco_d16_nangal_fertilizer",
+          "location": { "name": "Nangal Fertilizer Plant, Punjab", "lat": 31.3667, "lng": 76.3667 },
+          "questions": [
+            { "question": "The Nangal Fertilizer Plant is located in which state?", "options": ["Haryana", "Punjab", "Himachal Pradesh", "Rajasthan"], "correctIndex": 1 },
+            { "question": "Nangal Fertilizer Plant benefited from proximity to which hydroelectric project?", "options": ["Bhakra Nangal", "Tehri Dam", "Hirakud Dam", "Sardar Sarovar Dam"], "correctIndex": 0 },
+            { "question": "Nangal Fertilizer Plant played a key role in supporting which agricultural transformation?", "options": ["Green Revolution", "White Revolution", "Blue Revolution", "Silent Revolution"], "correctIndex": 0 },
+            { "question": "In which decade was the Nangal Fertilizer Plant established?", "options": ["1940s", "1960s", "1980s", "2000s"], "correctIndex": 1 },
+            { "question": "Nangal's fertilizer production primarily focuses on which type of fertilizer?", "options": ["Nitrogenous fertilizers", "Only organic compost", "Only potash-based fertilizers", "Only phosphate-based fertilizers"], "correctIndex": 0 }
+          ],
+          "summary": "The Nangal Fertilizer Plant, in Punjab, was established in the 1960s as part of India's early push toward chemical fertilizer self-sufficiency, benefiting from its proximity to the Bhakra Nangal hydroelectric project's abundant power supply. The plant played an important role in supporting Punjab's transformation into a leading agricultural state during the Green Revolution, supplying nitrogenous fertilizers to farmers across the region. Nangal's development was closely tied to the broader industrial complex built around the Bhakra Dam, reflecting a period of Indian planning that linked hydropower with downstream industry."
+        },
+        {
+          "id": "eco_d16_khetri_copper",
+          "location": { "name": "Khetri Copper Complex, Rajasthan", "lat": 28.0000, "lng": 75.7833 },
+          "questions": [
+            { "question": "The Khetri Copper Complex is located in which state?", "options": ["Madhya Pradesh", "Rajasthan", "Gujarat", "Maharashtra"], "correctIndex": 1 },
+            { "question": "Khetri Copper Complex primarily produces which metal?", "options": ["Copper", "Zinc", "Aluminium", "Iron"], "correctIndex": 0 },
+            { "question": "Khetri Copper Complex operates under which company?", "options": ["Hindustan Copper Limited", "NALCO", "SAIL", "Vedanta Group"], "correctIndex": 0 },
+            { "question": "Khetri's copper mining history dates back how far?", "options": ["A few decades", "About a century", "Centuries (ancient workings)", "Only since 2000"], "correctIndex": 2 },
+            { "question": "Khetri Copper Complex was developed mainly to reduce India's dependence on?", "options": ["Imported copper", "Imported coal", "Imported oil", "Imported steel"], "correctIndex": 0 }
+          ],
+          "summary": "The Khetri Copper Complex, in Rajasthan, is one of India's major copper mining and smelting operations, developed from the 1960s onward to reduce the country's dependence on imported copper. The region around Khetri has a long history of copper mining dating back centuries, with ancient workings later expanded through modern industrial mining techniques under Hindustan Copper Limited. Khetri's copper deposits are considered significant not just for volume but also for historical continuity, representing one of India's oldest continuously exploited metal resources alongside sites like Zawar's zinc mines."
+        },
+        {
+          "id": "eco_d16_kolar_gold_fields",
+          "location": { "name": "Kolar Gold Fields, Karnataka", "lat": 12.9585, "lng": 78.2743 },
+          "questions": [
+            { "question": "Kolar Gold Fields was historically notable for having some of the world's?", "options": ["Shallowest mines", "Deepest gold mines", "Largest coal mines", "Widest diamond mines"], "correctIndex": 1 },
+            { "question": "Kolar Gold Fields is located in which Indian state?", "options": ["Karnataka", "Andhra Pradesh", "Tamil Nadu", "Kerala"], "correctIndex": 0 },
+            { "question": "Kolar Gold Fields mining operations largely ceased in which period?", "options": ["1950s", "1980s", "Early 2000s", "2015"], "correctIndex": 2 },
+            { "question": "Kolar's mines began operating under whose management in the late 19th century?", "options": ["British colonial management", "Mughal administration", "Portuguese traders", "French colonists"], "correctIndex": 0 },
+            { "question": "Kolar's mining township was notable for having an early?", "options": ["Hydroelectric power supply", "Nuclear reactor", "International airport", "Space launch facility"], "correctIndex": 0 }
+          ],
+          "summary": "Kolar Gold Fields, in Karnataka, was once among the deepest gold mines in the world, with shafts extending more than three kilometers underground before mining operations ceased in the early 2000s due to declining ore grades and rising costs. The mines operated for over a century, starting under British colonial management in the late 19th century before being nationalized after independence. Kolar's mining township developed unique infrastructure historically, including one of India's earliest hydroelectric power supplies specifically built to support the mining operations."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d16_gangaur_udaipur",
+          "location": { "name": "Gangaur Festival, Udaipur", "lat": 24.5854, "lng": 73.7125 },
+          "questions": [
+            { "question": "Gangaur is dedicated to which goddess?", "options": ["Gauri", "Durga", "Lakshmi", "Kali"], "correctIndex": 0 },
+            { "question": "Gangaur is particularly celebrated with grand processions in which Rajasthan city?", "options": ["Udaipur", "Jodhpur", "Bikaner", "Ajmer"], "correctIndex": 0 },
+            { "question": "Gangaur festival idols typically represent Gauri alongside which deity?", "options": ["Shiva (as Isar)", "Vishnu", "Ganesha", "Hanuman"], "correctIndex": 0 },
+            { "question": "In Udaipur, the Gangaur procession is uniquely associated with?", "options": ["Boats carrying idols across a lake", "Camel races", "Mountain climbing", "Underground rituals"], "correctIndex": 0 },
+            { "question": "Gangaur is celebrated by women seeking?", "options": ["A good marriage or husband's wellbeing", "Career success only", "Academic achievement", "Financial prosperity only"], "correctIndex": 0 }
+          ],
+          "summary": "Gangaur is a major festival celebrated across Rajasthan, with particularly grand processions in Udaipur, dedicated to the goddess Gauri, symbolizing marital harmony and celebrated by both married and unmarried women. The festival features elaborately dressed idols of Gauri and Shiva (as Isar) carried in colorful processions through city streets, accompanied by traditional folk songs and dances. In Udaipur, the procession often moves toward the city's lake, with boats carrying the idols across the water in a particularly picturesque tradition unique to the city."
+        },
+        {
+          "id": "evt_d16_ugadi_vijayawada",
+          "location": { "name": "Ugadi, Vijayawada", "lat": 16.5062, "lng": 80.6480 },
+          "questions": [
+            { "question": "Ugadi marks the traditional New Year for which linguistic communities?", "options": ["Telugu and Kannada speakers", "Tamil and Malayalam speakers", "Bengali and Odia speakers", "Punjabi and Gujarati speakers"], "correctIndex": 0 },
+            { "question": "A central Ugadi ritual involves eating a dish called?", "options": ["Ugadi pachadi", "Pongal", "Kheer", "Modak"], "correctIndex": 0 },
+            { "question": "Ugadi pachadi symbolically combines how many different flavors?", "options": ["Two", "Three", "Five", "Seven"], "correctIndex": 2 },
+            { "question": "Homes are traditionally decorated during Ugadi with garlands made from?", "options": ["Mango leaves", "Marigold flowers only", "Banana leaves", "Neem flowers only"], "correctIndex": 0 },
+            { "question": "The ritual reading of astrological predictions during Ugadi is called?", "options": ["Panchanga Sravanam", "Muhurat Puja", "Grahapravesh", "Kalash Sthapana"], "correctIndex": 0 }
+          ],
+          "summary": "Ugadi marks the traditional New Year for Telugu and Kannada-speaking communities, celebrated widely across Andhra Pradesh and Telangana including in Vijayawada, typically falling in March or April according to the lunisolar calendar. A central ritual involves eating 'ugadi pachadi,' a dish combining sweet, sour, bitter, salty, and spicy flavors symbolizing the varied emotions life brings throughout the coming year. Homes are decorated with mango leaf garlands, and Panchanga Sravanam, a ritual reading of astrological predictions for the new year, is also a significant part of the celebrations."
+        },
+        {
+          "id": "evt_d16_yaoshang_imphal",
+          "location": { "name": "Yaoshang, Imphal", "lat": 24.8170, "lng": 93.9368 },
+          "questions": [
+            { "question": "Yaoshang is celebrated in which Indian state, around the same time as Holi?", "options": ["Manipur", "Mizoram", "Nagaland", "Tripura"], "correctIndex": 0 },
+            { "question": "What is the moonlit group dance associated with Yaoshang called?", "options": ["Thabal Chongba", "Bihu dance", "Cheraw dance", "Garba"], "correctIndex": 0 },
+            { "question": "Yaoshang blends indigenous Meitei customs with which later religious influence?", "options": ["Vaishnavism", "Buddhism", "Sufism", "Zoroastrianism"], "correctIndex": 0 },
+            { "question": "The children's door-to-door donation-collecting custom during Yaoshang is called?", "options": ["Nakadeng", "Rangoli", "Prasad", "Kalash"], "correctIndex": 0 },
+            { "question": "How many days does Yaoshang typically last?", "options": ["One day", "Three days", "Five days", "Ten days"], "correctIndex": 2 }
+          ],
+          "summary": "Yaoshang, celebrated in Manipur around the same time as Holi, is a traditional festival combining indigenous Meitei customs with Vaishnavite influences introduced centuries ago, marked by five days of communal celebration in Imphal and across the state. A distinctive feature is 'Thabal Chongba,' a moonlit group dance in which young men and women dance together in circles. Children traditionally go door to door collecting small donations, a practice known as 'Nakadeng,' reflecting Manipur's blend of older indigenous traditions with later religious and cultural influences."
+        },
+        {
+          "id": "evt_d16_bathukamma_warangal",
+          "location": { "name": "Bathukamma, Warangal", "lat": 17.9689, "lng": 79.5941 },
+          "questions": [
+            { "question": "Bathukamma is a festival primarily celebrated by women in which Indian state?", "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"], "correctIndex": 1 },
+            { "question": "Bathukamma involves arranging seasonal flowers into what shape?", "options": ["A conical stack", "A square grid", "A circular ring only", "A star pattern"], "correctIndex": 0 },
+            { "question": "How many days does the Bathukamma festival typically span?", "options": ["Three days", "Five days", "Nine days", "Fifteen days"], "correctIndex": 2 },
+            { "question": "\"Bathukamma\" roughly translates to which phrase?", "options": ["Mother Goddess, come alive", "Festival of lights", "Harvest of joy", "Dance of the seasons"], "correctIndex": 0 },
+            { "question": "Bathukamma gained special prominence as a symbol of Telangana's identity after which event?", "options": ["Telangana's formation in 2014", "India's independence in 1947", "The Green Revolution", "Partition"], "correctIndex": 0 }
+          ],
+          "summary": "Bathukamma is a floral festival celebrated primarily by women in Telangana, including in Warangal, involving the arrangement of colorful seasonal flowers in a conical stack that is later immersed in water, accompanied by traditional songs and circular dances. The festival, spanning nine days, coincides with the flowering season following the monsoon and is deeply tied to Telangana's regional cultural identity, particularly gaining prominence as a symbol of the state's distinct heritage after Telangana's formation in 2014. 'Bathukamma' translates roughly to 'Mother Goddess, come alive.'"
+        },
+        {
+          "id": "evt_d16_reh_festival",
+          "location": { "name": "Reh Festival, Roing, Arunachal Pradesh", "lat": 28.1500, "lng": 95.8333 },
+          "questions": [
+            { "question": "The Reh Festival is celebrated by which tribal community?", "options": ["Idu Mishmi", "Apatani", "Nyishi", "Adi"], "correctIndex": 0 },
+            { "question": "The Reh Festival is celebrated in and around which town?", "options": ["Roing", "Itanagar", "Tawang", "Ziro"], "correctIndex": 0 },
+            { "question": "Reh Festival rituals are primarily aimed at?", "options": ["Seeking protection from evil spirits and prosperity", "Celebrating a military victory", "Marking a royal coronation", "Honoring a new bridge construction"], "correctIndex": 0 },
+            { "question": "Reh Festival celebrations typically involve which of the following?", "options": ["Animal sacrifice as offerings", "Silent meditation only", "Fasting for a week", "Underwater rituals"], "correctIndex": 0 },
+            { "question": "Reh Festival reflects which type of spiritual tradition of the Idu Mishmi?", "options": ["Animist traditions", "Buddhist traditions", "Hindu Vedic traditions", "Christian traditions"], "correctIndex": 0 }
+          ],
+          "summary": "The Reh Festival, celebrated by the Idu Mishmi tribe in and around Roing, Arunachal Pradesh, is an important cultural and religious festival marked by rituals aimed at seeking protection from evil spirits and ensuring prosperity for the coming year. The festival involves the sacrifice of animals as offerings, traditional songs and dances performed in elaborate tribal attire, and community feasting that brings together Idu Mishmi families from surrounding villages. Reh reflects the animist spiritual traditions of the Idu Mishmi, one of Arunachal Pradesh's many distinct tribal communities."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d16_cbi",
+          "location": { "name": "Central Bureau of Investigation, New Delhi", "lat": 28.5900, "lng": 77.2200 },
+          "questions": [
+            { "question": "The Central Bureau of Investigation is headquartered in which city?", "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"], "correctIndex": 1 },
+            { "question": "In which year was the CBI formally established?", "options": ["1947", "1963", "1975", "1990"], "correctIndex": 1 },
+            { "question": "The CBI's origins trace back to which World War II-era body?", "options": ["Special Police Establishment", "Indian National Army", "Royal Indian Police", "Home Guard"], "correctIndex": 0 },
+            { "question": "The CBI typically requires which of the following to investigate a state-level case?", "options": ["A court order or state government consent", "No permission at all", "Only a media report", "Only a public petition"], "correctIndex": 0 },
+            { "question": "The CBI has periodically faced criticism over questions regarding its?", "options": ["Political independence", "Uniform design", "Office location", "Recruitment age limits"], "correctIndex": 0 }
+          ],
+          "summary": "The Central Bureau of Investigation (CBI), headquartered in New Delhi, is India's premier federal investigative agency, handling cases involving corruption, major economic offenses, and serious or sensitive crimes that often cross state jurisdictions. Established in 1963, the CBI's origins trace back to the Special Police Establishment, initially set up during World War II. Unlike state police forces, the CBI typically requires either a court order, a state government's consent, or a central government directive to investigate cases, and it has periodically faced criticism over questions of political independence."
+        },
+        {
+          "id": "pol_d16_cag",
+          "location": { "name": "Comptroller and Auditor General of India, New Delhi", "lat": 28.6141, "lng": 77.2270 },
+          "questions": [
+            { "question": "The Comptroller and Auditor General of India is primarily responsible for auditing?", "options": ["Government accounts and expenditures", "Private company balance sheets only", "Foreign trade agreements", "Judicial rulings"], "correctIndex": 0 },
+            { "question": "CAG reports are typically submitted to the President or?", "options": ["State governors", "The Prime Minister only", "The Chief Justice", "The Election Commission"], "correctIndex": 0 },
+            { "question": "CAG reports are tabled in legislatures and scrutinized by which committee?", "options": ["Public Accounts Committee", "Finance Ministry Board", "Cabinet Secretariat", "Supreme Court Bench"], "correctIndex": 0 },
+            { "question": "The CAG's authority is established under which document?", "options": ["The Constitution of India", "An executive order", "A state law", "An international treaty"], "correctIndex": 0 },
+            { "question": "The CAG's independence from executive control is considered essential for?", "options": ["Public financial accountability", "Military command structure", "Foreign diplomacy", "Election scheduling"], "correctIndex": 0 }
+          ],
+          "summary": "The Comptroller and Auditor General of India (CAG), headquartered in New Delhi, is a constitutional authority responsible for auditing the accounts and expenditures of both the central government and state governments. Established under the Constitution, the CAG's reports are submitted to the President or state governors and subsequently tabled in the relevant legislatures, forming the basis for scrutiny by Public Accounts Committees. Several high-profile CAG reports have brought major cases of alleged financial irregularity into public and political debate, and its independence from executive control is considered essential to public financial accountability."
+        },
+        {
+          "id": "pol_d16_manipur_371c",
+          "location": { "name": "Manipur — Article 371C, Imphal", "lat": 24.8170, "lng": 93.9368 },
+          "questions": [
+            { "question": "Article 371C provides special provisions for which part of Manipur?", "options": ["Hill areas", "Coastal areas", "Urban centers only", "Border districts only"], "correctIndex": 0 },
+            { "question": "Manipur's merger agreement with India occurred in which year?", "options": ["1947", "1949", "1956", "1972"], "correctIndex": 1 },
+            { "question": "Manipur achieved full statehood in which year?", "options": ["1956", "1963", "1972", "1987"], "correctIndex": 2 },
+            { "question": "Before full statehood, Manipur existed as a?", "options": ["Union Territory", "Princely state fully independent", "Part of Assam only", "Autonomous district council only"], "correctIndex": 0 },
+            { "question": "Which of these ethnic communities is part of Manipur's diverse population?", "options": ["Meitei", "Meithei-only exclusively", "Only Nagas", "Only Kukis"], "correctIndex": 0 }
+          ],
+          "summary": "Imphal, the capital of Manipur, is tied to a distinctive constitutional arrangement under Article 371C, which provides special provisions for the state's hill areas, requiring a dedicated committee of the state legislature to address the specific administrative needs of these predominantly tribal regions. Manipur's political integration into India followed its 1949 merger agreement, a process that remains a subject of historical debate. The state achieved full statehood in 1972, having earlier existed as a Union Territory, and Manipur's diverse ethnic composition, including Meitei, Naga, and Kuki-Zo communities, has continued to shape its political arrangements."
+        },
+        {
+          "id": "pol_d16_tripura_merger",
+          "location": { "name": "Tripura — Merger and Statehood, Agartala", "lat": 23.8315, "lng": 91.2868 },
+          "questions": [
+            { "question": "Tripura's merger with India took place in which year?", "options": ["1947", "1949", "1956", "1962"], "correctIndex": 1 },
+            { "question": "Tripura achieved full statehood in which year, alongside Manipur and Meghalaya?", "options": ["1963", "1972", "1987", "2000"], "correctIndex": 1 },
+            { "question": "Before full statehood, Tripura existed first as a Part C state and later as a?", "options": ["Union Territory", "Fully independent nation", "District of Assam", "Princely federation"], "correctIndex": 0 },
+            { "question": "Tripura's demographic composition shifted significantly due to large-scale migration following?", "options": ["Partition and subsequent events", "The Green Revolution", "Industrialization", "Colonial railway construction"], "correctIndex": 0 },
+            { "question": "Tribal governance in Tripura is supported through which body?", "options": ["Tripura Tribal Areas Autonomous District Council", "Ladakh Hill Council", "Bodoland Territorial Council", "Gorkhaland Territorial Administration"], "correctIndex": 0 }
+          ],
+          "summary": "Agartala, the capital of Tripura, is closely tied to the former princely state's merger with India in October 1949, following the death of its last reigning monarch. Tripura initially became a Part C state and later a Union Territory before being granted full statehood in 1972, alongside Manipur and Meghalaya. The state's demographic composition shifted dramatically following large-scale migration after Partition, altering the balance between indigenous tribal populations and Bengali-speaking settlers, and tribal governance is now supported through the Tripura Tribal Areas Autonomous District Council."
+        },
+        {
+          "id": "pol_d16_arunachal_statehood",
+          "location": { "name": "Arunachal Pradesh Statehood, Itanagar", "lat": 27.0844, "lng": 93.6053 },
+          "questions": [
+            { "question": "Arunachal Pradesh achieved full statehood in which year?", "options": ["1972", "1987", "2000", "2014"], "correctIndex": 1 },
+            { "question": "Before statehood, Arunachal Pradesh was administered as which entity?", "options": ["North-East Frontier Agency (NEFA)", "Assam Hill Districts", "Tripura Tribal Council", "Bengal Eastern Frontier"], "correctIndex": 0 },
+            { "question": "Arunachal Pradesh first became a Union Territory in which year?", "options": ["1963", "1972", "1980", "1990"], "correctIndex": 1 },
+            { "question": "Arunachal Pradesh's border disputes are primarily with which country?", "options": ["China", "Myanmar", "Bhutan", "Bangladesh"], "correctIndex": 0 },
+            { "question": "China refers to parts of Arunachal Pradesh by which disputed name?", "options": ["South Tibet", "Greater Yunnan", "Eastern Xinjiang", "Lesser Sikkim"], "correctIndex": 0 }
+          ],
+          "summary": "Itanagar, the capital of Arunachal Pradesh, oversees a state that achieved full statehood only in 1987, having previously been administered as the North-East Frontier Agency (NEFA) directly under central government control due to its strategic sensitivity along the disputed border with China. Arunachal Pradesh first became a Union Territory in 1972 before its transition to full statehood fifteen years later. The state is home to more than twenty major tribal communities, and its border location has continued to give it strategic significance, including recurring territorial disputes with China."
+        }
+      ]
+    }
+  }
+}

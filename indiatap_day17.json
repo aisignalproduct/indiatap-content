@@ -1,0 +1,326 @@
+{
+  "day": 17,
+  "date": "2026-10-17",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d17_chandipur_beach",
+          "location": { "name": "Chandipur Beach, Odisha", "lat": 21.4667, "lng": 87.0167 },
+          "questions": [
+            { "question": "Chandipur Beach is known for its unusual?", "options": ["Volcanic sand", "Tidal recession", "Bioluminescence", "Ice formation"], "correctIndex": 1 },
+            { "question": "How far can the sea recede from Chandipur's shoreline during low tide?", "options": ["About 500 m", "About 5 km", "About 20 km", "About 50 km"], "correctIndex": 1 },
+            { "question": "Chandipur Beach is located in which Indian state?", "options": ["West Bengal", "Odisha", "Andhra Pradesh", "Tamil Nadu"], "correctIndex": 1 },
+            { "question": "Chandipur is located in which district?", "options": ["Balasore", "Puri", "Cuttack", "Ganjam"], "correctIndex": 0 },
+            { "question": "Chandipur is situated near a facility used for testing?", "options": ["Defense missiles", "Nuclear reactors", "Aircraft engines", "Space satellites"], "correctIndex": 0 }
+          ],
+          "summary": "Chandipur Beach, in Odisha's Balasore district, is famous for its unusual tidal behavior, where the sea recedes as far as five kilometers from the shoreline during low tide, temporarily exposing a vast stretch of sandy seabed. This dramatic tidal range makes Chandipur one of the more distinctive coastal phenomena in India. The beach sits near a defense missile testing range, adding strategic significance to the otherwise quiet coastal town, and its relatively undeveloped, low-key tourism infrastructure has helped preserve its natural coastal ecosystem."
+        },
+        {
+          "id": "geo_d17_hogenakkal_falls",
+          "location": { "name": "Hogenakkal Falls", "lat": 12.1167, "lng": 77.7667 },
+          "questions": [
+            { "question": "Hogenakkal Falls is located on which river?", "options": ["Kaveri River", "Krishna River", "Tungabhadra River", "Godavari River"], "correctIndex": 0 },
+            { "question": "Hogenakkal Falls is nicknamed the?", "options": ["Niagara of India", "Amazon of India", "Victoria Falls of Asia", "Grand Canyon of India"], "correctIndex": 0 },
+            { "question": "What does \"Hogenakkal\" mean in Kannada?", "options": ["Smoking rocks", "Golden waters", "Roaring river", "Silver falls"], "correctIndex": 0 },
+            { "question": "What traditional boats do local boatmen use at Hogenakkal?", "options": ["Coracle boats", "Catamarans", "Gondolas", "Kayaks"], "correctIndex": 0 },
+            { "question": "Hogenakkal Falls lies on the border of Tamil Nadu and which other state?", "options": ["Karnataka", "Kerala", "Andhra Pradesh", "Telangana"], "correctIndex": 0 }
+          ],
+          "summary": "Hogenakkal Falls, on the Kaveri River at the border of Tamil Nadu and Karnataka, is often nicknamed the 'Niagara of India' for its dramatic cascades tumbling over rocky terrain into a series of pools. The name 'Hogenakkal' translates to 'smoking rocks' in Kannada, referring to the mist created as water crashes onto the rocks below. Local boatmen offer rides on traditional round coracle boats through the falls' calmer pools, and the falls are also known for their supposed therapeutic properties, with visitors traveling for traditional oil massages and baths."
+        },
+        {
+          "id": "geo_d17_saputara",
+          "location": { "name": "Saputara, Gujarat", "lat": 20.5833, "lng": 73.7500 },
+          "questions": [
+            { "question": "Saputara is notable as which type of destination for Gujarat?", "options": ["Its only hill station", "Its capital city", "Its largest port", "Its main desert region"], "correctIndex": 0 },
+            { "question": "What does \"Saputara\" mean?", "options": ["Abode of serpents", "City of lakes", "Valley of flowers", "Land of tribes"], "correctIndex": 0 },
+            { "question": "Saputara is located within which mountain range?", "options": ["Sahyadri Range", "Aravalli Range", "Vindhya Range", "Satpura Range"], "correctIndex": 0 },
+            { "question": "Which indigenous communities are associated with Saputara's tribal art and culture?", "options": ["Bhil and Warli", "Gond and Santhal", "Khasi and Garo", "Toda and Kota"], "correctIndex": 0 },
+            { "question": "Saputara's museum showcases artifacts from which distinctive art form?", "options": ["Warli paintings", "Madhubani paintings", "Pattachitra", "Gond art"], "correctIndex": 0 }
+          ],
+          "summary": "Saputara, Gujarat's only hill station, is nestled in the Sahyadri Range near the border with Maharashtra, offering a cooler climate escape within an otherwise largely plains-dominated state. The name 'Saputara' means 'abode of serpents,' reflecting local tribal beliefs linking the region to snake worship traditions among the indigenous Bhil and Warli communities. The area is home to significant tribal populations, and its museum showcases artifacts from these communities' distinct art forms, including Warli paintings."
+        },
+        {
+          "id": "geo_d17_zuluk",
+          "location": { "name": "Zuluk, Sikkim", "lat": 27.2333, "lng": 88.8167 },
+          "questions": [
+            { "question": "Zuluk is located in which Indian state?", "options": ["Sikkim", "West Bengal", "Assam", "Meghalaya"], "correctIndex": 0 },
+            { "question": "Zuluk is historically significant as part of an old trade route used for trade with?", "options": ["Tibet", "Nepal", "Bhutan", "Myanmar"], "correctIndex": 0 },
+            { "question": "Zuluk is especially famous for its dramatic?", "options": ["Zigzag mountain road with hairpin bends", "Underground caves", "Waterfalls", "Desert dunes"], "correctIndex": 0 },
+            { "question": "On clear days, Zuluk offers views of which mountain range?", "options": ["Kanchenjunga range", "Aravalli range", "Nilgiri range", "Vindhya range"], "correctIndex": 0 },
+            { "question": "Zuluk's proximity to which international border gives it strategic significance?", "options": ["Indo-China border", "Indo-Pakistan border", "Indo-Bangladesh border", "Indo-Myanmar border"], "correctIndex": 0 }
+          ],
+          "summary": "Zuluk, a small village in East Sikkim, sits along an old trade route historically used for silk trade with Tibet, now famous for its dramatic zigzag mountain road with dozens of hairpin bends visible from a distance. The village lies at a relatively high altitude, offering views of the Kanchenjunga range on clear days, and has become a growing offbeat tourist destination. Zuluk's proximity to the Indo-China border gives the region continued strategic military significance, with the historic Silk Route trade path now also serving defense logistics."
+        },
+        {
+          "id": "geo_d17_gangotri_glacier",
+          "location": { "name": "Gangotri Glacier, Uttarakhand", "lat": 30.9930, "lng": 79.0800 },
+          "questions": [
+            { "question": "The Gangotri Glacier is the primary source of which river?", "options": ["Bhagirathi River", "Yamuna River", "Alaknanda River", "Mandakini River"], "correctIndex": 0 },
+            { "question": "The Gangotri Glacier's snout is known by which name?", "options": ["Gaumukh", "Rudra Point", "Shiva Linga", "Bhim Dwar"], "correctIndex": 0 },
+            { "question": "What does \"Gaumukh\" mean?", "options": ["Cow's mouth", "Golden peak", "Sacred stone", "River's eye"], "correctIndex": 0 },
+            { "question": "The Gangotri Glacier is located in which Indian state?", "options": ["Himachal Pradesh", "Uttarakhand", "Jammu and Kashmir", "Sikkim"], "correctIndex": 1 },
+            { "question": "In recent decades, the Gangotri Glacier has been?", "options": ["Retreating", "Advancing rapidly", "Splitting into two", "Freezing completely solid"], "correctIndex": 0 }
+          ],
+          "summary": "The Gangotri Glacier, in Uttarakhand's Garhwal Himalayas, is one of the largest glaciers in the Himalayas and the primary source of the Bhagirathi River, considered the source stream of the sacred Ganga. The glacier's snout, known as Gaumukh ('cow's mouth') for its shape, is a significant pilgrimage site, though it has been retreating in recent decades, widely attributed to climate change. The town of Gangotri, downstream from the glacier, hosts an important temple dedicated to the goddess Ganga, marking the symbolic starting point of the river's sacred journey."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d17_sarnath",
+          "location": { "name": "Sarnath, Uttar Pradesh", "lat": 25.3811, "lng": 83.0225 },
+          "questions": [
+            { "question": "Sarnath is believed to be the site of the Buddha's?", "options": ["Birth", "First sermon", "Enlightenment", "Death"], "correctIndex": 1 },
+            { "question": "The major stupa at Sarnath marking this event is called?", "options": ["Dhamek Stupa", "Sanchi Stupa", "Amaravati Stupa", "Bharhut Stupa"], "correctIndex": 0 },
+            { "question": "The lion capital of an Ashokan pillar at Sarnath was later adopted as India's?", "options": ["National emblem", "Currency symbol", "National flag design", "Postal seal"], "correctIndex": 0 },
+            { "question": "Sarnath is located near which city?", "options": ["Varanasi", "Lucknow", "Prayagraj", "Kanpur"], "correctIndex": 0 },
+            { "question": "Sarnath is one of Buddhism's four major pilgrimage sites, alongside Lumbini, Bodh Gaya, and?", "options": ["Kushinagar", "Ajanta", "Nalanda", "Sanchi"], "correctIndex": 0 }
+          ],
+          "summary": "Sarnath, near Varanasi in Uttar Pradesh, is where the Buddha is believed to have delivered his first sermon after attaining enlightenment, setting in motion the Buddhist teachings known as the 'turning of the wheel of dharma.' The site's Dhamek Stupa marks the traditional location of this event and remains one of the most important Buddhist monuments in India. Sarnath also features the remains of an Ashokan pillar, whose lion capital was later adopted as independent India's national emblem, and it remains one of Buddhism's four major pilgrimage sites."
+        },
+        {
+          "id": "cul_d17_nagarjunakonda",
+          "location": { "name": "Nagarjunakonda, Andhra Pradesh", "lat": 16.5333, "lng": 79.2333 },
+          "questions": [
+            { "question": "Nagarjunakonda is named after which Buddhist philosopher?", "options": ["Nagarjuna", "Ashvaghosha", "Vasubandhu", "Buddhaghosa"], "correctIndex": 0 },
+            { "question": "Nagarjunakonda flourished as a Buddhist center under which dynasty?", "options": ["Ikshvaku dynasty", "Satavahana dynasty", "Chola dynasty", "Pallava dynasty"], "correctIndex": 0 },
+            { "question": "Nagarjunakonda is located within which reservoir?", "options": ["Nagarjuna Sagar reservoir", "Hirakud reservoir", "Bhakra reservoir", "Tehri reservoir"], "correctIndex": 0 },
+            { "question": "Why were many original structures at Nagarjunakonda relocated in the 1960s?", "options": ["To save them from submersion by the dam", "To protect them from an earthquake", "To move them closer to a road", "To display them in a museum in another city"], "correctIndex": 0 },
+            { "question": "Nagarjunakonda is located in which Indian state?", "options": ["Telangana", "Andhra Pradesh", "Tamil Nadu", "Karnataka"], "correctIndex": 1 }
+          ],
+          "summary": "Nagarjunakonda, in Andhra Pradesh, is an island archaeological site within the Nagarjuna Sagar reservoir, containing the remains of an ancient Buddhist settlement that flourished under the Ikshvaku dynasty around the 3rd-4th century CE. Named after the Buddhist philosopher Nagarjuna, the site once housed numerous monasteries, stupas, and universities that attracted students and monks from across Asia. When the Nagarjuna Sagar Dam was constructed in the 1960s, many original structures were relocated to higher ground to save them from submersion, and a museum on the island now displays preserved artifacts."
+        },
+        {
+          "id": "cul_d17_deeg_palace",
+          "location": { "name": "Deeg Palace, Rajasthan", "lat": 27.4667, "lng": 77.3333 },
+          "questions": [
+            { "question": "Deeg Palace was built by which rulers?", "options": ["Jat rulers of Bharatpur", "Rajput rulers of Udaipur", "Maratha rulers of Gwalior", "Sisodia rulers of Mewar"], "correctIndex": 0 },
+            { "question": "Deeg Palace is especially notable for its extensive?", "options": ["Fountains and water features", "Underground tunnels", "Rotating towers", "Glass mosaics"], "correctIndex": 0 },
+            { "question": "Deeg Palace's architecture reflects a blend of which two styles?", "options": ["Mughal and Rajput", "Persian and Chinese", "Gothic and Dravidian", "Colonial and tribal"], "correctIndex": 0 },
+            { "question": "Deeg Palace's fountains were engineered using?", "options": ["Natural water pressure systems", "Modern electric pumps", "Steam engines", "Solar-powered pumps"], "correctIndex": 0 },
+            { "question": "Deeg Palace successfully withstood sieges from which forces historically?", "options": ["Mughal and British forces", "Only Portuguese forces", "Only French forces", "Only Maratha forces"], "correctIndex": 0 }
+          ],
+          "summary": "Deeg Palace, in Rajasthan, was built in the 18th century by the Jat rulers of Bharatpur as a summer retreat, notable for its extensive network of fountains and water features designed to keep the palace cool during hot months. Unlike many Rajasthani palaces built primarily from stone, Deeg's architecture reflects a blend of Mughal and Rajput styles, with pavilions surrounding large ornamental gardens. The palace's fountains, some still functional today, were engineered using natural water pressure, and Deeg also successfully withstood several sieges from Mughal and British forces."
+        },
+        {
+          "id": "cul_d17_gwalior_fort",
+          "location": { "name": "Gwalior Fort, Madhya Pradesh", "lat": 26.2295, "lng": 78.1693 },
+          "questions": [
+            { "question": "Gwalior Fort is historically described as one of India's most?", "options": ["Impregnable forts", "Recently built forts", "Underwater forts", "Wooden forts"], "correctIndex": 0 },
+            { "question": "Which palace within Gwalior Fort is known for its blue-tiled facade?", "options": ["Man Mandir Palace", "Jahaz Mahal", "Hawa Mahal", "City Palace"], "correctIndex": 0 },
+            { "question": "Man Mandir Palace was built by which ruler?", "options": ["Raja Man Singh Tomar", "Maharana Kumbha", "Akbar", "Rana Sanga"], "correctIndex": 0 },
+            { "question": "Gwalior Fort is home to ancient rock-cut sculptures associated with which religion?", "options": ["Jainism", "Buddhism", "Zoroastrianism", "Sikhism"], "correctIndex": 0 },
+            { "question": "Gwalior Fort's rulers are historically noted for patronizing the development of?", "options": ["Indian classical music", "Maritime trade", "Textile weaving", "Astronomy"], "correctIndex": 0 }
+          ],
+          "summary": "Gwalior Fort, perched atop a steep sandstone hill in Madhya Pradesh, has been described by historical chroniclers as one of the most impregnable forts in India, changing hands among various dynasties including the Tomars, Mughals, and Marathas. The fort complex includes the Man Mandir Palace, known for its striking blue-tiled facade, built by Raja Man Singh Tomar in the 15th century. Gwalior Fort also holds religious significance, home to ancient Jain rock-cut sculptures, and its musical legacy is notable too, having been closely associated with the development of Indian classical music."
+        },
+        {
+          "id": "cul_d17_santhome_basilica",
+          "location": { "name": "Santhome Basilica, Chennai", "lat": 13.0339, "lng": 80.2769 },
+          "questions": [
+            { "question": "Santhome Basilica is believed to hold the tomb of which apostle?", "options": ["St. Thomas", "St. Peter", "St. Paul", "St. John"], "correctIndex": 0 },
+            { "question": "Santhome Basilica is located in which city?", "options": ["Chennai", "Kochi", "Goa", "Mumbai"], "correctIndex": 0 },
+            { "question": "The current Santhome Basilica structure was built in which architectural style?", "options": ["Neo-Gothic", "Indo-Saracenic", "Dravidian", "Baroque"], "correctIndex": 0 },
+            { "question": "Santhome is one of how many churches in the world built over the tomb of an apostle of Jesus?", "options": ["Two", "Three", "Five", "Ten"], "correctIndex": 1 },
+            { "question": "Which European power built earlier churches on the Santhome site before the current structure?", "options": ["Portuguese", "British", "French", "Dutch"], "correctIndex": 0 }
+          ],
+          "summary": "Santhome Basilica, in Chennai, is a Roman Catholic church built over the tomb believed to hold the relics of St. Thomas the Apostle, who is traditionally said to have traveled to India and been martyred near present-day Chennai. The current Neo-Gothic structure was built by the British in the late 19th century, replacing earlier Portuguese-era churches on the same site. Santhome is one of only three churches in the world built over the tomb of an apostle of Jesus, making it a globally significant pilgrimage site for Christians."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d17_hal_nashik",
+          "location": { "name": "HAL Nashik, Maharashtra", "lat": 19.9975, "lng": 73.7898 },
+          "questions": [
+            { "question": "HAL's Nashik facility specializes in manufacturing which aircraft under license?", "options": ["Sukhoi Su-30MKI", "Boeing 737", "Airbus A320", "F-16"], "correctIndex": 0 },
+            { "question": "HAL Nashik is located in which Indian state?", "options": ["Maharashtra", "Karnataka", "Gujarat", "Punjab"], "correctIndex": 0 },
+            { "question": "HAL Nashik was originally established to build which aircraft during the Cold War era?", "options": ["MiG aircraft", "Concorde jets", "Boeing aircraft", "Spitfires"], "correctIndex": 0 },
+            { "question": "HAL Nashik's model reflects India's strategy of combining imported technology with?", "options": ["Domestic manufacturing capability", "Fully outsourced production", "No manufacturing at all", "Only research without production"], "correctIndex": 0 },
+            { "question": "HAL Nashik's work supports a significant share of India's?", "options": ["Frontline fighter jet fleet", "Commercial airline fleet", "Railway locomotive fleet", "Naval submarine fleet"], "correctIndex": 0 }
+          ],
+          "summary": "The Hindustan Aeronautics Limited facility in Nashik, Maharashtra, specializes in license-manufacturing advanced fighter aircraft for the Indian Air Force, including the Sukhoi Su-30MKI, under agreements with foreign original manufacturers. Established originally to build MiG aircraft during the Cold War era, the Nashik facility reflects India's long-standing strategy of combining imported defense technology with domestic manufacturing capability. The facility's work supports a significant share of India's frontline fighter jet fleet, reducing dependence on fully imported aircraft."
+        },
+        {
+          "id": "eco_d17_mazagon_dock",
+          "location": { "name": "Mazagon Dock Shipbuilders, Mumbai", "lat": 18.9660, "lng": 72.8422 },
+          "questions": [
+            { "question": "Mazagon Dock Shipbuilders primarily builds which type of vessels?", "options": ["Fishing boats", "Warships and submarines", "Cruise ships", "Cargo ferries"], "correctIndex": 1 },
+            { "question": "Mazagon Dock is located in which city?", "options": ["Mumbai", "Chennai", "Kochi", "Visakhapatnam"], "correctIndex": 0 },
+            { "question": "Mazagon Dock's Scorpene-class submarines were built under technology transfer with which country?", "options": ["France", "Russia", "United States", "Germany"], "correctIndex": 0 },
+            { "question": "In which year was Mazagon Dock nationalized?", "options": ["1947", "1960", "1980", "2000"], "correctIndex": 1 },
+            { "question": "Mazagon Dock's submarine program supports India's push toward greater?", "options": ["Self-reliance in naval defense manufacturing", "Foreign arms imports", "Commercial shipping exports", "Fishing industry growth"], "correctIndex": 0 }
+          ],
+          "summary": "Mazagon Dock Shipbuilders Limited, in Mumbai, is one of India's premier defense shipyards, specializing in building warships and submarines for the Indian Navy, including destroyers and Scorpene-class submarines built under technology transfer agreements with France. With a history dating back to the 18th century, the shipyard was nationalized in 1960 and has since built a significant share of India's major naval vessels domestically. Mazagon Dock's submarine construction program has been central to India's efforts toward greater self-reliance in naval defense manufacturing."
+        },
+        {
+          "id": "eco_d17_integral_coach_factory",
+          "location": { "name": "Integral Coach Factory, Chennai", "lat": 13.0733, "lng": 80.1467 },
+          "questions": [
+            { "question": "The Integral Coach Factory is located in which city?", "options": ["Chennai", "Mumbai", "Kolkata", "Bengaluru"], "correctIndex": 0 },
+            { "question": "In which year was the Integral Coach Factory established?", "options": ["1947", "1955", "1970", "1990"], "correctIndex": 1 },
+            { "question": "The Integral Coach Factory primarily manufactures?", "options": ["Railway coaches", "Automobiles", "Aircraft", "Ships"], "correctIndex": 0 },
+            { "question": "Integral Coach Factory's more recent production includes coaches for which modern train?", "options": ["Vande Bharat Express", "Shatabdi Express only", "Rajdhani Express only", "Duronto Express only"], "correctIndex": 0 },
+            { "question": "The establishment of Integral Coach Factory reflected India's post-independence strategy of?", "options": ["Transportation manufacturing self-sufficiency", "Complete reliance on imports", "Privatizing all railways", "Reducing rail networks"], "correctIndex": 0 }
+          ],
+          "summary": "The Integral Coach Factory, in Chennai, established in 1955, was one of independent India's earliest major manufacturing units aimed at domestically producing railway coaches rather than relying on imports. Since its founding, the factory has produced tens of thousands of coaches used across the Indian Railways network, evolving to include advanced designs used in the Vande Bharat Express trains. The factory's establishment marked a significant step in India's post-independence industrialization strategy in transportation manufacturing self-sufficiency."
+        },
+        {
+          "id": "eco_d17_diesel_locomotive_works",
+          "location": { "name": "Diesel Locomotive Works, Varanasi", "lat": 25.2700, "lng": 82.9600 },
+          "questions": [
+            { "question": "The Diesel Locomotive Works is located in which city?", "options": ["Varanasi", "Lucknow", "Kanpur", "Patna"], "correctIndex": 0 },
+            { "question": "The Diesel Locomotive Works was established with technical collaboration from which country?", "options": ["United States", "Soviet Union", "Germany", "Japan"], "correctIndex": 0 },
+            { "question": "In which decade was the Diesel Locomotive Works established?", "options": ["1950s", "Early 1960s", "1980s", "2000s"], "correctIndex": 1 },
+            { "question": "Over the decades, the facility's manufacturing focus shifted primarily from diesel toward?", "options": ["Electric locomotives", "Steam locomotives", "Aircraft engines", "Marine engines"], "correctIndex": 0 },
+            { "question": "This shift reflects Indian Railways' broader push toward?", "options": ["Full electrification of its network", "Complete diesel dependence", "Reduced train frequency", "Privatized ownership only"], "correctIndex": 0 }
+          ],
+          "summary": "The Diesel Locomotive Works in Varanasi, established in the early 1960s with American technical collaboration, was among India's first facilities dedicated to manufacturing diesel locomotives domestically, replacing the country's earlier dependence on imported engines. Over the decades, the facility transitioned much of its manufacturing focus from diesel to electric locomotives, reflecting Indian Railways' broader shift toward full electrification of its network. The factory has produced thousands of locomotives supplied across India and for export to several other countries."
+        },
+        {
+          "id": "eco_d17_bhel_trichy",
+          "location": { "name": "BHEL Trichy, Tamil Nadu", "lat": 10.7167, "lng": 78.6167 },
+          "questions": [
+            { "question": "BHEL Trichy primarily manufactures heavy equipment for?", "options": ["Power generation", "Automobile manufacturing", "Textile production", "Aircraft assembly"], "correctIndex": 0 },
+            { "question": "BHEL Trichy is located in which state?", "options": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Kerala"], "correctIndex": 0 },
+            { "question": "BHEL Trichy notably manufactures boilers and?", "options": ["Turbines", "Locomotives", "Ships", "Aircraft engines"], "correctIndex": 0 },
+            { "question": "In which decade was BHEL Trichy established?", "options": ["1950s", "1960s", "1980s", "2000s"], "correctIndex": 1 },
+            { "question": "BHEL Trichy's establishment reflected India's push toward self-reliance in?", "options": ["Heavy engineering", "Textile manufacturing", "Software services", "Agricultural equipment only"], "correctIndex": 0 }
+          ],
+          "summary": "Bharat Heavy Electricals Limited's Tiruchirappalli (Trichy) plant, in Tamil Nadu, is one of the company's major manufacturing units, producing heavy equipment for power generation, including boilers and turbines used in thermal power plants across India. Established in the 1960s as part of India's push toward self-reliance in heavy engineering, BHEL Trichy has played a central role in equipping much of the country's thermal power capacity over the decades. The plant has also diversified into equipment for other applications, including industrial and defense-related manufacturing."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d17_parsi_navroz",
+          "location": { "name": "Parsi Navroz, Mumbai", "lat": 18.9500, "lng": 72.8300 },
+          "questions": [
+            { "question": "Navroz is the New Year festival of which community in India?", "options": ["Zoroastrians (Parsis)", "Sikhs", "Jains", "Buddhists"], "correctIndex": 0 },
+            { "question": "Navroz traditions trace back to ancient?", "options": ["Persian traditions", "Greek traditions", "Roman traditions", "Egyptian traditions"], "correctIndex": 0 },
+            { "question": "Parsi communities historically migrated to India after facing persecution in which homeland?", "options": ["Persia (Iran)", "Arabia", "Mesopotamia", "Central Asia generally"], "correctIndex": 0 },
+            { "question": "Which Indian city is home to one of the largest Parsi populations?", "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"], "correctIndex": 0 },
+            { "question": "Navroz celebrations typically include visits to which type of religious site?", "options": ["Fire temples", "Mosques", "Gurudwaras", "Synagogues"], "correctIndex": 0 }
+          ],
+          "summary": "Navroz, the Parsi New Year, is celebrated by India's Zoroastrian community, with Mumbai home to one of the largest Parsi populations in the country, marking the occasion with visits to fire temples, festive meals, and family gatherings. The festival traces its origins to ancient Persian traditions predating the community's migration to India over a thousand years ago, following religious persecution in their homeland. Despite being a small community numerically, Parsis have had an outsized influence on Mumbai's commercial, cultural, and philanthropic history."
+        },
+        {
+          "id": "evt_d17_mopin_festival",
+          "location": { "name": "Mopin Festival, Aalo, Arunachal Pradesh", "lat": 28.1667, "lng": 94.8000 },
+          "questions": [
+            { "question": "Mopin Festival is celebrated by which tribal community?", "options": ["Galo tribe", "Adi tribe", "Nyishi tribe", "Apatani tribe"], "correctIndex": 0 },
+            { "question": "Mopin Festival is celebrated in and around which town?", "options": ["Aalo", "Itanagar", "Tawang", "Ziro"], "correctIndex": 0 },
+            { "question": "What is the name of the distinctive dance performed during Mopin?", "options": ["Popir dance", "Bihu dance", "Cheraw dance", "Garba dance"], "correctIndex": 0 },
+            { "question": "A notable custom during Mopin involves playfully smearing participants' faces with?", "options": ["Rice powder", "Turmeric paste", "Sandalwood paste", "Vermillion"], "correctIndex": 0 },
+            { "question": "Mopin Festival primarily seeks blessings for?", "options": ["A bountiful harvest and protection from misfortune", "A safe pilgrimage", "A military victory", "A royal coronation"], "correctIndex": 0 }
+          ],
+          "summary": "Mopin is a major agricultural festival celebrated by the Galo tribe in and around Aalo, Arunachal Pradesh, marking prayers for a bountiful harvest and protection from evil spirits and misfortune. The festival features the distinctive 'Popir' dance, performed by women in colorful traditional attire, moving in synchronized steps. A notable custom involves playfully smearing rice powder on participants' faces as a gesture of goodwill, and the multi-day celebration brings together Galo communities for feasting, dancing, and rituals performed by tribal priests."
+        },
+        {
+          "id": "evt_d17_baisakhi_talwandi_sabo",
+          "location": { "name": "Baisakhi, Talwandi Sabo, Punjab", "lat": 29.9833, "lng": 74.9333 },
+          "questions": [
+            { "question": "Baisakhi marks the harvest of which crop, alongside its religious significance?", "options": ["Wheat", "Rice", "Cotton", "Sugarcane"], "correctIndex": 0 },
+            { "question": "For Sikhs, Baisakhi commemorates the founding of the Khalsa by which Guru?", "options": ["Guru Gobind Singh", "Guru Nanak", "Guru Arjan Dev", "Guru Tegh Bahadur"], "correctIndex": 0 },
+            { "question": "Talwandi Sabo is the site of which important Sikh Takht?", "options": ["Damdama Sahib", "Akal Takht", "Patna Sahib", "Hazur Sahib"], "correctIndex": 0 },
+            { "question": "In which year was the Khalsa founded, an event linked to Baisakhi?", "options": ["1604", "1699", "1739", "1799"], "correctIndex": 1 },
+            { "question": "Baisakhi celebrations commonly include community meals known as?", "options": ["Langar", "Prasad", "Naivedyam", "Bhog"], "correctIndex": 0 }
+          ],
+          "summary": "Baisakhi, celebrated across Punjab including at the historic town of Talwandi Sabo, marks both the harvest festival of the wheat crop and, for Sikhs, the founding of the Khalsa by Guru Gobind Singh in 1699. Talwandi Sabo holds special religious significance as the site of Damdama Sahib, one of the five Takhts of temporal Sikh authority, where Guru Gobind Singh is said to have prepared the final version of the Guru Granth Sahib. Baisakhi celebrations typically include visits to gurudwaras, community meals known as langar, and energetic Bhangra dances."
+        },
+        {
+          "id": "evt_d17_karam_festival",
+          "location": { "name": "Karam Festival, Simdega, Jharkhand", "lat": 22.6167, "lng": 84.5167 },
+          "questions": [
+            { "question": "The Karam Festival centers around worship of which tree?", "options": ["Karam tree", "Sal tree", "Banyan tree", "Neem tree"], "correctIndex": 0 },
+            { "question": "The Karam tree is worshipped as a symbol of?", "options": ["Youth, strength, and good fortune", "Wealth and royalty", "Wisdom and old age", "War and victory"], "correctIndex": 0 },
+            { "question": "Karam Festival is celebrated by tribal communities in which Indian state?", "options": ["Jharkhand", "Odisha", "Chhattisgarh", "West Bengal"], "correctIndex": 0 },
+            { "question": "The central ritual of Karam involves planting a branch of the tree in a?", "options": ["Courtyard", "River", "Forest", "Field only"], "correctIndex": 0 },
+            { "question": "Which of these communities celebrates Karam Festival?", "options": ["Oraon", "Bhil", "Naga", "Khasi"], "correctIndex": 0 }
+          ],
+          "summary": "Karam is a harvest festival celebrated by tribal communities in Jharkhand, including around Simdega, dedicated to the Karam tree, worshipped as a symbol of youth, strength, and good fortune. The central ritual involves cutting a branch of the Karam tree and planting it ceremonially in a courtyard, around which communities dance and sing through the night. The festival is closely associated with a folk story about siblings who neglected the Karam deity, and is celebrated by various tribal groups including the Oraon, Munda, and Ho communities."
+        },
+        {
+          "id": "evt_d17_sammakka_saralamma",
+          "location": { "name": "Sammakka Saralamma Jatara, Medaram", "lat": 18.5333, "lng": 80.0833 },
+          "questions": [
+            { "question": "The Sammakka Saralamma Jatara is held biennially at which location?", "options": ["Medaram", "Warangal", "Hyderabad", "Karimnagar"], "correctIndex": 0 },
+            { "question": "Sammakka and Saralamma are revered as a?", "options": ["Mother-daughter pair of tribal goddesses", "Two rival kings", "A married couple", "Two warrior brothers"], "correctIndex": 0 },
+            { "question": "According to legend, Sammakka and Saralamma resisted oppressive rule from which dynasty?", "options": ["Kakatiya dynasty", "Chola dynasty", "Vijayanagara Empire", "Nizam rule"], "correctIndex": 0 },
+            { "question": "The Sammakka Saralamma Jatara is primarily organized by which tribal community?", "options": ["Koya tribe", "Gond tribe", "Santhal tribe", "Bhil tribe"], "correctIndex": 0 },
+            { "question": "What traditional offering do devotees make, symbolizing prosperity?", "options": ["Jaggery equal to their body weight", "Gold coins", "Rice grains only", "Silver ornaments"], "correctIndex": 0 }
+          ],
+          "summary": "The Sammakka Saralamma Jatara, held biennially at Medaram in Telangana, is one of Asia's largest tribal religious gatherings, drawing millions of devotees to honor a mother-daughter pair, Sammakka and Saralamma, revered as tribal goddesses who fought against oppressive rule. According to local legend, the two women led their community in resistance against a Kakatiya-era ruler and were later deified. The festival is organized by the Koya tribal community, and devotees offer jaggery equal to their body weight as a traditional offering symbolizing prosperity."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d17_calcutta_high_court",
+          "location": { "name": "Calcutta High Court, Kolkata", "lat": 22.5645, "lng": 88.3433 },
+          "questions": [
+            { "question": "The Calcutta High Court is notable as India's?", "options": ["Oldest High Court", "Newest High Court", "Largest High Court by staff", "Only High Court with online proceedings"], "correctIndex": 0 },
+            { "question": "In which year was the Calcutta High Court established?", "options": ["1858", "1862", "1885", "1900"], "correctIndex": 1 },
+            { "question": "The Calcutta High Court was established under which legislation?", "options": ["Indian High Courts Act", "Government of India Act", "Indian Independence Act", "Regulating Act"], "correctIndex": 0 },
+            { "question": "Besides West Bengal, the Calcutta High Court's jurisdiction also covers?", "options": ["Andaman and Nicobar Islands", "Sikkim", "Assam", "Odisha"], "correctIndex": 0 },
+            { "question": "Calcutta High Court was one of India's three original chartered High Courts, alongside Bombay and?", "options": ["Madras", "Allahabad", "Delhi", "Patna"], "correctIndex": 0 }
+          ],
+          "summary": "The Calcutta High Court, established in 1862, is the oldest High Court in India, created under the Indian High Courts Act passed by the British Parliament to consolidate the judicial systems of the presidency towns. Its jurisdiction originally extended across a much larger territory before later reorganizations reduced it to primarily cover West Bengal and the Andaman and Nicobar Islands. As one of India's three original chartered High Courts, alongside Bombay and Madras, Calcutta High Court holds a foundational place in the history of the Indian judicial system."
+        },
+        {
+          "id": "pol_d17_bombay_high_court",
+          "location": { "name": "Bombay High Court, Mumbai", "lat": 18.9432, "lng": 72.8347 },
+          "questions": [
+            { "question": "The Bombay High Court was established in which year?", "options": ["1858", "1862", "1885", "1905"], "correctIndex": 1 },
+            { "question": "Besides Maharashtra, the Bombay High Court's jurisdiction extends to?", "options": ["Goa, Dadra and Nagar Haveli, and Daman and Diu", "Gujarat and Rajasthan", "Karnataka and Kerala", "Madhya Pradesh only"], "correctIndex": 0 },
+            { "question": "The Bombay High Court's main building was completed in which year?", "options": ["1862", "1878", "1900", "1920"], "correctIndex": 1 },
+            { "question": "The Bombay High Court has benches located in Nagpur, Aurangabad, and?", "options": ["Goa", "Pune", "Nashik", "Kolhapur"], "correctIndex": 0 },
+            { "question": "The Bombay High Court's architecture blends Gothic influences with?", "options": ["Islamic architectural influences", "Mughal influences only", "Dravidian influences", "Buddhist influences"], "correctIndex": 0 }
+          ],
+          "summary": "The Bombay High Court, established in 1862 alongside the Calcutta and Madras High Courts, oversees judicial matters for the state of Maharashtra as well as Goa, Dadra and Nagar Haveli, and Daman and Diu. Its imposing building in Mumbai, completed in 1878, reflects a blend of Gothic and Islamic architectural influences typical of the city's colonial-era public buildings. The court has jurisdiction benches located in Nagpur, Aurangabad, and Goa, and has handled numerous landmark cases shaping Indian commercial, constitutional, and criminal law."
+        },
+        {
+          "id": "pol_d17_madras_high_court",
+          "location": { "name": "Madras High Court, Chennai", "lat": 13.0900, "lng": 80.2846 },
+          "questions": [
+            { "question": "The Madras High Court was established in which year?", "options": ["1858", "1862", "1885", "1900"], "correctIndex": 1 },
+            { "question": "The Madras High Court's architecture is built in which style?", "options": ["Indo-Saracenic", "Gothic Revival only", "Neo-Classical", "Art Deco"], "correctIndex": 0 },
+            { "question": "The Madras High Court's jurisdiction covers Tamil Nadu and which Union Territory?", "options": ["Puducherry", "Lakshadweep", "Andaman and Nicobar Islands", "Daman and Diu"], "correctIndex": 0 },
+            { "question": "The Madras High Court's main building was completed in which year?", "options": ["1862", "1878", "1892", "1910"], "correctIndex": 2 },
+            { "question": "The Madras High Court was one of India's three original chartered High Courts, alongside Bombay and?", "options": ["Calcutta", "Allahabad", "Delhi", "Patna"], "correctIndex": 0 }
+          ],
+          "summary": "The Madras High Court, established in 1862 as one of India's three original chartered High Courts, is renowned for its striking Indo-Saracenic building, often cited as one of the largest judicial complexes in the world. The court's jurisdiction covers Tamil Nadu and the Union Territory of Puducherry. Its distinctive red-brick architecture, completed in 1892, blends British colonial design with Mughal and Hindu architectural motifs typical of the Indo-Saracenic style, and the court has played a significant role in shaping legal precedent across South India."
+        },
+        {
+          "id": "pol_d17_allahabad_high_court",
+          "location": { "name": "Allahabad High Court, Prayagraj", "lat": 25.4525, "lng": 81.8467 },
+          "questions": [
+            { "question": "The Allahabad High Court is notable as India's?", "options": ["Oldest High Court", "Largest High Court by number of judges", "Smallest High Court", "Only online-only court"], "correctIndex": 1 },
+            { "question": "In which year was the Allahabad High Court established?", "options": ["1862", "1866", "1885", "1900"], "correctIndex": 1 },
+            { "question": "The Allahabad High Court primarily serves which Indian state?", "options": ["Uttar Pradesh", "Bihar", "Madhya Pradesh", "Rajasthan"], "correctIndex": 0 },
+            { "question": "The Allahabad High Court has a significant bench located in which city?", "options": ["Lucknow", "Kanpur", "Varanasi", "Agra"], "correctIndex": 0 },
+            { "question": "The Allahabad High Court's large caseload reflects the size of which factor in Uttar Pradesh?", "options": ["Its population", "Its land area alone", "Its coastline", "Its mineral wealth"], "correctIndex": 0 }
+          ],
+          "summary": "The Allahabad High Court, established in 1866, is notable as the largest High Court in India by the number of sanctioned judges, reflecting the vast population and caseload of Uttar Pradesh, the state it primarily serves. Unlike the three original 1862 chartered High Courts, Allahabad was established slightly later as British administrative structures expanded across northern India. The court has a significant bench located in Lucknow, and has handled several landmark cases with far-reaching national significance given the size and political importance of Uttar Pradesh."
+        },
+        {
+          "id": "pol_d17_nhrc",
+          "location": { "name": "National Human Rights Commission, New Delhi", "lat": 28.6280, "lng": 77.2159 },
+          "questions": [
+            { "question": "The National Human Rights Commission was established under which act?", "options": ["Protection of Human Rights Act", "Right to Information Act", "Prevention of Corruption Act", "Indian Penal Code"], "correctIndex": 0 },
+            { "question": "In which year was the NHRC established?", "options": ["1985", "1993", "2005", "2014"], "correctIndex": 1 },
+            { "question": "The NHRC's recommendations to the government are generally?", "options": ["Advisory rather than legally binding", "Fully legally binding", "Ignored by law", "Automatically enforced by courts"], "correctIndex": 0 },
+            { "question": "The NHRC is typically headed by a retired?", "options": ["Chief Justice of India or Supreme Court judge", "Prime Minister", "Army General", "State Governor"], "correctIndex": 0 },
+            { "question": "Besides the NHRC, similar human rights commissions exist at which level?", "options": ["State level", "International level only", "Village level only", "District level only"], "correctIndex": 0 }
+          ],
+          "summary": "The National Human Rights Commission (NHRC), headquartered in New Delhi, was established in 1993 under the Protection of Human Rights Act to investigate and address violations of human rights across India. The commission has the authority to inquire into complaints of rights violations and recommend remedial action, though its recommendations are generally advisory rather than legally binding. Headed by a retired Chief Justice of India or Supreme Court judge, similar human rights commissions have since been established at the state level, working alongside the NHRC."
+        }
+      ]
+    }
+  }
+}

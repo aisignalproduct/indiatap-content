@@ -1,0 +1,326 @@
+{
+  "day": 22,
+  "date": "2026-10-22",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d22_nanda_devi",
+          "location": { "name": "Nanda Devi National Park, Uttarakhand", "lat": 30.3300, "lng": 79.9800 },
+          "questions": [
+            { "question": "Nanda Devi National Park surrounds which peak, the second-highest entirely within India?", "options": ["Nanda Devi", "Kangchenjunga", "K2", "Nanga Parbat"], "correctIndex": 0 },
+            { "question": "Nanda Devi National Park forms a UNESCO World Heritage Site alongside which neighboring park?", "options": ["Valley of Flowers National Park", "Corbett National Park", "Great Himalayan National Park", "Kaziranga National Park"], "correctIndex": 0 },
+            { "question": "Nanda Devi's core zone was closed to mountaineering and trekking to protect its?", "options": ["Fragile high-altitude ecosystem", "Mineral deposits", "Agricultural land", "Local villages"], "correctIndex": 0 },
+            { "question": "The restricted access period at Nanda Devi allowed for significant?", "options": ["Ecological recovery", "Increased mining", "Urban development", "Deforestation"], "correctIndex": 0 },
+            { "question": "Nanda Devi National Park is located in which Indian state?", "options": ["Uttarakhand", "Himachal Pradesh", "Jammu and Kashmir", "Sikkim"], "correctIndex": 0 }
+          ],
+          "summary": "Nanda Devi National Park, in Uttarakhand, surrounds Nanda Devi, the second-highest peak entirely within India, and forms part of a UNESCO World Heritage Site alongside the neighboring Valley of Flowers National Park. The park's core zone was closed to mountaineering and trekking for several decades starting in the 1980s to protect its fragile high-altitude ecosystem. This strict protection allowed significant ecological recovery, with scientific studies documenting the return of species affected by earlier decades of human activity, aided by a natural ring of peaks that made the core sanctuary difficult to access."
+        },
+        {
+          "id": "geo_d22_bhimashankar",
+          "location": { "name": "Bhimashankar Wildlife Sanctuary, Maharashtra", "lat": 19.0728, "lng": 73.5386 },
+          "questions": [
+            { "question": "Bhimashankar Wildlife Sanctuary is notable for hosting which endemic squirrel species?", "options": ["Indian giant squirrel (Malabar giant squirrel)", "Flying squirrel", "Ground squirrel", "Palm squirrel only"], "correctIndex": 0 },
+            { "question": "The sanctuary also encompasses which Jyotirlinga temple?", "options": ["Bhimashankar Temple", "Mahakaleshwar Temple", "Somnath Temple", "Kashi Vishwanath Temple"], "correctIndex": 0 },
+            { "question": "Bhimashankar forest is the source of which river?", "options": ["Bhima River", "Godavari River", "Tapi River", "Narmada River"], "correctIndex": 0 },
+            { "question": "The Bhima River eventually joins which larger river?", "options": ["Krishna River", "Godavari River", "Kaveri River", "Tungabhadra River"], "correctIndex": 0 },
+            { "question": "Bhimashankar Wildlife Sanctuary is located in which Indian state?", "options": ["Maharashtra", "Karnataka", "Gujarat", "Goa"], "correctIndex": 0 }
+          ],
+          "summary": "Bhimashankar Wildlife Sanctuary, in Maharashtra's Western Ghats, is notable for hosting the endemic Indian giant squirrel, a large and strikingly colored arboreal species. The sanctuary also encompasses the Bhimashankar Temple, one of the twelve Jyotirlinga shrines dedicated to Shiva, combining conservation with active pilgrimage. The forest here is the source of the Bhima River, a significant tributary that eventually joins the Krishna River, and Bhimashankar's dense forest supports other wildlife including leopards within the broader Western Ghats ecosystem."
+        },
+        {
+          "id": "geo_d22_chandaka",
+          "location": { "name": "Chandaka Elephant Sanctuary, Odisha", "lat": 20.3833, "lng": 85.6667 },
+          "questions": [
+            { "question": "Chandaka Elephant Sanctuary is located near which Odisha city?", "options": ["Bhubaneswar", "Puri", "Cuttack", "Sambalpur"], "correctIndex": 0 },
+            { "question": "Chandaka Elephant Sanctuary primarily protects which species?", "options": ["Asian elephants", "Bengal tigers", "Asiatic lions", "Snow leopards"], "correctIndex": 0 },
+            { "question": "Chandaka has faced ongoing challenges related to?", "options": ["Human-elephant conflict", "Volcanic activity", "Severe drought", "Coastal erosion"], "correctIndex": 0 },
+            { "question": "Besides elephants, Chandaka's forests support species like leopards and?", "options": ["Sloth bears", "Snow leopards", "Asiatic lions", "Rhinoceros"], "correctIndex": 0 },
+            { "question": "Chandaka's proximity to a major city creates a distinctive juxtaposition of conservation and?", "options": ["Urban development", "Coastal fishing", "Desert farming", "Mountain tourism"], "correctIndex": 0 }
+          ],
+          "summary": "Chandaka Elephant Sanctuary, near Bhubaneswar in Odisha, was established to protect a significant population of wild Asian elephants inhabiting forests close to the state capital. The sanctuary has faced ongoing challenges related to human-elephant conflict, as herds occasionally move beyond protected boundaries into surrounding areas. Chandaka's forests also support species like leopards and sloth bears, and efforts to manage elephant corridors reflect broader challenges facing wildlife conservation as human settlement increasingly encroaches on traditional habitats."
+        },
+        {
+          "id": "geo_d22_sariska",
+          "location": { "name": "Sariska Tiger Reserve, Rajasthan", "lat": 27.3333, "lng": 76.4167 },
+          "questions": [
+            { "question": "Sariska Tiger Reserve gained attention in 2005 for revealing that all its tigers had?", "options": ["Disappeared due to poaching", "Been born in captivity", "Migrated to a neighboring reserve", "Died from disease"], "correctIndex": 0 },
+            { "question": "Tigers were relocated to Sariska starting in 2008 from which other reserve?", "options": ["Ranthambore National Park", "Kanha National Park", "Corbett National Park", "Bandhavgarh National Park"], "correctIndex": 0 },
+            { "question": "Sariska Tiger Reserve is located in which Indian state?", "options": ["Rajasthan", "Madhya Pradesh", "Gujarat", "Haryana"], "correctIndex": 0 },
+            { "question": "Sariska's landscape features dry deciduous forest interspersed with rocky hills and?", "options": ["Ancient temple ruins", "Modern factories", "Coastal beaches", "Glacial lakes"], "correctIndex": 0 },
+            { "question": "Sariska's recovery has become an important reference point in discussions of India's?", "options": ["Tiger conservation policy", "Space program", "Foreign trade policy", "Banking regulations"], "correctIndex": 0 }
+          ],
+          "summary": "Sariska Tiger Reserve, in Rajasthan, gained national attention in 2005 when it was revealed that all of its tigers had disappeared due to poaching, becoming a widely cited case study highlighting gaps in India's tiger protection efforts. Following this crisis, the government relocated tigers from Ranthambore National Park to Sariska starting in 2008, marking one of the first successful tiger relocation efforts in India. The reserve's landscape features dry deciduous forest with rocky hills and ancient temple ruins, and its recovery has become an important reference point in India's conservation policy discussions."
+        },
+        {
+          "id": "geo_d22_melghat",
+          "location": { "name": "Melghat Tiger Reserve, Maharashtra", "lat": 21.3667, "lng": 77.2000 },
+          "questions": [
+            { "question": "Melghat Tiger Reserve was among the original reserves designated under which 1973 initiative?", "options": ["Project Tiger", "Project Elephant", "National Afforestation Programme", "Green India Mission"], "correctIndex": 0 },
+            { "question": "Melghat Tiger Reserve is located within which hill range?", "options": ["Satpura range", "Vindhya range", "Aravalli range", "Western Ghats"], "correctIndex": 0 },
+            { "question": "Which tribal community has traditionally lived in and around Melghat's forests?", "options": ["Korku", "Bhil", "Gond", "Santhal"], "correctIndex": 0 },
+            { "question": "Melghat has faced persistent challenges related to which issue among its tribal population?", "options": ["Malnutrition", "Illiteracy only", "Water scarcity only", "Unemployment only"], "correctIndex": 0 },
+            { "question": "Melghat Tiger Reserve is located in which Indian state?", "options": ["Maharashtra", "Madhya Pradesh", "Chhattisgarh", "Gujarat"], "correctIndex": 0 }
+          ],
+          "summary": "Melghat Tiger Reserve, in Maharashtra's Satpura hill range, was among the nine original tiger reserves designated under India's Project Tiger initiative launched in 1973. The reserve's rugged terrain supports wildlife including tigers, sloth bears, and gaur, alongside significant tribal populations, including the Korku community, who have traditionally lived in and around the forest. Melghat has faced persistent challenges related to malnutrition among its tribal population, reflecting the broader difficulties of balancing conservation priorities with forest-dependent communities' needs."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d22_nizamuddin_dargah",
+          "location": { "name": "Nizamuddin Dargah, Delhi", "lat": 28.5905, "lng": 77.2432 },
+          "questions": [
+            { "question": "The Nizamuddin Dargah is the shrine of which Sufi saint?", "options": ["Nizamuddin Auliya", "Moinuddin Chishti", "Salim Chishti", "Baba Farid"], "correctIndex": 0 },
+            { "question": "The Nizamuddin Dargah complex also houses the tomb of which celebrated poet?", "options": ["Amir Khusrau", "Mirza Ghalib", "Allama Iqbal", "Faiz Ahmed Faiz"], "correctIndex": 0 },
+            { "question": "Amir Khusrau is credited with contributions to the development of which musical form?", "options": ["Qawwali", "Kathak", "Bharatanatyam", "Ghazal singing only"], "correctIndex": 0 },
+            { "question": "Regular qawwali performances at the dargah are particularly associated with which day of the week?", "options": ["Thursday evenings", "Sunday mornings", "Monday afternoons", "Friday nights"], "correctIndex": 0 },
+            { "question": "Nizamuddin Auliya was a key figure in which Sufi order?", "options": ["Chishti order", "Naqshbandi order", "Suhrawardiyya order", "Qadiriyya order"], "correctIndex": 0 }
+          ],
+          "summary": "The Nizamuddin Dargah, in Delhi, is the shrine of the 13th-century Sufi saint Nizamuddin Auliya, one of the most revered figures in the Chishti order of Sufism, drawing devotees across religious lines. The complex also houses the tomb of the poet Amir Khusrau, credited with contributions to the development of qawwali. Regular qawwali performances at the dargah, particularly on Thursday evenings, continue a centuries-old tradition of devotional music, making it one of Delhi's most significant living heritage sites."
+        },
+        {
+          "id": "cul_d22_chand_baori",
+          "location": { "name": "Chand Baori, Abhaneri", "lat": 27.0100, "lng": 76.6017 },
+          "questions": [
+            { "question": "Chand Baori is located in which Rajasthan village?", "options": ["Abhaneri", "Ranakpur", "Pushkar", "Bundi"], "correctIndex": 0 },
+            { "question": "Chand Baori features how many narrow steps, arranged in a geometric pattern?", "options": ["Over 3,500", "About 100", "About 500", "Over 10,000"], "correctIndex": 0 },
+            { "question": "Chand Baori was built around which century?", "options": ["8th-9th century", "3rd century", "15th century", "18th century"], "correctIndex": 0 },
+            { "question": "Chand Baori primarily served as a source of?", "options": ["Groundwater access and cooling", "Royal entertainment only", "Military defense", "Religious worship only"], "correctIndex": 0 },
+            { "question": "Chand Baori has gained international attention for appearing as a?", "options": ["Filming location", "UN headquarters", "Space research site", "Trade summit venue"], "correctIndex": 0 }
+          ],
+          "summary": "Chand Baori, in the village of Abhaneri, Rajasthan, is one of India's largest and deepest stepwells, featuring over 3,500 narrow steps descending roughly 13 stories to the water level. Built around the 8th-9th century, the stepwell provided reliable groundwater access and a cool refuge from summer heat. The precise, symmetrical arrangement of steps on three sides, contrasted against ornately carved pavilions on the fourth, reflects engineering ingenuity, and Chand Baori has gained international attention appearing as a filming location in several productions."
+        },
+        {
+          "id": "cul_d22_vithoba_temple",
+          "location": { "name": "Vithoba Temple, Pandharpur", "lat": 17.6792, "lng": 75.3298 },
+          "questions": [
+            { "question": "The Vithoba Temple is the primary shrine of which devotional sect?", "options": ["Warkari sect", "Lingayat sect", "Kabir Panth", "Nath sect"], "correctIndex": 0 },
+            { "question": "Vithoba is worshipped as a form of which deity?", "options": ["Vishnu-Krishna", "Shiva", "Ganesha", "Durga"], "correctIndex": 0 },
+            { "question": "The major pilgrimage to Pandharpur, in which devotees walk hundreds of kilometers, is called the?", "options": ["Wari", "Kanwar Yatra", "Char Dham Yatra", "Amarnath Yatra"], "correctIndex": 0 },
+            { "question": "The Wari pilgrimage carries palanquins bearing the sandals of which saint-poets?", "options": ["Dnyaneshwar and Tukaram", "Kabir and Ravidas", "Mirabai and Surdas", "Tulsidas and Chaitanya"], "correctIndex": 0 },
+            { "question": "The Warkari tradition emphasizes equality among devotees regardless of?", "options": ["Caste", "Gender only", "Age only", "Nationality"], "correctIndex": 0 }
+          ],
+          "summary": "The Vithoba Temple, in Pandharpur, Maharashtra, is the primary shrine of the Warkari sect, a devotional movement centered on Vithoba, a form of Vishnu-Krishna deeply associated with Maharashtra's Bhakti tradition. The temple is the destination of the Wari, a major pilgrimage in which devotees walk hundreds of kilometers carrying palanquins bearing the sandals of saint-poets Dnyaneshwar and Tukaram. The Wari, drawing hundreds of thousands annually, reflects a communal devotional practice emphasizing equality among devotees regardless of caste."
+        },
+        {
+          "id": "cul_d22_chaturbhuj_temple",
+          "location": { "name": "Chaturbhuj Temple, Orchha", "lat": 25.3524, "lng": 78.6409 },
+          "questions": [
+            { "question": "The Chaturbhuj Temple was built by which dynasty?", "options": ["Bundela Rajput dynasty", "Chandela dynasty", "Rajput Sisodia dynasty", "Maratha dynasty"], "correctIndex": 0 },
+            { "question": "The Chaturbhuj Temple was originally intended to house an idol of which deity?", "options": ["Lord Rama", "Lord Krishna", "Lord Shiva", "Lord Ganesha"], "correctIndex": 0 },
+            { "question": "Orchha, where the Chaturbhuj Temple is located, is situated along which river?", "options": ["Betwa River", "Yamuna River", "Chambal River", "Narmada River"], "correctIndex": 0 },
+            { "question": "The Chaturbhuj Temple's architecture combines elements of temple design with?", "options": ["Fort design", "Stepwell design", "Mosque design", "Church design"], "correctIndex": 0 },
+            { "question": "Orchha was historically the capital of which dynasty?", "options": ["Bundela dynasty", "Chandela dynasty", "Paramara dynasty", "Tomar dynasty"], "correctIndex": 0 }
+          ],
+          "summary": "The Chaturbhuj Temple, in Orchha, Madhya Pradesh, was built in the late 16th century by the Bundela Rajput rulers, originally intended to house an idol of Lord Rama before circumstances led the deity to be installed instead in a nearby palace. The temple's unusual architectural blend combines temple and fort design, with thick walls reflecting the turbulent political context of its construction. Orchha, once the Bundela capital, contains a cluster of well-preserved palaces and temples along the Betwa River, offering a glimpse into Bundela architectural achievement."
+        },
+        {
+          "id": "cul_d22_sabarimala",
+          "location": { "name": "Sabarimala Temple, Kerala", "lat": 9.4198, "lng": 77.0808 },
+          "questions": [
+            { "question": "Sabarimala Temple is dedicated to which deity?", "options": ["Lord Ayyappa", "Lord Krishna", "Lord Shiva", "Lord Vishnu"], "correctIndex": 0 },
+            { "question": "Sabarimala's main pilgrimage season primarily falls between which months?", "options": ["November and January", "March and May", "June and August", "September and October"], "correctIndex": 0 },
+            { "question": "Pilgrims traditionally observe how many days of austerity before the Sabarimala pilgrimage?", "options": ["41 days", "7 days", "100 days", "21 days"], "correctIndex": 0 },
+            { "question": "Sabarimala gained national attention following a 2018 Supreme Court verdict addressing?", "options": ["Women of menstruating age entering the shrine", "Temple land disputes", "Ticket pricing", "Wildlife protection around the temple"], "correctIndex": 0 },
+            { "question": "The final ascent to Sabarimala Temple involves climbing how many sacred steps?", "options": ["Eighteen", "Twelve", "Fifty", "One hundred"], "correctIndex": 0 }
+          ],
+          "summary": "The Sabarimala Temple, in Kerala's Western Ghats, is dedicated to Lord Ayyappa and is one of the largest annual pilgrimage sites in the world, drawing tens of millions of devotees primarily between November and January. Pilgrims observe a strict 41-day period of austerity before the arduous trek. The temple gained significant national attention following a 2018 Supreme Court verdict addressing the traditional restriction on women of menstruating age entering the shrine, and its final ascent up eighteen sacred steps distinguishes it as one of India's most distinctive pilgrimage destinations."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d22_sun_pharma",
+          "location": { "name": "Sun Pharma, Halol, Gujarat", "lat": 22.5083, "lng": 73.4667 },
+          "questions": [
+            { "question": "Sun Pharma's Halol facility is located in which Indian state?", "options": ["Gujarat", "Maharashtra", "Karnataka", "Telangana"], "correctIndex": 0 },
+            { "question": "Sun Pharma is recognized as India's largest pharmaceutical company by?", "options": ["Revenue", "Number of retail stores", "Number of employees only", "Land area of factories"], "correctIndex": 0 },
+            { "question": "Sun Pharma grew significantly through a combination of organic growth and?", "options": ["Strategic acquisitions", "Government nationalization", "Foreign colonization", "Currency devaluation"], "correctIndex": 0 },
+            { "question": "Indian pharmaceutical plants supplying international markets, like Sun Pharma's Halol facility, operate under regulations enforced by agencies including the?", "options": ["US Food and Drug Administration", "World Health Organization only", "United Nations", "International Monetary Fund"], "correctIndex": 0 },
+            { "question": "India's pharmaceutical manufacturing sector is often referred to as the?", "options": ["Pharmacy of the world", "Bank of the world", "Factory of Asia", "Silicon Valley of India"], "correctIndex": 0 }
+          ],
+          "summary": "Sun Pharmaceutical Industries' manufacturing facility in Halol, Gujarat, is a key production site for Sun Pharma, India's largest pharmaceutical company by revenue and a major global generic drug manufacturer. Founded in the 1980s, Sun Pharma grew rapidly through organic growth and strategic acquisitions to become a leading specialty generic pharmaceutical company. The Halol facility operates under strict quality regulations enforced by agencies like the US FDA, reflecting India's broader emergence as the 'pharmacy of the world.'"
+        },
+        {
+          "id": "eco_d22_serum_institute",
+          "location": { "name": "Serum Institute of India, Pune", "lat": 18.5074, "lng": 73.8077 },
+          "questions": [
+            { "question": "The Serum Institute of India is recognized as the world's largest vaccine manufacturer by?", "options": ["Number of doses produced", "Revenue generated", "Number of employees", "Number of patents held"], "correctIndex": 0 },
+            { "question": "The Serum Institute of India is headquartered in which city?", "options": ["Pune", "Mumbai", "Bengaluru", "Hyderabad"], "correctIndex": 0 },
+            { "question": "During the COVID-19 pandemic, Serum Institute manufactured which vaccine, marketed in India as Covishield?", "options": ["Oxford-AstraZeneca vaccine", "Pfizer vaccine", "Moderna vaccine", "Sinovac vaccine"], "correctIndex": 0 },
+            { "question": "The Serum Institute supplies vaccines to how many countries?", "options": ["Over 170 countries", "About 10 countries", "About 50 countries", "Only India"], "correctIndex": 0 },
+            { "question": "The Serum Institute's scale has positioned which city as a globally significant hub for vaccine production?", "options": ["Pune", "Mumbai", "Chennai", "Bengaluru"], "correctIndex": 0 }
+          ],
+          "summary": "The Serum Institute of India, headquartered in Pune, Maharashtra, is the world's largest vaccine manufacturer by number of doses produced, supplying vaccines for measles, polio, and COVID-19. Founded in the 1960s, it scaled up massively to supply vaccines to over 170 countries. During the COVID-19 pandemic, Serum Institute's manufacturing of the Oxford-AstraZeneca vaccine, marketed as Covishield, made it central to India's vaccination campaign and exports, positioning Pune as a globally significant vaccine production hub."
+        },
+        {
+          "id": "eco_d22_coal_india",
+          "location": { "name": "Coal India Limited, Kolkata", "lat": 22.5726, "lng": 88.3639 },
+          "questions": [
+            { "question": "Coal India Limited is recognized as the world's largest coal mining company by?", "options": ["Output", "Number of employees", "Market capitalization", "Number of countries operated in"], "correctIndex": 0 },
+            { "question": "Coal India Limited is headquartered in which city?", "options": ["Kolkata", "Delhi", "Mumbai", "Ranchi"], "correctIndex": 0 },
+            { "question": "Coal India Limited was formed in which year through nationalization?", "options": ["1975", "1950", "1991", "2005"], "correctIndex": 0 },
+            { "question": "Coal India primarily supplies fuel for India's?", "options": ["Coal-dependent power generation sector", "Steel production only", "Textile industry", "Agricultural sector"], "correctIndex": 0 },
+            { "question": "Coal India's operations span coalfields across states including Jharkhand, Chhattisgarh, Odisha, and?", "options": ["West Bengal", "Kerala", "Gujarat", "Punjab"], "correctIndex": 0 }
+          ],
+          "summary": "Coal India Limited, headquartered in Kolkata, is the world's largest coal mining company by output, accounting for a significant majority of India's total domestic coal production. Formed in 1975 through nationalization of India's coal mining industry, the company supplies fuel for India's coal-dependent power generation sector. Coal India's operations span numerous coalfields across Jharkhand, Chhattisgarh, Odisha, and West Bengal, and its continued dominance reflects India's ongoing reliance on coal during its broader energy transition."
+        },
+        {
+          "id": "eco_d22_dr_reddys",
+          "location": { "name": "Dr. Reddy's Laboratories, Hyderabad", "lat": 17.4239, "lng": 78.4738 },
+          "questions": [
+            { "question": "Dr. Reddy's Laboratories is headquartered in which Indian city?", "options": ["Hyderabad", "Bengaluru", "Chennai", "Mumbai"], "correctIndex": 0 },
+            { "question": "Dr. Reddy's Laboratories gained recognition for reverse-engineering and manufacturing more affordable versions of?", "options": ["Expensive branded drugs", "Luxury automobiles", "Advanced electronics", "Military equipment"], "correctIndex": 0 },
+            { "question": "Dr. Reddy's has expanded into international markets including the United States and?", "options": ["Europe", "Only Africa", "Only South America", "Only the Middle East"], "correctIndex": 0 },
+            { "question": "In which decade was Dr. Reddy's Laboratories founded?", "options": ["1980s", "1950s", "1990s", "2000s"], "correctIndex": 0 },
+            { "question": "Dr. Reddy's growth reflects the broader rise of India's generic pharmaceutical industry as a supplier of?", "options": ["Affordable medicines", "Only luxury goods", "Only military supplies", "Only agricultural products"], "correctIndex": 0 }
+          ],
+          "summary": "Dr. Reddy's Laboratories, headquartered in Hyderabad, is one of India's leading pharmaceutical companies, known for pioneering the country's early shift into producing complex generic drugs. Founded in the 1980s, the company gained recognition for reverse-engineering and manufacturing more affordable versions of expensive branded drugs, making medications more accessible in India and other developing countries. Dr. Reddy's has expanded into the United States and Europe, reflecting the broader rise of India's generic pharmaceutical industry as a global supplier of affordable medicines."
+        },
+        {
+          "id": "eco_d22_wipro",
+          "location": { "name": "Wipro, Bengaluru", "lat": 12.9184, "lng": 77.6819 },
+          "questions": [
+            { "question": "Wipro is headquartered in which Indian city?", "options": ["Bengaluru", "Mumbai", "Chennai", "Hyderabad"], "correctIndex": 0 },
+            { "question": "Wipro originally began as a business in which sector?", "options": ["Vegetable oil manufacturing", "Steel production", "Textile weaving", "Banking"], "correctIndex": 0 },
+            { "question": "In which year was Wipro founded?", "options": ["1945", "1970", "1991", "2000"], "correctIndex": 0 },
+            { "question": "Wipro's major diversification into IT services began in which decade?", "options": ["1980s", "1950s", "1960s", "2000s"], "correctIndex": 0 },
+            { "question": "Wipro's transformation exemplifies broader economic changes following India's liberalization in which decade?", "options": ["Early 1990s", "Late 1940s", "Late 1970s", "Early 2000s"], "correctIndex": 0 }
+          ],
+          "summary": "Wipro, headquartered in Bengaluru, is one of India's major information technology services companies, having transformed from its origins as a vegetable oil manufacturing business into a global technology firm. Founded in 1945, the company's dramatic diversification into IT services beginning in the 1980s reflects a broader pattern among India's early industrial conglomerates adapting to later technology-driven growth. Wipro's evolution from consumer goods to technology services exemplifies India's broader economic transformation following liberalization in the early 1990s."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d22_cheti_chand",
+          "location": { "name": "Cheti Chand, Ulhasnagar", "lat": 19.2215, "lng": 73.1645 },
+          "questions": [
+            { "question": "Cheti Chand marks the New Year for which community?", "options": ["Sindhi community", "Punjabi community", "Bengali community", "Gujarati community"], "correctIndex": 0 },
+            { "question": "Cheti Chand is dedicated to which saint-deity?", "options": ["Jhulelal", "Guru Nanak", "Sai Baba", "Zoroaster"], "correctIndex": 0 },
+            { "question": "Ulhasnagar developed as a major settlement for Sindhi refugees following which event?", "options": ["Partition in 1947", "Independence in 1947 alone", "The 1965 war", "The 1971 war"], "correctIndex": 0 },
+            { "question": "A ceremonial ritual during Cheti Chand involving water is called?", "options": ["Baharana Sahib", "Kalash Sthapana", "Jal Abhishek", "Ganga Snan"], "correctIndex": 0 },
+            { "question": "Jhulelal is traditionally associated with which river?", "options": ["Indus River", "Ganga River", "Yamuna River", "Narmada River"], "correctIndex": 0 }
+          ],
+          "summary": "Cheti Chand, celebrated widely by the Sindhi community including in Ulhasnagar, Maharashtra, marks the Sindhi New Year and is dedicated to Jhulelal, a revered saint-deity believed to have protected the community from persecution centuries ago. Ulhasnagar, developed as a major settlement for Sindhi refugees following Partition in 1947, holds particular significance for these celebrations, reflecting the community's efforts to preserve cultural identity after displacement. Celebrations include processions, devotional singing, and the ceremonial 'Baharana Sahib' ritual involving water."
+        },
+        {
+          "id": "evt_d22_deepotsav",
+          "location": { "name": "Deepotsav, Ayodhya", "lat": 26.7922, "lng": 82.1998 },
+          "questions": [
+            { "question": "Deepotsav coincides with which major Hindu festival?", "options": ["Diwali", "Holi", "Navratri", "Dussehra"], "correctIndex": 0 },
+            { "question": "Deepotsav celebrates the return of which figure to Ayodhya?", "options": ["Lord Rama", "Lord Krishna", "Lord Shiva", "Lord Hanuman"], "correctIndex": 0 },
+            { "question": "Deepotsav has set multiple Guinness World Records for the number of?", "options": ["Oil lamps lit simultaneously", "Fireworks launched", "Boats in a procession", "Temple bells rung"], "correctIndex": 0 },
+            { "question": "Deepotsav's lamps are lit along the banks of which river?", "options": ["Saryu River", "Ganga River", "Yamuna River", "Godavari River"], "correctIndex": 0 },
+            { "question": "Deepotsav is held in which Uttar Pradesh city?", "options": ["Ayodhya", "Varanasi", "Mathura", "Prayagraj"], "correctIndex": 0 }
+          ],
+          "summary": "Deepotsav, held annually in Ayodhya, Uttar Pradesh, has grown into one of India's largest lamp-lighting festivals, coinciding with Diwali and celebrating the return of Lord Rama to Ayodhya after his exile. The event has set multiple Guinness World Records for the number of oil lamps lit simultaneously along the banks of the Saryu River. The festival has grown substantially since the completion of the Ram Mandir temple, becoming a significant tourism and pilgrimage draw reflecting Ayodhya's evolving role in contemporary India."
+        },
+        {
+          "id": "evt_d22_basar_saraswati",
+          "location": { "name": "Basar Saraswati Festival, Telangana", "lat": 18.8833, "lng": 77.9833 },
+          "questions": [
+            { "question": "The Basar temple is dedicated exclusively to which goddess?", "options": ["Saraswati", "Lakshmi", "Durga", "Parvati"], "correctIndex": 0 },
+            { "question": "Basar's temple is especially significant during which festival?", "options": ["Vasant Panchami", "Diwali", "Navratri", "Ganesh Chaturthi"], "correctIndex": 0 },
+            { "question": "The Basar temple is located on the banks of which river?", "options": ["Godavari River", "Krishna River", "Kaveri River", "Tungabhadra River"], "correctIndex": 0 },
+            { "question": "The ceremony in which children are initiated into learning at Basar is called?", "options": ["Akshara Abhyasam", "Upanayanam", "Annaprashan", "Namkaran"], "correctIndex": 0 },
+            { "question": "Basar's dedicated worship of Saraswati makes it relatively unique among India's temple towns because most are associated with?", "options": ["Other principal deities", "No deities at all", "Only local folk spirits", "Only ancestor worship"], "correctIndex": 0 }
+          ],
+          "summary": "Basar, in Telangana, is home to one of the few temples in India dedicated exclusively to Saraswati, the goddess of knowledge, drawing large crowds especially during the Vasant Panchami festival. The temple's location on the banks of the Godavari River adds to its significance. A distinctive tradition involves the 'Akshara Abhyasam' ceremony, in which young children are formally initiated into learning by writing their first letters under the goddess's blessing, making Basar relatively unique among India's temple towns."
+        },
+        {
+          "id": "evt_d22_arattupuzha_pooram",
+          "location": { "name": "Arattupuzha Pooram, Kerala", "lat": 10.5333, "lng": 76.3333 },
+          "questions": [
+            { "question": "Arattupuzha Pooram is often referred to as the?", "options": ["Mother of all poorams", "Father of all festivals", "King of Kerala festivals", "First pooram of India"], "correctIndex": 0 },
+            { "question": "Arattupuzha Pooram is held in which Kerala district?", "options": ["Thrissur", "Ernakulam", "Kozhikode", "Palakkad"], "correctIndex": 0 },
+            { "question": "Arattupuzha Pooram's centerpiece involves processions of?", "options": ["Caparisoned elephants", "Decorated boats", "Bullock carts", "Camel caravans"], "correctIndex": 0 },
+            { "question": "Traditional percussion ensembles accompanying pooram processions are called?", "options": ["Panchari Melam", "Vanchipattu", "Baul songs", "Qawwali"], "correctIndex": 0 },
+            { "question": "Arattupuzha Pooram is believed to have reportedly inspired which more widely known festival?", "options": ["Thrissur Pooram", "Onam", "Vishu", "Attukal Pongala"], "correctIndex": 0 }
+          ],
+          "summary": "Arattupuzha Pooram, held in Kerala's Thrissur district, is often referred to as the 'mother of all poorams,' predating and reportedly inspiring the more widely known Thrissur Pooram. The festival's centerpiece involves an assembly of temple deities brought together in elephant-mounted processions, symbolizing a mythological gathering of gods. Traditional percussion ensembles, including the elaborate 'Panchari Melam,' accompany the processions, and Arattupuzha's historical precedence makes it an important reference point in Kerala's temple festival tradition."
+        },
+        {
+          "id": "evt_d22_urs_ajmer",
+          "location": { "name": "Urs at Ajmer Sharif", "lat": 26.4520, "lng": 74.6295 },
+          "questions": [
+            { "question": "The Urs at Ajmer Sharif commemorates the death anniversary of which Sufi saint?", "options": ["Moinuddin Chishti", "Nizamuddin Auliya", "Salim Chishti", "Baba Farid"], "correctIndex": 0 },
+            { "question": "The Urs is celebrated as the saint's spiritual union with the divine rather than?", "options": ["An occasion of mourning", "A political event", "A harvest celebration", "A royal coronation"], "correctIndex": 0 },
+            { "question": "The Urs festival typically includes performances of?", "options": ["Qawwali", "Bharatanatyam", "Kathak", "Opera"], "correctIndex": 0 },
+            { "question": "The Ajmer Sharif Dargah historically drew attendance from which historical rulers?", "options": ["Mughal emperors", "Only British viceroys", "Only Portuguese governors", "Only Maratha kings"], "correctIndex": 0 },
+            { "question": "Ajmer Sharif Dargah is located in which Indian state?", "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Haryana"], "correctIndex": 0 }
+          ],
+          "summary": "The Urs festival at the Ajmer Sharif Dargah, in Rajasthan, commemorates the death anniversary of the Sufi saint Moinuddin Chishti, celebrated as his spiritual union with the divine rather than mourned as loss. The multi-day event includes qawwali performances, community meals, and processions, drawing millions of devotees across religious lines. The Urs has historically drawn attendance from Mughal emperors, and Ajmer Sharif's continued draw during the festival reflects the broader syncretic tradition associated with Sufi shrines in the subcontinent."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d22_ayodhya_legal",
+          "location": { "name": "Ayodhya — Ram Janmabhoomi Legal History", "lat": 26.7922, "lng": 82.1998 },
+          "questions": [
+            { "question": "The Ayodhya dispute centered on competing claims over a site associated with which historical structure?", "options": ["Babri Masjid", "Jama Masjid", "Charminar", "Golconda Fort"], "correctIndex": 0 },
+            { "question": "The Babri Masjid was demolished by a mob in which year?", "options": ["1992", "1985", "2000", "2010"], "correctIndex": 0 },
+            { "question": "The Supreme Court issued its verdict on the Ayodhya dispute in which year?", "options": ["2019", "1992", "2005", "2014"], "correctIndex": 0 },
+            { "question": "The Supreme Court's verdict awarded the disputed land for the construction of a?", "options": ["Hindu temple", "Mosque", "Shared religious complex", "Government building"], "correctIndex": 0 },
+            { "question": "The demolition of the Babri Masjid in 1992 triggered widespread?", "options": ["Communal violence across India", "Economic reforms", "Foreign sanctions", "Military coups"], "correctIndex": 0 }
+          ],
+          "summary": "Ayodhya, in Uttar Pradesh, was the center of one of independent India's longest-running legal disputes, concerning competing claims over a site considered by Hindus to be the birthplace of Lord Rama and historically the location of the Babri Masjid, demolished by a mob in 1992. The dispute reached resolution in November 2019, when the Supreme Court issued a unanimous verdict awarding the disputed land for the construction of a Hindu temple while directing alternative land elsewhere for a mosque. The demolition had earlier triggered widespread communal violence across India."
+        },
+        {
+          "id": "pol_d22_assam_nrc",
+          "location": { "name": "Assam — National Register of Citizens", "lat": 26.1445, "lng": 91.7362 },
+          "questions": [
+            { "question": "The National Register of Citizens (NRC) process was primarily implemented in which state?", "options": ["Assam", "West Bengal", "Bihar", "Tripura"], "correctIndex": 0 },
+            { "question": "The NRC aims to identify genuine citizens amid concerns about undocumented migration from?", "options": ["Bangladesh", "Nepal", "Bhutan", "Myanmar"], "correctIndex": 0 },
+            { "question": "Assam's final NRC list, published in 2019, excluded approximately how many people?", "options": ["1.9 million", "500,000", "5 million", "100,000"], "correctIndex": 0 },
+            { "question": "The NRC process in Assam traces its origins to which 1985 agreement?", "options": ["Assam Accord", "Shimla Agreement", "Punjab Accord", "Mizo Accord"], "correctIndex": 0 },
+            { "question": "Controversy over Assam's NRC has fueled broader national debates about?", "options": ["Citizenship verification processes", "Foreign trade policy", "Space exploration", "Banking regulations"], "correctIndex": 0 }
+          ],
+          "summary": "Guwahati, Assam's largest city, has been at the center of the state's implementation of the National Register of Citizens (NRC), aimed at identifying genuine Indian citizens amid concerns about undocumented migration from Bangladesh. The final NRC list, published in 2019, excluded approximately 1.9 million people, sparking controversy over verification errors and administrative burdens. The process traces its origins to the 1985 Assam Accord, and the controversy has fueled broader national debates about citizenship verification processes."
+        },
+        {
+          "id": "pol_d22_jharkhand_formation",
+          "location": { "name": "Jharkhand Formation, Ranchi", "lat": 23.3441, "lng": 85.3096 },
+          "questions": [
+            { "question": "Jharkhand was carved out of which state in 2000?", "options": ["Bihar", "West Bengal", "Odisha", "Uttar Pradesh"], "correctIndex": 0 },
+            { "question": "Jharkhand became which numbered state of India?", "options": ["26th", "27th", "28th", "29th"], "correctIndex": 2 },
+            { "question": "The movement for Jharkhand's creation was significantly driven by concerns over?", "options": ["Mineral wealth benefiting outside interests over local tribal population", "Language disputes only", "Religious conflicts", "Border disputes with Nepal"], "correctIndex": 0 },
+            { "question": "Jharkhand's formation coincided with the creation of which other two states in 2000?", "options": ["Chhattisgarh and Uttarakhand", "Telangana and Andhra Pradesh", "Nagaland and Meghalaya", "Sikkim and Goa"], "correctIndex": 0 },
+            { "question": "Ranchi is the capital of which Indian state?", "options": ["Jharkhand", "Bihar", "West Bengal", "Odisha"], "correctIndex": 0 }
+          ],
+          "summary": "Ranchi, the capital of Jharkhand, oversees a state carved out of Bihar in November 2000, becoming India's 28th state following a decades-long movement demanding greater autonomy for the mineral-rich tribal regions of southern Bihar. The movement was driven significantly by concerns that the region's mineral wealth had historically benefited outside industrial interests more than the local tribal population. Jharkhand's formation coincided with the creation of Chhattisgarh and Uttarakhand in the same year, part of a wave of state reorganizations addressing regional development disparities."
+        },
+        {
+          "id": "pol_d22_shaheen_bagh",
+          "location": { "name": "Shaheen Bagh CAA Protests, Delhi", "lat": 28.5060, "lng": 77.2870 },
+          "questions": [
+            { "question": "The Shaheen Bagh protests were primarily against which law?", "options": ["Citizenship Amendment Act (CAA)", "Right to Information Act", "Prevention of Corruption Act", "Land Acquisition Act"], "correctIndex": 0 },
+            { "question": "The CAA created a fast-track citizenship path for certain non-Muslim minorities from how many neighboring countries?", "options": ["Three", "One", "Five", "Seven"], "correctIndex": 0 },
+            { "question": "The Shaheen Bagh protests were led significantly by?", "options": ["Local women", "Only political parties", "Only students", "Only religious leaders"], "correctIndex": 0 },
+            { "question": "Critics of the CAA argued it could disproportionately affect which group's ability to prove citizenship, when combined with the NRC?", "options": ["Muslim citizens", "Christian citizens", "Sikh citizens", "Buddhist citizens"], "correctIndex": 0 },
+            { "question": "The Shaheen Bagh protests were eventually cleared amid the onset of which global event in early 2020?", "options": ["COVID-19 pandemic", "A financial crisis", "A war", "A natural disaster"], "correctIndex": 0 }
+          ],
+          "summary": "Shaheen Bagh, a residential neighborhood in Delhi, became the epicenter of nationwide protests in late 2019 and early 2020 against the Citizenship Amendment Act (CAA), which created a fast-track citizenship path for certain non-Muslim minorities from three neighboring countries. The protests, led significantly by local women in a sustained sit-in, drew widespread attention and inspired solidarity protests across India. Critics argued the CAA combined with the NRC could disproportionately affect Muslim citizens, and the protests were eventually cleared amid the onset of the COVID-19 pandemic."
+        },
+        {
+          "id": "pol_d22_demonetization",
+          "location": { "name": "Demonetization, RBI Mumbai", "lat": 18.9331, "lng": 72.8355 },
+          "questions": [
+            { "question": "India's demonetization policy was announced on which date?", "options": ["November 8, 2016", "January 1, 2017", "August 15, 2016", "October 2, 2016"], "correctIndex": 0 },
+            { "question": "Demonetization primarily invalidated which denomination banknotes?", "options": ["500 and 1,000 rupee notes", "100 and 200 rupee notes", "All coins", "2,000 rupee notes only"], "correctIndex": 0 },
+            { "question": "Demonetization was implemented through which institution?", "options": ["Reserve Bank of India", "Ministry of Finance directly", "Supreme Court", "Election Commission"], "correctIndex": 0 },
+            { "question": "Demonetization's stated goals included curbing black money, counterfeit currency, and?", "options": ["Corruption", "Foreign investment", "Agricultural subsidies", "Trade tariffs"], "correctIndex": 0 },
+            { "question": "Demonetization accelerated India's broader push toward?", "options": ["Digital payments and formal banking", "Cash-only transactions", "Barter systems", "Foreign currency use"], "correctIndex": 0 }
+          ],
+          "summary": "On November 8, 2016, the Indian government announced the demonetization of high-value 500 and 1,000 rupee banknotes, implemented through the Reserve Bank of India to curb black money, counterfeit currency, and corruption. The sudden policy caused significant short-term disruption to India's cash-dependent economy, particularly affecting small businesses and rural areas. The policy's long-term effectiveness has remained subject to economic debate, though it accelerated India's broader push toward digital payments and formal banking channels."
+        }
+      ]
+    }
+  }
+}

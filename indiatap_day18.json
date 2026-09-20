@@ -1,0 +1,326 @@
+{
+  "day": 18,
+  "date": "2026-10-18",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d18_tsomgo_lake",
+          "location": { "name": "Tsomgo Lake, Sikkim", "lat": 27.3733, "lng": 88.7639 },
+          "questions": [
+            { "question": "Tsomgo Lake is also known by which other name?", "options": ["Changu Lake", "Pangong Lake", "Roopkund Lake", "Dal Lake"], "correctIndex": 0 },
+            { "question": "Tsomgo Lake is located in which Indian state?", "options": ["Sikkim", "West Bengal", "Arunachal Pradesh", "Assam"], "correctIndex": 0 },
+            { "question": "Tsomgo Lake lies along the route toward which mountain pass on the China border?", "options": ["Nathu La", "Zoji La", "Rohtang Pass", "Khardung La"], "correctIndex": 0 },
+            { "question": "What happens to Tsomgo Lake during winter?", "options": ["It freezes", "It dries up completely", "It overflows", "It turns saline"], "correctIndex": 0 },
+            { "question": "What animals are traditionally available for rides around Tsomgo Lake?", "options": ["Yaks and mules", "Camels", "Elephants", "Horses only"], "correctIndex": 0 }
+          ],
+          "summary": "Tsomgo Lake, also known as Changu Lake, sits at about 3,753 meters in East Sikkim, a glacial lake considered sacred by local Buddhist and Hindu communities. The lake's waters change color through the seasons and it remains frozen during the harsh winter months. Located along the historic trade route toward the Nathu La pass on the Indo-China border, Tsomgo has long held strategic as well as cultural significance for the region, and yaks and mules are traditionally available for visitors to ride around its shoreline."
+        },
+        {
+          "id": "geo_d18_hundru_falls",
+          "location": { "name": "Hundru Falls, Jharkhand", "lat": 23.4333, "lng": 85.6500 },
+          "questions": [
+            { "question": "Hundru Falls is located on which river?", "options": ["Subarnarekha River", "Damodar River", "Koel River", "Sankh River"], "correctIndex": 0 },
+            { "question": "Hundru Falls is located near which city?", "options": ["Ranchi", "Jamshedpur", "Bokaro", "Dhanbad"], "correctIndex": 0 },
+            { "question": "Approximately how high is Hundru Falls?", "options": ["About 20 m", "About 98 m", "About 250 m", "About 500 m"], "correctIndex": 1 },
+            { "question": "What does \"Subarnarekha\" mean?", "options": ["Streak of gold", "River of stone", "Silver stream", "Golden valley"], "correctIndex": 0 },
+            { "question": "Hundru Falls is most spectacular during which season?", "options": ["Monsoon season", "Peak summer", "Deep winter", "Spring"], "correctIndex": 0 }
+          ],
+          "summary": "Hundru Falls, on the Subarnarekha River in Jharkhand, is one of the state's highest waterfalls, with water plunging around 98 meters over a rocky cliff face near Ranchi. The falls are most spectacular during and immediately after the monsoon season, when the river carries significantly more water than during drier months. The Subarnarekha River, meaning 'streak of gold' in reference to historic gold particles once found in its sands, continues downstream to eventually reach the Bay of Bengal."
+        },
+        {
+          "id": "geo_d18_kanha_np",
+          "location": { "name": "Kanha National Park, Madhya Pradesh", "lat": 22.3344, "lng": 80.6119 },
+          "questions": [
+            { "question": "Kanha National Park is credited with saving which species from near extinction?", "options": ["Barasingha (swamp deer)", "Bengal tiger", "Indian rhinoceros", "Snow leopard"], "correctIndex": 0 },
+            { "question": "Kanha National Park is located in which Indian state?", "options": ["Madhya Pradesh", "Chhattisgarh", "Maharashtra", "Odisha"], "correctIndex": 0 },
+            { "question": "Kanha's landscape is said to have inspired the setting for which literary work?", "options": ["The Jungle Book", "Life of Pi", "The Man-Eaters of Kumaon", "Discovery of India"], "correctIndex": 0 },
+            { "question": "Kanha was among the original reserves designated under which conservation program?", "options": ["Project Tiger", "Project Elephant", "Project Snow Leopard", "National Afforestation Programme"], "correctIndex": 0 },
+            { "question": "In which year was Project Tiger launched, including Kanha as an original reserve?", "options": ["1963", "1973", "1985", "1995"], "correctIndex": 1 }
+          ],
+          "summary": "Kanha National Park, in Madhya Pradesh, is one of India's largest and most well-known tiger reserves, credited with helping save the barasingha (swamp deer) from near extinction through dedicated conservation efforts starting in the 1970s. The park's sal and bamboo forests are said to have inspired Rudyard Kipling's setting for 'The Jungle Book,' though Kipling himself never visited the area. Kanha was among the first nine tiger reserves designated under Project Tiger in 1973, reflecting its early recognition as a critical habitat for the species."
+        },
+        {
+          "id": "geo_d18_corbett_np",
+          "location": { "name": "Corbett National Park, Uttarakhand", "lat": 29.5300, "lng": 78.7747 },
+          "questions": [
+            { "question": "Jim Corbett National Park is notable as India's?", "options": ["Oldest national park", "Largest national park", "Highest-altitude national park", "Newest national park"], "correctIndex": 0 },
+            { "question": "In which year was Corbett National Park established?", "options": ["1911", "1936", "1950", "1973"], "correctIndex": 1 },
+            { "question": "Corbett National Park was originally named after which colonial administrator, before being renamed?", "options": ["Hailey", "Curzon", "Mountbatten", "Wavell"], "correctIndex": 0 },
+            { "question": "Which nationwide tiger conservation initiative was launched at Corbett in 1973?", "options": ["Project Tiger", "Project Elephant", "Green India Mission", "Project Snow Leopard"], "correctIndex": 0 },
+            { "question": "Corbett National Park is located in which Indian state?", "options": ["Uttarakhand", "Uttar Pradesh", "Himachal Pradesh", "Madhya Pradesh"], "correctIndex": 0 }
+          ],
+          "summary": "Jim Corbett National Park, in Uttarakhand, holds the distinction of being India's oldest national park, established in 1936 during British colonial rule, originally named Hailey National Park before being renamed after the famous hunter-turned-conservationist Jim Corbett. The park was also the site chosen to launch India's Project Tiger conservation initiative in 1973. Corbett's varied terrain supports a rich diversity of wildlife beyond tigers, including elephants and numerous bird species, making it one of India's most visited wildlife destinations."
+        },
+        {
+          "id": "geo_d18_nagarhole_np",
+          "location": { "name": "Nagarhole National Park, Karnataka", "lat": 12.0339, "lng": 76.1234 },
+          "questions": [
+            { "question": "Nagarhole National Park is located in which Indian state?", "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"], "correctIndex": 0 },
+            { "question": "What does \"Nagarhole\" refer to?", "options": ["A winding, snake-like stream", "A golden temple", "A royal palace", "A mountain peak"], "correctIndex": 0 },
+            { "question": "Nagarhole forms a contiguous wildlife corridor with which other reserves?", "options": ["Bandipur and Mudumalai", "Kaziranga and Manas", "Gir and Sasan", "Kanha and Pench"], "correctIndex": 0 },
+            { "question": "This wildlife corridor spans which three states?", "options": ["Karnataka, Tamil Nadu, and Kerala", "Karnataka, Andhra Pradesh, and Telangana", "Kerala, Tamil Nadu, and Andhra Pradesh", "Karnataka, Goa, and Maharashtra"], "correctIndex": 0 },
+            { "question": "Nagarhole is a key site for long-term ecological research on which animals?", "options": ["Tigers and elephants", "Whales and dolphins", "Snow leopards and yaks", "Flamingos and pelicans"], "correctIndex": 0 }
+          ],
+          "summary": "Nagarhole National Park, in Karnataka, forms part of a large contiguous tiger habitat connecting with neighboring Bandipur and Mudumalai reserves across state borders, making it a significant component of one of South India's most important wildlife corridors. The park's name derives from 'Nagar' (snake) and 'hole' (stream), referring to a winding stream running through the forest. Nagarhole supports healthy populations of tigers, elephants, and leopards, benefiting from its position within this broader interconnected forest landscape spanning Karnataka, Tamil Nadu, and Kerala."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d18_chidambaram",
+          "location": { "name": "Chidambaram Nataraja Temple, Tamil Nadu", "lat": 11.3994, "lng": 79.6947 },
+          "questions": [
+            { "question": "The Chidambaram Temple is dedicated to Shiva in which specific form?", "options": ["Nataraja (cosmic dancer)", "Pashupati", "Bhairava", "Rudra"], "correctIndex": 0 },
+            { "question": "Chidambaram Temple's sanctum uniquely represents Shiva partly through?", "options": ["Akasha (space)", "A large gemstone", "A golden idol", "A silver mirror"], "correctIndex": 0 },
+            { "question": "Chidambaram Temple was extensively developed under which dynasty?", "options": ["Chola dynasty", "Pallava dynasty", "Pandya dynasty", "Chera dynasty"], "correctIndex": 0 },
+            { "question": "Chidambaram's gopurams feature sculptures depicting postures from which classical dance form?", "options": ["Bharatanatyam", "Kathak", "Odissi", "Kathakali"], "correctIndex": 0 },
+            { "question": "Chidambaram Temple is located in which Indian state?", "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"], "correctIndex": 0 }
+          ],
+          "summary": "The Nataraja Temple at Chidambaram, Tamil Nadu, is uniquely dedicated to Shiva in his form as Nataraja, the cosmic dancer, considered one of the most theologically significant temples in Shaivism. Unlike most Hindu temples, Chidambaram's sanctum famously represents Shiva partly through 'Akasha,' or space, symbolizing the formless aspect of the divine. The temple complex, developed extensively under the Chola dynasty, features elaborate gopurams adorned with sculptures depicting classical dance postures, closely linked historically to the development of Bharatanatyam."
+        },
+        {
+          "id": "cul_d18_lingaraja",
+          "location": { "name": "Lingaraja Temple, Bhubaneswar", "lat": 20.2373, "lng": 85.8322 },
+          "questions": [
+            { "question": "The Lingaraja Temple is dedicated to which combined deity form?", "options": ["Harihara (Shiva-Vishnu)", "Ardhanarishvara", "Dattatreya", "Brahma-Vishnu-Shiva Trimurti"], "correctIndex": 0 },
+            { "question": "Lingaraja Temple is located in which city, often called the \"Temple City of India\"?", "options": ["Bhubaneswar", "Puri", "Konark", "Cuttack"], "correctIndex": 0 },
+            { "question": "The Lingaraja Temple was built primarily under which dynasty?", "options": ["Somavamshi dynasty", "Ganga dynasty", "Chola dynasty", "Kalinga dynasty (Mauryan era)"], "correctIndex": 0 },
+            { "question": "Approximately how tall is the Lingaraja Temple's main tower?", "options": ["About 20 m", "About 55 m", "About 100 m", "About 150 m"], "correctIndex": 1 },
+            { "question": "Who is traditionally restricted from entering the main Lingaraja Temple?", "options": ["Non-Hindus", "Women", "Children", "Elderly people"], "correctIndex": 0 }
+          ],
+          "summary": "The Lingaraja Temple, in Bhubaneswar, Odisha, is one of the oldest and largest temples in the city, dedicated to Harihara, a combined form of Shiva and Vishnu. Built primarily during the 11th century under the Somavamshi dynasty, the temple's soaring tower reaches nearly 55 meters, dominating Bhubaneswar's historic temple district, often called the 'Temple City of India.' Non-Hindus are traditionally not permitted inside the main temple, though a viewing platform outside allows visitors to observe the temple's architecture."
+        },
+        {
+          "id": "cul_d18_st_pauls_cathedral",
+          "location": { "name": "St. Paul's Cathedral, Kolkata", "lat": 22.5448, "lng": 88.3426 },
+          "questions": [
+            { "question": "St. Paul's Cathedral in Kolkata was significant as the first Anglican cathedral built in?", "options": ["British colonial Asia", "Independent India", "Southeast Asia only", "The Middle East"], "correctIndex": 0 },
+            { "question": "In which year was St. Paul's Cathedral completed?", "options": ["1820", "1847", "1900", "1930"], "correctIndex": 1 },
+            { "question": "St. Paul's Cathedral is built in which architectural style?", "options": ["Gothic Revival", "Indo-Saracenic", "Baroque", "Neo-Classical"], "correctIndex": 0 },
+            { "question": "St. Paul's Cathedral suffered damage requiring reconstruction due to?", "options": ["Earthquakes", "Floods", "Fire", "War bombing"], "correctIndex": 0 },
+            { "question": "St. Paul's Cathedral is located in which Indian city?", "options": ["Kolkata", "Mumbai", "Chennai", "Goa"], "correctIndex": 0 }
+          ],
+          "summary": "St. Paul's Cathedral, in Kolkata, was the first Anglican cathedral built in British colonial Asia, completed in 1847 and, at the time, one of the largest cathedrals in the world outside Europe. Constructed in a Gothic Revival style, the cathedral suffered significant damage in earthquakes in 1897 and 1934, requiring substantial reconstruction. The cathedral houses notable stained glass windows and memorials commemorating figures from British colonial-era Bengal, and remains an active place of worship today."
+        },
+        {
+          "id": "cul_d18_katarmal_sun_temple",
+          "location": { "name": "Sun Temple Katarmal, Uttarakhand", "lat": 29.6167, "lng": 79.5333 },
+          "questions": [
+            { "question": "The Katarmal Sun Temple is located near which town in Uttarakhand?", "options": ["Almora", "Nainital", "Dehradun", "Rishikesh"], "correctIndex": 0 },
+            { "question": "Katarmal Sun Temple is dedicated to which deity?", "options": ["Surya (sun god)", "Shiva", "Vishnu", "Ganesha"], "correctIndex": 0 },
+            { "question": "Katarmal Sun Temple was built by which dynasty?", "options": ["Katyuri dynasty", "Chand dynasty", "Gorkha dynasty", "Pala dynasty"], "correctIndex": 0 },
+            { "question": "Katarmal Sun Temple is believed to date back to approximately which century?", "options": ["5th century", "9th century", "13th century", "17th century"], "correctIndex": 1 },
+            { "question": "Katarmal Sun Temple is constructed in which architectural style?", "options": ["Nagara style", "Dravidian style", "Indo-Islamic style", "Gothic style"], "correctIndex": 0 }
+          ],
+          "summary": "The Katarmal Sun Temple, near Almora in Uttarakhand, is one of the oldest and largest sun temples in India, believed to date back to the 9th century, built by King Katarmalla of the Katyuri dynasty. Constructed in the traditional Nagara style using wood and stone, the temple once housed a large collection of smaller shrines around the main sanctum dedicated to Surya. Though less famous than the Sun Temples at Konark or Modhera, Katarmal is historically significant, and its remote hillside location has helped preserve much of its original structure."
+        },
+        {
+          "id": "cul_d18_gangaikonda_cholapuram",
+          "location": { "name": "Gangaikonda Cholapuram Temple", "lat": 11.2167, "lng": 79.4500 },
+          "questions": [
+            { "question": "The Brihadisvara Temple at Gangaikonda Cholapuram was built by which Chola king?", "options": ["Rajendra I", "Rajaraja I", "Rajaraja II", "Kulottunga I"], "correctIndex": 0 },
+            { "question": "This temple was built to commemorate a military campaign into which region?", "options": ["The Gangetic plains", "Southeast Asia", "Sri Lanka", "The Deccan plateau"], "correctIndex": 0 },
+            { "question": "Gangaikonda Cholapuram's temple is one of three sites forming which UNESCO listing?", "options": ["Great Living Chola Temples", "Hill Forts of Rajasthan", "Group of Monuments at Hampi", "Sun Temple Konark"], "correctIndex": 0 },
+            { "question": "The temple was designed as a grander rival to which other Chola temple?", "options": ["Brihadeeswara Temple, Thanjavur", "Airavatesvara Temple, Darasuram", "Meenakshi Temple, Madurai", "Konark Sun Temple"], "correctIndex": 0 },
+            { "question": "Gangaikonda Cholapuram was originally built as part of a planned?", "options": ["Capital city", "Trading port", "Military garrison only", "University town"], "correctIndex": 0 }
+          ],
+          "summary": "The Brihadisvara Temple at Gangaikonda Cholapuram, Tamil Nadu, built by Chola king Rajendra I in the 11th century, is one of the three 'Great Living Chola Temples' recognized as a UNESCO World Heritage Site, alongside those at Thanjavur and Darasuram. Constructed to commemorate Rajendra I's successful military campaign into the Gangetic plains, the temple was designed as a deliberately grander rival to his father's Brihadeeswara Temple in Thanjavur. It once anchored a planned capital city, though much of the surrounding city has since disappeared."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d18_sriperumbudur",
+          "location": { "name": "Sriperumbudur Auto Cluster, Tamil Nadu", "lat": 12.9675, "lng": 79.9439 },
+          "questions": [
+            { "question": "Sriperumbudur is a major manufacturing cluster in which Indian state?", "options": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Kerala"], "correctIndex": 0 },
+            { "question": "Which major automobile company has a manufacturing facility in Sriperumbudur?", "options": ["Hyundai", "Toyota", "Ford", "Honda"], "correctIndex": 0 },
+            { "question": "Sriperumbudur was formerly home to a large manufacturing plant of which mobile phone company?", "options": ["Nokia", "Samsung", "Apple", "Motorola"], "correctIndex": 0 },
+            { "question": "Sriperumbudur's industrial growth benefits from proximity to which city's port?", "options": ["Chennai", "Kochi", "Visakhapatnam", "Mumbai"], "correctIndex": 0 },
+            { "question": "Sriperumbudur's rapid industrial transformation largely began?", "options": ["From the early 2000s onward", "In the 1950s", "During British colonial rule", "After 2015"], "correctIndex": 0 }
+          ],
+          "summary": "Sriperumbudur, in Tamil Nadu, has developed into a major automobile and electronics manufacturing cluster, hosting facilities for companies including Hyundai and, formerly, Nokia's large mobile phone manufacturing plant. The region's growth reflects Tamil Nadu's broader success in attracting foreign direct investment into manufacturing, supported by proximity to Chennai's port infrastructure. Sriperumbudur's transformation from a largely agricultural area into an industrial township occurred rapidly from the early 2000s onward, driven by state government incentives for large manufacturing investments."
+        },
+        {
+          "id": "eco_d18_manesar",
+          "location": { "name": "Manesar Auto Hub, Haryana", "lat": 28.3670, "lng": 76.9350 },
+          "questions": [
+            { "question": "Manesar is a major hub for which industry in Haryana?", "options": ["Automobile manufacturing", "Textile production", "Software development", "Steel production"], "correctIndex": 0 },
+            { "question": "Which major automobile company anchors Manesar's manufacturing base?", "options": ["Maruti Suzuki", "Tata Motors", "Mahindra", "Hyundai"], "correctIndex": 0 },
+            { "question": "Manesar's plant expanded capacity beyond the company's original plant located in which nearby city?", "options": ["Gurugram", "Faridabad", "Chandigarh", "Delhi"], "correctIndex": 0 },
+            { "question": "In 2012, Manesar's Maruti plant was the site of a significant?", "options": ["Labor dispute/industrial relations incident", "Fire accident", "Flood", "Cyberattack"], "correctIndex": 0 },
+            { "question": "Manesar's auto industry has attracted a dense ecosystem of?", "options": ["Ancillary parts suppliers", "Textile mills", "Software firms", "Film studios"], "correctIndex": 0 }
+          ],
+          "summary": "Manesar, in Haryana, is a major hub for automobile manufacturing, anchored by Maruti Suzuki's large production facility, which significantly expanded the company's manufacturing capacity beyond its original Gurugram plant. The region's development has attracted numerous ancillary parts suppliers, creating a dense industrial ecosystem. Manesar has occasionally seen significant labor disputes, including a major 2012 incident at the Maruti plant that drew national attention to industrial relations issues, but it remains one of India's most important centers for passenger vehicle production."
+        },
+        {
+          "id": "eco_d18_chittaranjan_locomotive",
+          "location": { "name": "Chittaranjan Locomotive Works, West Bengal", "lat": 23.8167, "lng": 86.8833 },
+          "questions": [
+            { "question": "Chittaranjan Locomotive Works is named after which freedom fighter?", "options": ["Chittaranjan Das", "Subhas Chandra Bose", "Bipin Chandra Pal", "Surya Sen"], "correctIndex": 0 },
+            { "question": "In which year was Chittaranjan Locomotive Works established?", "options": ["1935", "1950", "1965", "1980"], "correctIndex": 1 },
+            { "question": "Chittaranjan Locomotive Works initially focused on manufacturing which type of locomotives?", "options": ["Steam locomotives", "Electric locomotives", "Diesel locomotives", "Maglev trains"], "correctIndex": 0 },
+            { "question": "Chittaranjan Locomotive Works is located in which Indian state?", "options": ["West Bengal", "Bihar", "Jharkhand", "Odisha"], "correctIndex": 0 },
+            { "question": "The town around Chittaranjan Locomotive Works developed as a dedicated?", "options": ["Railway township", "Port city", "University town", "Mining settlement"], "correctIndex": 0 }
+          ],
+          "summary": "Chittaranjan Locomotive Works, in West Bengal, established in 1950, was one of independent India's earliest efforts to manufacture railway locomotives domestically, named after freedom fighter Chittaranjan Das. The facility initially focused on producing steam locomotives before transitioning over subsequent decades to electric locomotives. Chittaranjan has manufactured thousands of locomotives over its operational history, and the town surrounding the factory developed as a dedicated railway township, a common pattern of planned industrial communities in post-independence India."
+        },
+        {
+          "id": "eco_d18_ongc_rajahmundry",
+          "location": { "name": "ONGC Rajahmundry, Andhra Pradesh", "lat": 17.0005, "lng": 81.8040 },
+          "questions": [
+            { "question": "ONGC's operations near Rajahmundry are located in the basin of which two rivers?", "options": ["Krishna and Godavari", "Ganga and Yamuna", "Kaveri and Krishna", "Mahanadi and Godavari"], "correctIndex": 0 },
+            { "question": "Rajahmundry is located in which Indian state?", "options": ["Andhra Pradesh", "Telangana", "Odisha", "Tamil Nadu"], "correctIndex": 0 },
+            { "question": "ONGC's Rajahmundry-area operations primarily extract?", "options": ["Crude oil and natural gas", "Coal only", "Bauxite", "Diamonds"], "correctIndex": 0 },
+            { "question": "The Krishna-Godavari basin includes offshore blocks operated by which private company?", "options": ["Reliance Industries", "Tata Group", "Adani Group", "Vedanta Group"], "correctIndex": 0 },
+            { "question": "Exploration in the Krishna-Godavari basin around Rajahmundry began progressively since which decade?", "options": ["1950s", "1980s", "2000s", "2015"], "correctIndex": 1 }
+          ],
+          "summary": "ONGC's operations around Rajahmundry, in Andhra Pradesh's Godavari basin, represent one of India's significant onshore and offshore oil and natural gas production areas, developed progressively since exploration began in the region in the 1980s. The Krishna-Godavari basin, spanning both onshore fields and offshore areas in the Bay of Bengal, has become one of India's most geologically important hydrocarbon-producing regions. The broader basin, including private sector operations by Reliance Industries in adjacent blocks, has played a significant role in boosting domestic natural gas production."
+        },
+        {
+          "id": "eco_d18_bel_ghaziabad",
+          "location": { "name": "BEL Ghaziabad, Uttar Pradesh", "lat": 28.6692, "lng": 77.4538 },
+          "questions": [
+            { "question": "BEL's Ghaziabad facility specializes in manufacturing?", "options": ["Radar systems and communication equipment", "Textiles", "Automobiles", "Pharmaceuticals"], "correctIndex": 0 },
+            { "question": "BEL Ghaziabad is located in which Indian state?", "options": ["Uttar Pradesh", "Haryana", "Delhi", "Punjab"], "correctIndex": 0 },
+            { "question": "BEL's original manufacturing base is located in which city?", "options": ["Bengaluru", "Chennai", "Pune", "Hyderabad"], "correctIndex": 0 },
+            { "question": "BEL works closely with which organization to indigenize defense electronics?", "options": ["DRDO", "ISRO", "NITI Aayog", "RBI"], "correctIndex": 0 },
+            { "question": "BEL Ghaziabad's proximity to which city provides logistical advantages for defense coordination?", "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"], "correctIndex": 0 }
+          ],
+          "summary": "Bharat Electronics Limited's Ghaziabad facility, in Uttar Pradesh, is one of the company's key manufacturing units, specializing in radar systems, communication equipment, and other defense electronics for India's armed forces. Established as part of BEL's expansion beyond its original Bengaluru base, the unit reflects the company's strategy of distributing manufacturing capacity across multiple locations. BEL works closely with the Defence Research and Development Organisation (DRDO) to indigenize critical electronic systems, and its Ghaziabad facility's proximity to Delhi provides logistical advantages."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d18_haridwar_kumbh",
+          "location": { "name": "Haridwar Kumbh Mela, Uttarakhand", "lat": 29.9457, "lng": 78.1642 },
+          "questions": [
+            { "question": "The Kumbh Mela at Haridwar is held roughly every how many years?", "options": ["Four years", "Six years", "Twelve years", "Twenty years"], "correctIndex": 2 },
+            { "question": "Pilgrims at Haridwar's Kumbh Mela bathe at which sacred ghat?", "options": ["Har Ki Pauri", "Assi Ghat", "Dashashwamedh Ghat", "Manikarnika Ghat"], "correctIndex": 0 },
+            { "question": "Har Ki Pauri is believed to mark where the Ganga first?", "options": ["Touches the plains after descending from the Himalayas", "Meets the ocean", "Splits into two channels", "Turns saline"], "correctIndex": 0 },
+            { "question": "Besides Haridwar, the Kumbh Mela rotates among which other sites?", "options": ["Prayagraj, Ujjain, and Nashik", "Varanasi, Puri, and Rameswaram", "Amritsar, Patna, and Kolkata", "Mumbai, Chennai, and Delhi"], "correctIndex": 0 },
+            { "question": "The Kumbh Mela's mythological origins trace to a cosmic battle over a pot of?", "options": ["Nectar of immortality", "Golden treasure", "Sacred fire", "Holy water"], "correctIndex": 0 }
+          ],
+          "summary": "Haridwar, in Uttarakhand, is one of four rotating sites of the Kumbh Mela, one of the world's largest religious gatherings, held here roughly every twelve years based on astrological calculations involving the positions of Jupiter and the sun. Pilgrims gather to bathe in the Ganga at Har Ki Pauri, a sacred ghat believed to mark the spot where the river first touches the plains. The event draws ascetics from various monastic orders, and Haridwar's Kumbh, alongside those at Prayagraj, Ujjain, and Nashik, reflects an ancient Hindu tradition tracing its origins to a cosmic battle over a pot of nectar of immortality."
+        },
+        {
+          "id": "evt_d18_poila_boishakh",
+          "location": { "name": "Poila Boishakh, Kolkata", "lat": 22.5726, "lng": 88.3639 },
+          "questions": [
+            { "question": "Poila Boishakh marks the beginning of which calendar?", "options": ["Bengali calendar", "Hindu Vikram Samvat calendar", "Islamic calendar", "Gregorian calendar"], "correctIndex": 0 },
+            { "question": "On Poila Boishakh, businesses traditionally open new account ledgers called?", "options": ["Haal Khata", "Bahi Khata", "Sarafa Book", "Khata Puja"], "correctIndex": 0 },
+            { "question": "Poila Boishakh is celebrated by which communities, transcending religious lines?", "options": ["Bengali Hindus and Muslims", "Only Bengali Hindus", "Only Bengali Muslims", "Only Bengali Christians"], "correctIndex": 0 },
+            { "question": "Poila Boishakh cultural programs commonly feature the songs of which poet?", "options": ["Rabindranath Tagore", "Kazi Nazrul Islam", "Michael Madhusudan Dutt", "Jibanananda Das"], "correctIndex": 0 },
+            { "question": "Poila Boishakh is primarily celebrated in which Indian state?", "options": ["West Bengal", "Odisha", "Bihar", "Assam"], "correctIndex": 0 }
+          ],
+          "summary": "Poila Boishakh, the Bengali New Year, is celebrated widely across West Bengal, including in Kolkata, marking the first day of the Bengali calendar with new clothes, festive meals, and cultural programs. Businesses traditionally open new account ledgers, called 'Haal Khata,' on this day, symbolizing a fresh financial start. The festival is closely associated with Bengali linguistic and cultural pride, celebrated by Bengali Hindus and Muslims alike, and cultural programs featuring Rabindra Sangeet, the songs of Rabindranath Tagore, are a common feature."
+        },
+        {
+          "id": "evt_d18_vaikunta_ekadasi",
+          "location": { "name": "Vaikunta Ekadasi, Srirangam", "lat": 10.8624, "lng": 78.6928 },
+          "questions": [
+            { "question": "Vaikunta Ekadasi is especially significant for which tradition within Hinduism?", "options": ["Vaishnavism", "Shaivism", "Shaktism", "Smartism"], "correctIndex": 0 },
+            { "question": "Vaikunta Ekadasi is prominently celebrated at which temple?", "options": ["Ranganathaswamy Temple", "Meenakshi Temple", "Brihadeeswara Temple", "Jagannath Temple"], "correctIndex": 0 },
+            { "question": "The special gate opened only during Vaikunta Ekadasi is called?", "options": ["Paramapada Vasal", "Suvarna Dwara", "Ananta Dwara", "Moksha Kavata"], "correctIndex": 0 },
+            { "question": "Vaikunta Ekadasi is believed to be the day when devotees can gain?", "options": ["Liberation from the cycle of rebirth", "Wealth and prosperity", "Good health", "Academic success"], "correctIndex": 0 },
+            { "question": "Srirangam's Ranganathaswamy Temple is located in which state?", "options": ["Tamil Nadu", "Karnataka", "Andhra Pradesh", "Kerala"], "correctIndex": 0 }
+          ],
+          "summary": "Vaikunta Ekadasi, celebrated at the Ranganathaswamy Temple in Srirangam, Tamil Nadu, is one of the most significant festivals for Vaishnavite Hindus, believed to be the day when the gates of Vaikuntha, Vishnu's celestial abode, open to grant devotees liberation from rebirth. The festival's central ritual involves passing through the temple's 'Paramapada Vasal,' a special doorway opened only on this occasion. Thousands of devotees observe fasting and stay awake through the night, making Vaikunta Ekadasi one of South India's most significant annual Vaishnavite gatherings."
+        },
+        {
+          "id": "evt_d18_deekshabhoomi",
+          "location": { "name": "Deekshabhoomi, Nagpur", "lat": 21.1381, "lng": 79.0876 },
+          "questions": [
+            { "question": "Deekshabhoomi marks the site of which historic event in 1956?", "options": ["Dr. B.R. Ambedkar's mass conversion to Buddhism", "India's independence declaration", "The founding of the Constitution", "A major freedom movement rally"], "correctIndex": 0 },
+            { "question": "Deekshabhoomi is located in which city?", "options": ["Nagpur", "Mumbai", "Pune", "Nashik"], "correctIndex": 0 },
+            { "question": "Ambedkar's conversion to Buddhism was primarily a rejection of?", "options": ["The caste-based Hindu social order", "British colonial rule", "Industrial capitalism", "Foreign religious influence"], "correctIndex": 0 },
+            { "question": "A prominent structure built at Deekshabhoomi serves as a memorial in the form of a?", "options": ["Stupa", "Temple spire", "Minaret", "Church tower"], "correctIndex": 0 },
+            { "question": "Deekshabhoomi's annual commemorations particularly draw which community?", "options": ["Ambedkarite Buddhist communities", "Only government officials", "Only foreign tourists", "Only students"], "correctIndex": 0 }
+          ],
+          "summary": "Deekshabhoomi, in Nagpur, Maharashtra, marks the site where Dr. B.R. Ambedkar, along with hundreds of thousands of followers, converted to Buddhism in October 1956, rejecting the caste-based Hindu social order. The event, held shortly before Ambedkar's death, remains one of the most significant mass religious conversions in modern history. A prominent stupa built at Deekshabhoomi serves as both a memorial and an active site of Buddhist practice, drawing followers from across India, particularly Ambedkarite Buddhist communities."
+        },
+        {
+          "id": "evt_d18_gudi_padwa",
+          "location": { "name": "Gudi Padwa, Solapur", "lat": 17.6599, "lng": 75.9064 },
+          "questions": [
+            { "question": "What decorated pole is raised during Gudi Padwa celebrations?", "options": ["Gudi", "Tazia", "Rath", "Toran"], "correctIndex": 0 },
+            { "question": "Gudi Padwa marks the traditional New Year for which linguistic community?", "options": ["Marathi speakers", "Bengali speakers", "Tamil speakers", "Punjabi speakers"], "correctIndex": 0 },
+            { "question": "The gudi pole is traditionally topped with an inverted?", "options": ["Copper or silver vessel", "Golden crown", "Clay pot", "Wooden bowl"], "correctIndex": 0 },
+            { "question": "Gudi Padwa is believed to commemorate the coronation of which figure after his return from exile?", "options": ["Lord Rama", "Lord Krishna", "King Ashoka", "King Shivaji"], "correctIndex": 0 },
+            { "question": "A traditional Gudi Padwa dish includes a bitter ingredient symbolizing life's mixed experiences, made from?", "options": ["Neem", "Bitter gourd", "Turmeric", "Tamarind"], "correctIndex": 0 }
+          ],
+          "summary": "Gudi Padwa, celebrated across Maharashtra including in Solapur, marks the traditional Marathi New Year, observed by raising a 'gudi,' a decorated pole topped with an inverted copper or silver vessel, as a symbol of victory and prosperity. The festival is believed to commemorate the coronation of Lord Rama after his return from exile and the beginning of the calendar era attributed to King Shalivahana. Families traditionally prepare a slightly bitter neem-based dish symbolizing the mixture of life's sweet and bitter experiences ahead."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d18_kerala_literacy",
+          "location": { "name": "Kerala Literacy Movement, Kottayam", "lat": 9.5916, "lng": 76.5222 },
+          "questions": [
+            { "question": "Kerala's total literacy campaign was declared complete in which year?", "options": ["1975", "1991", "2000", "2010"], "correctIndex": 1 },
+            { "question": "Kerala holds the distinction of having India's highest?", "options": ["Literacy rate", "Population", "Land area", "Industrial output"], "correctIndex": 0 },
+            { "question": "Kottayam's historical printing legacy dates back to presses established by?", "options": ["19th-century Christian missionaries", "The Mughal court", "The British East India Company administration", "Portuguese traders"], "correctIndex": 0 },
+            { "question": "Kerala became the first Indian state to achieve what status through mass mobilization?", "options": ["Full literacy status", "Full electrification", "Full industrialization", "Full urbanization"], "correctIndex": 0 },
+            { "question": "Kerala's development model is often studied as an example of high social indicators despite what factor?", "options": ["Comparatively modest per capita income", "Very high per capita income", "Complete lack of government involvement", "Total absence of healthcare systems"], "correctIndex": 0 }
+          ],
+          "summary": "Kottayam, in Kerala, holds a special place in the state's history as a hub of the literacy and printing movement that helped Kerala achieve India's highest literacy rate. Kerala's total literacy campaign, formalized in the late 1980s and declared complete in 1991, made it the first Indian state to achieve full literacy status through mass mobilization. Kottayam's historical significance as an early center of printing, dating to 19th-century Christian missionary presses, laid groundwork for the region's strong educational culture, and Kerala's development model has been widely studied as an alternative pathway distinct from purely income-driven growth."
+        },
+        {
+          "id": "pol_d18_bihar_prohibition",
+          "location": { "name": "Bihar Prohibition, Patna", "lat": 25.5941, "lng": 85.1376 },
+          "questions": [
+            { "question": "In which year did Bihar implement its comprehensive alcohol prohibition policy?", "options": ["2005", "2016", "2020", "2022"], "correctIndex": 1 },
+            { "question": "Bihar's prohibition policy was primarily aimed at addressing?", "options": ["Domestic violence and alcohol-related social problems", "Foreign trade deficits", "Traffic congestion", "Water scarcity"], "correctIndex": 0 },
+            { "question": "Bihar's prohibition made it one of the largest Indian states by population to enforce?", "options": ["Total alcohol prohibition", "Total tobacco prohibition", "Total meat prohibition", "Total vehicle restrictions"], "correctIndex": 0 },
+            { "question": "Enforcement of Bihar's prohibition has faced challenges including reports of?", "options": ["Illicit liquor production and smuggling", "Excess tax revenue", "Overproduction of legal alcohol", "Reduced crime across all categories"], "correctIndex": 0 },
+            { "question": "Patna is the capital of which Indian state?", "options": ["Bihar", "Jharkhand", "Uttar Pradesh", "West Bengal"], "correctIndex": 0 }
+          ],
+          "summary": "Patna, the capital of Bihar, oversees a state that implemented a sweeping alcohol prohibition policy in 2016, banning the sale and consumption of alcohol to address domestic violence and alcohol-related social problems. The policy made Bihar one of the largest Indian states by population to enforce total prohibition. Prohibition enforcement has faced significant challenges, including reports of illicit liquor production and smuggling, along with periodic poisoning incidents from unregulated homemade alcohol, and the policy remains a subject of ongoing debate."
+        },
+        {
+          "id": "pol_d18_gujarat_prohibition",
+          "location": { "name": "Gujarat Prohibition, Ahmedabad", "lat": 23.0225, "lng": 72.5714 },
+          "questions": [
+            { "question": "Gujarat has maintained alcohol prohibition since which year?", "options": ["1947", "1960", "1985", "2000"], "correctIndex": 1 },
+            { "question": "Gujarat's prohibition policy is partly rooted in the temperance philosophy of which figure?", "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"], "correctIndex": 0 },
+            { "question": "Gujarat's prohibition includes a permit system allowing legal alcohol access for which groups?", "options": ["Tourists, foreign nationals, and those with medical needs", "All residents without restriction", "Only government officials", "Only religious minorities"], "correctIndex": 0 },
+            { "question": "Despite prohibition, Gujarat has occasionally faced serious incidents involving?", "options": ["Methanol-laced spurious alcohol", "Legal alcohol overproduction", "Excess tax revenue", "Reduced crime across all categories"], "correctIndex": 0 },
+            { "question": "Alcohol regulation in India primarily falls under which level of government's jurisdiction?", "options": ["State government", "Central government only", "Local municipal bodies only", "International treaties"], "correctIndex": 0 }
+          ],
+          "summary": "Ahmedabad, Gujarat's largest city, is part of a state that has maintained alcohol prohibition since 1960, one of India's longest-running such policies, rooted partly in Mahatma Gandhi's advocacy for temperance. Gujarat's prohibition includes a permit system allowing certain categories of people, including tourists and those with medical needs, to legally obtain alcohol. Despite the ban, illegal liquor trade has persisted, occasionally leading to serious incidents involving methanol-laced spurious alcohol, reflecting how alcohol regulation falls under state rather than central jurisdiction."
+        },
+        {
+          "id": "pol_d18_central_information_commission",
+          "location": { "name": "Central Information Commission, New Delhi", "lat": 28.6180, "lng": 77.2280 },
+          "questions": [
+            { "question": "The Central Information Commission was established under which act?", "options": ["Right to Information Act", "Protection of Human Rights Act", "Prevention of Corruption Act", "Official Secrets Act"], "correctIndex": 0 },
+            { "question": "In which year was the CIC established?", "options": ["1993", "2005", "2014", "2020"], "correctIndex": 1 },
+            { "question": "The CIC serves as the final appellate authority for?", "options": ["RTI requests at the central government level", "Criminal appeals", "Tax disputes", "Election disputes"], "correctIndex": 0 },
+            { "question": "The RTI Act empowers citizens to demand?", "options": ["Government accountability and information access", "Free legal representation", "Guaranteed employment", "Free healthcare"], "correctIndex": 0 },
+            { "question": "Similar to the CIC, what has been established at the state level?", "options": ["State Information Commissions", "State Human Rights Councils", "State Election Commissions", "State Vigilance Bureaus"], "correctIndex": 0 }
+          ],
+          "summary": "The Central Information Commission (CIC), headquartered in New Delhi, was established in 2005 under the Right to Information Act to oversee and enforce citizens' rights to access government information. The commission serves as the final appellate authority for RTI requests at the central government level, hearing appeals when public authorities deny information requests. The RTI Act is considered one of independent India's most significant transparency reforms, and similar State Information Commissions have been established across Indian states."
+        },
+        {
+          "id": "pol_d18_north_block",
+          "location": { "name": "North Block, New Delhi", "lat": 28.6139, "lng": 77.2090 },
+          "questions": [
+            { "question": "North Block houses which two key Indian government ministries?", "options": ["Finance and Home Affairs", "Defence and External Affairs", "Health and Education", "Railways and Aviation"], "correctIndex": 0 },
+            { "question": "North Block was designed by which British architect?", "options": ["Herbert Baker", "Edwin Lutyens", "Charles Correa", "Le Corbusier"], "correctIndex": 0 },
+            { "question": "In which year was North Block completed?", "options": ["1911", "1931", "1950", "1965"], "correctIndex": 1 },
+            { "question": "North Block is part of the broader government complex known as?", "options": ["Lutyens' Delhi", "Old Delhi", "Shahjahanabad", "New Town"], "correctIndex": 0 },
+            { "question": "North Block is flanked by which other government building?", "options": ["South Block", "East Block", "Parliament House", "Rail Bhavan"], "correctIndex": 0 }
+          ],
+          "summary": "North Block, in New Delhi, is one of the twin secretariat buildings flanking Rashtrapati Bhavan, designed by British architect Herbert Baker and completed in 1931 as part of the broader Lutyens' Delhi government complex. The building houses the Ministry of Finance and the Ministry of Home Affairs, two of the Indian government's most powerful ministries. North Block's design, mirrored by the neighboring South Block, reflects the grand imperial architectural style intended to project British colonial authority, and it continues its administrative role in independent India today."
+        }
+      ]
+    }
+  }
+}
