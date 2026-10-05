@@ -1,0 +1,326 @@
+{
+  "day": 34,
+  "date": "2026-11-03",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d34_jim_corbett_np",
+          "location": { "name": "Jim Corbett National Park — Uttarakhand", "lat": 29.5300, "lng": 78.7747 },
+          "questions": [
+            { "question": "Jim Corbett National Park was India's first national park, established in which year?", "options": ["1936", "1952", "1965", "1980"], "correctIndex": 0 },
+            { "question": "Jim Corbett National Park is named after which British-Indian hunter-turned-conservationist?", "options": ["Jim Corbett", "George Schaller", "Salim Ali", "Kailash Sankhala"], "correctIndex": 0 },
+            { "question": "Jim Corbett National Park was the launch site for which major national tiger conservation initiative in 1973?", "options": ["Project Elephant", "Project Tiger", "Project Snow Leopard", "Project Rhino"], "correctIndex": 1 },
+            { "question": "Jim Corbett National Park is drained by which river running through its core zone?", "options": ["Ganga", "Ramganga", "Yamuna", "Kosi"], "correctIndex": 1 },
+            { "question": "The park's namesake, Jim Corbett, was originally famous for hunting which type of dangerous animals before turning to conservation?", "options": ["Man-eating tigers and leopards", "Wild boars", "Elephants for ivory", "Crocodiles"], "correctIndex": 0 }
+          ],
+          "summary": "Jim Corbett National Park, established in 1936 as India's very first national park, is named after Jim Corbett, a British-Indian hunter who tracked down numerous man-eating tigers and leopards terrorising villages in the region before dedicating the latter part of his life to wildlife conservation. In 1973, the park became the launch site for Project Tiger, India's landmark national initiative to protect the dwindling tiger population, a programme that has since expanded to dozens of reserves across the country. Threaded by the Ramganga River and its associated grasslands, Corbett remains one of India's most visited and ecologically significant tiger reserves."
+        },
+        {
+          "id": "geo_d34_nagarhole_np",
+          "location": { "name": "Nagarhole National Park — Karnataka", "lat": 12.0333, "lng": 76.1333 },
+          "questions": [
+            { "question": "Nagarhole National Park forms a contiguous protected landscape with which neighbouring Kerala tiger reserve?", "options": ["Periyar", "Wayanad Wildlife Sanctuary", "Silent Valley", "Eravikulam"], "correctIndex": 1 },
+            { "question": "Nagarhole is part of which larger UNESCO-recognised biosphere reserve in South India?", "options": ["Sundarbans Biosphere Reserve", "Nilgiri Biosphere Reserve", "Nanda Devi Biosphere Reserve", "Gulf of Mannar Biosphere Reserve"], "correctIndex": 1 },
+            { "question": "Nagarhole's name derives from a local Kannada term referring to which geographic feature running through the park?", "options": ["A mountain range", "A snake-like river (Naga + Hole meaning stream)", "A cave system", "A waterfall"], "correctIndex": 1 },
+            { "question": "Nagarhole is well known for one of India's highest densities of which large mammal?", "options": ["Asian elephants", "One-horned rhinoceros", "Snow leopards", "Nilgiri tahr"], "correctIndex": 0 },
+            { "question": "Along with Nagarhole, which other well-known Karnataka reserve helps form part of this connected Western Ghats-Nilgiri wildlife corridor?", "options": ["Bandipur National Park", "Gir National Park", "Kanha National Park", "Ranthambore National Park"], "correctIndex": 0 }
+          ],
+          "summary": "Nagarhole National Park in Karnataka, whose name derives from a local term for a winding, snake-like stream, forms part of a vast contiguous forest landscape connecting with Bandipur in Karnataka and Wayanad in Kerala, together comprising one of South India's most important wildlife corridors within the Nilgiri Biosphere Reserve. The park hosts one of India's densest populations of Asian elephants, alongside healthy numbers of tiger, leopard, and gaur, benefiting from this rare degree of connected, undisturbed forest across state boundaries. This interlinked corridor allows animals, particularly elephants, to migrate seasonally across a far larger range than any single reserve could support alone."
+        },
+        {
+          "id": "geo_d34_dudhwa_np",
+          "location": { "name": "Dudhwa National Park — Uttar Pradesh", "lat": 28.5167, "lng": 80.6500 },
+          "questions": [
+            { "question": "Dudhwa National Park lies along the India-Nepal border in which Indian state?", "options": ["Bihar", "Uttar Pradesh", "West Bengal", "Uttarakhand"], "correctIndex": 1 },
+            { "question": "Dudhwa is notable for a successful reintroduction programme for which large mammal, historically absent from the region for over a century?", "options": ["Asiatic lion", "One-horned rhinoceros", "Snow leopard", "Wild yak"], "correctIndex": 1 },
+            { "question": "Dudhwa National Park's landscape is part of which broader ecological zone, characterised by tall grasslands and sal forests along the Himalayan foothills?", "options": ["The Deccan Plateau", "The Terai region", "The Thar Desert fringe", "The Western Ghats"], "correctIndex": 1 },
+            { "question": "The rhinos reintroduced to Dudhwa in the 1980s were primarily sourced from which other Indian state's population?", "options": ["Assam", "Odisha", "West Bengal", "Rajasthan"], "correctIndex": 0 },
+            { "question": "Dudhwa is also part of a designated tiger reserve, along with two other protected areas forming a joint conservation unit. Which of these is one of them?", "options": ["Kishanpur Wildlife Sanctuary", "Gir Wildlife Sanctuary", "Periyar Wildlife Sanctuary", "Bandhavgarh National Park"], "correctIndex": 0 }
+          ],
+          "summary": "Dudhwa National Park, hugging the Nepal border in Uttar Pradesh's Terai region, is best known for its successful reintroduction of the one-horned rhinoceros in the 1980s, sourced from Assam's population, after the species had been locally extinct in this part of India for over a century. Set within the tall elephant grass and sal forests characteristic of the Terai belt at the Himalayan foothills, Dudhwa forms a combined tiger reserve alongside the adjoining Kishanpur Wildlife Sanctuary, expanding the effective protected habitat for the region's tigers and swamp deer. The park's rhino programme remains one of India's notable conservation success stories, demonstrating that carefully managed reintroductions can restore locally extinct megafauna."
+        },
+        {
+          "id": "geo_d34_radhanagar_beach",
+          "location": { "name": "Radhanagar Beach, Havelock Island — Andaman Islands", "lat": 11.9762, "lng": 92.9573 },
+          "questions": [
+            { "question": "Radhanagar Beach is located on which island in the Andaman archipelago?", "options": ["Neil Island", "Havelock Island", "Ross Island", "North Sentinel Island"], "correctIndex": 1 },
+            { "question": "Radhanagar Beach has, in international travel rankings, previously been named among the best beaches in which broader region?", "options": ["Europe", "Asia", "South America", "The Middle East"], "correctIndex": 1 },
+            { "question": "Havelock Island, home to Radhanagar Beach, was officially renamed in recent years to which indigenous-inspired name?", "options": ["Swaraj Dweep", "Shaheed Dweep", "Netaji Dweep", "Azad Dweep"], "correctIndex": 0 },
+            { "question": "Radhanagar Beach's fine white sand and turquoise water make the area particularly popular for which recreational activity?", "options": ["Ice skating", "Snorkelling and beach relaxation", "Mountain climbing", "Skiing"], "correctIndex": 1 },
+            { "question": "Havelock Island is reached from Port Blair primarily by which mode of transport?", "options": ["Road bridge", "Ferry", "Train", "Cable car"], "correctIndex": 1 }
+          ],
+          "summary": "Radhanagar Beach on Havelock Island — renamed Swaraj Dweep in 2018 as part of a broader government effort to replace colonial-era names across the Andamans — has repeatedly been ranked among Asia's finest beaches, prized for its powdery white sand, clear turquoise water, and dense fringing forest backdrop. Reached only by ferry from Port Blair, the island's relative remoteness has helped preserve its unspoiled character even as it has grown into one of India's most sought-after beach destinations for snorkelling, diving, and simply unwinding away from mainland crowds. Its reputation has helped put the wider Andaman and Nicobar Islands on the map for international travellers seeking pristine, less-crowded tropical coastline."
+        },
+        {
+          "id": "geo_d34_kolleru_lake",
+          "location": { "name": "Kolleru Lake — Andhra Pradesh", "lat": 16.6167, "lng": 81.2000 },
+          "questions": [
+            { "question": "Kolleru Lake, one of India's largest freshwater lakes, lies between the deltas of which two major rivers?", "options": ["Krishna and Godavari", "Kaveri and Krishna", "Mahanadi and Godavari", "Godavari and Penna"], "correctIndex": 0 },
+            { "question": "Kolleru Lake is an important habitat especially for large congregations of what?", "options": ["Migratory and resident waterbirds", "Freshwater dolphins", "Coral reefs", "Sea turtles"], "correctIndex": 0 },
+            { "question": "Kolleru Lake was declared a Ramsar Wetland of International Importance in which year?", "options": ["1972", "1989", "2002", "2015"], "correctIndex": 2 },
+            { "question": "Kolleru Lake has faced significant ecological stress in recent decades primarily due to the spread of what?", "options": ["Coral bleaching", "Unregulated aquaculture (fish and prawn farming)", "Volcanic activity", "Salt mining operations"], "correctIndex": 1 },
+            { "question": "Kolleru Lake acts as a crucial natural flood-balancing reservoir for excess water from which agricultural delta region?", "options": ["The Krishna-Godavari delta", "The Kaveri delta", "The Indus delta", "The Brahmaputra delta"], "correctIndex": 0 }
+          ],
+          "summary": "Kolleru Lake, cradled between the deltas of the Krishna and Godavari rivers in Andhra Pradesh, is one of India's largest freshwater lakes and a critical stopover for migratory waterbirds, alongside large resident colonies of species like painted storks and pelicans. Recognised as a Ramsar wetland in 2002, the lake also plays an important hydrological role, absorbing excess floodwater from the surrounding delta agricultural region during heavy monsoon years. In recent decades, however, Kolleru has faced serious ecological pressure from unchecked aquaculture — fish and prawn farming that steadily encroached on lake area — prompting periodic, sometimes contentious government efforts to reclaim and restore its original wetland boundaries."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d34_agra_fort",
+          "location": { "name": "Agra Fort — Uttar Pradesh", "lat": 27.1795, "lng": 78.0211 },
+          "questions": [
+            { "question": "Agra Fort served as the principal residence of Mughal emperors before the capital shifted to which other fort?", "options": ["Red Fort, Delhi", "Lahore Fort", "Gwalior Fort", "Allahabad Fort"], "correctIndex": 0 },
+            { "question": "Agra Fort was substantially rebuilt in red sandstone under which Mughal emperor?", "options": ["Babur", "Akbar", "Aurangzeb", "Bahadur Shah I"], "correctIndex": 1 },
+            { "question": "Which Mughal emperor was famously held under house arrest within Agra Fort by his own son in his final years?", "options": ["Akbar", "Jahangir", "Shah Jahan", "Humayun"], "correctIndex": 2 },
+            { "question": "From within Agra Fort, the imprisoned Shah Jahan is said to have spent his final years gazing at which monument in the distance?", "options": ["Humayun's Tomb", "The Taj Mahal", "Qutub Minar", "Fatehpur Sikri"], "correctIndex": 1 },
+            { "question": "Agra Fort, like the Taj Mahal, was declared a UNESCO World Heritage Site in which year?", "options": ["1973", "1983", "1993", "2003"], "correctIndex": 1 }
+          ],
+          "summary": "Agra Fort, extensively rebuilt in red sandstone under Emperor Akbar in the 16th century, served as the main seat of Mughal power before Shah Jahan shifted the capital to Delhi's Red Fort. In one of Mughal history's more poignant turns, Shah Jahan himself was later imprisoned within Agra Fort by his son Aurangzeb, spending his final years confined to a tower from which he could gaze across the Yamuna River at the Taj Mahal, the monument he had built for his beloved wife. Declared a UNESCO World Heritage Site in 1983, the fort's massive walls and palace complexes remain a striking counterpart to the more famous mausoleum it overlooks."
+        },
+        {
+          "id": "cul_d34_jaisalmer_fort",
+          "location": { "name": "Jaisalmer Fort — Rajasthan", "lat": 26.9124, "lng": 70.9127 },
+          "questions": [
+            { "question": "Jaisalmer Fort is unusual among major Indian forts for being what?", "options": ["Entirely underground", "A 'living fort' with thousands of residents still living inside", "Made entirely of wood", "Floating on a lake"], "correctIndex": 1 },
+            { "question": "Jaisalmer Fort was built in which century by Rawal Jaisal, after whom the city is named?", "options": ["10th century", "12th century", "16th century", "18th century"], "correctIndex": 1 },
+            { "question": "Jaisalmer Fort is constructed primarily from which distinctive golden-hued sandstone?", "options": ["Red sandstone", "Yellow/golden Jaisalmer sandstone", "White marble", "Black basalt"], "correctIndex": 1 },
+            { "question": "Jaisalmer Fort is part of the collective UNESCO World Heritage listing alongside which other Rajasthani forts?", "options": ["Hill Forts of Rajasthan", "Mughal Forts of India", "Rajput Palace Circuit", "Desert Forts Alliance"], "correctIndex": 0 },
+            { "question": "Jaisalmer Fort's continued habitation by residents has created ongoing conservation challenges primarily related to what?", "options": ["Overcrowding by tourists only", "Water drainage and sewage seeping into the fort's foundation", "Excessive rainfall damage", "Frequent earthquakes"], "correctIndex": 1 }
+          ],
+          "summary": "Jaisalmer Fort, rising from the Thar Desert in golden-hued local sandstone, is one of the very few 'living forts' in the world, with roughly a quarter of Jaisalmer's old city population still residing within its walls among shops, havelis, and temples. Built in 1156 by Rawal Jaisal, the fort forms part of the collective UNESCO listing 'Hill Forts of Rajasthan,' alongside Amer, Chittorgarh, Kumbhalgarh, and others. Its continued habitation, while giving it a living, breathing character rare among ancient monuments, has also created serious conservation headaches, as modern water and sewage systems installed for residents have seeped into the fort's sandstone foundations, causing structural damage that conservationists have worked for years to address."
+        },
+        {
+          "id": "cul_d34_lotus_temple",
+          "location": { "name": "Lotus Temple — Delhi", "lat": 28.5535, "lng": 77.2588 },
+          "questions": [
+            { "question": "The Lotus Temple in Delhi is a house of worship for which faith?", "options": ["Hinduism", "The Baháʼí Faith", "Buddhism", "Sikhism"], "correctIndex": 1 },
+            { "question": "The Lotus Temple's architecture is designed in the shape of what flower?", "options": ["Rose", "Lotus", "Marigold", "Jasmine"], "correctIndex": 1 },
+            { "question": "A key principle reflected in the Lotus Temple's design and practice is that it welcomes worshippers of what?", "options": ["Only the Baháʼí Faith", "Any faith or no faith at all", "Only Indian citizens", "Only invited guests"], "correctIndex": 1 },
+            { "question": "The Lotus Temple was completed and opened to the public in which year?", "options": ["1976", "1986", "1996", "2006"], "correctIndex": 1 },
+            { "question": "The Lotus Temple was designed by which architect?", "options": ["Le Corbusier", "Fariborz Sahba", "Charles Correa", "Balkrishna Doshi"], "correctIndex": 1 }
+          ],
+          "summary": "The Lotus Temple in Delhi, completed in 1986 and designed by architect Fariborz Sahba, is a house of worship for the Baháʼí Faith, built in the shape of a blossoming lotus flower using 27 free-standing marble-clad petals arranged in clusters. True to Baháʼí teachings, the temple has no idols, sermons, or rituals tied to a single faith, and is open to people of any religion, or none, to sit in silent reflection or prayer. Since opening, it has become one of the most visited buildings in the world by some counts, drawing millions annually who come as much for its striking modern architecture as for its message of universal spiritual inclusion."
+        },
+        {
+          "id": "cul_d34_basilica_bom_jesus",
+          "location": { "name": "Basilica of Bom Jesus — Goa", "lat": 15.5009, "lng": 73.9116 },
+          "questions": [
+            { "question": "The Basilica of Bom Jesus in Goa is renowned for holding the mortal remains of which Catholic saint?", "options": ["St. Francis Xavier", "St. Thomas", "St. Ignatius of Loyola", "St. Peter"], "correctIndex": 0 },
+            { "question": "The Basilica was built during which colonial period in Goa's history?", "options": ["British colonial era", "Portuguese colonial era", "Dutch colonial era", "French colonial era"], "correctIndex": 1 },
+            { "question": "The Basilica of Bom Jesus is located in which historical area of Goa, now a UNESCO-listed heritage zone?", "options": ["Panaji", "Old Goa", "Margao", "Vasco da Gama"], "correctIndex": 1 },
+            { "question": "The remains of St. Francis Xavier are displayed inside the Basilica in what type of container?", "options": ["A simple wooden coffin", "A silver casket", "A glass display case only", "A stone sarcophagus"], "correctIndex": 1 },
+            { "question": "The Basilica of Bom Jesus was completed in which century?", "options": ["15th century", "16th century", "18th century", "20th century"], "correctIndex": 1 }
+          ],
+          "summary": "The Basilica of Bom Jesus, completed in 1605 in Old Goa during Portuguese rule, is one of the most significant churches of the Christian world in Asia, renowned for housing the mortal remains of St. Francis Xavier, the influential Jesuit missionary who spread Christianity across much of Asia in the 16th century. His remains rest in an ornate silver casket, periodically brought down for public veneration during a decennial exposition that draws pilgrims from across the globe. Part of the UNESCO-listed 'Churches and Convents of Goa,' the Basilica's baroque architecture and enduring religious significance make it a centrepiece of Goa's distinctive Indo-Portuguese heritage."
+        },
+        {
+          "id": "cul_d34_nalanda",
+          "location": { "name": "Nalanda — Bihar", "lat": 25.1358, "lng": 85.4436 },
+          "questions": [
+            { "question": "Nalanda was one of the world's earliest and most renowned centres of what?", "options": ["Naval warfare", "Higher learning (an ancient university)", "Textile trade", "Metal smelting"], "correctIndex": 1 },
+            { "question": "Nalanda University flourished as a major centre of learning primarily for which religious tradition, alongside broader subjects?", "options": ["Zoroastrianism", "Buddhism", "Islam", "Jainism only"], "correctIndex": 1 },
+            { "question": "Nalanda is estimated to have operated as a centre of learning for roughly how many centuries before its decline?", "options": ["Around 2 centuries", "Around 7 centuries", "Around 15 centuries", "Less than 50 years"], "correctIndex": 1 },
+            { "question": "Nalanda's ancient library, one of the largest in the ancient world, was reportedly destroyed by fire following an invasion led by whom?", "options": ["Alexander the Great", "Bakhtiyar Khilji", "Mahmud of Ghazni", "Timur"], "correctIndex": 1 },
+            { "question": "Nalanda attracted scholars and students from across Asia, including famous Chinese pilgrim-scholars such as whom?", "options": ["Marco Polo", "Xuanzang (Hiuen Tsang)", "Ibn Battuta", "Fa-Hien only, not Xuanzang"], "correctIndex": 1 }
+          ],
+          "summary": "Nalanda, in present-day Bihar, operated as one of the world's earliest and most celebrated centres of higher learning for roughly seven centuries, drawing thousands of monks and scholars from across Asia to study Buddhist philosophy alongside logic, medicine, and mathematics. Its vast library, said to house hundreds of thousands of manuscripts, reportedly burned for months after the university was sacked in the late 12th century during an invasion led by Bakhtiyar Khilji, a devastating loss to ancient scholarship. Chinese pilgrim-scholars like Xuanzang, who studied and later wrote extensively about Nalanda, left invaluable records that helped modern historians reconstruct the scale and sophistication of what was effectively one of history's first great international universities."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d34_sardar_sarovar_dam",
+          "location": { "name": "Sardar Sarovar Dam — Gujarat", "lat": 21.8332, "lng": 73.7492 },
+          "questions": [
+            { "question": "Sardar Sarovar Dam is built on which major river?", "options": ["Tapi", "Narmada", "Mahi", "Sabarmati"], "correctIndex": 1 },
+            { "question": "Sardar Sarovar Dam is named after which prominent Indian statesman?", "options": ["Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Subhas Chandra Bose", "B.R. Ambedkar"], "correctIndex": 1 },
+            { "question": "The Sardar Sarovar Project became one of India's most contested infrastructure projects, largely due to concerns over what?", "options": ["Excessive cost overruns only", "Large-scale displacement of local communities", "Foreign ownership disputes", "Lack of water supply need"], "correctIndex": 1 },
+            { "question": "The dam primarily serves which purposes for the states of Gujarat, Madhya Pradesh, Maharashtra, and Rajasthan?", "options": ["Only tourism", "Irrigation, drinking water, and hydroelectric power", "Only flood control", "Only fishing industry support"], "correctIndex": 1 },
+            { "question": "The nearby Statue of Unity, the world's tallest statue, was built overlooking the Sardar Sarovar Dam reservoir and depicts whom?", "options": ["Mahatma Gandhi", "Sardar Vallabhbhai Patel", "Jawaharlal Nehru", "Subhas Chandra Bose"], "correctIndex": 1 }
+          ],
+          "summary": "Sardar Sarovar Dam on the Narmada River, named after independence-era statesman Sardar Vallabhbhai Patel, became one of independent India's most fiercely debated infrastructure projects, sparking decades of protest, most notably through the Narmada Bachao Andolan movement, over the large-scale displacement of communities in the submergence zone. Once completed, the dam delivers irrigation water, drinking water, and hydroelectric power across Gujarat, Madhya Pradesh, Maharashtra, and Rajasthan, underscoring the project's genuine developmental benefits alongside its human and ecological costs. Overlooking its reservoir stands the Statue of Unity, a colossal statue of Patel himself, completed in 2018 as the world's tallest statue, drawing tourists to a site long associated primarily with controversy rather than spectacle."
+        },
+        {
+          "id": "eco_d34_bpcl_kochi_refinery",
+          "location": { "name": "BPCL Kochi Refinery — Kerala", "lat": 9.9700, "lng": 76.2500 },
+          "questions": [
+            { "question": "BPCL Kochi Refinery is one of India's major refineries, operated by which public sector oil company?", "options": ["Indian Oil Corporation", "Bharat Petroleum Corporation Limited (BPCL)", "Hindustan Petroleum", "ONGC"], "correctIndex": 1 },
+            { "question": "Kochi Refinery is located along which coastline of India?", "options": ["East coast", "West coast (Kerala)", "Northeast river delta", "Southern tip only"], "correctIndex": 1 },
+            { "question": "Kochi Refinery underwent a major capacity expansion project completed around 2018, roughly doubling its processing capability. What was this expansion called?", "options": ["Integrated Refinery Expansion Project (IREP)", "National Refinery Mission", "Project Swadeshi", "Kerala Energy Corridor"], "correctIndex": 0 },
+            { "question": "Kochi Refinery primarily processes what raw material into finished petroleum products?", "options": ["Natural gas only", "Crude oil", "Coal", "Biomass"], "correctIndex": 1 },
+            { "question": "Kerala's coastal geography and existing port infrastructure made Kochi a strategic choice for refining due to easy access to what?", "options": ["Domestic crude oil fields only", "Imported crude oil via sea routes", "Coal mines nearby", "Freshwater lakes for cooling only"], "correctIndex": 1 }
+          ],
+          "summary": "BPCL's Kochi Refinery, one of India's key coastal refining facilities, benefits from Kerala's strategic port access, allowing efficient import of crude oil from international suppliers arriving by sea. Around 2018, the refinery completed a major expansion known as the Integrated Refinery Expansion Project, significantly boosting its processing capacity and adding facilities to produce higher-value petrochemical products alongside standard fuels. The refinery represents a significant industrial anchor for Kerala's economy, a state whose growth model has traditionally leaned more heavily on services, remittances, and tourism than heavy industry."
+        },
+        {
+          "id": "eco_d34_sector_v_kolkata",
+          "location": { "name": "Sector V IT Hub, Salt Lake — Kolkata", "lat": 22.5744, "lng": 88.4338 },
+          "questions": [
+            { "question": "Sector V in Salt Lake City is a major hub for which industry in Kolkata?", "options": ["Textile manufacturing", "Information technology and IT-enabled services", "Automobile assembly", "Jewellery trade"], "correctIndex": 1 },
+            { "question": "Sector V was developed as part of a planned satellite township originally established to relieve pressure on which older part of Kolkata?", "options": ["The central business district", "Howrah's industrial belt", "Kolkata Port area", "The Maidan"], "correctIndex": 0 },
+            { "question": "Sector V's growth as an IT hub has been credited with helping shift perceptions of which state's economy, historically seen as industrially declining?", "options": ["Odisha", "West Bengal", "Bihar", "Jharkhand"], "correctIndex": 1 },
+            { "question": "Sector V hosts offices for a mix of Indian IT majors and which type of international presence?", "options": ["Global multinational technology and BPO companies", "Only government offices", "Only textile export houses", "Only agricultural trading firms"], "correctIndex": 0 },
+            { "question": "Salt Lake City, where Sector V is located, was developed in part by reclaiming what type of land?", "options": ["Desert land", "Marshy wetlands near Kolkata", "Forest land", "Riverbed islands"], "correctIndex": 1 }
+          ],
+          "summary": "Sector V in Kolkata's Salt Lake City has emerged as the city's principal information technology hub, hosting a mix of major Indian IT firms and multinational technology and business process outsourcing companies. Salt Lake itself was developed decades earlier on reclaimed marshy wetlands to ease congestion in central Kolkata, later evolving to include this dedicated IT and business district as the state sought to diversify West Bengal's economy beyond its historically dominant, and by the late 20th century declining, manufacturing and jute industries. Sector V's continued growth has been an important, if still limited, counter-narrative to broader concerns about industrial stagnation in the state."
+        },
+        {
+          "id": "eco_d34_konkan_railway",
+          "location": { "name": "Konkan Railway (Ratnagiri Stretch) — Maharashtra", "lat": 16.9944, "lng": 73.3120 },
+          "questions": [
+            { "question": "The Konkan Railway runs along India's western coast connecting Maharashtra with which southern state?", "options": ["Tamil Nadu", "Karnataka", "Kerala directly, bypassing Karnataka", "Andhra Pradesh"], "correctIndex": 1 },
+            { "question": "The Konkan Railway was considered a major engineering achievement primarily due to the challenging terrain it crosses, requiring numerous what?", "options": ["Desert crossings", "Tunnels and bridges through hilly, monsoon-prone terrain", "River delta crossings only", "High-altitude mountain passes"], "correctIndex": 1 },
+            { "question": "The Konkan Railway Corporation was established as a separate entity, distinct from regular Indian Railways zones, primarily to do what?", "options": ["Operate as a private foreign company", "Fast-track construction through a dedicated project structure", "Handle only freight, no passengers", "Manage international rail links only"], "correctIndex": 1 },
+            { "question": "The Konkan Railway line was completed and became operational in which decade?", "options": ["1970s", "1990s", "2000s", "2010s"], "correctIndex": 1 },
+            { "question": "Before the Konkan Railway's completion, travel along this coastal stretch relied primarily on what, given the difficult terrain?", "options": ["Slow road travel and coastal shipping", "High-speed rail already existing but underused", "Only air travel", "River barges"], "correctIndex": 0 }
+          ],
+          "summary": "The Konkan Railway, running along Maharashtra's rugged western coastline down toward Karnataka and Kerala, was completed in the 1990s as one of independent India's most challenging engineering projects, requiring hundreds of bridges and tunnels to cross a landscape of steep hills, numerous rivers, and heavy monsoon rainfall. Before its completion, the Konkan coast — despite its proximity to Mumbai — remained relatively cut off, reliant on slow winding roads and coastal shipping for most transport. A dedicated Konkan Railway Corporation was set up specifically to fast-track the project outside the usual Indian Railways zonal structure, a model credited with helping deliver the line significantly faster than conventional railway projects of comparable scale."
+        },
+        {
+          "id": "eco_d34_hazira_lng_terminal",
+          "location": { "name": "Hazira LNG Terminal — Gujarat", "lat": 21.1167, "lng": 72.6167 },
+          "questions": [
+            { "question": "The Hazira LNG Terminal is designed to receive and process which imported energy resource?", "options": ["Crude oil", "Liquefied Natural Gas (LNG)", "Coal", "Uranium"], "correctIndex": 1 },
+            { "question": "Hazira, home to this terminal, is located near which major Gujarat city?", "options": ["Ahmedabad", "Surat", "Rajkot", "Vadodara"], "correctIndex": 1 },
+            { "question": "LNG terminals like Hazira convert natural gas, transported in liquid form by ship, back into gas form for what purpose?", "options": ["Direct human consumption", "Distribution via pipelines to power plants, industries, and homes", "Only for export re-shipment", "Fertiliser manufacturing exclusively"], "correctIndex": 1 },
+            { "question": "Gujarat has emerged as a significant hub for India's LNG and broader energy infrastructure partly due to what geographic advantage?", "options": ["Its long coastline suited to port and terminal development", "Its mountainous terrain", "Its proximity to coal mines", "Its inland river network"], "correctIndex": 0 },
+            { "question": "LNG must be cooled to extremely low temperatures to remain in liquid form for shipping, roughly around what temperature?", "options": ["0°C", "-50°C", "-162°C", "-300°C"], "correctIndex": 2 }
+          ],
+          "summary": "The Hazira LNG Terminal near Surat receives shipments of liquefied natural gas — cooled to around -162°C to shrink it into a transportable liquid — and regasifies it for distribution via pipeline to power plants, fertiliser units, and industries across western India. Gujarat's long coastline has made it a natural hub for such energy infrastructure, hosting several major ports, refineries, and terminals that together handle a disproportionate share of India's energy imports. As India's energy mix gradually shifts toward relatively cleaner natural gas alongside its continued reliance on coal and oil, terminals like Hazira play a growing role in securing supply for an economy still heavily dependent on imported fossil fuels."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d34_deepotsav_ayodhya",
+          "location": { "name": "Deepotsav — Ayodhya, Uttar Pradesh", "lat": 26.7922, "lng": 82.1998 },
+          "questions": [
+            { "question": "Deepotsav in Ayodhya is a large-scale celebration held around which major Hindu festival?", "options": ["Holi", "Diwali", "Dussehra", "Navratri"], "correctIndex": 1 },
+            { "question": "Deepotsav commemorates the legendary return of which figure to Ayodhya after a period of exile, according to the Ramayana?", "options": ["Lord Krishna", "Lord Rama", "Lord Hanuman", "Sage Valmiki"], "correctIndex": 1 },
+            { "question": "Ayodhya's Deepotsav has, in recent years, set world records for lighting the largest number of what, in a single coordinated event?", "options": ["Firecrackers", "Earthen oil lamps (diyas)", "Electric bulbs", "Torches"], "correctIndex": 1 },
+            { "question": "Deepotsav celebrations in Ayodhya are typically centred along the banks of which river?", "options": ["Ganga", "Yamuna", "Saryu", "Gomti"], "correctIndex": 2 },
+            { "question": "In addition to lamp-lighting, Ayodhya's Deepotsav festivities often include theatrical performances re-enacting scenes from which epic?", "options": ["The Mahabharata", "The Ramayana", "The Panchatantra", "The Puranas generally, with no specific epic"], "correctIndex": 1 }
+          ],
+          "summary": "Ayodhya's Deepotsav, held in the days leading up to Diwali, commemorates the legendary return of Lord Rama to his home city after years of exile, an event the festival of Diwali itself is traditionally said to celebrate. In recent years, the event has grown into a record-setting spectacle, with hundreds of thousands of earthen diyas lit simultaneously along the banks of the Saryu River, drawing Guinness World Records recognition for the sheer scale of coordinated lamp-lighting. The celebrations are typically accompanied by elaborate cultural performances dramatising scenes from the Ramayana, alongside fireworks and laser shows, transforming Ayodhya into one of North India's most visually striking festival destinations each year."
+        },
+        {
+          "id": "evt_d34_kumbh_mela_haridwar",
+          "location": { "name": "Kumbh Mela — Haridwar", "lat": 29.9457, "lng": 78.1642 },
+          "questions": [
+            { "question": "Haridwar is one of four sites in India where the Kumbh Mela is held, the others being Prayagraj, Nashik, and which fourth city?", "options": ["Varanasi", "Ujjain", "Rishikesh", "Puri"], "correctIndex": 1 },
+            { "question": "Haridwar's Kumbh Mela bathing rituals are centred on a specific ghat considered particularly sacred, called what?", "options": ["Har Ki Pauri", "Assi Ghat", "Manikarnika Ghat", "Dasaswamedh Ghat"], "correctIndex": 0 },
+            { "question": "Haridwar sits at the point where the Ganga River does what, considered significant for the site's sanctity?", "options": ["Merges with another sacred river", "Emerges from the Himalayan foothills onto the plains", "Splits into a delta", "Reaches the sea"], "correctIndex": 1 },
+            { "question": "The rotation of the Kumbh Mela among its four sites is determined by specific astrological positions involving which celestial bodies?", "options": ["The Sun and Moon only", "Jupiter and the Sun (or Moon, depending on site)", "Mars and Venus", "Saturn and Mercury"], "correctIndex": 1 },
+            { "question": "Haridwar's name is often interpreted to mean 'gateway to' which destination, given its location at the start of a significant pilgrimage route?", "options": ["Ayodhya", "God (Hari) or the Himalayas (as gateway to Char Dham)", "The Arabian Sea", "The Deccan Plateau"], "correctIndex": 1 }
+          ],
+          "summary": "Haridwar, one of the four rotating sites of the Kumbh Mela along with Prayagraj, Nashik, and Ujjain, holds particular significance as the point where the Ganga first emerges from the Himalayan foothills onto the plains, lending the city profound sanctity in Hindu tradition. Its Kumbh bathing rituals centre on Har Ki Pauri, a ghat believed to bear a footprint of Lord Vishnu, where the nightly Ganga Aarti draws crowds even outside Kumbh years. The rotation of the festival among its four sites follows specific astrological alignments of Jupiter with the Sun or Moon, a calendar tradition dating back centuries that continues to draw millions of pilgrims to whichever city hosts the gathering."
+        },
+        {
+          "id": "evt_d34_sonepur_mela_bihar",
+          "location": { "name": "Sonepur Mela — Bihar", "lat": 25.6961, "lng": 85.1889 },
+          "questions": [
+            { "question": "Sonepur Mela, held annually in Bihar, is historically renowned as one of Asia's largest what?", "options": ["Book fairs", "Cattle and animal fairs", "Textile exhibitions", "Film festivals"], "correctIndex": 1 },
+            { "question": "Sonepur Mela takes place at the confluence of the Gandak River and which other major river?", "options": ["Kosi", "Ganga", "Son", "Ghaghara"], "correctIndex": 1 },
+            { "question": "Sonepur Mela historically featured extensive trading of which large animal, in addition to cattle and horses?", "options": ["Camels", "Elephants", "Yaks", "Buffalo only"], "correctIndex": 1 },
+            { "question": "Sonepur Mela typically coincides with which Hindu festival, drawing pilgrims for ritual bathing as well as trade?", "options": ["Diwali", "Kartik Purnima", "Holi", "Makar Sankranti"], "correctIndex": 1 },
+            { "question": "In recent decades, the elephant trading aspect of Sonepur Mela has been significantly curtailed primarily due to what?", "options": ["Lack of buyer interest", "Wildlife protection laws restricting elephant trade", "Elephant population extinction", "Government relocation of the fair"], "correctIndex": 1 }
+          ],
+          "summary": "Sonepur Mela, held at the confluence of the Gandak and Ganga rivers in Bihar, has for centuries been one of Asia's largest cattle and livestock fairs, historically also famous for its trading of elephants alongside horses, camels, and cattle. The fair traditionally coincides with Kartik Purnima, drawing pilgrims for ritual bathing at the river confluence as well as traders and buyers from across the region. Wildlife protection legislation in recent decades has sharply curtailed the once-prominent elephant trading side of the fair, though Sonepur continues as a major livestock and cultural event, blending commerce, folk entertainment, and religious observance in a tradition stretching back generations."
+        },
+        {
+          "id": "evt_d34_vishu_kerala",
+          "location": { "name": "Vishu — Kerala", "lat": 10.8505, "lng": 76.2711 },
+          "questions": [
+            { "question": "Vishu marks the traditional New Year in which South Indian state?", "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"], "correctIndex": 1 },
+            { "question": "A central Vishu ritual involves family members waking up to view an auspicious arrangement of items called what, believed to set the tone for the year ahead?", "options": ["Rangoli design", "Vishukkani", "Kolam pattern", "Mehndi design"], "correctIndex": 1 },
+            { "question": "The Vishukkani arrangement traditionally includes items such as rice, fruits, and which specific golden-yellow flower?", "options": ["Marigold", "Konna flower (golden shower flower)", "Hibiscus", "Jasmine"], "correctIndex": 1 },
+            { "question": "Elders in Kerala households traditionally give children small gifts of money on Vishu, known as what?", "options": ["Vishukaineettam", "Eidi", "Baksheesh", "Shagun"], "correctIndex": 0 },
+            { "question": "Vishu typically falls in which month of the Gregorian calendar, coinciding closely with several other regional New Year festivals across India?", "options": ["January", "April", "August", "November"], "correctIndex": 1 }
+          ],
+          "summary": "Vishu, Kerala's traditional New Year, is marked by a distinctive ritual called Vishukkani, in which family members are guided, eyes closed, to view a carefully arranged display of auspicious items — rice, fruits, gold jewellery, and the bright yellow konna flower — first thing in the morning, believed to set a prosperous tone for the year ahead. Elders follow this by giving children small monetary gifts known as vishukaineettam, alongside firecrackers and festive family meals. Falling in mid-April, Vishu coincides closely with several other regional New Year celebrations across India, from Bengali Poila Boishakh to Maharashtrian Gudi Padwa, reflecting a broader pan-Indian tradition of marking the new solar year around the same season, even as each region observes it through distinct local customs."
+        },
+        {
+          "id": "evt_d34_basant_panchami_punjab",
+          "location": { "name": "Basant Panchami — Punjab", "lat": 30.7333, "lng": 76.7794 },
+          "questions": [
+            { "question": "Basant Panchami is traditionally dedicated to the worship of which goddess, associated with knowledge and the arts?", "options": ["Lakshmi", "Saraswati", "Durga", "Parvati"], "correctIndex": 1 },
+            { "question": "Basant Panchami marks the arrival of which season in the Hindu calendar?", "options": ["Monsoon", "Spring", "Autumn", "Peak summer"], "correctIndex": 1 },
+            { "question": "In Punjab, Basant Panchami is especially associated with which popular recreational activity?", "options": ["Kite flying", "Boat racing", "Wrestling matches", "Horse riding competitions"], "correctIndex": 0 },
+            { "question": "A specific colour strongly associated with Basant Panchami celebrations, worn by many participants, is what?", "options": ["Red", "Yellow", "Green", "Blue"], "correctIndex": 1 },
+            { "question": "Basant Panchami is also historically linked in Punjab to the commemoration of which young freedom fighter's martyrdom-related events?", "options": ["Bhagat Singh", "Udham Singh", "Kartar Singh Sarabha", "Lala Lajpat Rai"], "correctIndex": 0 }
+          ],
+          "summary": "Basant Panchami, welcoming the arrival of spring, is dedicated to Saraswati, the goddess of knowledge, music, and the arts, with students and scholars often seeking her blessings before exams or the start of new learning. In Punjab, the festival takes on a particularly festive, secular character centred on kite flying, with skies over cities like Amritsar and Patiala filling with colourful kites as families and friends compete good-naturedly for the day. Yellow, symbolising the mustard fields in full bloom at this time of year, dominates clothing and decorations, while in some Punjabi traditions the day is also linked to commemorative events associated with freedom fighter Bhagat Singh, adding a layer of patriotic remembrance to the seasonal celebration."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d34_supreme_court_basic_structure",
+          "location": { "name": "Supreme Court of India — New Delhi", "lat": 28.6225, "lng": 77.2411 },
+          "questions": [
+            { "question": "The 'Basic Structure Doctrine,' a landmark principle limiting Parliament's power to amend the Constitution, emerged from which case?", "options": ["Kesavananda Bharati case (1973)", "S.R. Bommai case", "Maneka Gandhi case", "A.K. Gopalan case"], "correctIndex": 0 },
+            { "question": "The Basic Structure Doctrine holds that Parliament can amend the Constitution but cannot alter what?", "options": ["Any provision at all, with unlimited power", "Its fundamental, unamendable 'basic structure'", "Only the Preamble", "Only Fundamental Rights, but nothing else"], "correctIndex": 1 },
+            { "question": "The Supreme Court of India functions as the final court of appeal and also holds original jurisdiction over disputes between whom?", "options": ["Only private individuals", "The Union Government and states, or between states", "Only foreign governments", "Only military tribunals"], "correctIndex": 1 },
+            { "question": "The Supreme Court's power to review and potentially strike down laws that violate the Constitution is known as what?", "options": ["Judicial review", "Legislative veto", "Executive override", "Parliamentary privilege"], "correctIndex": 0 },
+            { "question": "The Chief Justice of India, who heads the Supreme Court, is appointed by whom?", "options": ["The Prime Minister directly", "The President, based on established convention/seniority", "Parliament through a vote", "The outgoing Chief Justice alone, with no other input"], "correctIndex": 1 }
+          ],
+          "summary": "The Supreme Court of India's 1973 ruling in the Kesavananda Bharati case established the enduring 'Basic Structure Doctrine,' holding that while Parliament can amend the Constitution extensively, it cannot alter certain fundamental features — such as democracy, secularism, or judicial independence — that form the Constitution's unamendable 'basic structure.' This judicially created safeguard, achieved through the Supreme Court's power of judicial review, has repeatedly served as a check against attempts to concentrate power or erode constitutional checks and balances. Beyond constitutional interpretation, the Court also holds original jurisdiction over disputes between the Union and states or between states themselves, making it central to India's federal balance as well as its rights jurisprudence."
+        },
+        {
+          "id": "pol_d34_anti_defection_law",
+          "location": { "name": "Parliament of India — New Delhi", "lat": 28.6170, "lng": 77.2075 },
+          "questions": [
+            { "question": "The Anti-Defection Law in India is contained within which schedule of the Constitution?", "options": ["Ninth Schedule", "Tenth Schedule", "Seventh Schedule", "Second Schedule"], "correctIndex": 1 },
+            { "question": "The Anti-Defection Law was introduced through which constitutional amendment, in 1985?", "options": ["42nd Amendment", "52nd Amendment", "61st Amendment", "73rd Amendment"], "correctIndex": 1 },
+            { "question": "Under the Anti-Defection Law, a legislator can be disqualified from their seat primarily for doing what?", "options": ["Missing too many sessions", "Voluntarily giving up party membership or voting against party directions (whip)", "Criticising their own party publicly, without any voting violation", "Switching constituencies"], "correctIndex": 1 },
+            { "question": "Decisions on disqualification under the Anti-Defection Law are typically made by whom?", "options": ["The Supreme Court directly, as the first authority", "The Speaker or Chairman of the concerned House", "The Election Commission alone", "The Prime Minister's Office"], "correctIndex": 1 },
+            { "question": "The Anti-Defection Law includes an exception allowing defections without disqualification if what threshold of a party's legislators defect together, under a 2003 amendment?", "options": ["Any single member alone", "At least two-thirds of the party's legislators merging with another party", "Exactly half the party", "There is no such exception at all"], "correctIndex": 1 }
+          ],
+          "summary": "India's Anti-Defection Law, added to the Constitution's Tenth Schedule via the 52nd Amendment in 1985, was designed to curb the political instability caused by legislators frequently switching parties for personal or opportunistic gain, a practice memorably nicknamed 'Aaya Ram Gaya Ram' after a particularly flagrant 1960s case. Under the law, legislators can be disqualified for voluntarily leaving their party or defying its official voting directions, with such disqualification decisions resting with the Speaker or Chairman of the relevant House. A 2003 amendment tightened an earlier loophole, now requiring at least two-thirds of a party's legislators to defect together for such a merger to be protected from disqualification, rather than the earlier, more easily exploited one-third threshold."
+        },
+        {
+          "id": "pol_d34_ncst",
+          "location": { "name": "National Commission for Scheduled Tribes — New Delhi", "lat": 28.5985, "lng": 77.2277 },
+          "questions": [
+            { "question": "The National Commission for Scheduled Tribes (NCST) was established as a constitutional body to safeguard the interests of whom?", "options": ["Scheduled Castes", "Scheduled Tribes", "Religious minorities", "Women and children"], "correctIndex": 1 },
+            { "question": "The NCST was created as a separate commission from the National Commission for Scheduled Castes through which constitutional amendment, in 2003?", "options": ["89th Amendment", "93rd Amendment", "97th Amendment", "101st Amendment"], "correctIndex": 0 },
+            { "question": "The NCST's functions include investigating complaints related to the deprivation of rights and safeguards for tribal communities under what?", "options": ["International trade agreements", "The Constitution and other laws", "Corporate labour contracts only", "Foreign investment regulations"], "correctIndex": 1 },
+            { "question": "Before 2003, matters relating to Scheduled Tribes were handled jointly with Scheduled Castes under a single combined commission established via which earlier amendment?", "options": ["65th Amendment", "42nd Amendment", "73rd Amendment", "86th Amendment"], "correctIndex": 0 },
+            { "question": "The NCST is empowered to inquire into specific complaints and can also advise the government on what?", "options": ["Foreign policy matters", "Planning of the socio-economic development of Scheduled Tribes", "Currency and monetary policy", "Judicial appointments"], "correctIndex": 1 }
+          ],
+          "summary": "The National Commission for Scheduled Tribes was carved out as a distinct constitutional body in 2003 through the 89th Amendment, separating tribal affairs from the earlier combined National Commission for Scheduled Castes and Scheduled Tribes that had existed since 1990. The NCST investigates complaints regarding violations of rights and constitutional safeguards for Scheduled Tribe communities and also advises the government on planning their socio-economic development, an especially significant mandate given the historical marginalisation and land-rights challenges many tribal communities across India continue to face. Its creation as a dedicated body reflected growing recognition that Scheduled Castes and Scheduled Tribes, while both historically disadvantaged groups, face sufficiently distinct challenges to warrant separate institutional focus."
+        },
+        {
+          "id": "pol_d34_74th_amendment_bmc",
+          "location": { "name": "Brihanmumbai Municipal Corporation — Mumbai", "lat": 18.9467, "lng": 72.8342 },
+          "questions": [
+            { "question": "The 74th Constitutional Amendment, passed in 1992, primarily strengthened the constitutional status of what type of local governing bodies?", "options": ["Village panchayats", "Urban local bodies (municipalities)", "State legislatures", "District courts"], "correctIndex": 1 },
+            { "question": "The Brihanmumbai Municipal Corporation (BMC), governing Mumbai, is often cited as which of the following in India?", "options": ["The smallest municipal body by budget", "The richest municipal corporation in India by budget size", "A purely ceremonial body with no real powers", "A body governing only rural areas"], "correctIndex": 1 },
+            { "question": "The 74th Amendment mandated regular elections for urban local bodies at intervals of how many years?", "options": ["Every 2 years", "Every 5 years", "Every 7 years", "No fixed interval was specified"], "correctIndex": 1 },
+            { "question": "Under the 74th Amendment framework, municipal corporations like BMC are responsible for functions including urban planning, water supply, and what other key civic service?", "options": ["National defence coordination", "Solid waste management and sanitation", "Currency printing", "Foreign trade licensing"], "correctIndex": 1 },
+            { "question": "The 74th Amendment complemented the 73rd Amendment, which had similarly strengthened which rural local governance institutions?", "options": ["State governments", "Panchayati Raj institutions", "District collectors' offices", "Central ministries"], "correctIndex": 1 }
+          ],
+          "summary": "The 74th Constitutional Amendment of 1992 gave urban local bodies like the Brihanmumbai Municipal Corporation (BMC) firmer constitutional standing, mandating regular elections and devolving responsibility for functions such as urban planning, water supply, and solid waste management to elected municipal governments. The BMC itself, governing India's financial capital, is frequently cited as the richest municipal corporation in the country, with an annual budget that in some years exceeds that of several smaller Indian states combined. Passed alongside the rural-focused 73rd Amendment establishing Panchayati Raj institutions, the 74th Amendment completed a broader push toward decentralised, democratically elected local governance across both India's cities and villages."
+        },
+        {
+          "id": "pol_d34_niti_aayog",
+          "location": { "name": "NITI Aayog — New Delhi", "lat": 28.6165, "lng": 77.2118 },
+          "questions": [
+            { "question": "NITI Aayog was established in 2015 to replace which earlier government planning body?", "options": ["The Finance Commission", "The Planning Commission", "The Election Commission", "The Law Commission"], "correctIndex": 1 },
+            { "question": "'NITI' in NITI Aayog stands for National Institution for Transforming India, reflecting its role primarily as what kind of body, unlike its predecessor?", "options": ["A fund-allocating authority with binding financial power", "A policy think tank offering strategic and technical advice", "A tax-collecting authority", "A judicial oversight body"], "correctIndex": 1 },
+            { "question": "Unlike the Planning Commission, NITI Aayog does not have the power to do what, a key structural difference?", "options": ["Publish reports", "Directly allocate plan funds to states", "Hold meetings with state governments", "Advise the Prime Minister"], "correctIndex": 1 },
+            { "question": "NITI Aayog is chaired by whom?", "options": ["The President of India", "The Prime Minister of India", "The Finance Minister", "The Chief Justice of India"], "correctIndex": 1 },
+            { "question": "NITI Aayog's structure includes a Governing Council comprising which key stakeholders?", "options": ["Only central government ministers", "Chief Ministers of all states and Lieutenant Governors of Union Territories", "Only opposition party leaders", "Only foreign policy experts"], "correctIndex": 1 }
+          ],
+          "summary": "NITI Aayog was established in 2015 to replace the decades-old Planning Commission, marking a deliberate shift from a centralised, fund-allocating planning model toward a policy think tank focused on strategic advice, research, and fostering cooperative federalism. Chaired by the Prime Minister, its Governing Council brings together Chief Ministers of all states and Lieutenant Governors of Union Territories, intended to give states a stronger voice in shaping national development priorities than they had under the older system. Crucially, unlike the Planning Commission, NITI Aayog has no power to directly allocate plan funds to states — that authority shifted to the Finance Commission and Union Budget process — reframing its role as one of persuasion and coordination rather than command."
+        }
+      ]
+    }
+  }
+}

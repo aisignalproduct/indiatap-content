@@ -1,0 +1,326 @@
+{
+  "day": 32,
+  "date": "2026-11-01",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d32_valley_of_flowers",
+          "location": { "name": "Valley of Flowers National Park — Uttarakhand", "lat": 30.7268, "lng": 79.6045 },
+          "questions": [
+            { "question": "The Valley of Flowers is famous for its seasonal blooms during which period?", "options": ["Winter", "Monsoon (July-August)", "Early spring", "Autumn"], "correctIndex": 1 },
+            { "question": "The valley was 'discovered' by a European mountaineering party in which year, after they lost their way?", "options": ["1901", "1931", "1951", "1971"], "correctIndex": 1 },
+            { "question": "The Valley of Flowers is part of which larger UNESCO-listed biosphere complex, alongside Nanda Devi National Park?", "options": ["Nanda Devi Biosphere Reserve", "Sundarbans Biosphere Reserve", "Nilgiri Biosphere Reserve", "Kaziranga Biosphere Reserve"], "correctIndex": 0 },
+            { "question": "The valley is home to over 300 species of what?", "options": ["Bird species", "Alpine flowering plants", "Butterfly species", "Amphibian species"], "correctIndex": 1 },
+            { "question": "The park closes to visitors for most of the year mainly due to what?", "options": ["Heavy snowfall making it inaccessible", "Political restrictions", "Ongoing excavation work", "Wildlife breeding season closures"], "correctIndex": 0 }
+          ],
+          "summary": "The Valley of Flowers, high in the Uttarakhand Himalayas, bursts into a riot of alpine blooms each monsoon, hosting over 300 species of flowering plants across its glacial valley floor. It was brought to wider attention in 1931 when British mountaineer Frank Smythe, descending from a peak, stumbled upon it and later wrote a book that gave the valley its enduring name. Accessible only for a few months each year due to heavy snow the rest of the time, it forms part of the Nanda Devi Biosphere Reserve and has been a UNESCO World Heritage Site since 2005."
+        },
+        {
+          "id": "geo_d32_bhedaghat_marble_rocks",
+          "location": { "name": "Bhedaghat Marble Rocks — Madhya Pradesh", "lat": 23.1348, "lng": 79.8342 },
+          "questions": [
+            { "question": "The Marble Rocks at Bhedaghat form dramatic gorges along which river?", "options": ["Chambal", "Narmada", "Betwa", "Tapi"], "correctIndex": 1 },
+            { "question": "The gorge is famous for cliffs made of which type of rock, despite its name?", "options": ["True marble", "Limestone", "Magnesian limestone (visually similar to marble)", "Granite"], "correctIndex": 2 },
+            { "question": "A popular way to view the Marble Rocks gorge is via what?", "options": ["Cable car", "Boat ride along the river", "Hot air balloon", "Bicycle trail"], "correctIndex": 1 },
+            { "question": "Bhedaghat is located near which major Madhya Pradesh city?", "options": ["Bhopal", "Indore", "Jabalpur", "Gwalior"], "correctIndex": 2 },
+            { "question": "The nearby Dhuandhar Falls, meaning 'smoke cascade,' forms on the same river where it does what?", "options": ["Splits into a delta", "Plunges over the marble rocks creating misty spray", "Freezes in winter", "Flows underground"], "correctIndex": 1 }
+          ],
+          "summary": "The Marble Rocks at Bhedaghat, near Jabalpur, are towering cliffs of pale magnesian limestone that the Narmada River has carved into a dramatic, narrow gorge over millennia. Despite the name, the rock is not true marble, but its smooth, pale surfaces glow strikingly white under moonlight, making moonlit boat rides a particular local attraction. Just upstream, the Narmada plunges roughly 15 metres over the Dhuandhar Falls — literally 'smoke cascade' — where the sheer force of the water throws up a constant mist resembling smoke, best viewed from cable-car platforms installed above the falls."
+        },
+        {
+          "id": "geo_d32_zanskar_valley",
+          "location": { "name": "Zanskar Valley — Ladakh", "lat": 33.5000, "lng": 76.9333 },
+          "questions": [
+            { "question": "Zanskar Valley is one of the most remote inhabited regions in which Union Territory?", "options": ["Jammu and Kashmir", "Ladakh", "Himachal Pradesh", "Arunachal Pradesh"], "correctIndex": 1 },
+            { "question": "Zanskar is famous for the frozen-river trekking route known as what, used historically to travel when roads were snowbound?", "options": ["Chadar Trek", "Roopkund Trek", "Hampta Pass", "Markha Valley Trek"], "correctIndex": 0 },
+            { "question": "The Chadar Trek involves walking on the frozen surface of which river?", "options": ["Indus", "Zanskar River", "Shyok", "Nubra River"], "correctIndex": 1 },
+            { "question": "For several months each winter, Zanskar Valley is typically cut off from the rest of Ladakh due to what?", "options": ["Political restrictions", "Heavy snow blocking the only motorable pass", "Flooding", "Military closures"], "correctIndex": 1 },
+            { "question": "Zanskar's population is predominantly of which religious and cultural tradition?", "options": ["Sunni Muslim", "Tibetan Buddhist", "Hindu Vaishnavite", "Sikh"], "correctIndex": 1 }
+          ],
+          "summary": "Zanskar Valley, tucked deep in Ladakh's mountains, remains cut off from the rest of the region for much of winter, when the only motorable pass closes under heavy snow. For centuries, locals relied on the Chadar Trek — walking directly across the frozen Zanskar River — as their sole winter route to the outside world, a practice that has since also become a demanding, sought-after adventure trek for outsiders. Predominantly Tibetan Buddhist, Zanskar's isolated monasteries and villages have preserved a way of life and religious tradition little changed for generations, drawing travellers seeking Ladakh's most untouched corner."
+        },
+        {
+          "id": "geo_d32_great_himalayan_np",
+          "location": { "name": "Great Himalayan National Park — Himachal Pradesh", "lat": 31.7167, "lng": 77.5667 },
+          "questions": [
+            { "question": "The Great Himalayan National Park is located in which Himachal Pradesh district?", "options": ["Shimla", "Kullu", "Kangra", "Mandi"], "correctIndex": 1 },
+            { "question": "The park was declared a UNESCO World Heritage Site in which year?", "options": ["2004", "2014", "2020", "1999"], "correctIndex": 1 },
+            { "question": "The park protects habitat for which endangered high-altitude animal, among others?", "options": ["Snow leopard", "Asiatic lion", "Bengal tiger", "Indian rhinoceros"], "correctIndex": 0 },
+            { "question": "The park's ecosystem spans an unusually wide altitude range, from river valleys up to what?", "options": ["Around 2,000m", "Around 6,000m", "Around 8,000m", "Sea level to 1,000m only"], "correctIndex": 1 },
+            { "question": "Local communities living near the park traditionally depended on it for which resource before conservation restrictions?", "options": ["Fishing rights only", "Grazing, medicinal herbs, and firewood", "Mining rights", "Salt extraction"], "correctIndex": 1 }
+          ],
+          "summary": "The Great Himalayan National Park in Himachal Pradesh's Kullu district protects an extraordinary altitude range — from temperate river valleys to alpine peaks nearing 6,000 metres — sheltering snow leopards, Himalayan tahr, and hundreds of bird species within a single contiguous ecosystem. Local Himalayan communities historically depended on the park's forests and high pastures for grazing livestock and gathering medicinal herbs, a relationship the park's management now tries to balance with strict conservation goals. UNESCO inscribed it as a World Heritage Site in 2014, citing its exceptional biodiversity across such compressed but dramatic terrain."
+        },
+        {
+          "id": "geo_d32_kanha_national_park",
+          "location": { "name": "Kanha National Park — Madhya Pradesh", "lat": 22.3344, "lng": 80.6119 },
+          "questions": [
+            { "question": "Kanha National Park is believed to have inspired the setting of which famous literary work?", "options": ["The Jungle Book", "Panchatantra", "Life of Pi", "The Man-Eaters of Kumaon"], "correctIndex": 0 },
+            { "question": "Kanha played a critical role in saving which endangered deer species from near-extinction?", "options": ["Chital", "Barasingha (swamp deer)", "Sambar", "Nilgai"], "correctIndex": 1 },
+            { "question": "Kanha National Park is located in which Indian state?", "options": ["Chhattisgarh", "Madhya Pradesh", "Maharashtra", "Odisha"], "correctIndex": 1 },
+            { "question": "Kanha is one of India's designated reserves under which major tiger conservation programme, launched in 1973?", "options": ["Project Elephant", "Project Tiger", "Project Snow Leopard", "Project Rhino"], "correctIndex": 1 },
+            { "question": "Rudyard Kipling, whose work is linked to Kanha's landscape, actually wrote it primarily set in which broader Indian forest region?", "options": ["The Sundarbans", "Central Indian forests (Seoni area, near Kanha)", "The Western Ghats", "The Himalayan foothills"], "correctIndex": 1 }
+          ],
+          "summary": "Kanha National Park in Madhya Pradesh's dense sal and bamboo forests is widely believed to have inspired the setting of Rudyard Kipling's The Jungle Book, drawing on the wider Seoni forest region nearby. Beyond its literary fame, Kanha holds a genuine conservation milestone: it brought the barasingha, or swamp deer, back from the brink of extinction through decades of dedicated habitat management, growing the population from a few dozen to several hundred. One of the original nine reserves designated under Project Tiger in 1973, Kanha remains among India's most successful tiger conservation landscapes."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d32_amer_fort",
+          "location": { "name": "Amer Fort — Jaipur", "lat": 26.9855, "lng": 75.8513 },
+          "questions": [
+            { "question": "Amer Fort (Amber Fort) overlooks which lake near Jaipur?", "options": ["Pichola Lake", "Maota Lake", "Fateh Sagar Lake", "Ana Sagar Lake"], "correctIndex": 1 },
+            { "question": "Amer Fort was the capital of which Rajput kingdom before Jaipur city was founded?", "options": ["Mewar", "Kachwaha (Amber state)", "Marwar", "Bikaner"], "correctIndex": 1 },
+            { "question": "Amer Fort's most famous interior hall, decorated with intricate mirror-work, is called what?", "options": ["Sheesh Mahal (Mirror Palace)", "Diwan-i-Khas", "Rang Mahal", "Chini ka Rauza"], "correctIndex": 0 },
+            { "question": "Amer Fort was primarily constructed starting in which century, under Raja Man Singh I?", "options": ["12th century", "16th century", "18th century", "20th century"], "correctIndex": 1 },
+            { "question": "Amer Fort is part of a UNESCO World Heritage Site listing that groups it with which other Rajasthani forts?", "options": ["Hill Forts of Rajasthan", "Only Jaipur monuments", "Mughal Gardens of India", "Rajput Palaces of India"], "correctIndex": 0 }
+          ],
+          "summary": "Amer Fort, perched above Maota Lake just outside Jaipur, served as the capital of the Kachwaha Rajput rulers before Jaipur city itself was founded in the 18th century. Built predominantly from the late 16th century under Raja Man Singh I, its blend of Rajput and Mughal architectural styles reaches a peak in the Sheesh Mahal, a hall whose walls and ceilings are inlaid with thousands of tiny mirrors that once turned a single candle's flame into a starlit sky. Amer Fort is part of the collective UNESCO World Heritage listing 'Hill Forts of Rajasthan,' recognised in 2013."
+        },
+        {
+          "id": "cul_d32_charminar",
+          "location": { "name": "Charminar — Hyderabad", "lat": 17.3616, "lng": 78.4747 },
+          "questions": [
+            { "question": "Charminar was built in which year to commemorate the end of a plague epidemic, according to popular tradition?", "options": ["1591", "1650", "1707", "1798"], "correctIndex": 0 },
+            { "question": "Charminar was commissioned by which Qutb Shahi ruler?", "options": ["Ibrahim Quli Qutb Shah", "Muhammad Quli Qutb Shah", "Abdullah Qutb Shah", "Abul Hasan Qutb Shah"], "correctIndex": 1 },
+            { "question": "'Charminar' literally translates to what in Urdu/Persian?", "options": ["Golden gateway", "Four minarets", "Great mosque", "City centre"], "correctIndex": 1 },
+            { "question": "Charminar sits at the heart of Hyderabad's old city, historically at the centre of a bustling market known as what?", "options": ["Chandni Chowk", "Laad Bazaar", "Sadar Bazaar", "Crawford Market"], "correctIndex": 1 },
+            { "question": "Charminar has a small mosque located on which level of the structure?", "options": ["Ground floor", "Top floor", "Basement", "It has no mosque"], "correctIndex": 1 }
+          ],
+          "summary": "Charminar, built in 1591 by Muhammad Quli Qutb Shah, stands at the historic heart of Hyderabad's old city — its name literally meaning 'four minarets,' referring to the four towering, ornately carved spires anchoring each corner of the structure. Popular tradition holds it was built to mark the end of a devastating plague, though its exact founding rationale remains debated among historians. A small mosque occupies its upper floor, still in active use, while the surrounding streets host Laad Bazaar, a centuries-old market famous for bangles, pearls, and Hyderabadi perfumes, keeping Charminar a living commercial hub rather than a purely historical relic."
+        },
+        {
+          "id": "cul_d32_humayuns_tomb",
+          "location": { "name": "Humayun's Tomb — Delhi", "lat": 28.5933, "lng": 77.2507 },
+          "questions": [
+            { "question": "Humayun's Tomb was commissioned by whom, in memory of Emperor Humayun?", "options": ["Akbar", "Humayun's widow, Empress Bega Begum", "Shah Jahan", "Jahangir"], "correctIndex": 1 },
+            { "question": "Humayun's Tomb is often cited as an important architectural precursor to which more famous Mughal monument?", "options": ["Red Fort", "Taj Mahal", "Jama Masjid", "Fatehpur Sikri"], "correctIndex": 1 },
+            { "question": "Humayun's Tomb was among the first Mughal structures in India to prominently use which building material?", "options": ["White marble exclusively", "Red sandstone with white marble accents", "Wood", "Mud brick"], "correctIndex": 1 },
+            { "question": "The tomb complex is laid out in the classic Persian garden style known as what?", "options": ["Charbagh", "Mughal Bagh", "Shalimar style", "Zenana garden"], "correctIndex": 0 },
+            { "question": "In 1857, Humayun's Tomb briefly served as a hiding place and later capture site for which historical figure?", "options": ["Rani Lakshmibai", "The last Mughal emperor, Bahadur Shah Zafar", "Tipu Sultan", "Nana Sahib"], "correctIndex": 1 }
+          ],
+          "summary": "Humayun's Tomb, commissioned around 1565 by Empress Bega Begum for her late husband, is widely regarded as the architectural blueprint that eventually inspired the Taj Mahal, pioneering the use of red sandstone with white marble inlay and a formal charbagh garden layout in Mughal India. In 1857, during the Indian Rebellion, the tomb became a dramatic historical footnote when the last Mughal emperor, Bahadur Shah Zafar, took refuge here before being captured by British forces, effectively ending Mughal rule. Restored extensively in recent decades, the complex is a UNESCO World Heritage Site and remains one of Delhi's most serene Mughal-era landmarks."
+        },
+        {
+          "id": "cul_d32_brihadeeswarar_temple",
+          "location": { "name": "Brihadeeswarar Temple — Thanjavur", "lat": 10.7828, "lng": 79.1318 },
+          "questions": [
+            { "question": "Brihadeeswarar Temple was built by which Chola king in the 11th century?", "options": ["Rajaraja I", "Rajendra I", "Kulottunga I", "Vijayalaya"], "correctIndex": 0 },
+            { "question": "The temple's massive central tower (vimana) rises to approximately what height, remarkable for its era?", "options": ["30 metres", "66 metres", "100 metres", "150 metres"], "correctIndex": 1 },
+            { "question": "The huge capstone atop the temple's tower is carved from a single block of what?", "options": ["Sandstone", "Granite", "Marble", "Basalt"], "correctIndex": 1 },
+            { "question": "Brihadeeswarar Temple is dedicated to which deity?", "options": ["Vishnu", "Shiva", "Murugan", "Brahma"], "correctIndex": 1 },
+            { "question": "The temple is part of a UNESCO World Heritage grouping called what, alongside two other Chola-era temples?", "options": ["Great Living Chola Temples", "Dravidian Temple Trio", "Tamil Heritage Sites", "South Indian Temple Circuit"], "correctIndex": 0 }
+          ],
+          "summary": "Brihadeeswarar Temple in Thanjavur, completed around 1010 CE under the Chola emperor Rajaraja I, is an engineering marvel of its age — its central tower rises some 66 metres, capped by a single 80-tonne granite block that ancient builders are believed to have hauled into place using a long earthen ramp, since cranes obviously didn't exist. Dedicated to Shiva, the temple showcases the peak of Chola architectural and artistic achievement, its walls covered in inscriptions and frescoes documenting the dynasty's administration and patronage. Along with two related Chola temples, it forms the UNESCO-listed 'Great Living Chola Temples,' still active places of daily worship after a thousand years."
+        },
+        {
+          "id": "cul_d32_qutub_minar",
+          "location": { "name": "Qutub Minar — Delhi", "lat": 28.5245, "lng": 77.1855 },
+          "questions": [
+            { "question": "Qutub Minar was begun by which ruler, founder of the Delhi Sultanate's Mamluk dynasty?", "options": ["Iltutmish", "Qutb-ud-din Aibak", "Alauddin Khalji", "Muhammad bin Tughlaq"], "correctIndex": 1 },
+            { "question": "Qutub Minar, at completion, became the tallest brick minaret of its kind, standing at approximately what height?", "options": ["37 metres", "73 metres", "120 metres", "200 metres"], "correctIndex": 1 },
+            { "question": "The famous Iron Pillar standing in the Qutub complex is renowned for its resistance to what?", "options": ["Earthquakes", "Rust and corrosion", "Lightning strikes", "Fire"], "correctIndex": 1 },
+            { "question": "Qutub Minar has how many distinct storeys, each marked by a projecting balcony?", "options": ["Three", "Five", "Seven", "Nine"], "correctIndex": 1 },
+            { "question": "The Qutub complex also contains the incomplete remains of what, intended to be an even taller rival tower?", "options": ["Alai Minar", "Chand Minar", "Fateh Minar", "Rustam Minar"], "correctIndex": 0 }
+          ],
+          "summary": "Qutub Minar, begun around 1192 by Qutb-ud-din Aibak to mark the start of Muslim rule in Delhi, rises through five distinct storeys to about 73 metres, making it the tallest brick minaret in the world at the time of its construction. Within the same complex stands the enigmatic Iron Pillar, over 1,600 years old and remarkably rust-resistant, a metallurgical puzzle that continues to intrigue scientists. Sultan Alauddin Khalji later began an even more ambitious tower, the Alai Minar, intending to double Qutub Minar's height — but it was abandoned after reaching only about 25 metres and stands today as a stunted, unfinished stump beside its far more famous neighbour."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d32_bhilai_steel_plant",
+          "location": { "name": "Bhilai Steel Plant — Chhattisgarh", "lat": 21.1938, "lng": 81.3509 },
+          "questions": [
+            { "question": "Bhilai Steel Plant was established with technical collaboration from which country?", "options": ["United States", "Soviet Union", "Germany", "Japan"], "correctIndex": 1 },
+            { "question": "Bhilai Steel Plant is operated under which public sector company?", "options": ["Tata Steel", "Steel Authority of India Limited (SAIL)", "JSW Steel", "Vedanta"], "correctIndex": 1 },
+            { "question": "Bhilai Steel Plant became particularly renowned for producing which specific product used in India's space programme?", "options": ["Aircraft-grade aluminium", "Rails for railway tracks and specialised steel for ISRO", "Ship-building steel only", "Copper wiring"], "correctIndex": 1 },
+            { "question": "Bhilai Steel Plant's establishment in the 1950s was part of India's push toward what economic model?", "options": ["Complete privatisation", "State-led industrialisation under the Second Five-Year Plan", "Foreign-owned enterprise zones", "Agricultural self-sufficiency only"], "correctIndex": 1 },
+            { "question": "Bhilai is one of several major steel plants set up in India during the same era with foreign collaboration; which country helped set up the Rourkela plant?", "options": ["West Germany", "France", "United Kingdom", "Soviet Union"], "correctIndex": 0 }
+          ],
+          "summary": "Bhilai Steel Plant in Chhattisgarh, established with Soviet technical collaboration and commissioned in 1959, was a flagship project of India's early state-led industrialisation drive under the Second Five-Year Plan. Operated today by the Steel Authority of India (SAIL), Bhilai became particularly known for manufacturing the specialised rails that carry much of India's rail network, as well as high-grade steel components supplied to ISRO's space programme. Alongside contemporaries like Rourkela (built with West German help) and Durgapur (British collaboration), Bhilai exemplified the Nehruvian era's strategy of building heavy industry through partnerships with different global powers simultaneously."
+        },
+        {
+          "id": "eco_d32_kandla_port",
+          "location": { "name": "Kandla Port (Deendayal Port) — Gujarat", "lat": 23.0333, "lng": 70.2167 },
+          "questions": [
+            { "question": "Kandla Port was developed in the years following independence primarily to replace which port lost to Pakistan at Partition?", "options": ["Chittagong", "Karachi", "Dhaka", "Lahore's river port"], "correctIndex": 1 },
+            { "question": "Kandla was renamed Deendayal Port in which year?", "options": ["1997", "2007", "2017", "2021"], "correctIndex": 2 },
+            { "question": "Kandla Port is located on which gulf on India's western coast?", "options": ["Gulf of Khambhat", "Gulf of Kutch", "Gulf of Mannar", "Gulf of Aden"], "correctIndex": 1 },
+            { "question": "Kandla was India's first port to be declared what type of trade zone in 1965?", "options": ["Free Trade Zone", "Export Processing Zone", "Special Economic Zone under current terminology", "Duty-free port"], "correctIndex": 1 },
+            { "question": "Kandla Port primarily handles which major category of cargo?", "options": ["Only containerised goods", "Bulk cargo including petroleum, chemicals and food grains", "Only passenger ferries", "Only automobiles"], "correctIndex": 1 }
+          ],
+          "summary": "Kandla Port, on Gujarat's Gulf of Kutch coastline, was developed in the years after Partition specifically to compensate for the loss of Karachi, which had handled much of undivided India's western maritime trade. In 1965, Kandla became India's first Export Processing Zone, an early precursor to today's Special Economic Zones, aimed at boosting industrial exports. Renamed Deendayal Port in 2017, it remains one of India's busiest ports by cargo volume, handling substantial bulk trade in petroleum products, chemicals, and food grains for the country's northern and western hinterlands."
+        },
+        {
+          "id": "eco_d32_hinjewadi_it_park",
+          "location": { "name": "Hinjewadi IT Park — Pune", "lat": 18.5913, "lng": 73.7389 },
+          "questions": [
+            { "question": "Hinjewadi IT Park, on the outskirts of Pune, is a major hub for which industry?", "options": ["Textile manufacturing", "Information technology and software services", "Automobile assembly", "Pharmaceutical research only"], "correctIndex": 1 },
+            { "question": "Hinjewadi is officially developed and managed as part of which government-backed initiative?", "options": ["Software Technology Parks of India (STPI) / Rajiv Gandhi Infotech Park", "Digital India Corporation", "Make in India Zone", "National Investment Board Zone"], "correctIndex": 0 },
+            { "question": "Pune, where Hinjewadi is located, is often nicknamed what, reflecting its educational and industrial importance?", "options": ["Silicon Valley of India", "Oxford of the East", "Detroit of India", "Manchester of India"], "correctIndex": 1 },
+            { "question": "Hinjewadi hosts offices of numerous major IT and consulting firms, contributing significantly to which state's IT exports?", "options": ["Karnataka", "Maharashtra", "Telangana", "Tamil Nadu"], "correctIndex": 1 },
+            { "question": "A recurring civic challenge associated with Hinjewadi's rapid IT-driven growth has been what?", "options": ["Water scarcity only", "Severe traffic congestion and inadequate public transport", "Lack of electricity", "Excessive rainfall flooding"], "correctIndex": 1 }
+          ],
+          "summary": "Hinjewadi IT Park, part of the Rajiv Gandhi Infotech Park initiative on Pune's western outskirts, has grown into one of Maharashtra's largest information technology employment hubs, hosting offices of major global IT and consulting firms. Pune, sometimes called the 'Oxford of the East' for its dense concentration of colleges and universities, has leveraged this educated talent pool to build a substantial software services economy alongside its older identity as an automobile and manufacturing centre. Hinjewadi's explosive, largely unplanned growth has also made it a case study in urban infrastructure strain, with chronic traffic congestion prompting ongoing metro and road expansion projects."
+        },
+        {
+          "id": "eco_d32_dfc_dadri",
+          "location": { "name": "Dadri Freight Terminal — Uttar Pradesh", "lat": 28.5449, "lng": 77.5568 },
+          "questions": [
+            { "question": "Dadri serves as a key terminal node for which major Indian rail infrastructure project?", "options": ["Bullet train corridor", "Dedicated Freight Corridor (Eastern DFC)", "Delhi Metro extension", "National Highway network"], "correctIndex": 1 },
+            { "question": "The Dedicated Freight Corridor project was primarily designed to separate what from congested passenger rail lines?", "options": ["Freight (goods) trains", "Suburban commuter trains", "Tourist trains", "Military transport"], "correctIndex": 0 },
+            { "question": "Dadri's location makes it an important logistics link for goods moving between Delhi-NCR and which direction?", "options": ["Only southern India", "Eastern India / ports like Kolkata", "Only within Uttar Pradesh", "Only to Nepal"], "correctIndex": 1 },
+            { "question": "Dedicated Freight Corridors in India were primarily developed to reduce reliance on which more polluting/costly mode of long-haul cargo transport?", "options": ["Road transport by trucks", "Air cargo", "River barges", "Bullock carts"], "correctIndex": 0 },
+            { "question": "The Eastern Dedicated Freight Corridor primarily connects Dadri (near Delhi) to which eastern terminus?", "options": ["Kolkata", "Dankuni, near Kolkata (West Bengal)", "Bhubaneswar", "Patna"], "correctIndex": 1 }
+          ],
+          "summary": "The freight terminal at Dadri, on Delhi's eastern fringe, anchors the western end of India's Eastern Dedicated Freight Corridor, a purpose-built rail line running roughly 1,300 km to Dankuni near Kolkata, designed exclusively for goods trains. By separating freight from the country's overloaded passenger rail network, the corridor allows longer, heavier trains to move faster and more reliably, easing pressure on both older rail lines and India's congested highways, which had long carried a disproportionate share of long-haul freight by truck. Dadri's role as a key logistics node has grown alongside Delhi-NCR's expansion as a major consumption and distribution hub for northern India."
+        },
+        {
+          "id": "eco_d32_ntpc_vindhyachal",
+          "location": { "name": "NTPC Vindhyachal — Madhya Pradesh", "lat": 24.1000, "lng": 82.6333 },
+          "questions": [
+            { "question": "NTPC Vindhyachal is one of India's largest what type of power stations?", "options": ["Hydroelectric power station", "Coal-based thermal power station", "Nuclear power station", "Solar power park"], "correctIndex": 1 },
+            { "question": "NTPC, which operates Vindhyachal, stands for what?", "options": ["National Thermal Power Corporation", "National Transmission Power Company", "New Technology Power Consortium", "National Territorial Power Council"], "correctIndex": 0 },
+            { "question": "NTPC Vindhyachal is situated in which Madhya Pradesh district?", "options": ["Indore", "Singrauli", "Gwalior", "Jabalpur"], "correctIndex": 1 },
+            { "question": "The Singrauli region, home to Vindhyachal, is often referred to informally as India's what, due to its dense concentration of coal-based power plants?", "options": ["Silicon Valley", "Energy Capital / Power Hub", "Rice Bowl", "Steel City"], "correctIndex": 1 },
+            { "question": "NTPC Vindhyachal's massive coal consumption raises ongoing concerns primarily related to what?", "options": ["Water scarcity only", "Air pollution and carbon emissions", "Soil salinity", "Deforestation only"], "correctIndex": 1 }
+          ],
+          "summary": "NTPC Vindhyachal, located in Madhya Pradesh's coal-rich Singrauli district, is among the largest coal-based thermal power stations operated by NTPC (National Thermal Power Corporation), India's largest power utility. Singrauli's dense cluster of thermal plants, drawing on nearby coalfields, has earned the region an informal reputation as one of India's key energy hubs, supplying electricity to a wide swath of northern and central India. That same concentration of coal-fired generation has also made Singrauli a focal point in India's ongoing debates over balancing energy security and industrial growth against air quality and climate concerns."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d32_ganesh_chaturthi_mumbai",
+          "location": { "name": "Ganesh Chaturthi — Mumbai", "lat": 18.9220, "lng": 72.8347 },
+          "questions": [
+            { "question": "Ganesh Chaturthi celebrates the birth of which deity?", "options": ["Lord Krishna", "Lord Ganesha", "Lord Shiva", "Goddess Durga"], "correctIndex": 1 },
+            { "question": "The festival's public, community-organised celebrations in Maharashtra were popularised on a large scale by which freedom-movement leader?", "options": ["Mahatma Gandhi", "Bal Gangadhar Tilak", "Jawaharlal Nehru", "Subhas Chandra Bose"], "correctIndex": 1 },
+            { "question": "Ganesh Chaturthi celebrations traditionally conclude with a ritual immersion of idols called what?", "options": ["Visarjan", "Aarti", "Prasad", "Yatra"], "correctIndex": 0 },
+            { "question": "Mumbai's most famous and heavily visited Ganesh pandal, drawing massive crowds annually, is popularly known as what?", "options": ["Siddhivinayak Mandir Pandal", "Lalbaugcha Raja", "Girgaon Chowpatty Pandal", "Dadar Ganeshotsav"], "correctIndex": 1 },
+            { "question": "Tilak's promotion of public Ganesh Chaturthi celebrations in the 1890s was strategically aimed at doing what, under colonial rule?", "options": ["Raising funds for temples only", "Uniting people across caste lines against British restrictions on gatherings", "Promoting Sanskrit education", "Encouraging trade with Britain"], "correctIndex": 1 }
+          ],
+          "summary": "Ganesh Chaturthi, honouring the birth of Lord Ganesha, became a mass public festival largely through the efforts of freedom-movement leader Bal Gangadhar Tilak, who in the 1890s promoted community-organised celebrations as a clever way to unite Indians across caste and class lines at a time when the British colonial administration restricted large political gatherings. Mumbai's ten-day festival today culminates in the visarjan, when enormous, elaborately decorated idols are carried in processions to the sea for ritual immersion — none more anticipated than Lalbaugcha Raja, whose pandal draws millions of devotees and hours-long queues each year."
+        },
+        {
+          "id": "evt_d32_karva_chauth_north_india",
+          "location": { "name": "Karva Chauth — Delhi/Punjab region", "lat": 28.7041, "lng": 77.1025 },
+          "questions": [
+            { "question": "Karva Chauth is a fasting ritual traditionally observed by married women for whose long life and wellbeing?", "options": ["Their parents", "Their husbands", "Their children", "Their in-laws"], "correctIndex": 1 },
+            { "question": "The Karva Chauth fast is traditionally broken only after sighting which celestial body in the evening?", "options": ["The sun", "The moon", "Venus", "A specific star constellation"], "correctIndex": 1 },
+            { "question": "Karva Chauth is most strongly associated with which regions of India historically?", "options": ["North India, especially Punjab, Haryana, Rajasthan and UP", "South India exclusively", "Northeast India", "Coastal Karnataka"], "correctIndex": 0 },
+            { "question": "The word 'Karva' in Karva Chauth refers to what ritual object commonly used during the festival?", "options": ["A decorated earthen pot", "A type of sweet", "A specific flower", "A musical instrument"], "correctIndex": 0 },
+            { "question": "In recent decades, Karva Chauth traditions have also increasingly been adopted by whom, beyond the original custom?", "options": ["Only elderly women", "Unmarried women and sometimes husbands reciprocally fasting", "Only in rural areas", "Only among a single religious community"], "correctIndex": 1 }
+          ],
+          "summary": "Karva Chauth, observed predominantly across Punjab, Haryana, Rajasthan, and parts of Uttar Pradesh, sees married women undertake a rigorous day-long fast — often without even water — for the long life and wellbeing of their husbands, breaking the fast only after sighting the moon through a decorative sieve, often illuminated further by the glow of a diya. The 'karva' refers to the small earthen pot used in the associated rituals and gift exchanges. While traditionally a women-only observance, the custom has evolved in recent decades, with growing numbers of husbands choosing to reciprocally fast, and unmarried women in some communities now participating too, reflecting the festival's gradual shift from strict tradition toward a broader, more mutual expression of devotion."
+        },
+        {
+          "id": "evt_d32_poila_boishakh_kolkata",
+          "location": { "name": "Poila Boishakh — Kolkata", "lat": 22.5726, "lng": 88.3639 },
+          "questions": [
+            { "question": "Poila Boishakh marks the first day of which regional calendar's new year?", "options": ["Tamil calendar", "Bengali calendar", "Malayalam calendar", "Marathi calendar"], "correctIndex": 1 },
+            { "question": "Poila Boishakh typically falls in which month of the Gregorian calendar?", "options": ["January", "April/May", "August", "November"], "correctIndex": 1 },
+            { "question": "A traditional business practice on Poila Boishakh in Bengal involves shopkeepers opening a new what?", "options": ["Store location", "Account ledger (Haal Khata)", "Bank account", "Trade license"], "correctIndex": 1 },
+            { "question": "Poila Boishakh celebrations in Kolkata often include cultural processions inspired by which broader Indian tradition of welcoming the new year with art?", "options": ["Rangoli-making", "Mangal Shobhajatra-style processions with masks and folk art", "Kite-flying only", "Firework displays only"], "correctIndex": 1 },
+            { "question": "Poila Boishakh is celebrated by Bengali communities in which neighbouring country as well, where it is also a major national holiday?", "options": ["Nepal", "Bangladesh", "Myanmar", "Sri Lanka"], "correctIndex": 1 }
+          ],
+          "summary": "Poila Boishakh, the Bengali New Year, falls in mid-April and is celebrated with equal enthusiasm in Kolkata and across the border in Bangladesh, where it is a major national holiday. Traditionally, Bengali shopkeepers mark the day by opening a fresh account ledger, the Haal Khata, closing out old debts and starting the new business year with sweets and goodwill toward customers. Kolkata's celebrations increasingly feature colourful cultural processions drawing on folk art and mask traditions, while families gather for elaborate Bengali feasts, new clothes, and visits to Kali temples to seek blessings for the year ahead."
+        },
+        {
+          "id": "evt_d32_gudi_padwa_maharashtra",
+          "location": { "name": "Gudi Padwa — Maharashtra", "lat": 19.0760, "lng": 72.8777 },
+          "questions": [
+            { "question": "Gudi Padwa marks the traditional New Year in which state?", "options": ["Gujarat", "Maharashtra", "Karnataka", "Kerala"], "correctIndex": 1 },
+            { "question": "The festival's name comes from the 'gudi,' a decorated pole displayed outside homes, symbolising what?", "options": ["Mourning", "Victory and prosperity", "Harvest failure", "A wedding announcement"], "correctIndex": 1 },
+            { "question": "Gudi Padwa falls on the same lunar calendar date associated with which other well-known regional new year festival?", "options": ["Onam", "Ugadi (celebrated in Andhra Pradesh, Telangana, Karnataka)", "Pongal", "Baisakhi"], "correctIndex": 1 },
+            { "question": "According to popular belief, Gudi Padwa also commemorates a legendary victory associated with which historical/mythological figure?", "options": ["Shivaji Maharaj's coronation", "Lord Rama's return to Ayodhya, or the start of the Shalivahana calendar era", "Ashoka's conquest of Kalinga", "Akbar's accession"], "correctIndex": 1 },
+            { "question": "A distinctive sweet-and-bitter dish traditionally eaten on Gudi Padwa, symbolising life's mixed experiences, is made using neem leaves and what?", "options": ["Jaggery", "Honey", "Coconut", "Tamarind"], "correctIndex": 0 }
+          ],
+          "summary": "Gudi Padwa marks the traditional New Year in Maharashtra, falling on the same lunar date as Ugadi further south, and is heralded by hoisting a gudi — a bamboo pole decked with a bright cloth, neem leaves, and an upturned copper or silver vessel — outside homes, symbolising victory and prosperity. According to tradition, the day also commemorates the legendary start of the Shalivahana calendar era and, in some retellings, Lord Rama's triumphant return to Ayodhya. Maharashtrian households mark the day with a distinctive dish combining neem leaves and jaggery, a deliberate mix of bitter and sweet meant to symbolise accepting both hardship and joy as the year unfolds."
+        },
+        {
+          "id": "evt_d32_eid_ul_fitr_lucknow",
+          "location": { "name": "Eid-ul-Fitr — Lucknow", "lat": 26.8467, "lng": 80.9462 },
+          "questions": [
+            { "question": "Eid-ul-Fitr marks the end of which Islamic observance?", "options": ["Hajj pilgrimage", "The fasting month of Ramadan", "Muharram mourning period", "Eid-ul-Adha sacrifice period"], "correctIndex": 1 },
+            { "question": "Lucknow, a major centre for Eid celebrations in North India, is historically associated with which former ruling dynasty known for its refined culture?", "options": ["Mughals", "Nawabs of Awadh", "Nizams of Hyderabad", "Sultans of Bengal"], "correctIndex": 1 },
+            { "question": "A mandatory act of charity that Muslims are expected to perform before Eid-ul-Fitr prayers is called what?", "options": ["Zakat al-Fitr", "Hajj", "Sawm", "Sadaqah Jariyah only"], "correctIndex": 0 },
+            { "question": "Lucknow's Eid festivities are famous for which culinary tradition, reflecting its Nawabi heritage?", "options": ["Elaborate sheer khurma and kebabs", "Only vegetarian dishes", "South Indian dosas", "Bengali sweets exclusively"], "correctIndex": 0 },
+            { "question": "Eid-ul-Fitr celebrations begin with special congregational prayers held typically at which time of day?", "options": ["Midnight", "Morning", "Sunset", "Late night"], "correctIndex": 1 }
+          ],
+          "summary": "Eid-ul-Fitr, celebrated in Lucknow with particular grandeur reflecting the city's Nawabi heritage, marks the joyful end of Ramadan's month-long fasting. Before the morning's congregational prayers, Muslims are expected to give zakat al-Fitr, a charitable donation ensuring less fortunate community members can also join in the celebrations. Lucknow's Eid tables are renowned for their elaborate spread — rich sheer khurma (a vermicelli milk dessert), slow-cooked kebabs, and biryanis — culinary traditions refined over centuries under the Nawabs of Awadh, whose courtly emphasis on hospitality and refined taste still shapes the city's festive food culture today."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d32_delhi_nct_status",
+          "location": { "name": "New Delhi — National Capital Territory", "lat": 28.6139, "lng": 77.2090 },
+          "questions": [
+            { "question": "Delhi's official constitutional status is best described as what?", "options": ["A full state", "A National Capital Territory (NCT) with partial statehood powers", "A Union Territory with no legislature", "A federally administered military zone"], "correctIndex": 1 },
+            { "question": "Delhi's special status as NCT was created through which constitutional amendment?", "options": ["42nd Amendment", "69th Amendment", "73rd Amendment", "86th Amendment"], "correctIndex": 1 },
+            { "question": "Unlike full states, Delhi's elected government has historically had limited or contested control over which key areas?", "options": ["Education and health only", "Police, public order, and land", "Transport only", "Taxation only"], "correctIndex": 1 },
+            { "question": "Delhi's head of administration appointed by the Central Government is known as what?", "options": ["Governor", "Lieutenant Governor", "Chief Secretary", "Administrator-General"], "correctIndex": 1 },
+            { "question": "Disputes over the division of power between Delhi's elected government and the Lieutenant Governor have frequently gone to which body for resolution?", "options": ["The Election Commission", "The Supreme Court of India", "The United Nations", "State Human Rights Commission"], "correctIndex": 1 }
+          ],
+          "summary": "Delhi occupies a unique constitutional position as a National Capital Territory, a status created by the 69th Constitutional Amendment in 1991 that granted it its own elected Legislative Assembly and Chief Minister, while still falling short of full statehood. Critical subjects like police, public order, and land remain under the control of the Lieutenant Governor, representing the Central Government, a division of power that has repeatedly sparked friction between Delhi's elected government and the Centre. These recurring disputes over jurisdiction have on several occasions reached the Supreme Court, which has issued rulings attempting to clarify the boundaries of authority between the two."
+        },
+        {
+          "id": "pol_d32_article_371a_nagaland",
+          "location": { "name": "Kohima — Nagaland", "lat": 25.6751, "lng": 94.1086 },
+          "questions": [
+            { "question": "Article 371A grants special constitutional provisions to which state?", "options": ["Mizoram", "Nagaland", "Manipur", "Meghalaya"], "correctIndex": 1 },
+            { "question": "Under Article 371A, Parliament generally cannot legislate on Naga religious and social practices without the consent of what?", "options": ["The Supreme Court", "The Nagaland Legislative Assembly", "The President alone", "The Governor alone"], "correctIndex": 1 },
+            { "question": "Article 371A also provides special protection concerning Naga customary law and which specific resource?", "options": ["Mineral and land ownership", "Foreign trade rights", "Currency issuance", "Defence spending"], "correctIndex": 0 },
+            { "question": "Article 371A was incorporated into the Constitution following an agreement made in which year, paving the way for Nagaland's statehood?", "options": ["1950", "1960", "1975", "1990"], "correctIndex": 1 },
+            { "question": "Nagaland became a full-fledged state of India in which year?", "options": ["1956", "1963", "1972", "1987"], "correctIndex": 1 }
+          ],
+          "summary": "Article 371A, incorporated as part of a 1960 agreement that paved the way for Nagaland's statehood in 1963, grants the state distinctive constitutional protections not extended to most other Indian states. It ensures Parliament cannot legislate on matters of Naga religious or social practice, customary law, or ownership and transfer of land and its resources without the concurrence of the Nagaland Legislative Assembly. These provisions reflect the unique historical negotiations around Naga identity and self-governance that shaped the state's entry into the Indian Union, and they remain a frequently cited reference point in ongoing discussions about autonomy across India's northeastern states."
+        },
+        {
+          "id": "pol_d32_panchayati_raj_nagaur",
+          "location": { "name": "Nagaur — Rajasthan", "lat": 27.2020, "lng": 73.7339 },
+          "questions": [
+            { "question": "India's modern Panchayati Raj system of local self-governance was first formally launched in which state, at Nagaur district, in 1959?", "options": ["Uttar Pradesh", "Rajasthan", "Punjab", "Madhya Pradesh"], "correctIndex": 1 },
+            { "question": "The committee whose recommendations led to the creation of the Panchayati Raj system was headed by whom?", "options": ["B.R. Ambedkar", "Balwant Rai Mehta", "Sardar Vallabhbhai Patel", "C. Rajagopalachari"], "correctIndex": 1 },
+            { "question": "Panchayati Raj institutions were given firm constitutional status through which amendment, passed in 1992?", "options": ["61st Amendment", "73rd Amendment", "86th Amendment", "101st Amendment"], "correctIndex": 1 },
+            { "question": "The Panchayati Raj system operates through a three-tier structure: Gram Panchayat, Panchayat Samiti, and which third tier?", "options": ["Zila Parishad (district level)", "State Assembly", "Union Council", "Municipal Corporation"], "correctIndex": 0 },
+            { "question": "Which Prime Minister formally inaugurated the first Panchayati Raj institution at Nagaur in 1959?", "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Morarji Desai"], "correctIndex": 0 }
+          ],
+          "summary": "India's modern Panchayati Raj system of village self-governance traces its formal origin to Nagaur district in Rajasthan, where Prime Minister Jawaharlal Nehru inaugurated the first such institution in October 1959, based on recommendations from a committee headed by Balwant Rai Mehta. The system envisioned a three-tier structure of local democracy — Gram Panchayats at the village level, Panchayat Samitis at the block level, and Zila Parishads at the district level — designed to decentralise development planning and give rural communities direct say in local governance. It took over three decades, however, for Panchayati Raj to gain firm constitutional backing, achieved through the 73rd Amendment in 1992, which made such elected local bodies mandatory across rural India."
+        },
+        {
+          "id": "pol_d32_election_commission",
+          "location": { "name": "Election Commission of India — Delhi", "lat": 28.6139, "lng": 77.2090 },
+          "questions": [
+            { "question": "The Election Commission of India is a constitutional body responsible for overseeing elections to which offices?", "options": ["Only the Lok Sabha", "Parliament, state legislatures, and the offices of President and Vice-President", "Only municipal bodies", "Only state assemblies"], "correctIndex": 1 },
+            { "question": "The Election Commission was originally established as a single-member body; when did it become a multi-member commission?", "options": ["1950", "1989-1993 period", "2000", "2010"], "correctIndex": 1 },
+            { "question": "The head of the Election Commission of India holds the title of what?", "options": ["Chief Justice", "Chief Election Commissioner", "Election Secretary", "Returning Officer-General"], "correctIndex": 1 },
+            { "question": "The Election Commission derives its authority primarily from which article of the Indian Constitution?", "options": ["Article 324", "Article 370", "Article 356", "Article 32"], "correctIndex": 0 },
+            { "question": "A key tool the Election Commission uses to ensure fair conduct during elections, restricting government announcements and campaigning, is called what?", "options": ["Emergency Provisions", "Model Code of Conduct", "President's Rule", "Ordinance Powers"], "correctIndex": 1 }
+          ],
+          "summary": "The Election Commission of India, established under Article 324 of the Constitution, is the autonomous body responsible for administering elections to Parliament, state legislatures, and the offices of President and Vice-President. Originally a single-member body since its founding in 1950, it became a multi-member commission during 1989-1993, adding a Chief Election Commissioner and two additional Election Commissioners to strengthen institutional checks. Among its most significant tools is the Model Code of Conduct, a set of guidelines that restricts government announcements, spending, and campaign conduct once elections are announced, intended to ensure a level playing field — though its enforcement and scope remain a frequent subject of political debate."
+        },
+        {
+          "id": "pol_d32_cag_india",
+          "location": { "name": "Comptroller and Auditor General of India — Delhi", "lat": 28.6139, "lng": 77.2090 },
+          "questions": [
+            { "question": "The Comptroller and Auditor General (CAG) of India is primarily responsible for auditing what?", "options": ["Only private companies", "The accounts and expenditure of the Union and state governments", "Only the armed forces budget", "Only foreign aid funds"], "correctIndex": 1 },
+            { "question": "The CAG is often described using which phrase, emphasising its role in financial accountability?", "options": ["Guardian of the public purse", "Chief tax collector", "Head banker of India", "Finance Minister's deputy"], "correctIndex": 0 },
+            { "question": "The CAG's reports on government spending are submitted to whom for further parliamentary scrutiny?", "options": ["The Prime Minister directly, with no further review", "The President, and then examined by the Public Accounts Committee", "Only the Finance Ministry", "State Governors only"], "correctIndex": 1 },
+            { "question": "The office of the CAG derives its constitutional basis from which article?", "options": ["Article 148", "Article 324", "Article 356", "Article 370"], "correctIndex": 0 },
+            { "question": "The CAG is appointed by whom, and holds office for how long or until what age limit?", "options": ["The Prime Minister; 5 years or age 65", "The President; 6 years or age 65, whichever is earlier", "The Chief Justice; for life", "The Parliament by direct vote; 10 years"], "correctIndex": 1 }
+          ],
+          "summary": "The Comptroller and Auditor General of India, established under Article 148 of the Constitution, functions as the guardian of the public purse, auditing the financial accounts and expenditure of both the Union and state governments to ensure public money is spent as authorised by Parliament and state legislatures. Appointed by the President for a term of six years or until age 65, whichever comes first, the CAG submits audit reports that are placed before Parliament and then scrutinised in detail by the Public Accounts Committee. Over the decades, several high-profile CAG reports on issues like telecom spectrum allocation and coal block distribution have triggered major political controversies, underscoring the office's significant, if sometimes contested, role in India's system of financial accountability."
+        }
+      ]
+    }
+  }
+}

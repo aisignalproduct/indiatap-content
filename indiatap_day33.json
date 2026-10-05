@@ -1,0 +1,326 @@
+{
+  "day": 33,
+  "date": "2026-11-02",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d33_bhitarkanika",
+          "location": { "name": "Bhitarkanika National Park — Odisha", "lat": 20.7167, "lng": 86.9000 },
+          "questions": [
+            { "question": "Bhitarkanika National Park is India's second-largest area of which ecosystem?", "options": ["Coral reef", "Mangrove forest", "Alpine meadow", "Grassland"], "correctIndex": 1 },
+            { "question": "Bhitarkanika is home to a large population of which reptile, including some of India's biggest individuals?", "options": ["King cobra", "Saltwater crocodile", "Gharial", "Monitor lizard"], "correctIndex": 1 },
+            { "question": "Bhitarkanika lies near the mouth of which river system on Odisha's coast?", "options": ["Mahanadi", "Brahmani and Baitarani", "Godavari", "Krishna"], "correctIndex": 1 },
+            { "question": "Nearby Gahirmatha beach, close to Bhitarkanika, is globally significant as a nesting site for which marine species?", "options": ["Dugongs", "Olive Ridley sea turtles", "Humpback whales", "Whale sharks"], "correctIndex": 1 },
+            { "question": "Bhitarkanika was declared a national park in which year?", "options": ["1988", "1998", "2008", "1975"], "correctIndex": 1 }
+          ],
+          "summary": "Bhitarkanika National Park, at the confluence of the Brahmani and Baitarani rivers on Odisha's coast, protects India's second-largest mangrove ecosystem after the Sundarbans, and shelters some of the country's largest saltwater crocodiles. Just offshore, Gahirmatha beach hosts one of the world's largest nesting congregations of Olive Ridley sea turtles, where hundreds of thousands of females arrive in a synchronised mass nesting event called an arribada. Declared a national park in 1998, Bhitarkanika's dense mangrove creeks also serve as a critical storm buffer for surrounding coastal communities, regularly battered by Bay of Bengal cyclones."
+        },
+        {
+          "id": "geo_d33_manas_national_park",
+          "location": { "name": "Manas National Park — Assam", "lat": 26.6667, "lng": 91.0000 },
+          "questions": [
+            { "question": "Manas National Park sits along the border between Assam and which neighbouring country?", "options": ["Myanmar", "Bhutan", "Bangladesh", "Nepal"], "correctIndex": 1 },
+            { "question": "Manas is named after which river flowing through the park?", "options": ["Manas River", "Brahmaputra", "Teesta", "Subansiri"], "correctIndex": 0 },
+            { "question": "Manas holds triple international recognition as a UNESCO World Heritage Site, a Project Tiger reserve, and what else?", "options": ["A Ramsar wetland", "A Biosphere Reserve", "A geopark", "A dark sky reserve"], "correctIndex": 1 },
+            { "question": "During a period of ethnic conflict in the 1990s, Manas suffered significant setbacks, including a sharp decline in which iconic species?", "options": ["Bengal tigers and rhinos due to poaching", "Elephants due to disease", "Birds due to pesticide use", "Fish due to overfishing"], "correctIndex": 0 },
+            { "question": "Manas is particularly important for conserving several species found only in this part of Northeast India, including which endangered small mammal?", "options": ["Pygmy hog", "Snow leopard", "Red panda", "Clouded leopard exclusively"], "correctIndex": 0 }
+          ],
+          "summary": "Manas National Park, straddling the Assam-Bhutan border along the Manas River, holds the rare distinction of being simultaneously a UNESCO World Heritage Site, a Project Tiger reserve, and a designated Biosphere Reserve. During Assam's ethnic and political unrest in the 1990s, the park suffered severe poaching that decimated its tiger and rhino populations, briefly placing it on UNESCO's list of endangered heritage sites before dedicated conservation efforts helped it recover. Manas remains a last refuge for the critically endangered pygmy hog, the world's smallest wild pig, found in only a handful of locations across Northeast India."
+        },
+        {
+          "id": "geo_d33_pin_valley",
+          "location": { "name": "Pin Valley National Park — Himachal Pradesh", "lat": 32.2167, "lng": 78.1000 },
+          "questions": [
+            { "question": "Pin Valley National Park lies within which high-altitude cold desert region of Himachal Pradesh?", "options": ["Kullu Valley", "Spiti", "Kangra Valley", "Chamba"], "correctIndex": 1 },
+            { "question": "Pin Valley is a key habitat for which elusive big cat of the high Himalayas?", "options": ["Bengal tiger", "Snow leopard", "Clouded leopard", "Asiatic cheetah"], "correctIndex": 1 },
+            { "question": "The Spiti region, home to Pin Valley, receives very little rainfall because it lies in the rain shadow of which mountain range?", "options": ["The Aravallis", "The Greater Himalayas", "The Western Ghats", "The Vindhyas"], "correctIndex": 1 },
+            { "question": "Pin Valley is also notable for its population of which large wild sheep species?", "options": ["Bharal (blue sheep)", "Marco Polo sheep", "Domestic merino sheep", "Nilgiri tahr"], "correctIndex": 0 },
+            { "question": "Villages near Pin Valley practise a distinctive form of Buddhism connected to which broader cultural tradition?", "options": ["Tibetan Buddhism", "Theravada Buddhism from Southeast Asia", "Zen Buddhism from Japan", "Pure Land Buddhism"], "correctIndex": 0 }
+          ],
+          "summary": "Pin Valley National Park sits within Spiti's stark cold desert landscape, a rain-shadow region so arid that it more closely resembles Ladakh or Tibet than the lush Himachal hillsides just a mountain range away. The park is one of the better places in India to spot the elusive snow leopard, alongside herds of bharal, or blue sheep, which form a key part of the predator's diet. Villages scattered around Pin Valley follow Tibetan Buddhist traditions closely tied to nearby monasteries, and the valley's isolation — snowbound for much of the year — has helped preserve both its unique ecology and its distinct high-altitude way of life."
+        },
+        {
+          "id": "geo_d33_desert_national_park",
+          "location": { "name": "Desert National Park — Rajasthan", "lat": 26.8333, "lng": 70.9167 },
+          "questions": [
+            { "question": "Desert National Park is one of the last strongholds for which critically endangered bird?", "options": ["Sarus crane", "Great Indian Bustard", "Siberian crane", "Indian peafowl"], "correctIndex": 1 },
+            { "question": "Desert National Park is located near which Rajasthani city?", "options": ["Bikaner", "Jaisalmer", "Jodhpur", "Barmer"], "correctIndex": 1 },
+            { "question": "Desert National Park showcases classic Thar Desert features, including large expanses of what?", "options": ["Sand dunes and rocky terrain", "Dense rainforest", "Mangrove swamps", "Alpine meadows"], "correctIndex": 0 },
+            { "question": "The Great Indian Bustard's population has declined sharply in recent decades primarily due to what threat?", "options": ["Overfishing", "Collisions with power transmission lines and habitat loss", "Ocean pollution", "Volcanic activity"], "correctIndex": 1 },
+            { "question": "Desert National Park also preserves fossilised remains from which geological era, found within its rock formations?", "options": ["Jurassic era marine fossils", "Ice age mammal fossils", "Dinosaur eggs", "Early human tools only"], "correctIndex": 0 }
+          ],
+          "summary": "Desert National Park near Jaisalmer protects one of the last strongholds of the critically endangered Great Indian Bustard, a large, ground-dwelling bird whose population has collapsed largely due to fatal collisions with overhead power lines crisscrossing its open habitat. Spanning classic Thar Desert terrain of sand dunes, rocky outcrops, and sparse scrub, the park is also a rare site for marine fossils, remnants from a time when this now bone-dry region lay beneath a shallow Jurassic-era sea. Conservationists have pushed for undergrounding power lines within bustard habitat, though implementation across such vast desert terrain remains a slow, contested process."
+        },
+        {
+          "id": "geo_d33_coringa_wildlife_sanctuary",
+          "location": { "name": "Coringa Wildlife Sanctuary — Andhra Pradesh", "lat": 16.7500, "lng": 82.2667 },
+          "questions": [
+            { "question": "Coringa Wildlife Sanctuary protects the second-largest mangrove ecosystem on India's east coast, after which other site?", "options": ["Sundarbans", "Bhitarkanika", "Pichavaram", "Chilika"], "correctIndex": 1 },
+            { "question": "Coringa lies at the delta of which major river?", "options": ["Krishna", "Godavari", "Mahanadi", "Kaveri"], "correctIndex": 1 },
+            { "question": "Coringa's mangrove creeks are an important nursery habitat supporting which coastal industry?", "options": ["Pearl diving", "Fisheries and prawn breeding", "Salt mining", "Seaweed farming"], "correctIndex": 1 },
+            { "question": "Coringa Wildlife Sanctuary is located in which Andhra Pradesh district?", "options": ["Visakhapatnam", "East Godavari", "Krishna", "Guntur"], "correctIndex": 1 },
+            { "question": "Beyond mangroves, Coringa also shelters populations of which reptile commonly found in such estuarine habitats?", "options": ["Gharial", "Saltwater crocodile", "King cobra", "Green sea turtle nesting only"], "correctIndex": 1 }
+          ],
+          "summary": "Coringa Wildlife Sanctuary, spread across the Godavari River delta in Andhra Pradesh's East Godavari district, protects the second-largest mangrove forest on India's eastern coastline after Bhitarkanika. Its labyrinth of tidal creeks and mudflats serves as a vital nursery for fish and prawns, underpinning much of the local fishing economy, while also sheltering saltwater crocodiles and a rich diversity of waterbirds. Though less internationally known than some of India's flagship mangrove sites, Coringa plays an outsized ecological role in stabilising the Godavari delta's coastline against erosion and cyclonic storm surges."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d33_jantar_mantar_jaipur",
+          "location": { "name": "Jantar Mantar — Jaipur", "lat": 26.9246, "lng": 75.8246 },
+          "questions": [
+            { "question": "Jaipur's Jantar Mantar is a collection of large-scale instruments built for which purpose?", "options": ["Military defence", "Astronomical observation", "Water storage", "Grain measurement"], "correctIndex": 1 },
+            { "question": "Jantar Mantar in Jaipur was built by which Rajput ruler, also known for founding the city itself?", "options": ["Sawai Jai Singh II", "Man Singh I", "Ram Singh II", "Madho Singh I"], "correctIndex": 0 },
+            { "question": "The largest instrument at Jaipur's Jantar Mantar is a giant sundial capable of measuring time to an accuracy of about how many seconds?", "options": ["60 seconds", "2 seconds", "10 minutes", "1 hour"], "correctIndex": 1 },
+            { "question": "Sawai Jai Singh II built a total of how many Jantar Mantar observatories across northern India?", "options": ["Two", "Five", "Ten", "Twenty"], "correctIndex": 1 },
+            { "question": "Jaipur's Jantar Mantar was inscribed as a UNESCO World Heritage Site in which year?", "options": ["1995", "2010", "2015", "2020"], "correctIndex": 1 }
+          ],
+          "summary": "Jaipur's Jantar Mantar, built in the 1730s by the astronomer-king Sawai Jai Singh II, is the largest and best preserved of five such observatories he constructed across northern India, each featuring massive stone and marble instruments designed to track celestial movements with remarkable precision. Its centrepiece, the Samrat Yantra, is a giant sundial roughly 27 metres tall that can tell local time accurate to about two seconds — extraordinary for an instrument with no moving parts, built centuries before mechanical clocks reached comparable precision. UNESCO recognised the site as a World Heritage location in 2010, honouring it as a landmark achievement in pre-telescope observational astronomy."
+        },
+        {
+          "id": "cul_d33_dilwara_temples",
+          "location": { "name": "Dilwara Temples — Mount Abu, Rajasthan", "lat": 24.6167, "lng": 72.7167 },
+          "questions": [
+            { "question": "Dilwara Temples are a group of temples dedicated to which religion?", "options": ["Buddhism", "Jainism", "Hinduism", "Sikhism"], "correctIndex": 1 },
+            { "question": "Dilwara Temples are especially famous for their extraordinarily detailed carvings in which material?", "options": ["Sandstone", "White marble", "Granite", "Basalt"], "correctIndex": 1 },
+            { "question": "Dilwara Temples are located near which Rajasthani hill station?", "options": ["Pushkar", "Mount Abu", "Kumbhalgarh", "Nathdwara"], "correctIndex": 1 },
+            { "question": "The oldest of the Dilwara temple group, the Vimal Vasahi, was built in which century?", "options": ["8th century", "11th century", "15th century", "18th century"], "correctIndex": 1 },
+            { "question": "Dilwara's marble ceiling carvings are so intricate that craftsmen reportedly were paid based on what unusual measure?", "options": ["The weight of marble dust removed", "The number of hours worked", "The number of figures carved", "The size of the temple"], "correctIndex": 0 }
+          ],
+          "summary": "The Dilwara Temples near Mount Abu, built by Jain patrons between the 11th and 13th centuries, are renowned for marble carvings of such extraordinary delicacy that the stone appears almost translucent, with ceilings, pillars, and doorways covered in impossibly fine floral and figural detail. Legend holds that craftsmen working on the temples were paid not by the hour but by the weight of marble dust they carved away, an incentive said to have pushed the artistry to its remarkable extremes. Despite their unassuming, deliberately plain exteriors — a Jain architectural choice avoiding ostentation — the interiors rank among the finest surviving examples of medieval Indian marble work anywhere in the country."
+        },
+        {
+          "id": "cul_d33_ellora_caves",
+          "location": { "name": "Ellora Caves — Maharashtra", "lat": 20.0258, "lng": 75.1780 },
+          "questions": [
+            { "question": "Ellora Caves are unique among India's rock-cut monuments for representing which three religions together at one site?", "options": ["Hinduism, Buddhism, and Jainism", "Hinduism, Islam, and Christianity", "Buddhism, Sikhism, and Jainism", "Only Hinduism"], "correctIndex": 0 },
+            { "question": "Ellora's most famous structure, the Kailasa Temple, was carved how, distinguishing it from typical construction?", "options": ["Built up brick by brick", "Carved downward out of a single rock, top to bottom", "Assembled from prefabricated stone blocks", "3D printed from a mould"], "correctIndex": 1 },
+            { "question": "The Kailasa Temple at Ellora is dedicated to which deity?", "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"], "correctIndex": 1 },
+            { "question": "Ellora Caves were primarily excavated over roughly what time span?", "options": ["A single decade", "About 5 centuries (6th-11th century CE)", "About 50 years", "Over a millennium and a half"], "correctIndex": 1 },
+            { "question": "How many rock-cut caves make up the total Ellora complex?", "options": ["12", "20", "34", "50"], "correctIndex": 2 }
+          ],
+          "summary": "Ellora Caves, comprising 34 rock-cut monuments carved between roughly the 6th and 11th centuries CE, uniquely showcase Hindu, Buddhist, and Jain shrines side by side, reflecting an era of religious coexistence and patronage across dynasties. Its undisputed masterpiece is the Kailasa Temple, an entire multi-storey temple complex carved downward out of a single massive rock face — not built up, but excavated top to bottom, removing an estimated 200,000 tonnes of rock, making it one of the most ambitious works of rock-cut architecture anywhere in the world. Dedicated to Shiva and commissioned under the Rashtrakuta dynasty, Kailasa remains a staggering feat of planning and execution achieved without any of today's engineering tools."
+        },
+        {
+          "id": "cul_d33_modhera_sun_temple",
+          "location": { "name": "Modhera Sun Temple — Gujarat", "lat": 23.5833, "lng": 72.1333 },
+          "questions": [
+            { "question": "Modhera Sun Temple was built in the 11th century under which dynasty?", "options": ["Chola dynasty", "Solanki (Chaulukya) dynasty", "Gupta dynasty", "Maurya dynasty"], "correctIndex": 1 },
+            { "question": "Modhera Sun Temple is dedicated to which deity?", "options": ["Vishnu", "Surya (the Sun God)", "Shiva", "Durga"], "correctIndex": 1 },
+            { "question": "The temple complex includes a large rectangular stepped water tank known as what?", "options": ["Suryakund", "Ranikund", "Devkund", "Shivakund"], "correctIndex": 0 },
+            { "question": "Modhera Sun Temple was designed so that sunlight would directly illuminate the main idol at which specific time?", "options": ["Sunset", "The equinoxes at sunrise", "Midnight", "Only during monsoon"], "correctIndex": 1 },
+            { "question": "Since the temple no longer holds active worship, what has it instead become primarily known for hosting?", "options": ["A modern marketplace", "A sound-and-light show and cultural events (Uttarardh Mahotsav)", "A government office", "A residential colony"], "correctIndex": 1 }
+          ],
+          "summary": "Modhera Sun Temple, built in 1026-27 CE under the Solanki dynasty, was engineered with remarkable astronomical precision so that sunlight would fall directly on the deity's idol at sunrise during the equinoxes. Its striking Suryakund, a vast stepped tank in front of the temple lined with over a hundred small shrines, once served ceremonial bathing purposes before major rituals. No longer an active place of worship following historical damage, Modhera today hosts the annual Uttarardh Mahotsav, a classical dance festival staged against the temple's illuminated backdrop, alongside a popular evening sound-and-light show recounting its history."
+        },
+        {
+          "id": "cul_d33_golden_temple_amritsar",
+          "location": { "name": "Golden Temple (Harmandir Sahib) — Amritsar", "lat": 31.6200, "lng": 74.8765 },
+          "questions": [
+            { "question": "The Golden Temple is the holiest gurdwara of which religion?", "options": ["Hinduism", "Sikhism", "Jainism", "Buddhism"], "correctIndex": 1 },
+            { "question": "The Golden Temple's upper floors are covered in gold, added during renovations under which 19th-century ruler?", "options": ["Ranjit Singh", "Bahadur Shah Zafar", "Akbar", "Dalip Singh"], "correctIndex": 0 },
+            { "question": "The Golden Temple sits at the centre of a sacred pool, from which Amritsar derives its name. What does 'Amritsar' mean?", "options": ["City of gold", "Pool of nectar", "River of light", "Garden of peace"], "correctIndex": 1 },
+            { "question": "The Golden Temple is famous for operating one of the world's largest what, feeding people of all backgrounds daily for free?", "options": ["Hospitals", "Community kitchens (langars)", "Schools", "Libraries"], "correctIndex": 1 },
+            { "question": "The Golden Temple has four entrances symbolising what principle central to Sikhism?", "options": ["The four seasons", "Openness to all people regardless of caste, religion, or background", "The four Vedas", "The four directions of trade routes"], "correctIndex": 1 }
+          ],
+          "summary": "The Golden Temple, or Harmandir Sahib, in Amritsar is Sikhism's holiest site, its gleaming gold-covered upper storeys a later addition commissioned by Maharaja Ranjit Singh in the early 19th century. The temple sits amid the Amrit Sarovar, the 'pool of nectar' from which the city takes its name, and is deliberately built with entrances on all four sides, symbolising its openness to people of every caste, religion, and background. Its community kitchen, the langar, serves free meals to tens of thousands of visitors daily regardless of faith, run almost entirely by volunteer labour — a living embodiment of the Sikh principle of seva, or selfless service."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d33_infosys_mysuru",
+          "location": { "name": "Infosys Global Education Centre — Mysuru", "lat": 12.3260, "lng": 76.6690 },
+          "questions": [
+            { "question": "Infosys's campus in Mysuru is primarily known as one of the world's largest what?", "options": ["Data centres", "Corporate training and education facilities", "Manufacturing plants", "Call centres"], "correctIndex": 1 },
+            { "question": "Infosys, the company operating this campus, is headquartered in which Indian city?", "options": ["Mumbai", "Bengaluru", "Hyderabad", "Chennai"], "correctIndex": 1 },
+            { "question": "The Mysuru campus is primarily used to train what category of employees before they join projects?", "options": ["Senior executives only", "Newly hired graduate engineers and trainees", "Only sales staff", "Only overseas clients"], "correctIndex": 1 },
+            { "question": "Infosys was among the pioneering companies that helped establish India's global reputation in which industry?", "options": ["Automobile manufacturing", "Information technology and software services", "Textile exports", "Pharmaceutical manufacturing"], "correctIndex": 1 },
+            { "question": "Infosys was co-founded in 1981 by a group of engineers including which prominent figure who later became a well-known public commentator on technology and policy?", "options": ["N. R. Narayana Murthy", "Ratan Tata", "Azim Premji", "Mukesh Ambani"], "correctIndex": 0 }
+          ],
+          "summary": "Infosys's sprawling campus in Mysuru functions as one of the world's largest corporate training facilities, where thousands of newly hired engineering graduates undergo months of foundational training before being assigned to live client projects. Infosys, co-founded in 1981 by N. R. Narayana Murthy and a small group of fellow engineers with minimal starting capital, grew into one of the flagship companies that put Indian IT services on the global map, alongside firms like TCS and Wipro. The Mysuru facility, with its resort-like landscaping, food courts, and recreational amenities, has become something of an emblem for how India's IT majors have approached large-scale employee training and campus culture."
+        },
+        {
+          "id": "eco_d33_chennai_port",
+          "location": { "name": "Chennai Port", "lat": 13.1000, "lng": 80.2958 },
+          "questions": [
+            { "question": "Chennai Port is one of India's oldest ports, with harbour operations dating back to which century?", "options": ["17th century", "19th century", "20th century", "21st century"], "correctIndex": 1 },
+            { "question": "Chennai Port is a major hub for which industry's exports, given the region's manufacturing base?", "options": ["Textiles only", "Automobile exports (Chennai is a major auto manufacturing hub)", "Only IT hardware", "Only agricultural produce"], "correctIndex": 1 },
+            { "question": "Chennai, home to this port, is sometimes referred to by which nickname reflecting its automobile manufacturing strength?", "options": ["Detroit of India", "Silicon Valley of India", "Manchester of India", "Motor City of the East"], "correctIndex": 0 },
+            { "question": "Chennai Port is located on which coast of India?", "options": ["West coast", "East coast", "Southern tip", "Northeast coast"], "correctIndex": 1 },
+            { "question": "Chennai Port handles cargo types including containers, automobiles, and which other significant category?", "options": ["Only passenger ferries", "Petroleum and general cargo", "Only fishing catch", "Only mail and parcels"], "correctIndex": 1 }
+          ],
+          "summary": "Chennai Port, one of India's oldest artificial harbours with operations tracing back to the 1870s, has grown alongside the city's emergence as a major automobile manufacturing hub — a status that has earned Chennai the nickname 'Detroit of India,' hosting plants for several global car and auto-component makers. The port today handles a mix of containerised cargo, vehicle exports, petroleum products, and general cargo, serving as a critical gateway for South India's trade with Southeast Asia and beyond. Its long operational history has also meant balancing modernisation with the challenges of expanding capacity within an increasingly dense and built-up coastal city."
+        },
+        {
+          "id": "eco_d33_bandra_worli_sea_link",
+          "location": { "name": "Bandra-Worli Sea Link — Mumbai", "lat": 19.0359, "lng": 72.8206 },
+          "questions": [
+            { "question": "The Bandra-Worli Sea Link connects which two areas of Mumbai across the Arabian Sea?", "options": ["Bandra and Worli", "Colaba and Bandra", "Andheri and Worli", "Churchgate and Bandra"], "correctIndex": 0 },
+            { "question": "The Sea Link was constructed primarily to ease traffic congestion on which older, heavily used road?", "options": ["Marine Drive", "Mahim Causeway", "Eastern Express Highway", "Western Express Highway"], "correctIndex": 1 },
+            { "question": "The Bandra-Worli Sea Link opened to traffic in which year (initial partial opening)?", "options": ["1999", "2009", "2015", "2020"], "correctIndex": 1 },
+            { "question": "The Sea Link's design uses a cable-stayed bridge structure, similar in style to which type of famous bridges?", "options": ["Simple beam bridges", "Cable-stayed bridges like those seen internationally for iconic modern crossings", "Covered wooden bridges", "Pontoon (floating) bridges"], "correctIndex": 1 },
+            { "question": "The Bandra-Worli Sea Link is officially named after which historical Maratha figure?", "options": ["Chhatrapati Shivaji Maharaj", "Rajiv Gandhi", "Bal Thackeray", "Lokmanya Tilak"], "correctIndex": 1 }
+          ],
+          "summary": "The Bandra-Worli Sea Link, officially the Rajiv Gandhi Sea Link, opened in stages starting in 2009 to relieve severe congestion on the old Mahim Causeway, the only road connecting Mumbai's western suburbs to the city centre for decades. Its cable-stayed design, with tall pylons supporting the roadway over Mumbai's coastline, quickly became one of the city's most recognisable modern landmarks, cutting a journey that once took over an hour down to a matter of minutes during good traffic. Despite its efficiency gains, the bridge's tolls and periodic congestion at its access points have kept debates alive over whether a single link is enough for Mumbai's rapidly growing commuter needs."
+        },
+        {
+          "id": "eco_d33_tarapur_atomic_power",
+          "location": { "name": "Tarapur Atomic Power Station — Maharashtra", "lat": 19.8300, "lng": 72.6600 },
+          "questions": [
+            { "question": "Tarapur Atomic Power Station holds the distinction of being India's what?", "options": ["Newest nuclear plant", "First commercial nuclear power station", "Only nuclear research reactor", "Largest hydroelectric project"], "correctIndex": 1 },
+            { "question": "Tarapur's original reactors, commissioned in 1969, were built with technical assistance from which country?", "options": ["Soviet Union", "United States", "France", "Canada"], "correctIndex": 1 },
+            { "question": "Tarapur Atomic Power Station is located in which Indian state?", "options": ["Gujarat", "Maharashtra", "Rajasthan", "Karnataka"], "correctIndex": 1 },
+            { "question": "Tarapur's original units use which type of nuclear reactor technology, distinct from most of India's later domestically built reactors?", "options": ["Boiling Water Reactor (BWR)", "Pressurised Heavy Water Reactor (PHWR)", "Fast Breeder Reactor", "Molten salt reactor"], "correctIndex": 0 },
+            { "question": "Tarapur later saw additional indigenous units added, reflecting India's shift toward which reactor design used more widely across the country?", "options": ["Boiling Water Reactors", "Pressurised Heavy Water Reactors (PHWR)", "Gas-cooled reactors", "Light water reactors from Russia only"], "correctIndex": 1 }
+          ],
+          "summary": "Tarapur Atomic Power Station, commissioned in 1969 with American technical assistance, holds the distinction of being India's first commercial nuclear power plant, using Boiling Water Reactor technology that set it apart from the Pressurised Heavy Water Reactors India would later build domestically and use far more widely. Located on Maharashtra's coast north of Mumbai, Tarapur later added indigenously designed PHWR units, reflecting the country's post-1974 shift toward self-reliant nuclear technology after international sanctions following India's first nuclear test restricted access to foreign reactor designs and fuel. Tarapur remains an important, if aging, part of India's nuclear power fleet and a historical marker of the country's early nuclear energy ambitions."
+        },
+        {
+          "id": "eco_d33_delhi_mumbai_expressway",
+          "location": { "name": "Delhi-Mumbai Expressway (Sohna Stretch) — Haryana", "lat": 28.2500, "lng": 77.0667 },
+          "questions": [
+            { "question": "The Delhi-Mumbai Expressway, upon completion, became one of India's longest what?", "options": ["Railway lines", "Access-controlled expressways", "Canals", "Pipeline networks"], "correctIndex": 1 },
+            { "question": "The expressway is designed to significantly cut travel time between Delhi and Mumbai by road, roughly from over 24 hours to about how long?", "options": ["Around 6 hours", "Around 12 hours", "Around 18 hours", "Around 20 hours"], "correctIndex": 1 },
+            { "question": "The expressway passes through several states between Delhi and Mumbai, including Haryana, Rajasthan, Madhya Pradesh, Gujarat, and which other?", "options": ["Maharashtra", "Karnataka", "Punjab", "Uttar Pradesh"], "correctIndex": 0 },
+            { "question": "The expressway project incorporates wildlife-friendly infrastructure such as what, in ecologically sensitive stretches?", "options": ["Underpasses and overpasses for animal movement", "Fish ladders only", "Bird sanctuaries built alongside", "Solar farms exclusively"], "correctIndex": 0 },
+            { "question": "The Delhi-Mumbai Expressway is being developed under the oversight of which central government body?", "options": ["Indian Railways", "National Highways Authority of India (NHAI)", "Airports Authority of India", "Ministry of Home Affairs"], "correctIndex": 1 }
+          ],
+          "summary": "The Delhi-Mumbai Expressway, developed by the National Highways Authority of India, is designed to slash road travel time between the two megacities from over a day down to roughly 12 hours, running through Haryana, Rajasthan, Madhya Pradesh, Gujarat, and Maharashtra. Stretches like the one passing near Sohna in Haryana incorporate modern access-controlled design with dedicated service lanes, and in ecologically sensitive corridors the project has included wildlife underpasses and overpasses intended to let animals cross safely without disrupting the highway's high-speed traffic. As one of India's flagship infrastructure projects, the expressway is central to government efforts to improve the logistics efficiency long seen as a drag on India's manufacturing and trade competitiveness."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d33_lathmar_holi_barsana",
+          "location": { "name": "Lathmar Holi — Barsana, Uttar Pradesh", "lat": 27.6467, "lng": 77.3733 },
+          "questions": [
+            { "question": "Lathmar Holi is a unique regional variant of Holi celebrated primarily in which town, associated with Radha?", "options": ["Vrindavan", "Barsana", "Mathura", "Agra"], "correctIndex": 1 },
+            { "question": "In Lathmar Holi, women playfully do what to men from the neighbouring village of Nandgaon, as part of the tradition?", "options": ["Sing devotional songs only", "Beat them with sticks (lathis) while men defend with shields", "Offer them sweets exclusively", "Paint their faces silently"], "correctIndex": 1 },
+            { "question": "Lathmar Holi's tradition is rooted in folklore about which mythological figure visiting Barsana to tease Radha?", "options": ["Lord Rama", "Lord Krishna", "Lord Hanuman", "Lord Ganesha"], "correctIndex": 1 },
+            { "question": "Lathmar Holi typically takes place a few days before which more widely celebrated festival?", "options": ["Diwali", "The main Holi festival", "Raksha Bandhan", "Dussehra"], "correctIndex": 1 },
+            { "question": "Barsana and Nandgaon, central to the Lathmar Holi tradition, are both located near which larger pilgrimage town associated with Krishna's birth?", "options": ["Varanasi", "Mathura", "Ayodhya", "Haridwar"], "correctIndex": 1 }
+          ],
+          "summary": "Lathmar Holi, celebrated in Barsana days before the main Holi festival, reenacts a playful legend in which a young Krishna travelled from neighbouring Nandgaon to tease Radha and her friends — who, in the retelling, chased him off with sticks. Today, men from Nandgaon visit Barsana and are playfully 'beaten' with lathis by the local women, who don traditional attire for the occasion, while the men carry shields and try to dodge or block the blows, all amid singing, colour, and considerable laughter. Barsana and Nandgaon both lie near Mathura, the broader Braj region deeply associated with Krishna's life, where Holi traditions carry an especially devotional, theatrical flavour found nowhere else in India."
+        },
+        {
+          "id": "evt_d33_thrissur_pooram",
+          "location": { "name": "Thrissur Pooram — Kerala", "lat": 10.5276, "lng": 76.2144 },
+          "questions": [
+            { "question": "Thrissur Pooram is famously centred around a grand display featuring which animals?", "options": ["Horses", "Caparisoned elephants", "Camels", "Bulls"], "correctIndex": 1 },
+            { "question": "Thrissur Pooram was initiated in the late 18th century by which ruler of Cochin?", "options": ["Sakthan Thampuran", "Marthanda Varma", "Rama Varma", "Swathi Thirunal"], "correctIndex": 0 },
+            { "question": "Thrissur Pooram is centred around which temple, though celebrations spread across the wider city?", "options": ["Guruvayur Temple", "Vadakkunnathan Temple", "Padmanabhaswamy Temple", "Sabarimala Temple"], "correctIndex": 1 },
+            { "question": "A distinctive highlight of Thrissur Pooram is a spectacular percussion performance called what?", "options": ["Chenda Melam", "Kathakali orchestra", "Mridangam solo", "Tabla ensemble"], "correctIndex": 0 },
+            { "question": "Thrissur Pooram features a dramatic competitive element between two rival groups displaying which ceremonial umbrellas?", "options": ["Kudamattom (parasol exchange)", "Rangoli competitions", "Flag hoisting contests", "Chariot races"], "correctIndex": 0 }
+          ],
+          "summary": "Thrissur Pooram, initiated in the late 18th century by Cochin's ruler Sakthan Thampuran, is one of Kerala's grandest temple festivals, drawing enormous crowds around the Vadakkunnathan Temple for a spectacle centred on rows of magnificently caparisoned elephants. Its most electrifying feature is the chenda melam, a thunderous, hours-long percussion performance building to a climax, paired with kudamattom, a dazzling competitive display where rival temple groups rapidly exchange increasingly ornate ceremonial parasols atop the elephants to the roar of the crowd. The festival closes with a spectacular fireworks display at dawn, capping off a night widely regarded as one of the most electrifying temple celebrations anywhere in India."
+        },
+        {
+          "id": "evt_d33_wangala_meghalaya",
+          "location": { "name": "Wangala Festival — Meghalaya", "lat": 25.5138, "lng": 90.2172 },
+          "questions": [
+            { "question": "The Wangala Festival is a harvest festival celebrated by which tribal community of Meghalaya?", "options": ["Khasi", "Garo", "Jaintia", "Mizo"], "correctIndex": 1 },
+            { "question": "Wangala is also popularly known as the festival of what, due to its distinctive percussion performances?", "options": ["Hundred Drums", "Silent Prayers", "Flaming Torches", "Golden Harvest Dance"], "correctIndex": 0 },
+            { "question": "Wangala is celebrated in thanksgiving to which agricultural deity of the Garo community?", "options": ["Saljong, the Sun God", "Indra, the Rain God", "Surya, the Sun God", "Varuna, the Water God"], "correctIndex": 0 },
+            { "question": "Wangala typically marks the end of which agricultural activity for the Garo community?", "options": ["Sowing season", "The harvest season", "Fishing season", "Cattle grazing season"], "correctIndex": 1 },
+            { "question": "Wangala celebrations prominently feature traditional dances performed to the rhythm of long drums called what?", "options": ["Nagara", "Dama", "Dhol", "Mridang"], "correctIndex": 1 }
+          ],
+          "summary": "Wangala, the 'Hundred Drums Festival' of Meghalaya's Garo community, is a vibrant post-harvest thanksgiving celebration dedicated to Saljong, the Garo Sun God credited with ensuring a bountiful crop. The festival's signature spectacle is a mass performance of dama, long traditional drums, played in unison by dozens of performers as dancers in elaborate feathered headgear and traditional attire move to the pounding rhythm across village grounds. Once a series of scattered village-level celebrations, Wangala has increasingly been consolidated into larger organised events in recent decades, helping preserve and showcase Garo cultural heritage to a wider audience even as agricultural life itself modernises."
+        },
+        {
+          "id": "evt_d33_navratri_garba_vadodara",
+          "location": { "name": "Navratri Garba — Vadodara, Gujarat", "lat": 22.3072, "lng": 73.1812 },
+          "questions": [
+            { "question": "Garba, closely associated with Navratri in Gujarat, is primarily a form of what?", "options": ["Devotional folk dance performed in circles", "Wrestling competition", "Puppet theatre", "Storytelling recitation"], "correctIndex": 0 },
+            { "question": "Vadodara hosts one of the largest and most famous Garba gatherings in the world, sometimes attracting how many participants at single venues?", "options": ["A few hundred", "A few thousand", "Tens of thousands", "Only invited guests, under a hundred"], "correctIndex": 2 },
+            { "question": "Garba dance traditionally revolves around worship of which goddess during Navratri?", "options": ["Lakshmi", "Durga (Amba/Shakti)", "Saraswati only", "Sita"], "correctIndex": 1 },
+            { "question": "The related dance form using decorated sticks, often performed alongside Garba, is called what?", "options": ["Dandiya Raas", "Bhangra", "Lavani", "Kathakali"], "correctIndex": 0 },
+            { "question": "Navratri literally means how many nights, reflecting the festival's duration?", "options": ["Five nights", "Seven nights", "Nine nights", "Fifteen nights"], "correctIndex": 2 }
+          ],
+          "summary": "Vadodara's Navratri celebrations are considered among the largest Garba gatherings in the world, with organised grounds drawing tens of thousands of dancers moving in synchronised circles to devotional songs honouring the goddess Durga across the nine nights of Navratri. Garba, performed with graceful clapping and circular footwork, is often paired with Dandiya Raas, a livelier variant using decorated wooden sticks that dancers clash together in rhythm. What began as a modest devotional practice performed around a lit lamp or image of the goddess has, in cities like Vadodara and Ahmedabad, grown into a massive, semi-commercial cultural spectacle drawing participants and choreographed events on a scale that rivals major concerts."
+        },
+        {
+          "id": "evt_d33_bonalu_hyderabad",
+          "location": { "name": "Bonalu — Hyderabad, Telangana", "lat": 17.3850, "lng": 78.4867 },
+          "questions": [
+            { "question": "Bonalu is a folk festival dedicated to the worship of which form of the goddess?", "options": ["Mahakali/Mother Goddess", "Saraswati", "Lakshmi", "Annapurna only"], "correctIndex": 0 },
+            { "question": "The word 'Bonalu' refers to the offering that devotees carry to the goddess, typically consisting of what?", "options": ["Rice cooked with milk and jaggery, in a decorated pot", "Fresh flowers only", "Coconut water", "Grains of wheat"], "correctIndex": 0 },
+            { "question": "Bonalu is predominantly celebrated in which two Telugu-speaking regions?", "options": ["Telangana and parts of Andhra Pradesh", "Only coastal Andhra Pradesh", "Only Rayalaseema", "Only within Hyderabad city limits"], "correctIndex": 0 },
+            { "question": "During Bonalu processions, some female devotees perform a trance-like dance believed to represent what?", "options": ["Being possessed by the goddess's spirit", "A theatrical folk drama re-enactment", "A wedding ritual", "A harvest celebration dance only"], "correctIndex": 0 },
+            { "question": "Bonalu typically takes place during which month of the Hindu calendar?", "options": ["Chaitra (March-April)", "Ashada (July-August)", "Kartik (October-November)", "Magha (January-February)"], "correctIndex": 1 }
+          ],
+          "summary": "Bonalu, celebrated during the monsoon month of Ashada, is a distinctly Telangana folk tradition honouring Mahakali and other forms of the mother goddess, thanking her for protection from disease and misfortune. Women carry bonalu — pots of rice cooked with milk and jaggery, decorated with neem leaves and turmeric — in procession to local temples, often walking barefoot to the rhythm of drums. A striking feature of the festival is the ghatam or trance dance, where some female devotees, believed to be temporarily possessed by the goddess's spirit, perform an energetic, swaying dance balancing the offering pot atop their heads, drawing large crowds across Hyderabad's older neighbourhoods each year."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d33_rajya_sabha",
+          "location": { "name": "Parliament House — New Delhi", "lat": 28.6167, "lng": 77.2090 },
+          "questions": [
+            { "question": "The Rajya Sabha is the upper house of India's Parliament, in contrast to which lower house?", "options": ["Vidhan Sabha", "Lok Sabha", "Legislative Council", "Municipal Council"], "correctIndex": 1 },
+            { "question": "Rajya Sabha members are elected by whom, rather than directly by the general public?", "options": ["The Prime Minister", "Elected members of State Legislative Assemblies", "The President alone", "Union Ministers"], "correctIndex": 1 },
+            { "question": "Unlike the Lok Sabha, the Rajya Sabha is a permanent body that cannot be dissolved, with roughly what fraction of its members retiring every two years?", "options": ["One-tenth", "One-third", "Half", "All members simultaneously"], "correctIndex": 1 },
+            { "question": "The maximum strength of the Rajya Sabha as envisaged by the Constitution is how many members?", "options": ["150", "250", "350", "545"], "correctIndex": 1 },
+            { "question": "A small number of Rajya Sabha members are nominated directly by the President, typically recognising expertise in which fields?", "options": ["Sports only", "Literature, science, art, and social service", "Only retired bureaucrats", "Only business leaders"], "correctIndex": 1 }
+          ],
+          "summary": "The Rajya Sabha, Parliament's upper house, is composed primarily of members elected by state legislative assemblies rather than directly by voters, reflecting its design as a chamber representing India's federal states rather than population-based constituencies. Unlike the Lok Sabha, it is a permanent body that can never be dissolved, with roughly one-third of its members retiring every two years on a staggered basis, ensuring continuity even as its composition gradually shifts. The Constitution also allows the President to nominate up to twelve members recognised for distinguished contributions to literature, science, art, or social service, bringing expert voices into the legislative process outside the usual electoral route."
+        },
+        {
+          "id": "pol_d33_article_356_presidents_rule",
+          "location": { "name": "Rashtrapati Bhavan — New Delhi", "lat": 28.6143, "lng": 77.1994 },
+          "questions": [
+            { "question": "Article 356 of the Constitution provides for the imposition of what, when a state's constitutional machinery is deemed to have failed?", "options": ["Martial law", "President's Rule", "A state of emergency across all of India", "Compulsory state elections"], "correctIndex": 1 },
+            { "question": "Under President's Rule, a state's council of ministers is dismissed, and the state is administered directly by whom on the Centre's behalf?", "options": ["The Chief Justice of the state High Court", "The Governor", "A military commander", "The Speaker of the state assembly"], "correctIndex": 1 },
+            { "question": "The landmark 1994 Supreme Court judgment that significantly curtailed the misuse of Article 356 is known as what?", "options": ["Kesavananda Bharati case", "S.R. Bommai case", "Maneka Gandhi case", "Golaknath case"], "correctIndex": 1 },
+            { "question": "President's Rule initially can be imposed for up to how long before requiring parliamentary approval to continue?", "options": ["One month", "Two months", "Six months", "One year"], "correctIndex": 2 },
+            { "question": "Critics have historically argued Article 356 was frequently misused for what political purpose?", "options": ["Strengthening local self-governance", "Dismissing opposition-led state governments for political gain", "Promoting economic reforms", "Enforcing environmental regulations"], "correctIndex": 1 }
+          ],
+          "summary": "Article 356 empowers the Centre to impose President's Rule on a state when its constitutional machinery is deemed to have broken down, dismissing the elected council of ministers and placing administration directly under the Governor on the Centre's behalf. For decades after independence, the provision was frequently criticised as a political tool used to topple opposition-ruled state governments rather than a genuine constitutional safeguard. The Supreme Court's landmark 1994 ruling in the S.R. Bommai case significantly curtailed this misuse, holding that the exercise of Article 356 is subject to judicial review and cannot be invoked merely for political convenience, a judgment that reshaped Centre-state relations in India ever since."
+        },
+        {
+          "id": "pol_d33_nhrc",
+          "location": { "name": "National Human Rights Commission — New Delhi", "lat": 28.6250, "lng": 77.2270 },
+          "questions": [
+            { "question": "The National Human Rights Commission (NHRC) of India was established under which legislation?", "options": ["The Constitution directly", "The Protection of Human Rights Act, 1993", "The Indian Penal Code", "The RTI Act, 2005"], "correctIndex": 1 },
+            { "question": "The NHRC's primary role is to inquire into complaints related to what?", "options": ["Tax disputes", "Violations of human rights", "Property disputes", "Corporate fraud"], "correctIndex": 1 },
+            { "question": "The NHRC is generally headed by a person who has previously served as what?", "options": ["Chief Justice of India or a senior Supreme Court judge", "A state Chief Minister", "An Army General", "A serving Member of Parliament"], "correctIndex": 0 },
+            { "question": "The NHRC's recommendations following an inquiry are typically what in nature, in terms of enforceability?", "options": ["Legally binding and immediately enforceable", "Recommendatory, not directly binding on governments", "Purely ceremonial with no follow-up", "Enforceable only through the Supreme Court"], "correctIndex": 1 },
+            { "question": "State-level counterparts to the NHRC, handling human rights complaints within individual states, are called what?", "options": ["State Human Rights Commissions (SHRCs)", "State Police Commissions", "State Legal Aid Boards", "State Ombudsman Offices"], "correctIndex": 0 }
+          ],
+          "summary": "The National Human Rights Commission, established under the Protection of Human Rights Act of 1993, investigates complaints of human rights violations across India and is typically chaired by a former Chief Justice of India or senior Supreme Court judge, lending it significant institutional credibility. However, the NHRC's recommendations are advisory rather than legally binding, meaning governments can and sometimes do decline to act on its findings, a limitation frequently cited by critics who argue the body needs stronger enforcement powers. Complementing the national body, individual State Human Rights Commissions handle complaints at the state level, together forming a decentralised, if imperfect, system for addressing rights violations across the country."
+        },
+        {
+          "id": "pol_d33_rti_central_information_commission",
+          "location": { "name": "Central Information Commission — New Delhi", "lat": 28.5910, "lng": 77.2270 },
+          "questions": [
+            { "question": "The Central Information Commission (CIC) was established to implement which landmark 2005 legislation?", "options": ["The Right to Information Act", "The Right to Education Act", "The Consumer Protection Act", "The Companies Act"], "correctIndex": 0 },
+            { "question": "The Right to Information Act empowers ordinary citizens to do what?", "options": ["Vote in local body elections only", "Request information from public authorities", "File tax returns online", "Register businesses directly"], "correctIndex": 1 },
+            { "question": "Under the RTI Act, a public authority is generally required to respond to an information request within how many days?", "options": ["7 days", "30 days", "90 days", "180 days"], "correctIndex": 1 },
+            { "question": "If a citizen's RTI request is denied or unanswered, they can appeal, eventually reaching which body as a higher authority?", "options": ["The Central/State Information Commission", "The Supreme Court directly, with no intermediate step", "The President's Office", "The local police station"], "correctIndex": 0 },
+            { "question": "The RTI Act is widely credited with significantly improving what aspect of Indian governance since its enactment?", "options": ["Foreign policy coordination", "Transparency and citizen oversight of public institutions", "Tax collection efficiency", "Judicial appointment procedures"], "correctIndex": 1 }
+          ],
+          "summary": "The Central Information Commission oversees implementation of the Right to Information Act, 2005, a landmark law that gave ordinary Indian citizens the legal power to request information from government bodies, which are generally required to respond within 30 days. Widely credited with dramatically improving governmental transparency, the RTI Act has been used to expose everything from local corruption to major national scandals, empowering citizens and journalists alike to scrutinise how public institutions actually function. When authorities deny or ignore requests, citizens can appeal up through a structured process that ultimately reaches the Central or relevant State Information Commission, which has powers to direct disclosure and penalise non-compliant officials."
+        },
+        {
+          "id": "pol_d33_states_reorganisation_1956",
+          "location": { "name": "Chennai (Madras) — Tamil Nadu", "lat": 13.0827, "lng": 80.2707 },
+          "questions": [
+            { "question": "The States Reorganisation Act of 1956 restructured Indian states primarily along which principle?", "options": ["Religious demographics", "Linguistic lines", "Historical royal boundaries", "Purely administrative convenience with no set principle"], "correctIndex": 1 },
+            { "question": "The reorganisation movement gained significant momentum after the death of which activist, who fasted for a separate Andhra state?", "options": ["Potti Sreeramulu", "Vinoba Bhave", "Jayaprakash Narayan", "C. Rajagopalachari"], "correctIndex": 0 },
+            { "question": "The commission whose recommendations largely shaped the 1956 Act was headed by which jurist?", "options": ["Fazl Ali", "B.N. Rau", "M.C. Setalvad", "H.J. Kania"], "correctIndex": 0 },
+            { "question": "Before 1956, many Indian states were organised primarily based on what, a system the Act sought to move away from?", "options": ["Former princely state and colonial administrative boundaries", "Religious majority populations", "River basin boundaries", "Purely economic zones"], "correctIndex": 0 },
+            { "question": "The formation of Andhra State in 1953, a precursor to the broader 1956 reorganisation, made it India's first state organised explicitly on what basis?", "options": ["Linguistic basis", "Religious basis", "Tribal identity basis", "Economic development basis"], "correctIndex": 0 }
+          ],
+          "summary": "The States Reorganisation Act of 1956 redrew India's internal state boundaries largely along linguistic lines, replacing a patchwork inherited from former princely states and colonial-era provinces with states organised around shared language and culture. The movement gained decisive momentum after activist Potti Sreeramulu died following a 58-day hunger strike demanding a separate Telugu-speaking state, a sacrifice that led directly to the creation of Andhra State in 1953 — India's first linguistically defined state, and the template for the broader reorganisation that followed. The States Reorganisation Commission, headed by jurist Fazl Ali, then recommended the wider restructuring enacted in 1956, fundamentally reshaping the political map of independent India."
+        }
+      ]
+    }
+  }
+}

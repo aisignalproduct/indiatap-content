@@ -1,0 +1,326 @@
+{
+  "day": 35,
+  "date": "2026-11-04",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d35_chandratal_lake",
+          "location": { "name": "Chandratal Lake — Spiti, Himachal Pradesh", "lat": 32.4818, "lng": 77.6203 },
+          "questions": [
+            { "question": "Chandratal Lake's name translates to what, describing its shape?", "options": ["Star Lake", "Moon Lake", "Sun Lake", "Crystal Lake"], "correctIndex": 1 },
+            { "question": "Chandratal Lake sits at an altitude of approximately what height?", "options": ["1,500m", "2,800m", "4,300m", "6,000m"], "correctIndex": 2 },
+            { "question": "Chandratal is the source of which river, an important tributary system in the region?", "options": ["Chandra River", "Beas River directly", "Sutlej River", "Spiti River directly"], "correctIndex": 0 },
+            { "question": "Chandratal Lake is only accessible for a limited part of the year due to what?", "options": ["Political restrictions", "Heavy snowfall closing access roads", "Wildlife breeding closures", "Ongoing construction"], "correctIndex": 1 },
+            { "question": "Camping directly on the shores of Chandratal Lake has, in recent years, been restricted by authorities primarily to address what concern?", "options": ["Overcrowding and environmental degradation", "Frequent flooding", "Wildlife attacks", "Landslide risk only"], "correctIndex": 0 }
+          ],
+          "summary": "Chandratal, or 'Moon Lake,' sits at roughly 4,300 metres in Himachal Pradesh's high-altitude Spiti region, its crescent shape and still, glassy water reflecting the surrounding barren peaks in a scene that draws trekkers and photographers each summer. The lake feeds into the Chandra River, part of the wider river system eventually joining the Chenab, and remains cut off by snow for much of the year, accessible only via a demanding road and trek during a brief summer window. Rising visitor numbers and their environmental toll on the fragile high-altitude ecosystem led authorities to ban camping directly on the lake's shores, pushing designated campsites further away to reduce human pressure on this remote, otherworldly landscape."
+        },
+        {
+          "id": "geo_d35_bandhavgarh_np",
+          "location": { "name": "Bandhavgarh National Park — Madhya Pradesh", "lat": 23.6500, "lng": 80.9500 },
+          "questions": [
+            { "question": "Bandhavgarh National Park is renowned for having one of the highest densities of which big cat in India?", "options": ["Leopard", "Bengal tiger", "Asiatic lion", "Snow leopard"], "correctIndex": 1 },
+            { "question": "Bandhavgarh's name derives from an ancient fort situated within the park, believed in legend to have been gifted by Lord Rama to whom?", "options": ["Sage Valmiki", "His brother Lakshmana", "Hanuman", "Sage Agastya"], "correctIndex": 1 },
+            { "question": "Bandhavgarh National Park is located in which Indian state?", "options": ["Chhattisgarh", "Madhya Pradesh", "Uttar Pradesh", "Maharashtra"], "correctIndex": 1 },
+            { "question": "Bandhavgarh contains numerous ancient caves with inscriptions dating back roughly how many centuries?", "options": ["A few decades", "Around 2,000 years", "About 500 years", "Only from the colonial era"], "correctIndex": 1 },
+            { "question": "Bandhavgarh was once the private hunting reserve of the rulers of which former princely state before becoming a national park?", "options": ["Gwalior", "Rewa", "Indore", "Bhopal"], "correctIndex": 1 }
+          ],
+          "summary": "Bandhavgarh National Park, once the private hunting reserve of the Maharajas of Rewa before its conversion into a protected area, today boasts one of India's highest tiger densities, making it among the most reliable parks in the country for tiger sightings. The park takes its name from an ancient hilltop fort at its centre, which local legend holds was gifted by Lord Rama to his devoted brother Lakshmana to keep watch over Lanka. Scattered through Bandhavgarh's forests are numerous ancient caves bearing inscriptions roughly 2,000 years old, adding a layer of historical intrigue to a landscape already celebrated for its wildlife."
+        },
+        {
+          "id": "geo_d35_simlipal_np",
+          "location": { "name": "Simlipal National Park — Odisha", "lat": 21.6167, "lng": 86.3167 },
+          "questions": [
+            { "question": "Simlipal National Park is named after the abundance of which flowering tree found throughout the park?", "options": ["Neem tree", "Simul (silk cotton) tree", "Banyan tree", "Peepal tree"], "correctIndex": 1 },
+            { "question": "Simlipal is part of a UNESCO-designated what, recognising its ecological significance?", "options": ["World Heritage Site", "Biosphere Reserve", "Geopark", "Ramsar wetland"], "correctIndex": 1 },
+            { "question": "Simlipal is notable for having a population of a rare colour variant of which big cat?", "options": ["Black (melanistic) tigers", "White lions", "Albino leopards", "Blue-eyed tigers"], "correctIndex": 0 },
+            { "question": "Simlipal National Park is located in which Indian state?", "options": ["West Bengal", "Odisha", "Jharkhand", "Chhattisgarh"], "correctIndex": 1 },
+            { "question": "Simlipal has faced periodic conservation challenges from insurgency-related activity as well as what other recurring threat?", "options": ["Forest fires", "Coastal erosion", "Coral bleaching", "Glacial melt"], "correctIndex": 0 }
+          ],
+          "summary": "Simlipal National Park in Odisha, named for the vivid red-flowering simul trees that dot its landscape each spring, is internationally recognised as a UNESCO Biosphere Reserve for its exceptional biodiversity. The park has drawn particular scientific attention for its unusually high proportion of melanistic, or black, tigers — a rare genetic variant seen far more frequently here than almost anywhere else tigers are found. Simlipal's remote, densely forested terrain has occasionally complicated conservation efforts, with periods of insurgency-linked disturbance and recurring dry-season forest fires posing ongoing challenges to managing one of eastern India's most significant wildlife landscapes."
+        },
+        {
+          "id": "geo_d35_periyar_tiger_reserve",
+          "location": { "name": "Periyar Tiger Reserve — Kerala", "lat": 9.4667, "lng": 77.1667 },
+          "questions": [
+            { "question": "Periyar Tiger Reserve is built around a large artificial lake formed by which colonial-era dam?", "options": ["Mullaperiyar Dam", "Idukki Dam", "Bhakra Dam", "Krishna Raja Sagara Dam"], "correctIndex": 0 },
+            { "question": "Periyar Tiger Reserve is named after which river that flows through the region?", "options": ["Pamba River", "Periyar River", "Bharathapuzha River", "Chaliyar River"], "correctIndex": 1 },
+            { "question": "A popular way for visitors to view wildlife at Periyar is via what activity on its central lake?", "options": ["Scuba diving", "Boat safaris", "Jet skiing", "Fishing tournaments"], "correctIndex": 1 },
+            { "question": "Periyar Tiger Reserve, alongside tigers, is also an important habitat for large herds of which other animal?", "options": ["Asian elephants", "African buffalo", "Wild horses", "Bactrian camels"], "correctIndex": 0 },
+            { "question": "Periyar was declared a tiger reserve under Project Tiger in which decade?", "options": ["1970s", "1990s", "2000s", "1960s"], "correctIndex": 0 }
+          ],
+          "summary": "Periyar Tiger Reserve in Kerala is built around a large lake created by the Mullaperiyar Dam, a 19th-century colonial-era engineering project whose waters now form the centrepiece of one of India's most scenic wildlife reserves. Named after the Periyar River, the reserve became one of the original Project Tiger reserves in the 1970s and remains notable for its large elephant herds, often visible gathering along the lake's shores, alongside its more elusive tiger population. Unlike many reserves that rely primarily on jeep safaris, Periyar is distinctive for offering boat safaris across the lake, giving visitors a uniquely tranquil vantage point for spotting wildlife along the forested shoreline."
+        },
+        {
+          "id": "geo_d35_coorg_kodagu",
+          "location": { "name": "Coorg (Kodagu) — Karnataka", "lat": 12.3375, "lng": 75.8069 },
+          "questions": [
+            { "question": "Coorg, officially known as Kodagu, is a hilly district in which Indian state?", "options": ["Kerala", "Karnataka", "Tamil Nadu", "Maharashtra"], "correctIndex": 1 },
+            { "question": "Coorg is often nicknamed what, reflecting both its scenic beauty and its major agricultural product?", "options": ["Kashmir of the South / Coffee Land of India", "Rice Bowl of India", "Silk City of the South", "Spice Capital of North India"], "correctIndex": 0 },
+            { "question": "Coorg's economy is significantly built around the cultivation of which crop, alongside spices?", "options": ["Wheat", "Coffee", "Cotton", "Sugarcane"], "correctIndex": 1 },
+            { "question": "Coorg lies within which major mountain range, contributing to its lush, high-rainfall climate?", "options": ["The Himalayas", "The Western Ghats", "The Eastern Ghats", "The Aravallis"], "correctIndex": 1 },
+            { "question": "The Kodava community native to Coorg is notably known, unusually among Indian communities, for a strong traditional association with what?", "options": ["Seafaring trade", "Martial and hunting traditions, including a licence-free right to bear arms", "Desert agriculture", "Textile weaving exclusively"], "correctIndex": 1 }
+          ],
+          "summary": "Coorg, or Kodagu, tucked into Karnataka's stretch of the Western Ghats, is often called the 'Coffee Land of India,' its misty hillsides blanketed in coffee plantations interspersed with spice gardens growing cardamom, pepper, and cinnamon. The region's heavy monsoon rainfall and elevated terrain give it an unusually cool, green character that has long drawn comparisons to hill regions further north, earning it another popular nickname, the 'Kashmir of the South.' The native Kodava community maintains a distinctive cultural identity within Karnataka, including a unique legal exemption allowing them to carry firearms without a licence, a privilege rooted in the community's historical martial and hunting traditions."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d35_ramappa_temple",
+          "location": { "name": "Ramappa Temple — Telangana", "lat": 18.2500, "lng": 80.1167 },
+          "questions": [
+            { "question": "Ramappa Temple was built under which dynasty in the 13th century?", "options": ["Chola dynasty", "Kakatiya dynasty", "Vijayanagara dynasty", "Chalukya dynasty"], "correctIndex": 1 },
+            { "question": "Ramappa Temple is unusual among Indian temples for being named after whom, rather than the deity it enshrines?", "options": ["The reigning king", "Its sculptor/architect, Ramappa", "The temple's donor queen", "A local saint"], "correctIndex": 1 },
+            { "question": "Ramappa Temple's structure incorporates lightweight porous bricks that reportedly do what, an early engineering innovation?", "options": ["Glow at night", "Float on water", "Absorb sound", "Change colour with weather"], "correctIndex": 1 },
+            { "question": "Ramappa Temple was inscribed as a UNESCO World Heritage Site in which year?", "options": ["2001", "2011", "2021", "1991"], "correctIndex": 2 },
+            { "question": "Ramappa Temple is dedicated primarily to which deity?", "options": ["Vishnu", "Shiva (as Ramalingeswara)", "Brahma", "Surya"], "correctIndex": 1 }
+          ],
+          "summary": "Ramappa Temple in Telangana, built under the Kakatiya dynasty in the early 13th century, holds the unusual distinction of being named after its sculptor, Ramappa, rather than the deity enshrined within — a rare honour for an artisan in Indian temple tradition. The temple's builders used floating bricks, remarkably lightweight and porous enough to float on water, in its towering superstructure, an early engineering technique that reduced the roof's overall weight and stress on supporting walls. Dedicated to Shiva as Ramalingeswara, the temple was inscribed as a UNESCO World Heritage Site in 2021, recognised for its sophisticated Kakatiya-era architecture and craftsmanship."
+        },
+        {
+          "id": "cul_d35_city_palace_udaipur",
+          "location": { "name": "City Palace — Udaipur", "lat": 24.5764, "lng": 73.6835 },
+          "questions": [
+            { "question": "City Palace, Udaipur, was the seat of power for rulers of which historic Rajput kingdom?", "options": ["Marwar", "Mewar", "Amber", "Bikaner"], "correctIndex": 1 },
+            { "question": "City Palace overlooks which lake in Udaipur?", "options": ["Fateh Sagar Lake", "Pichola Lake", "Ana Sagar Lake", "Nakki Lake"], "correctIndex": 1 },
+            { "question": "City Palace was constructed and expanded over a period spanning approximately how many years, under successive Mewar rulers?", "options": ["Around 20 years", "Around 100 years", "Around 400 years", "Around 1,000 years"], "correctIndex": 2 },
+            { "question": "The construction of City Palace was originally begun by which Mewar ruler in the 16th century?", "options": ["Udai Singh II", "Maharana Pratap", "Rana Kumbha", "Rana Sanga"], "correctIndex": 0 },
+            { "question": "City Palace complex today functions partly as what, alongside remaining a royal residence for part of the erstwhile royal family?", "options": ["A shopping mall", "A museum open to the public", "A government secretariat", "An active military base"], "correctIndex": 1 }
+          ],
+          "summary": "City Palace in Udaipur, overlooking the tranquil waters of Lake Pichola, was begun in the 16th century by Maharana Udai Singh II, founder of the city, and expanded continuously by successive Mewar rulers over roughly four centuries, resulting in a sprawling complex blending Rajput and Mughal architectural influences. Its intricate mirror work, courtyards, and balconies offer sweeping views across the lake to the palace's own island retreats, now converted into luxury hotels. Part of the complex remains a private residence for the erstwhile royal family, while much of it operates today as a museum, preserving centuries of Mewar history, art, and royal artefacts for public visitors."
+        },
+        {
+          "id": "cul_d35_mysore_palace",
+          "location": { "name": "Mysore Palace", "lat": 12.3052, "lng": 76.6552 },
+          "questions": [
+            { "question": "Mysore Palace served as the official residence of the rulers of which former princely state?", "options": ["Hyderabad", "Mysore (Wadiyar dynasty)", "Travancore", "Baroda"], "correctIndex": 1 },
+            { "question": "The current Mysore Palace structure was largely rebuilt in the early 20th century after the previous palace was destroyed by what?", "options": ["An earthquake", "A fire", "A flood", "A war"], "correctIndex": 1 },
+            { "question": "Mysore Palace is especially famous for a spectacular illumination display featuring how many light bulbs, switched on during festivals like Dasara?", "options": ["Around 1,000", "Around 10,000", "Around 100,000", "Around 500"], "correctIndex": 2 },
+            { "question": "Mysore Palace's architectural style is often described as a blend of which influences?", "options": ["Purely European Gothic", "Indo-Saracenic, blending Hindu, Islamic, and European styles", "Purely traditional Dravidian", "Purely Mughal"], "correctIndex": 1 },
+            { "question": "Mysore Palace is the centrepiece of the grand annual Dasara celebrations, which historically featured a procession including what?", "options": ["A decorated elephant carrying a golden howdah", "A naval fleet display", "A hot air balloon parade", "A tank and artillery display"], "correctIndex": 0 }
+          ],
+          "summary": "Mysore Palace, the grand residence of the Wadiyar dynasty that ruled the princely state of Mysore, was substantially rebuilt in its current form in the early 20th century after fire destroyed an earlier wooden structure. Its Indo-Saracenic architecture — a deliberate blend of Hindu, Islamic, and European elements popular in British-era India — makes it one of the country's most visually striking palaces, further enhanced during Dasara and other festivals when nearly 100,000 light bulbs illuminate its facade in a dazzling nightly display. The palace remains the ceremonial centrepiece of Mysore's famous Dasara celebrations, historically featuring a resplendent procession with a gold-covered howdah carried atop a decorated elephant."
+        },
+        {
+          "id": "cul_d35_halebidu_hoysaleswara",
+          "location": { "name": "Hoysaleswara Temple — Halebidu, Karnataka", "lat": 13.2135, "lng": 75.9942 },
+          "questions": [
+            { "question": "Hoysaleswara Temple at Halebidu was built under which dynasty?", "options": ["Chola dynasty", "Hoysala dynasty", "Vijayanagara dynasty", "Rashtrakuta dynasty"], "correctIndex": 1 },
+            { "question": "Hoysaleswara Temple is renowned for the extraordinary density and detail of what covering its exterior walls?", "options": ["Painted murals", "Intricate stone sculptures and friezes", "Gold inlay work", "Mirror mosaics"], "correctIndex": 1 },
+            { "question": "Halebidu was formerly known by which name, before it was sacked and renamed, roughly meaning 'old capital'?", "options": ["Dwarasamudra", "Vijayanagara", "Hampi", "Belur"], "correctIndex": 0 },
+            { "question": "Hoysaleswara Temple is dedicated to which deity, though it is technically a twin-shrine complex?", "options": ["Vishnu", "Shiva", "Brahma", "Surya"], "correctIndex": 1 },
+            { "question": "Halebidu, along with nearby Belur, has been on UNESCO's tentative list, and was formally inscribed as a World Heritage Site under what collective grouping, in 2023?", "options": ["Sacred Ensembles of the Hoysalas", "Great Living Chola Temples", "Hill Forts of Karnataka", "South Indian Temple Trail"], "correctIndex": 0 }
+          ],
+          "summary": "Hoysaleswara Temple at Halebidu, built under the Hoysala dynasty in the 12th century, is celebrated for stone carvings of such density and precision that its exterior walls read almost like an illustrated encyclopaedia of Hindu mythology, wrapped in continuous friezes of elephants, dancers, and epic narrative scenes. Halebidu was once known as Dwarasamudra, a flourishing Hoysala capital, before invading forces sacked the city, after which it came to be called Halebidu — literally 'old capital' — reflecting its diminished status thereafter. Together with the equally ornate temple complex at nearby Belur, Halebidu was formally inscribed by UNESCO in 2023 under the collective listing 'Sacred Ensembles of the Hoysalas,' finally securing global heritage recognition for temples long celebrated within India for their sculptural mastery."
+        },
+        {
+          "id": "cul_d35_victoria_memorial_kolkata",
+          "location": { "name": "Victoria Memorial — Kolkata", "lat": 22.5448, "lng": 88.3426 },
+          "questions": [
+            { "question": "The Victoria Memorial in Kolkata was built to commemorate which British monarch?", "options": ["King George V", "Queen Victoria", "King Edward VII", "Queen Elizabeth I"], "correctIndex": 1 },
+            { "question": "The Victoria Memorial is constructed primarily from which type of stone?", "options": ["Red sandstone", "White Makrana marble", "Black granite", "Local brick"], "correctIndex": 1 },
+            { "question": "The Victoria Memorial was completed and opened to the public in which decade?", "options": ["1900s", "1920s", "1940s", "1960s"], "correctIndex": 1 },
+            { "question": "Today, the Victoria Memorial primarily functions as what, rather than purely a monument?", "options": ["A government secretariat", "A museum housing historical artefacts and art", "A private residence", "A hotel"], "correctIndex": 1 },
+            { "question": "The funding for the Victoria Memorial's construction came significantly from which source, an unusual arrangement for a British colonial monument?", "options": ["Entirely British government funds", "Voluntary contributions, including from Indian princely states", "Church donations exclusively", "Bank loans repaid by taxation"], "correctIndex": 1 }
+          ],
+          "summary": "The Victoria Memorial in Kolkata, conceived by Lord Curzon to commemorate Queen Victoria following her death in 1901, was built from white Makrana marble — the same source used for the Taj Mahal — and completed in the 1920s after years of construction. Notably, its funding drew heavily on voluntary contributions, including substantial donations from Indian princely states, a somewhat unusual arrangement for a monument built to honour British imperial rule. Today the building operates as a museum, housing an extensive collection of colonial-era paintings, sculptures, and historical artefacts, while its manicured gardens and reflecting pools remain one of Kolkata's most popular public spaces for locals and tourists alike."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d35_barauni_refinery",
+          "location": { "name": "Barauni Refinery — Bihar", "lat": 25.4667, "lng": 85.9667 },
+          "questions": [
+            { "question": "Barauni Refinery, one of India's oldest, was established with technical assistance from which country?", "options": ["United States", "Soviet Union", "United Kingdom", "France"], "correctIndex": 1 },
+            { "question": "Barauni Refinery is operated by which public sector oil company?", "options": ["Bharat Petroleum", "Indian Oil Corporation (IOC)", "Hindustan Petroleum", "ONGC"], "correctIndex": 1 },
+            { "question": "Barauni Refinery is located in which Indian state?", "options": ["Jharkhand", "Bihar", "West Bengal", "Uttar Pradesh"], "correctIndex": 1 },
+            { "question": "Barauni Refinery was commissioned in which decade, as part of India's early post-independence industrialisation push?", "options": ["1950s", "1960s", "1980s", "2000s"], "correctIndex": 1 },
+            { "question": "Barauni Refinery originally processed crude oil sourced significantly from which region, given transportation logistics of that era?", "options": ["Domestic Assam oilfields", "Middle Eastern imports exclusively", "Offshore Mumbai High fields", "South American imports"], "correctIndex": 0 }
+          ],
+          "summary": "Barauni Refinery, commissioned in 1964 with Soviet technical assistance, was among independent India's earliest refineries, established partly to process crude oil from Assam's established oilfields without the long transport distances that imported crude would have required at the time. Operated by Indian Oil Corporation, Barauni became an important industrial anchor for Bihar, a state that has historically struggled to attract large-scale heavy industry compared to some of its neighbours. Like many refineries of its generation, Barauni has undergone repeated modernisation and capacity expansion over the decades to keep pace with evolving fuel standards and growing regional demand."
+        },
+        {
+          "id": "eco_d35_haldia_port",
+          "location": { "name": "Haldia Port — West Bengal", "lat": 22.0333, "lng": 88.0667 },
+          "questions": [
+            { "question": "Haldia Port was developed primarily to ease congestion at which older, siltation-prone Kolkata port?", "options": ["Kandla Port", "Kolkata Port (Calcutta Port)", "Paradip Port", "Vizag Port"], "correctIndex": 1 },
+            { "question": "Haldia is situated on which river, closer to the sea than Kolkata's older docks?", "options": ["Hooghly River", "Damodar River", "Mahanadi River", "Subarnarekha River"], "correctIndex": 0 },
+            { "question": "Haldia developed into a significant hub for which industry, alongside general port operations?", "options": ["Textile manufacturing", "Petrochemicals and refining", "Automobile assembly", "Aerospace manufacturing"], "correctIndex": 1 },
+            { "question": "A key advantage Haldia offered over Kolkata's older docks was reduced vulnerability to what recurring problem?", "options": ["Cyclone damage", "River siltation restricting large ship access", "Labour strikes only", "Currency fluctuations"], "correctIndex": 1 },
+            { "question": "Haldia Port, along with Kolkata Port, operates under a combined port authority now known as what?", "options": ["Syama Prasad Mookerjee Port Trust", "Deendayal Port Authority", "Paradip Port Trust", "Chennai Port Trust"], "correctIndex": 0 }
+          ],
+          "summary": "Haldia Port was developed downstream on the Hooghly River specifically to relieve pressure on Kolkata's older docks, which suffered chronic siltation problems that restricted access for larger modern cargo vessels. Beyond general cargo handling, Haldia grew into a significant hub for petrochemical refining and related heavy industry, becoming an important economic anchor for the region. Today, Haldia and Kolkata operate under a single combined port authority, renamed the Syama Prasad Mookerjee Port Trust, reflecting their integrated role in serving eastern India's maritime trade despite their geographically distinct locations along the same river system."
+        },
+        {
+          "id": "eco_d35_mumbai_high",
+          "location": { "name": "Mumbai High Offshore Field", "lat": 19.5167, "lng": 71.5000 },
+          "questions": [
+            { "question": "Mumbai High is significant as India's largest what?", "options": ["Onshore coal mine", "Offshore oil and gas field", "Solar power installation", "Freshwater reservoir"], "correctIndex": 1 },
+            { "question": "Mumbai High is located in which body of water?", "options": ["Bay of Bengal", "Arabian Sea", "Indian Ocean, far from any coast", "Andaman Sea"], "correctIndex": 1 },
+            { "question": "Mumbai High is operated primarily by which Indian public sector company?", "options": ["Indian Oil Corporation", "Oil and Natural Gas Corporation (ONGC)", "Reliance Industries", "GAIL"], "correctIndex": 1 },
+            { "question": "Mumbai High began commercial oil production in which decade?", "options": ["1960s", "1970s", "1990s", "2000s"], "correctIndex": 1 },
+            { "question": "Mumbai High experienced a major disaster in 2005 involving what event, causing significant loss of life and production disruption?", "options": ["A cyclone destroying the platform", "A fire following a ship collision with the platform", "An earthquake", "A terrorist attack"], "correctIndex": 1 }
+          ],
+          "summary": "Mumbai High, discovered in the late 1960s and brought into commercial production in the 1970s by ONGC, remains India's largest offshore oil and gas field, located roughly 160 km off the Mumbai coast in the Arabian Sea. The field has been central to India's domestic oil production for decades, though output has gradually declined as the reservoir ages, prompting ongoing investment in enhanced recovery techniques to extend its productive life. In 2005, a support vessel collided with one of the platform's structures, triggering a devastating fire that killed dozens of workers and briefly halted a significant share of India's domestic crude output, a disaster that led to major safety overhauls across the country's offshore operations."
+        },
+        {
+          "id": "eco_d35_electronic_city_bengaluru",
+          "location": { "name": "Electronic City — Bengaluru", "lat": 12.8452, "lng": 77.6602 },
+          "questions": [
+            { "question": "Electronic City in Bengaluru was established starting in the 1970s as one of India's earliest what?", "options": ["Special Economic Zones", "Planned electronics and technology industrial parks", "Textile export zones", "Automobile clusters"], "correctIndex": 1 },
+            { "question": "Electronic City became a key early campus location for which major Indian IT company, among others?", "options": ["Infosys", "Reliance Industries", "Tata Motors", "ITC Limited"], "correctIndex": 0 },
+            { "question": "Electronic City's growth is closely tied to Bengaluru's broader reputation as what, often used to describe the city internationally?", "options": ["The Steel City of India", "The Silicon Valley of India", "The Textile Capital of India", "The Port City of the South"], "correctIndex": 1 },
+            { "question": "Electronic City was developed with support from which Karnataka state agency, aiming to promote electronics manufacturing initially?", "options": ["Karnataka State Electronics Development Corporation (KEONICS)", "Karnataka Industrial Area Development Board only", "The central Ministry of Textiles", "A private foreign consortium exclusively"], "correctIndex": 0 },
+            { "question": "Over time, Electronic City's focus shifted from primarily hardware electronics manufacturing toward what broader industry?", "options": ["Software services and IT/BPO operations", "Heavy machinery manufacturing", "Automobile parts manufacturing", "Agricultural processing"], "correctIndex": 0 }
+          ],
+          "summary": "Electronic City, established from the 1970s with support from the Karnataka State Electronics Development Corporation, began as a planned hub intended to promote electronics hardware manufacturing before evolving, alongside Bengaluru's broader economic transformation, into a dense cluster of software and IT services campuses. Companies like Infosys built major early campuses here, helping cement Bengaluru's reputation as the 'Silicon Valley of India,' a nickname that has stuck even as the city's tech ecosystem has diversified well beyond its original electronics-manufacturing roots. Electronic City today remains one of India's most significant single concentrations of technology-sector office space, though chronic traffic congestion on its access roads has long been a subject of local frustration and periodic infrastructure upgrade projects."
+        },
+        {
+          "id": "eco_d35_isro_headquarters",
+          "location": { "name": "ISRO Headquarters — Bengaluru", "lat": 12.9634, "lng": 77.5855 },
+          "questions": [
+            { "question": "ISRO, the Indian Space Research Organisation, has its administrative headquarters located in which city?", "options": ["Thiruvananthapuram", "Bengaluru", "Chennai", "Hyderabad"], "correctIndex": 1 },
+            { "question": "ISRO was established in which year?", "options": ["1962", "1969", "1975", "1981"], "correctIndex": 1 },
+            { "question": "ISRO's headquarters coordinates the organisation's various specialised centres, including the launch-vehicle-focused VSSC and the satellite-focused what?", "options": ["Space Applications Centre (SAC)", "National Remote Sensing Centre only", "Bhabha Atomic Research Centre", "Defence Research and Development Organisation"], "correctIndex": 0 },
+            { "question": "ISRO gained significant global attention with its Mars Orbiter Mission, launched in 2013, primarily for achieving what distinction?", "options": ["Being the first Mars mission by any country", "Reaching Mars orbit on the first attempt at a notably low cost", "Landing a rover on Mars", "Being a crewed mission to Mars"], "correctIndex": 1 },
+            { "question": "ISRO's Chandrayaan-3 mission achieved a historic milestone in 2023 by becoming the first mission to do what?", "options": ["Land near the Moon's south pole", "Orbit Jupiter", "Land on Mars", "Reach interstellar space"], "correctIndex": 0 }
+          ],
+          "summary": "The Indian Space Research Organisation, headquartered in Bengaluru since its establishment in 1969, coordinates a network of specialised centres across the country, from the launch-vehicle-focused Vikram Sarabhai Space Centre to the satellite-development-oriented Space Applications Centre. ISRO earned significant global recognition with its 2013 Mars Orbiter Mission, which reached Martian orbit on its very first attempt at a fraction of the cost of comparable missions by other space agencies, a feat widely covered internationally as a demonstration of frugal yet sophisticated engineering. A decade later, ISRO's Chandrayaan-3 mission made history by successfully landing near the Moon's south pole in 2023, a first for any country, cementing India's status among the world's leading space-faring nations."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d35_rath_yatra_puri",
+          "location": { "name": "Rath Yatra — Puri, Odisha", "lat": 19.8048, "lng": 85.8188 },
+          "questions": [
+            { "question": "Puri's Rath Yatra involves pulling massive wooden chariots carrying idols of which deity, along with his siblings?", "options": ["Lord Krishna", "Lord Jagannath", "Lord Shiva", "Lord Ganesha"], "correctIndex": 1 },
+            { "question": "The English word 'juggernaut,' meaning an unstoppable force, is believed to derive from the name of which deity central to this festival?", "options": ["Jagannath", "Ganesha", "Hanuman", "Indra"], "correctIndex": 0 },
+            { "question": "The chariots used in Rath Yatra are built fresh each year primarily using which material?", "options": ["Steel", "Wood", "Stone", "Fibreglass"], "correctIndex": 1 },
+            { "question": "The Rath Yatra procession travels from the main Jagannath Temple to which other temple, roughly 3 km away?", "options": ["Lingaraj Temple", "Gundicha Temple", "Konark Sun Temple", "Mukteswar Temple"], "correctIndex": 1 },
+            { "question": "Rath Yatra is unique among major Hindu festivals for allowing which group unusually open access to touch and pull the chariots?", "options": ["Only priests", "Devotees of all castes and backgrounds", "Only royal family members", "Only temple donors"], "correctIndex": 1 }
+          ],
+          "summary": "Puri's Rath Yatra sees three enormous wooden chariots, rebuilt from scratch each year, hauled through crowded streets by thousands of devotees, carrying idols of Lord Jagannath, his brother Balabhadra, and sister Subhadra roughly three kilometres to the Gundicha Temple. The festival's massive chariots inspired the English word 'juggernaut,' after early European travellers witnessed the seemingly unstoppable procession and, in some accounts, exaggerated tales of devotees being crushed beneath the wheels. Notably egalitarian for its era and even today, Rath Yatra has historically allowed devotees of all castes to touch and pull the chariot ropes together, a striking contrast to the restricted temple access many communities faced for the deity's inner sanctum itself."
+        },
+        {
+          "id": "evt_d35_hemis_festival_ladakh",
+          "location": { "name": "Hemis Festival — Ladakh", "lat": 33.8944, "lng": 77.7386 },
+          "questions": [
+            { "question": "The Hemis Festival is celebrated at Hemis Monastery, marking the birth anniversary of which important figure in Tibetan Buddhism?", "options": ["The Dalai Lama", "Guru Padmasambhava (Guru Rinpoche)", "Buddha himself", "Milarepa"], "correctIndex": 1 },
+            { "question": "Hemis Monastery, where the festival is held, belongs to which sect of Tibetan Buddhism?", "options": ["Drukpa lineage", "Gelug lineage", "Nyingma lineage exclusively", "Zen Buddhism"], "correctIndex": 0 },
+            { "question": "The Hemis Festival is famous for elaborate masked dances performed by monks, known as what?", "options": ["Cham dances", "Kathakali", "Bharatanatyam", "Odissi"], "correctIndex": 0 },
+            { "question": "Hemis Monastery is one of the largest and wealthiest monasteries in which Indian region?", "options": ["Sikkim", "Ladakh", "Arunachal Pradesh", "Himachal Pradesh's Kinnaur"], "correctIndex": 1 },
+            { "question": "Every twelve years, Hemis Festival features a special unveiling of a particularly sacred and enormous what, kept hidden the rest of the time?", "options": ["A golden Buddha statue", "A giant embroidered thangka (religious scroll painting)", "A relic casket", "A ceremonial sword"], "correctIndex": 1 }
+          ],
+          "summary": "The Hemis Festival, held at Ladakh's largest and wealthiest monastery, celebrates the birth anniversary of Guru Padmasambhava, the 8th-century figure credited with establishing Tibetan Buddhism, through elaborate cham dances performed by monks in vividly colourful masks and costumes representing various deities and demons. Belonging to the Drukpa lineage of Tibetan Buddhism, Hemis Monastery hosts the festival annually, but once every twelve years unveils its most treasured possession: a massive embroidered thangka depicting Padmasambhava, otherwise kept carefully stored and hidden from public view. The combination of ritual dance, monastic ceremony, and rare artistic display makes Hemis one of the most anticipated cultural events across the Ladakh region each year."
+        },
+        {
+          "id": "evt_d35_chapchar_kut_mizoram",
+          "location": { "name": "Chapchar Kut — Mizoram", "lat": 23.7271, "lng": 92.7176 },
+          "questions": [
+            { "question": "Chapchar Kut is a major festival of which Northeastern Indian state?", "options": ["Manipur", "Mizoram", "Nagaland", "Tripura"], "correctIndex": 1 },
+            { "question": "Chapchar Kut traditionally celebrates the completion of which agricultural task, before the sowing season begins?", "options": ["Harvesting", "Jungle-clearing (jhum cultivation preparation)", "Rice threshing", "Cattle grazing rotation"], "correctIndex": 1 },
+            { "question": "Chapchar Kut celebrations prominently feature a traditional bamboo dance known as what?", "options": ["Cheraw", "Bihu dance", "Ghoomar", "Garba"], "correctIndex": 0 },
+            { "question": "The Cheraw bamboo dance involves dancers stepping gracefully between bamboo poles manipulated in what manner?", "options": ["Set on fire", "Clapped rhythmically open and shut by seated performers", "Thrown into the air", "Balanced on dancers' heads"], "correctIndex": 1 },
+            { "question": "Chapchar Kut, once observed by individual Mizo villages separately, has since been organised more formally as what kind of event?", "options": ["A private religious ceremony only", "A large state-level cultural festival", "An exclusively online event", "A UN-recognised global holiday"], "correctIndex": 1 }
+          ],
+          "summary": "Chapchar Kut, one of Mizoram's most significant festivals, traditionally marks the completion of jhum cultivation's laborious jungle-clearing phase, giving communities a joyful break before the sowing season begins. Its most recognisable feature is the Cheraw, or bamboo dance, in which dancers weave gracefully in and out of long bamboo poles that seated performers rhythmically clap open and shut in time with music — a demanding, precisely timed performance requiring both agility and trust. Once celebrated at the village level with local variations, Chapchar Kut has in recent decades been consolidated into larger, more formally organised state-level celebrations, helping showcase Mizo culture, dance, and costume to wider audiences both within India and beyond."
+        },
+        {
+          "id": "evt_d35_rongker_arunachal",
+          "location": { "name": "Rongker Festival — Arunachal Pradesh", "lat": 27.0844, "lng": 93.6053 },
+          "questions": [
+            { "question": "Rongker is a major festival celebrated by which tribal community of Arunachal Pradesh?", "options": ["Apatani", "Nyishi", "Adi", "Monpa"], "correctIndex": 1 },
+            { "question": "Rongker is primarily observed as a festival for what overarching purpose, involving community prayers?", "options": ["Wedding celebrations only", "Communal well-being, prosperity, and protection from evil spirits", "Purely a harvest thanksgiving with no spiritual element", "Commemorating a historical battle"], "correctIndex": 1 },
+            { "question": "Rongker celebrations typically involve the sacrifice of animals as offerings to which category of beings, according to Nyishi tradition?", "options": ["Ancestral spirits and deities", "Only domestic pets", "Foreign traders", "Rival tribal leaders symbolically"], "correctIndex": 0 },
+            { "question": "Rongker is typically celebrated during which part of the year, often timed before the agricultural sowing season?", "options": ["Late winter to early spring", "Peak monsoon", "Late autumn", "Midsummer"], "correctIndex": 0 },
+            { "question": "The Nyishi, who celebrate Rongker, are one of the largest tribal communities in which Indian state?", "options": ["Nagaland", "Arunachal Pradesh", "Manipur", "Mizoram"], "correctIndex": 1 }
+          ],
+          "summary": "Rongker, celebrated by the Nyishi community of Arunachal Pradesh, is a communal festival held in late winter or early spring, timed before the agricultural sowing season begins, seeking blessings for the community's wellbeing, prosperity, and protection from misfortune. Central to the festival are ritual offerings and animal sacrifices made to ancestral spirits and local deities, performed by priests according to traditions passed down through generations. As one of the largest tribal communities in Arunachal Pradesh, the Nyishi's observance of Rongker reflects the broader diversity of indigenous belief systems and seasonal rituals found across India's northeastern tribal communities, each with distinct practices shaped by their particular relationship with the surrounding land and agricultural cycle."
+        },
+        {
+          "id": "evt_d35_aoling_nagaland",
+          "location": { "name": "Aoling Festival — Nagaland", "lat": 26.6033, "lng": 95.0169 },
+          "questions": [
+            { "question": "The Aoling Festival is celebrated by which Naga tribal community?", "options": ["Angami", "Konyak", "Ao", "Sumi"], "correctIndex": 1 },
+            { "question": "Aoling primarily celebrates the arrival of which season, marking the start of a new agricultural cycle?", "options": ["Spring, after seeds have been sown", "Monsoon's peak", "Deep winter", "Late autumn harvest"], "correctIndex": 0 },
+            { "question": "The Konyak community, who celebrate Aoling, are historically known among Naga tribes for their traditional practice of what, now discontinued?", "options": ["Headhunting", "Sea navigation", "Silk weaving exclusively", "Horse breeding"], "correctIndex": 0 },
+            { "question": "Aoling celebrations feature traditional attire, songs, and dances performed primarily by whom?", "options": ["Only village elders", "Community members across age groups, in colourful traditional dress", "Only children", "Only religious priests"], "correctIndex": 1 },
+            { "question": "The Konyak Nagas, celebrating Aoling, are concentrated primarily in which district of Nagaland?", "options": ["Kohima district", "Mon district", "Dimapur district", "Wokha district"], "correctIndex": 1 }
+          ],
+          "summary": "Aoling, celebrated by the Konyak Naga community concentrated in Nagaland's Mon district, welcomes the arrival of spring and the start of a fresh agricultural cycle following the sowing of seeds. The Konyaks, historically among the last Naga groups associated with the now-discontinued practice of headhunting, mark the festival instead with vibrant displays of traditional dress, communal feasting, songs, and dances performed by villagers across generations. As with several other Naga tribal festivals, Aoling has increasingly become a platform for cultural preservation and tourism promotion, offering younger generations and outside visitors alike a window into Konyak heritage that might otherwise fade amid rapid social change across the region."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d35_lbsnaa_mussoorie",
+          "location": { "name": "Lal Bahadur Shastri National Academy of Administration — Mussoorie", "lat": 30.4598, "lng": 78.0664 },
+          "questions": [
+            { "question": "LBSNAA, located in Mussoorie, is the primary training institution for officers of which prestigious Indian civil service?", "options": ["Indian Police Service only", "Indian Administrative Service (IAS) and allied services", "Indian Foreign Service only", "Indian Army"], "correctIndex": 1 },
+            { "question": "LBSNAA is named after which former Prime Minister of India?", "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Morarji Desai"], "correctIndex": 1 },
+            { "question": "New recruits to India's civil services typically join LBSNAA for training after clearing which national examination?", "options": ["JEE (engineering entrance)", "The Civil Services Examination conducted by UPSC", "NEET (medical entrance)", "CAT (management entrance)"], "correctIndex": 1 },
+            { "question": "LBSNAA training includes a component where officer trainees from different services undergo joint training before which stage?", "options": ["Their final retirement", "Being assigned to their specific service and cadre allocation", "Their first international posting", "Their promotion to the highest rank"], "correctIndex": 1 },
+            { "question": "LBSNAA's location in Mussoorie places it in the foothills of which mountain range?", "options": ["The Aravallis", "The Himalayas", "The Western Ghats", "The Vindhyas"], "correctIndex": 1 }
+          ],
+          "summary": "The Lal Bahadur Shastri National Academy of Administration, nestled in the Himalayan foothill town of Mussoorie, trains newly recruited officers of the Indian Administrative Service and several allied civil services after they clear the notoriously competitive Civil Services Examination conducted by the UPSC. Named after former Prime Minister Lal Bahadur Shastri, the academy brings trainees from different services together for a shared foundational course before they specialise and are assigned to their specific cadres and postings across the country. For generations of India's top civil servants, LBSNAA has served as a formative rite of passage, shaping the administrative culture and professional networks that go on to influence governance at every level of the country."
+        },
+        {
+          "id": "pol_d35_emergency_1975",
+          "location": { "name": "The Emergency (1975-77) — New Delhi", "lat": 28.6139, "lng": 77.2090 },
+          "questions": [
+            { "question": "The Emergency in India, declared in 1975, was invoked under which article of the Constitution?", "options": ["Article 356", "Article 352", "Article 370", "Article 32"], "correctIndex": 1 },
+            { "question": "The Emergency was declared by then-Prime Minister Indira Gandhi, officially citing threats to what?", "options": ["National economic stability alone", "Internal disturbance and threats to national security", "Only external military invasion", "Only a natural disaster response"], "correctIndex": 1 },
+            { "question": "During the Emergency, several fundamental rights, including certain protections against unlawful detention, were significantly what?", "options": ["Expanded further", "Suspended", "Left entirely unaffected", "Transferred to state governments"], "correctIndex": 1 },
+            { "question": "The Emergency period, lasting roughly 21 months, is widely associated with what controversial government actions?", "options": ["Mass press censorship and detention of political opponents", "Full democratic elections held on schedule with no disruption", "Complete transparency in government functioning", "Expansion of judicial independence"], "correctIndex": 0 },
+            { "question": "The Emergency officially ended in 1977 when Indira Gandhi called for what, leading to her party's defeat?", "options": ["A referendum on her leadership", "Fresh general elections", "A UN-mediated settlement", "A voluntary resignation with no election"], "correctIndex": 1 }
+          ],
+          "summary": "The Emergency, declared by Prime Minister Indira Gandhi in June 1975 under Article 352 of the Constitution, remains one of the most controversial episodes in independent India's political history, marked by suspended civil liberties, widespread press censorship, and the detention of numerous political opponents and activists. Citing threats to national security and internal order, the government ruled by decree for roughly 21 months, a period many historians regard as a serious departure from India's democratic norms. The Emergency ended in 1977 when Gandhi, confident of victory, called fresh general elections — only to see her party decisively defeated, a result widely interpreted as a public repudiation of the Emergency's authoritarian measures and a powerful demonstration of Indian democracy's underlying resilience."
+        },
+        {
+          "id": "pol_d35_44th_amendment",
+          "location": { "name": "44th Amendment (Post-Emergency Reform) — New Delhi", "lat": 28.6170, "lng": 77.2075 },
+          "questions": [
+            { "question": "The 44th Constitutional Amendment, passed in 1978, was primarily enacted in response to what earlier event?", "options": ["The 1962 war with China", "Perceived misuse of emergency powers during the 1975-77 Emergency", "The 1991 economic reforms", "The 1947 Partition"], "correctIndex": 1 },
+            { "question": "The 44th Amendment made it harder to declare a national Emergency by requiring the term 'internal disturbance' to be replaced with what stricter standard?", "options": ["Armed rebellion", "Economic crisis", "Foreign policy failure", "Natural disaster only"], "correctIndex": 0 },
+            { "question": "The 44th Amendment restored the requirement that a proclamation of Emergency be approved by Parliament within what expanded but still bounded timeframe?", "options": ["One month", "One year with no review needed", "A specified period requiring periodic parliamentary approval", "No parliamentary approval required at all"], "correctIndex": 2 },
+            { "question": "The 44th Amendment also removed the earlier unrestricted power of the executive to do what to fundamental rights during an Emergency?", "options": ["Suspend the right to life and personal liberty entirely without judicial recourse", "Grant additional rights", "Increase judicial oversight automatically", "Expand voting rights"], "correctIndex": 0 },
+            { "question": "The 44th Amendment is generally regarded by constitutional scholars as an important step in strengthening what, following the Emergency's excesses?", "options": ["Executive dominance over the judiciary", "Safeguards against future misuse of emergency powers", "Central government control over states", "Restrictions on press freedom"], "correctIndex": 1 }
+          ],
+          "summary": "The 44th Constitutional Amendment of 1978 was enacted as a direct corrective response to the perceived excesses of the 1975-77 Emergency, tightening the conditions under which a national Emergency could be declared in the future. It replaced the vague standard of 'internal disturbance' with the stricter threshold of 'armed rebellion,' making it significantly harder for a government to invoke emergency powers on loosely defined grounds. The amendment also restored crucial safeguards, ensuring that the right to life and personal liberty could no longer be suspended entirely during an Emergency, addressing one of the most criticised aspects of how fundamental rights had been curtailed under the earlier proclamation."
+        },
+        {
+          "id": "pol_d35_public_interest_litigation",
+          "location": { "name": "Public Interest Litigation — Supreme Court, New Delhi", "lat": 28.6225, "lng": 77.2411 },
+          "questions": [
+            { "question": "Public Interest Litigation (PIL) is a judicial innovation that allows courts to hear cases filed on behalf of whom?", "options": ["Only the directly affected individual", "The broader public interest, even by third parties on behalf of disadvantaged groups", "Only government officials", "Only registered corporations"], "correctIndex": 1 },
+            { "question": "PIL gained particular prominence in Indian courts starting in which decade, in the aftermath of the Emergency?", "options": ["1960s", "Late 1970s and 1980s", "2000s", "1950s"], "correctIndex": 1 },
+            { "question": "A distinctive feature of PIL is that courts have sometimes accepted cases initiated through what informal method, beyond standard legal petitions?", "options": ["Anonymous phone calls only", "Letters written directly to judges (epistolary jurisdiction)", "Social media posts exclusively", "Radio broadcast requests"], "correctIndex": 1 },
+            { "question": "PIL has been used in India to address issues including environmental protection, prison conditions, and what other significant area?", "options": ["Bonded labour and human rights violations", "Only traffic violations", "Only tax disputes", "Only property boundary disputes"], "correctIndex": 0 },
+            { "question": "Critics of PIL have sometimes argued that its expansive use risks courts overstepping into what other branch of government's domain?", "options": ["The judiciary's own domain", "The legislative and executive domain (policy-making)", "Only local municipal matters", "Foreign affairs exclusively"], "correctIndex": 1 }
+          ],
+          "summary": "Public Interest Litigation emerged as a powerful judicial innovation in India during the late 1970s and 1980s, in the reformist aftermath of the Emergency, allowing courts to hear cases filed on behalf of the broader public interest rather than requiring a directly affected individual to personally initiate a petition. In some of its most creative early applications, Indian courts even accepted informal letters addressed directly to judges as valid petitions — a practice known as epistolary jurisdiction — enabling marginalised groups without resources for formal litigation to bring pressing issues before the judiciary. PIL has since been used to address everything from environmental degradation and prison reform to bonded labour and government accountability, though critics have periodically warned that its expansive scope risks blurring the line between judicial review and the policy-making domain properly belonging to the legislature and executive."
+        },
+        {
+          "id": "pol_d35_left_front_west_bengal",
+          "location": { "name": "Left Front Government — Kolkata, West Bengal", "lat": 22.5726, "lng": 88.3639 },
+          "questions": [
+            { "question": "The Left Front government in West Bengal, led primarily by the CPI(M), held power continuously for approximately how many years?", "options": ["10 years", "20 years", "34 years", "50 years"], "correctIndex": 2 },
+            { "question": "The Left Front's long tenure in West Bengal, beginning in 1977, made it one of the world's longest-serving what?", "options": ["Monarchies", "Democratically elected communist/left governments", "Colonial administrations", "Military juntas"], "correctIndex": 1 },
+            { "question": "A major early policy focus of the Left Front government involved land reforms, particularly a programme known as what, benefiting sharecroppers?", "options": ["Operation Barga", "Operation Flood", "Operation Blue Star", "Green Revolution scheme"], "correctIndex": 0 },
+            { "question": "The Left Front's long rule in West Bengal finally ended in 2011, when which party and leader came to power?", "options": ["Indian National Congress under Rahul Gandhi", "Trinamool Congress under Mamata Banerjee", "Bharatiya Janata Party under a state leader", "Aam Aadmi Party"], "correctIndex": 1 },
+            { "question": "In its later years, the Left Front government faced significant controversy and protests related to land acquisition for industrial projects, notably at which location?", "options": ["Singur and Nandigram", "Darjeeling", "Digha", "Sundarbans"], "correctIndex": 0 }
+          ],
+          "summary": "West Bengal's Left Front government, led primarily by the Communist Party of India (Marxist), governed the state continuously from 1977 to 2011 — a 34-year run that made it one of the longest-serving democratically elected communist governments anywhere in the world. Early in its tenure, the Left Front pursued significant land reforms, notably Operation Barga, which strengthened sharecroppers' rights and is widely credited with improving rural livelihoods across the state. Its long dominance eventually unravelled amid growing controversy over forced land acquisitions for industrial projects at Singur and Nandigram in the mid-2000s, fuelling public discontent that Trinamool Congress leader Mamata Banerjee successfully channelled into a decisive electoral victory in 2011, finally ending the Left Front's remarkable multi-decade hold on power."
+        }
+      ]
+    }
+  }
+}

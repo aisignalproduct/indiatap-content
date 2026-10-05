@@ -1,0 +1,326 @@
+{
+  "day": 40,
+  "date": "2026-11-09",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d40_balpakram_np",
+          "location": { "name": "Balpakram National Park — Meghalaya", "lat": 25.3167, "lng": 90.8167 },
+          "questions": [
+            { "question": "Balpakram National Park is located in which Indian state?", "options": ["Assam", "Meghalaya", "Manipur", "Tripura"], "correctIndex": 1 },
+            { "question": "Balpakram is often referred to in local Garo folklore as a resting place for the spirits of what?", "options": ["Ancestors and the deceased", "Mythical dragons", "Sky deities exclusively", "River spirits only"], "correctIndex": 0 },
+            { "question": "Balpakram National Park is notable for reported, though scientifically unconfirmed, local sightings of what mysterious creature?", "options": ["A yeti-like ape (mande burung)", "A sea serpent", "A giant bird of prey with no known species match", "A prehistoric fish"], "correctIndex": 0 },
+            { "question": "Balpakram's landscape features a dramatic plateau and canyon system carved primarily by which natural process?", "options": ["Volcanic activity", "River erosion over geological time", "Glacial movement", "Coral reef formation"], "correctIndex": 1 },
+            { "question": "Balpakram National Park is home to the Garo tribal community and is considered significant for what type of tourism, alongside wildlife viewing?", "options": ["Only religious pilgrimage tourism", "Cultural and folklore-based eco-tourism", "Only industrial tourism", "Only medical tourism"], "correctIndex": 1 }
+          ],
+          "summary": "Balpakram National Park in Meghalaya's dramatic canyon and plateau landscape holds deep spiritual significance for the local Garo community, who regard it as a resting place for the spirits of the deceased on their journey to the afterlife. The park has also attracted attention for persistent local reports of the mande burung, a cryptozoological ape-like creature sometimes compared to the yeti, though no scientific evidence has ever confirmed its existence. Beyond its folkloric intrigue, Balpakram's genuinely striking geology, carved by rivers over immense geological timescales, combines with rich biodiversity and Garo cultural heritage to make it a distinctive, if still relatively under-visited, destination within Northeast India's expanding eco-tourism landscape."
+        },
+        {
+          "id": "geo_d40_wular_lake",
+          "location": { "name": "Wular Lake — Jammu and Kashmir", "lat": 34.3667, "lng": 74.6167 },
+          "questions": [
+            { "question": "Wular Lake is often cited as one of Asia's largest what?", "options": ["Saltwater lagoons", "Freshwater lakes", "Glacial ice fields", "Man-made reservoirs"], "correctIndex": 1 },
+            { "question": "Wular Lake is fed primarily by which major river before it continues its course further downstream?", "options": ["Chenab River", "Jhelum River", "Indus River directly", "Ravi River"], "correctIndex": 1 },
+            { "question": "Wular Lake's surface area has, over recent decades, significantly shrunk due to what combination of factors?", "options": ["Only natural evaporation with no human cause", "Siltation, encroachment, and conversion of lake area for agriculture/settlement", "Only a single earthquake event", "Complete deliberate government drainage for flood prevention"], "correctIndex": 1 },
+            { "question": "Wular Lake plays a significant role in mitigating what recurring natural hazard for the Kashmir Valley?", "options": ["Earthquakes", "Flooding, by absorbing excess monsoon and snowmelt water", "Landslides directly", "Volcanic eruptions"], "correctIndex": 1 },
+            { "question": "Wular Lake was designated a Ramsar Wetland of International Importance in which year?", "options": ["1970", "1990", "1986", "2010"], "correctIndex": 2 }
+          ],
+          "summary": "Wular Lake, fed by the Jhelum River in the Kashmir Valley, is often cited as one of Asia's largest freshwater lakes, though its actual surface area has shrunk considerably over recent decades due to siltation, encroachment, and the conversion of lake-bed areas for agriculture and settlement. Beyond its ecological and fishing importance for local communities, Wular plays a crucial flood-mitigation role for the broader Kashmir Valley, absorbing significant volumes of excess water during heavy monsoon rains and Himalayan snowmelt before they can overwhelm downstream areas. Designated a Ramsar wetland of international importance in 1986, Wular has become a focal point for various restoration efforts aimed at reversing decades of gradual shrinkage and reclaiming some of its historical ecological function."
+        },
+        {
+          "id": "geo_d40_sasthamkotta_lake",
+          "location": { "name": "Sasthamkotta Lake — Kerala", "lat": 9.0000, "lng": 76.6167 },
+          "questions": [
+            { "question": "Sasthamkotta Lake holds the distinction of being what, within Kerala?", "options": ["The state's largest saltwater lagoon", "Kerala's largest freshwater lake", "Kerala's smallest water body", "Kerala's only glacial lake"], "correctIndex": 1 },
+            { "question": "Sasthamkotta Lake serves as a crucial source of what for the surrounding local population?", "options": ["Salt production", "Drinking water supply", "Oil extraction", "Coal mining runoff management"], "correctIndex": 1 },
+            { "question": "Sasthamkotta Lake is named after a nearby temple dedicated to which deity?", "options": ["Lord Ayyappa (Sastha)", "Lord Krishna", "Goddess Kali", "Lord Ganesha"], "correctIndex": 0 },
+            { "question": "Sasthamkotta Lake is unusual for a lake of its size in being separated from the sea by only a narrow strip of land, yet remaining what?", "options": ["Entirely saline like the ocean", "Freshwater, despite its close coastal proximity", "Completely dry for most of the year", "Frozen year-round"], "correctIndex": 1 },
+            { "question": "Sasthamkotta Lake was designated a Ramsar Wetland of International Importance in which year?", "options": ["1980", "2002", "2015", "1965"], "correctIndex": 1 }
+          ],
+          "summary": "Sasthamkotta Lake, Kerala's largest freshwater lake, remarkably retains its freshwater character despite lying just a narrow strip of land away from the coast, a geological quirk that has made it a critical drinking water source for a substantial local population in the surrounding region. Named after a nearby temple dedicated to Lord Ayyappa, also known as Sastha, the lake carries both ecological and religious significance for the communities settled around its shores. Recognised as a Ramsar wetland of international importance in 2002, Sasthamkotta continues to face pressure from surrounding development and pollution, prompting ongoing local and state efforts to protect a water resource whose freshwater purity, so close to the sea, remains genuinely unusual among lakes of comparable size and location."
+        },
+        {
+          "id": "geo_d40_renuka_lake",
+          "location": { "name": "Renuka Lake — Himachal Pradesh", "lat": 30.6167, "lng": 77.4500 },
+          "questions": [
+            { "question": "Renuka Lake is Himachal Pradesh's what, in terms of size among the state's natural lakes?", "options": ["Smallest lake", "Largest natural lake", "Only glacial lake", "Only artificial reservoir"], "correctIndex": 1 },
+            { "question": "Renuka Lake is named after and considered sacred in connection with which mythological figure, mother of Parashurama?", "options": ["Sita", "Renuka", "Parvati", "Draupadi"], "correctIndex": 1 },
+            { "question": "Renuka Lake is noted for a distinctive shape that, viewed from above, is often said to resemble what?", "options": ["A reclining woman's silhouette", "A perfect circle", "A star shape", "A crescent moon"], "correctIndex": 0 },
+            { "question": "Renuka Lake hosts an annual fair each November celebrating the reunion of Renuka with which figure, according to local legend?", "options": ["Her son Parashurama", "Lord Shiva directly", "Lord Vishnu", "Her husband exclusively, with no son involved"], "correctIndex": 0 },
+            { "question": "Renuka Lake is also home to a small zoo and wildlife sanctuary managed alongside the lake, contributing to what type of local activity?", "options": ["Only agricultural farming", "Eco-tourism and wildlife conservation efforts", "Only mining operations", "Only military training"], "correctIndex": 1 }
+          ],
+          "summary": "Renuka Lake, Himachal Pradesh's largest natural lake, takes its name from the mythological figure Renuka, mother of the sage-warrior Parashurama, and its distinctive outline is often described as resembling a woman lying in repose when viewed from above. Each November, the lake hosts a well-attended fair commemorating the legendary reunion between Renuka and her son, blending religious devotion with regional festivity drawn from across the surrounding Sirmaur district. Alongside its mythological significance, the lake area includes a small zoo and wildlife sanctuary, positioning Renuka as both a pilgrimage site and a modest eco-tourism destination within Himachal Pradesh's broader portfolio of natural and cultural attractions."
+        },
+        {
+          "id": "geo_d40_indira_gandhi_wildlife_sanctuary",
+          "location": { "name": "Indira Gandhi Wildlife Sanctuary, Anaimalai — Tamil Nadu", "lat": 10.3500, "lng": 76.9333 },
+          "questions": [
+            { "question": "Indira Gandhi Wildlife Sanctuary is located within which mountain range, forming part of the Western Ghats?", "options": ["The Nilgiri Hills", "The Anaimalai Hills", "The Aravalli Range", "The Palani Hills exclusively, unrelated to Anaimalai"], "correctIndex": 1 },
+            { "question": "Indira Gandhi Wildlife Sanctuary is located in which Indian state?", "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"], "correctIndex": 1 },
+            { "question": "The sanctuary is named after which former Indian Prime Minister?", "options": ["Jawaharlal Nehru", "Indira Gandhi", "Lal Bahadur Shastri", "Rajiv Gandhi"], "correctIndex": 1 },
+            { "question": "Indira Gandhi Wildlife Sanctuary is significant for protecting habitat connecting to which other well-known wildlife area across state lines?", "options": ["Periyar Tiger Reserve in Kerala", "Kaziranga National Park in Assam", "Ranthambore in Rajasthan", "Sundarbans in West Bengal"], "correctIndex": 0 },
+            { "question": "The sanctuary's Anaimalai Hills terrain supports significant populations of which large mammal, whose name relates directly to the hills' own name?", "options": ["Asian elephants (Anaimalai roughly translates to 'elephant hills')", "Snow leopards", "Asiatic lions", "Blackbucks"], "correctIndex": 0 }
+          ],
+          "summary": "Indira Gandhi Wildlife Sanctuary, spanning the Anaimalai Hills of Tamil Nadu's stretch of the Western Ghats, takes its regional name fittingly from the Tamil words for 'elephant hills,' reflecting the substantial Asian elephant population the reserve continues to support. The sanctuary forms an important part of a broader interstate wildlife corridor connecting toward Kerala's Periyar Tiger Reserve, allowing greater habitat continuity and movement range for elephants, tigers, and other wide-ranging species across the state border. Named in honour of former Prime Minister Indira Gandhi, the sanctuary reflects a broader pattern across India of naming significant conservation areas after political figures associated with environmental and wildlife protection policy during their time in office."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d40_red_fort_delhi",
+          "location": { "name": "Red Fort — Delhi", "lat": 28.6562, "lng": 77.2410 },
+          "questions": [
+            { "question": "The Red Fort in Delhi was built by which Mughal emperor as his primary residence after shifting the capital from Agra?", "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"], "correctIndex": 1 },
+            { "question": "The Red Fort's construction primarily used which building material, giving the fort its name?", "options": ["White marble", "Red sandstone", "Black granite", "Yellow limestone"], "correctIndex": 1 },
+            { "question": "The Red Fort is the traditional site from which the Indian Prime Minister addresses the nation on which annual occasion?", "options": ["Republic Day (26 January)", "Independence Day (15 August)", "Gandhi Jayanti (2 October)", "Children's Day (14 November)"], "correctIndex": 1 },
+            { "question": "The Red Fort's interior includes a hall called the Diwan-i-Khas, once famously home to which extravagant royal seat?", "options": ["The Peacock Throne", "The Lion Throne", "The Golden Chariot", "The Diamond Seat"], "correctIndex": 0 },
+            { "question": "The Red Fort was declared a UNESCO World Heritage Site in which year?", "options": ["1983", "2000", "2007", "1975"], "correctIndex": 2 }
+          ],
+          "summary": "The Red Fort, built by Emperor Shah Jahan as his primary residence after relocating the Mughal capital from Agra to Delhi, takes its name from the imposing red sandstone walls enclosing its palaces, audience halls, and gardens. Its Diwan-i-Khas hall once housed the legendary Peacock Throne, an extraordinarily bejewelled royal seat later carried off by Persian invader Nadir Shah in the 18th century, along with the famous Koh-i-Noor diamond that was originally set within it. Since India's independence, the Red Fort has held enduring symbolic significance as the site from which the Prime Minister addresses the nation each Independence Day, a tradition begun by Jawaharlal Nehru in 1947 that continues to anchor the fort's identity as much in modern Indian democracy as in its Mughal imperial past."
+        },
+        {
+          "id": "cul_d40_fatehpur_sikri",
+          "location": { "name": "Fatehpur Sikri — Uttar Pradesh", "lat": 27.0945, "lng": 77.6679 },
+          "questions": [
+            { "question": "Fatehpur Sikri was built as a new capital city by which Mughal emperor?", "options": ["Babur", "Akbar", "Shah Jahan", "Aurangzeb"], "correctIndex": 1 },
+            { "question": "Fatehpur Sikri was abandoned as the Mughal capital only a few decades after its construction, primarily due to what issue?", "options": ["A devastating fire", "Water scarcity in the region", "A foreign military invasion", "A religious dispute forcing relocation"], "correctIndex": 1 },
+            { "question": "Fatehpur Sikri's massive gateway, the Buland Darwaza, was built to commemorate a military victory in which region?", "options": ["Gujarat", "Bengal", "Kashmir", "The Deccan"], "correctIndex": 0 },
+            { "question": "Fatehpur Sikri includes the tomb of which Sufi saint, whose blessing Akbar reportedly sought before founding the city?", "options": ["Khwaja Moinuddin Chishti", "Salim Chishti", "Nizamuddin Auliya", "Baba Farid"], "correctIndex": 1 },
+            { "question": "Fatehpur Sikri is often cited by historians as an architectural blend representing Akbar's broader policy of what?", "options": ["Strict religious orthodoxy with no outside influence", "Religious and cultural syncretism across Hindu and Islamic traditions", "Isolation from all foreign architectural influences", "Purely military fortification with no aesthetic considerations"], "correctIndex": 1 }
+          ],
+          "summary": "Fatehpur Sikri, built by Emperor Akbar as an entirely new capital city near Agra, was abandoned as the Mughal seat of power only about fifteen years after its completion, largely due to an inadequate and unreliable local water supply that made sustaining a large capital population impractical. The city's monumental Buland Darwaza gateway commemorates Akbar's military victory in Gujarat, while the nearby tomb of Sufi saint Salim Chishti — whose blessing Akbar credited for the birth of his long-awaited son — remains an active pilgrimage site within the otherwise largely deserted city. Fatehpur Sikri's architecture, blending Hindu and Islamic design elements throughout its palaces and courtyards, is frequently cited by historians as a physical embodiment of Akbar's broader policy of religious tolerance and cultural syncretism, a defining feature of his reign that set him apart from several of his Mughal successors."
+        },
+        {
+          "id": "cul_d40_vivekananda_rock_memorial",
+          "location": { "name": "Vivekananda Rock Memorial — Kanyakumari", "lat": 8.0778, "lng": 77.5510 },
+          "questions": [
+            { "question": "The Vivekananda Rock Memorial is built on a rock formation off the coast of which southernmost Indian town?", "options": ["Rameswaram", "Kanyakumari", "Kochi", "Puducherry"], "correctIndex": 1 },
+            { "question": "The memorial commemorates a visit and meditation retreat undertaken by which prominent Indian spiritual leader?", "options": ["Swami Vivekananda", "Mahatma Gandhi", "Sri Aurobindo", "Ramana Maharshi"], "correctIndex": 0 },
+            { "question": "Swami Vivekananda is said to have meditated on this rock in 1892 before undertaking a significant journey to attend which international event?", "options": ["The Olympic Games", "The World's Parliament of Religions in Chicago", "The United Nations founding conference", "A scientific conference in London"], "correctIndex": 1 },
+            { "question": "The Vivekananda Rock Memorial was constructed and completed in which decade, funded through public and government contributions?", "options": ["1950s", "1970s", "1990s", "2000s"], "correctIndex": 1 },
+            { "question": "Kanyakumari, where the memorial is located, is notable geographically as the point where three bodies of water meet. Which are they?", "options": ["Arabian Sea, Bay of Bengal, and Indian Ocean", "Only the Arabian Sea and Bay of Bengal", "Only the Indian Ocean and Pacific Ocean", "Only rivers, with no ocean confluence at all"], "correctIndex": 0 }
+          ],
+          "summary": "The Vivekananda Rock Memorial, built on a rocky outcrop just off Kanyakumari's coast, commemorates the site where Swami Vivekananda is said to have meditated in 1892 before departing on the journey that would take him to deliver his famous address at the 1893 World's Parliament of Religions in Chicago, an event widely credited with introducing Hindu philosophy to a major Western audience. Completed in the 1970s through a fundraising effort that drew contributions from across Indian society and government, the memorial has since become an important pilgrimage and tourist destination in its own right. Kanyakumari's unique geographic position, marking the meeting point of the Arabian Sea, Bay of Bengal, and Indian Ocean, adds a further layer of symbolic significance to the memorial's location at India's literal southernmost tip."
+        },
+        {
+          "id": "cul_d40_jaigarh_fort",
+          "location": { "name": "Jaigarh Fort — Jaipur", "lat": 26.9855, "lng": 75.8480 },
+          "questions": [
+            { "question": "Jaigarh Fort, overlooking Amer Fort near Jaipur, was built primarily to serve what strategic purpose?", "options": ["A purely ceremonial palace with no defensive function", "Protecting the Amer/Jaipur royal treasury and serving as a defensive stronghold", "A trading marketplace only", "A religious pilgrimage centre exclusively"], "correctIndex": 1 },
+            { "question": "Jaigarh Fort is home to one of the world's largest what, a massive cannon on wheels?", "options": ["Cannons on wheels (Jaivana cannon)", "Wooden ships", "Stone statues", "Bronze bells"], "correctIndex": 0 },
+            { "question": "The Jaivana cannon at Jaigarh Fort was reportedly fired only once, primarily as what?", "options": ["A test firing, given its enormous size and cost", "Continuously in daily military use for decades", "Never fired at all under any circumstance", "Only during a single historic battle with heavy casualties"], "correctIndex": 0 },
+            { "question": "Jaigarh Fort has, over the years, been the subject of local legend regarding a hidden what, allegedly buried somewhere within its grounds?", "options": ["Ancient royal treasure", "A secret tunnel to another country", "A lost historical manuscript library", "An underground river"], "correctIndex": 0 },
+            { "question": "Jaigarh Fort is connected to Amer Fort via a series of what, allowing movement between the two structures?", "options": ["Underground tunnels and connecting pathways", "A single narrow rope bridge only", "A modern elevator system", "No connection exists; they are entirely separate"], "correctIndex": 0 }
+          ],
+          "summary": "Jaigarh Fort, perched on a ridge above Amer Fort near Jaipur, was built primarily as a defensive stronghold and secure repository for the royal treasury, connected to Amer below via a series of tunnels and pathways allowing movement between the two structures. The fort is home to the Jaivana cannon, one of the largest cannons on wheels ever manufactured, reportedly fired only once as a test given the sheer scale and cost involved in its construction and use. Persistent local legend holds that a vast hidden treasure remains buried somewhere within Jaigarh's grounds, a story that gained particular traction during a period in the 1970s when the Indian government conducted extensive searches following political rumours, though no such treasure was ever conclusively found."
+        },
+        {
+          "id": "cul_d40_mattancherry_palace",
+          "location": { "name": "Mattancherry Palace (Dutch Palace) — Kochi", "lat": 9.9580, "lng": 76.2593 },
+          "questions": [
+            { "question": "Mattancherry Palace, though popularly called the 'Dutch Palace,' was originally built by which colonial power for the local Kochi ruler?", "options": ["The Portuguese", "The Dutch", "The British", "The French"], "correctIndex": 0 },
+            { "question": "Mattancherry Palace acquired the nickname 'Dutch Palace' because it was later renovated and expanded by which colonial power?", "options": ["The British", "The Dutch", "The Portuguese, a second time", "The Danish"], "correctIndex": 1 },
+            { "question": "Mattancherry Palace is particularly renowned for its collection of murals depicting scenes from which two Hindu epics?", "options": ["The Ramayana and Mahabharata", "Only the Puranas", "Only the Vedas, with no narrative art", "Only regional Kerala folk tales, unrelated to major epics"], "correctIndex": 0 },
+            { "question": "Mattancherry Palace was originally gifted to the Raja of Kochi as a gesture aimed at securing what, from the colonial power that built it?", "options": ["Military alliance against a rival kingdom", "Trading privileges and favourable commercial relations", "A permanent ceasefire with no trade implications", "Religious conversion of the royal family"], "correctIndex": 1 },
+            { "question": "Mattancherry Palace today functions as what, allowing public access to its historic halls and mural collection?", "options": ["A government office with no public access", "A museum", "A private residence for the current royal descendants", "A hotel"], "correctIndex": 1 }
+          ],
+          "summary": "Mattancherry Palace in Kochi, despite its popular nickname the 'Dutch Palace,' was actually originally built by the Portuguese in the 16th century as a gift to the local Raja of Kochi, a gesture intended to secure favourable trading privileges in the lucrative spice trade dominating the region at the time. The palace later acquired its enduring nickname after the Dutch, who subsequently displaced Portuguese influence in the area, undertook significant renovations and expansions to the structure. Today functioning as a museum, Mattancherry Palace is particularly celebrated for its extensive and vividly preserved mural collection depicting scenes from the Ramayana and Mahabharata, ranking among the finest surviving examples of traditional Kerala mural painting anywhere in the state."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d40_indian_railways",
+          "location": { "name": "Indian Railways", "lat": 28.6417, "lng": 77.2217 },
+          "questions": [
+            { "question": "Indian Railways is often cited as one of the world's largest what, by number of employees?", "options": ["Private companies", "Railway networks/employers, one of the largest in the world", "Airline companies", "Software companies"], "correctIndex": 1 },
+            { "question": "India's first passenger train ran in which year, marking the beginning of the country's railway history?", "options": ["1837", "1853", "1900", "1947"], "correctIndex": 1 },
+            { "question": "India's first passenger railway line connected Bombay to which town?", "options": ["Pune", "Thane", "Surat", "Nashik"], "correctIndex": 1 },
+            { "question": "Indian Railways operates across a network spanning multiple track gauges, though it has worked over decades toward standardising primarily on which gauge?", "options": ["Narrow gauge", "Broad gauge", "Metre gauge exclusively, phasing out broad gauge", "No standardisation has ever been attempted"], "correctIndex": 1 },
+            { "question": "Indian Railways functions under the administrative oversight of which central government ministry?", "options": ["Ministry of Road Transport", "Ministry of Railways", "Ministry of Civil Aviation", "Ministry of Shipping"], "correctIndex": 1 }
+          ],
+          "summary": "Indian Railways, with a workforce among the largest of any single employer in the world, traces its origins to 1853, when the country's first passenger train ran between Bombay and Thane, marking the start of a rail network that would eventually grow into one of the most extensive in the world. Over subsequent decades, the network gradually worked toward standardising primarily on the broad gauge track width, consolidating what had originally developed as a patchwork of different gauges built by various colonial-era companies and princely states. Operating under the Ministry of Railways, Indian Railways today carries tens of millions of passengers daily across a vast network connecting nearly every corner of the country, remaining a foundational piece of India's transportation infrastructure and a powerful symbol of national connectivity since well before independence."
+        },
+        {
+          "id": "eco_d40_air_india",
+          "location": { "name": "Air India", "lat": 19.0896, "lng": 72.8656 },
+          "questions": [
+            { "question": "Air India, India's flag carrier airline, was founded by which prominent Indian industrialist?", "options": ["J.R.D. Tata", "Dhirubhai Ambani", "G.D. Birla", "Jamsetji Tata"], "correctIndex": 0 },
+            { "question": "Air India was originally founded under which earlier name, before later rebranding?", "options": ["Indian Airlines", "Tata Airlines", "Bombay Airways", "Hindustan Aviation"], "correctIndex": 1 },
+            { "question": "Air India was nationalised by the Indian government in which decade, bringing it under state ownership for several decades?", "options": ["1950s", "1970s", "1990s", "2010s"], "correctIndex": 0 },
+            { "question": "In 2022, Air India made headlines for returning to private ownership when it was acquired by which conglomerate?", "options": ["Reliance Industries", "The Tata Group", "Adani Group", "Vedanta Group"], "correctIndex": 1 },
+            { "question": "Air India's return to Tata ownership in 2022 was notable partly because it brought the airline back under the umbrella of the same company that had originally done what?", "options": ["Sold the airline decades earlier for the first time", "Founded the airline before its nationalisation", "Never had any historical connection to the airline at all", "Only invested in it as a minor shareholder previously"], "correctIndex": 1 }
+          ],
+          "summary": "Air India traces its origins to Tata Airlines, founded by industrialist J.R.D. Tata in the 1930s, making it one of Asia's pioneering commercial airlines well before India's independence. The Indian government nationalised the carrier in the 1950s, bringing it under state ownership for decades as the country's flag carrier, a period marked by both periods of prestige and, in later years, mounting financial losses and operational challenges. In a notable turn of events in 2022, Air India returned to private ownership when the Tata Group successfully reacquired the airline, bringing the carrier back under the umbrella of the very company that had originally founded it nearly nine decades earlier, a development widely covered as a symbolically significant homecoming for one of India's most storied corporate names."
+        },
+        {
+          "id": "eco_d40_zomato",
+          "location": { "name": "Zomato — Gurugram", "lat": 28.4595, "lng": 77.0266 },
+          "questions": [
+            { "question": "Zomato, headquartered in Gurugram, is one of India's major companies in which sector?", "options": ["Food delivery and restaurant discovery", "Automobile manufacturing", "Textile exports", "Banking services"], "correctIndex": 0 },
+            { "question": "Zomato was founded in which decade, initially as a restaurant discovery and review platform before expanding into delivery?", "options": ["1990s", "2000s", "2010s", "2020s"], "correctIndex": 2 },
+            { "question": "Zomato's core early business model, before food delivery became central, focused primarily on providing what to users?", "options": ["Restaurant menus, reviews, and ratings", "Grocery delivery exclusively", "Ride-hailing services", "Hotel booking services"], "correctIndex": 0 },
+            { "question": "Zomato's 2021 initial public offering (IPO) was notable for being one of the first major what, to go public on Indian stock exchanges?", "options": ["Traditional manufacturing companies", "Loss-making technology/startup unicorns", "State-owned enterprises", "Foreign multinational subsidiaries"], "correctIndex": 1 },
+            { "question": "Zomato operates in significant competition primarily with which other major Indian food delivery platform?", "options": ["Swiggy", "Flipkart", "Ola", "Paytm"], "correctIndex": 0 }
+          ],
+          "summary": "Zomato, founded in the early 2010s and headquartered in Gurugram, began as a restaurant discovery and review platform before evolving into one of India's dominant food delivery services, a transformation that mirrored broader shifts in urban Indian consumer behaviour around ordering food online. The company's 2021 stock market listing was closely watched as one of the first major Indian technology 'unicorns' to go public despite ongoing losses, a listing that tested investor appetite for growth-stage startups prioritising market share expansion over immediate profitability. Zomato's intense, long-running rivalry with fellow food delivery giant Swiggy has become emblematic of India's broader startup ecosystem, where aggressive customer acquisition and delivery-network investment have often taken precedence over near-term financial returns."
+        },
+        {
+          "id": "eco_d40_amul",
+          "location": { "name": "Amul (Gujarat Cooperative Milk Marketing Federation) — Anand, Gujarat", "lat": 22.5645, "lng": 72.9289 },
+          "questions": [
+            { "question": "Amul, headquartered in Anand, Gujarat, operates under which cooperative dairy model, often cited as a landmark success story?", "options": ["A fully private corporate dairy model", "A farmer-owned cooperative model", "A foreign joint-venture model", "A purely government-run model with no farmer ownership"], "correctIndex": 1 },
+            { "question": "Amul's cooperative model is closely associated with which historical movement in India's dairy sector, aimed at increasing milk production nationally?", "options": ["The Green Revolution", "Operation Flood (the White Revolution)", "The Blue Revolution", "The Silver Revolution"], "correctIndex": 1 },
+            { "question": "Amul was founded in the mid-20th century partly due to farmers' dissatisfaction with exploitative practices by which earlier dairy intermediary?", "options": ["Foreign dairy conglomerates", "A private dairy company (Polson) that dominated local milk procurement", "The colonial government directly", "Local moneylenders unrelated to dairy specifically"], "correctIndex": 1 },
+            { "question": "Amul's long-running advertising campaign, featuring a distinctive cartoon mascot commenting on current events, is one of the world's what?", "options": ["Newest advertising campaigns, launched only recently", "Longest continuously running advertising campaigns", "Only campaigns ever banned entirely by regulators", "Only campaigns using no visual imagery at all"], "correctIndex": 1 },
+            { "question": "Verghese Kurien, closely associated with Amul's success and broader Operation Flood, is often referred to by what nickname?", "options": ["Father of the White Revolution", "Father of the Green Revolution", "Father of Indian Industry", "Father of Indian Aviation"], "correctIndex": 0 }
+          ],
+          "summary": "Amul, formally the Gujarat Cooperative Milk Marketing Federation headquartered in Anand, emerged from farmers' frustration with exploitative procurement practices by a private dairy intermediary, evolving into one of the world's most celebrated farmer-owned cooperative success stories. Amul's model became the template for Operation Flood, the nationwide dairy development programme often called India's 'White Revolution,' which transformed the country from a milk-deficient nation into the world's largest milk producer over subsequent decades. Verghese Kurien, the visionary widely credited as the 'Father of the White Revolution' for spearheading this transformation, helped build Amul into not just a commercial success but a genuine instrument of rural economic empowerment, while the brand's long-running topical advertising campaign, featuring a cheeky cartoon mascot commenting wryly on current events, remains one of the longest continuously running ad campaigns anywhere in the world."
+        },
+        {
+          "id": "eco_d40_bharti_airtel",
+          "location": { "name": "Bharti Airtel — New Delhi", "lat": 28.5504, "lng": 77.2493 },
+          "questions": [
+            { "question": "Bharti Airtel, headquartered in New Delhi, is one of India's largest companies in which sector?", "options": ["Telecommunications", "Automobile manufacturing", "Pharmaceuticals", "Textile exports"], "correctIndex": 0 },
+            { "question": "Bharti Airtel was founded by which Indian businessman, who built it into a major telecom conglomerate?", "options": ["Sunil Bharti Mittal", "Mukesh Ambani", "Kumar Mangalam Birla", "Anil Ambani"], "correctIndex": 0 },
+            { "question": "Airtel's early growth in the Indian telecom sector significantly benefited from the liberalisation of which industry, beginning in the 1990s?", "options": ["Telecommunications licensing", "Only agriculture", "Only banking", "Only textiles"], "correctIndex": 0 },
+            { "question": "Bharti Airtel has expanded its operations significantly beyond India into which broader geographic region, becoming a major telecom player there as well?", "options": ["Only Europe", "Several African countries", "Only South America", "Only the Middle East"], "correctIndex": 1 },
+            { "question": "Airtel, alongside competitors like Reliance Jio and Vodafone Idea, operates within an industry that has, in recent years, undergone significant what, driven partly by intense price competition?", "options": ["Complete deregulation with no competition at all", "Consolidation, with fewer major players remaining after mergers and market exits", "Full renationalisation under government control", "A complete shift entirely away from mobile services"], "correctIndex": 1 }
+          ],
+          "summary": "Bharti Airtel, founded by Sunil Bharti Mittal and headquartered in New Delhi, grew into one of India's largest telecommunications companies, its early rise closely tied to the liberalisation of India's telecom licensing regime beginning in the 1990s, which opened the sector to private competition after decades of state monopoly. Beyond its dominant position in the Indian market, Airtel expanded significantly into several African countries, building a substantial international presence that distinguishes it from many domestically focused Indian companies. India's telecom sector has undergone significant consolidation in recent years, driven substantially by intense price competition following the disruptive entry of Reliance Jio, a dynamic that squeezed profit margins across the industry and pushed several smaller and even some previously major players toward mergers or exit, leaving Airtel as one of a shrinking handful of dominant national carriers."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d40_surajkund_mela",
+          "location": { "name": "Surajkund International Crafts Mela — Haryana", "lat": 28.4595, "lng": 77.2879 },
+          "questions": [
+            { "question": "The Surajkund International Crafts Mela is an annual fair primarily showcasing what?", "options": ["Only automobile technology", "Traditional handicrafts, art, and culture from across India and abroad", "Only agricultural machinery", "Only military equipment"], "correctIndex": 1 },
+            { "question": "Surajkund Mela is held annually in which Indian state, near the Delhi-Haryana border?", "options": ["Punjab", "Haryana", "Uttar Pradesh", "Rajasthan"], "correctIndex": 1 },
+            { "question": "Each year, Surajkund Mela designates a specific Indian state as the featured 'Theme State,' spotlighting that region's distinctive what?", "options": ["Military history exclusively", "Crafts, cuisine, and cultural traditions", "Political achievements only", "Industrial production statistics"], "correctIndex": 1 },
+            { "question": "Surajkund Mela also invites a designated 'Partner Country' each year, reflecting the fair's growing emphasis on what?", "options": ["Purely domestic-only participation, with no international element", "International cultural exchange alongside domestic craft promotion", "Only trade negotiations with no cultural component", "Only diplomatic protocol events"], "correctIndex": 1 },
+            { "question": "Surajkund Mela was first organised in which decade, gradually growing into one of India's largest crafts fairs?", "options": ["1970s", "1980s", "2000s", "1950s"], "correctIndex": 1 }
+          ],
+          "summary": "The Surajkund International Crafts Mela, first organised in the 1980s near the Delhi-Haryana border, has grown into one of India's largest annual celebrations of traditional handicrafts, bringing together artisans, folk performers, and craftspeople from across the country and, increasingly, from abroad. Each edition spotlights a specific Indian 'Theme State,' showcasing that region's distinctive crafts, cuisine, and cultural performances in dedicated pavilions, while a designated international 'Partner Country' adds a further layer of global cultural exchange to the event. Surajkund Mela's continued growth reflects both genuine public enthusiasm for traditional Indian craftsmanship and a deliberate government effort to provide struggling rural artisans with direct access to urban consumer markets that might otherwise remain out of reach."
+        },
+        {
+          "id": "evt_d40_uttarayan_ahmedabad",
+          "location": { "name": "Uttarayan (International Kite Festival) — Ahmedabad", "lat": 23.0225, "lng": 72.5714 },
+          "questions": [
+            { "question": "Uttarayan, Gujarat's major kite-flying festival, is celebrated in conjunction with which broader Hindu festival marking the sun's northward movement?", "options": ["Diwali", "Makar Sankranti", "Holi", "Navratri"], "correctIndex": 1 },
+            { "question": "Ahmedabad's International Kite Festival, held around Uttarayan, draws participants from where, reflecting its global scope?", "options": ["Only local Gujarati residents", "Kite enthusiasts from across India and numerous other countries", "Only government-invited diplomats", "Only children under age 12"], "correctIndex": 1 },
+            { "question": "Uttarayan kite-flying in Gujarat traditionally involves competitive elements where participants try to do what to rival kites?", "options": ["Photograph them from a distance only", "Cut down opponents' kite strings using specially treated thread", "Trade them for other kites mid-flight", "Sell them to spectators"], "correctIndex": 1 },
+            { "question": "The kite string used competitively during Uttarayan is often specially coated with what, to give it a cutting edge against rival kites?", "options": ["Glass powder/manja coating", "Plain cotton with no special treatment", "Edible sugar coating", "Rubber coating"], "correctIndex": 0 },
+            { "question": "The sharpened kite-flying string used during Uttarayan has, in recent years, raised safety concerns primarily due to what?", "options": ["No safety concerns exist at all", "Injuries to birds and to people, particularly motorcyclists, from stray sharpened strings", "Excessive noise pollution only", "Water contamination from kite materials"], "correctIndex": 1 }
+          ],
+          "summary": "Ahmedabad's International Kite Festival, held around Uttarayan when the sun begins its northward movement marking Makar Sankranti, transforms Gujarat's skies into a dense, colourful spectacle as kite enthusiasts from across India and numerous other countries gather to fly and compete. A distinctive and fiercely competitive element of Gujarati kite-flying involves cutting down rival kites using manja, a specially glass-powder-coated string designed to sever opposing kite lines mid-air, turning the festival into as much a competitive sport as a visual celebration. In recent years, however, the sharpened manja string has drawn growing safety concerns, linked to serious injuries suffered by birds and by people, particularly motorcyclists caught unaware by stray, nearly invisible lengths of the treated thread drifting down into city streets."
+        },
+        {
+          "id": "evt_d40_goa_carnival",
+          "location": { "name": "Goa Carnival", "lat": 15.4909, "lng": 73.8278 },
+          "questions": [
+            { "question": "Goa Carnival is a festival introduced to the region by which colonial power, reflecting its Catholic-influenced tradition?", "options": ["The British", "The Portuguese", "The Dutch", "The French"], "correctIndex": 1 },
+            { "question": "Goa Carnival traditionally takes place in the period leading up to which significant Christian observance?", "options": ["Christmas", "Lent, the period of fasting before Easter", "Easter itself", "Pentecost"], "correctIndex": 1 },
+            { "question": "Goa Carnival is famously opened by a legendary figure known as what, parading through the streets to signal festivities have begun?", "options": ["King Momo", "Santa Claus", "The Kite King", "The Carnival Queen alone, with no king figure"], "correctIndex": 0 },
+            { "question": "Goa Carnival celebrations typically feature colourful street parades featuring what, alongside music and dance?", "options": ["Elaborately decorated floats and costumed performers", "Only religious processions with no festive elements", "Only silent, solemn walking processions", "Only indoor private parties with no public parade"], "correctIndex": 0 },
+            { "question": "Goa Carnival is notable among Indian festivals for its distinctive blend of Indian and what other cultural influence?", "options": ["East Asian influence", "Portuguese/European Catholic tradition", "Middle Eastern influence", "Central Asian influence"], "correctIndex": 1 }
+          ],
+          "summary": "Goa Carnival, introduced during the region's centuries of Portuguese colonial rule, brings a distinctly European Catholic flavour to India's festival calendar, held traditionally in the days before Lent begins as one final burst of colour and revelry before the more solemn fasting period. Festivities are traditionally opened by the mythical figure King Momo, who parades through Goa's streets proclaiming the start of celebrations, followed by days of vibrant street parades featuring elaborately decorated floats, costumed dancers, and live music echoing through towns across the state. As one of the clearest expressions of Goa's unique Indo-Portuguese cultural blend, the carnival stands apart from the vast majority of India's other major festivals, offering visitors and locals alike a distinctly different, more overtly European-influenced celebratory tradition unlike anything found elsewhere in the country."
+        },
+        {
+          "id": "evt_d40_rann_utsav_gujarat",
+          "location": { "name": "Rann Utsav — Kutch, Gujarat", "lat": 23.7337, "lng": 69.8597 },
+          "questions": [
+            { "question": "Rann Utsav is a large-scale cultural festival held annually on the salt flats of which distinctive Gujarat landscape?", "options": ["The Great Rann of Kutch", "The Gir Forest", "The Narmada Valley", "The Saurashtra coastline"], "correctIndex": 0 },
+            { "question": "Rann Utsav is centred around a specially constructed tented accommodation village near which town in Kutch?", "options": ["Bhuj", "Dhordo", "Mandvi", "Anjar"], "correctIndex": 1 },
+            { "question": "Rann Utsav is deliberately timed to run through several months, typically spanning roughly which period?", "options": ["A single weekend only", "Late autumn/winter, taking advantage of cooler temperatures and full moon nights", "Peak monsoon season", "Only a single day each year"], "correctIndex": 1 },
+            { "question": "Rann Utsav's programming showcases Kutch's traditional culture, including local music, dance, and what other significant craft heritage?", "options": ["Textile and embroidery craftsmanship", "Only modern digital art installations", "Only foreign imported crafts", "Only automobile displays"], "correctIndex": 0 },
+            { "question": "Rann Utsav was launched by the Gujarat government significantly as part of a broader effort to promote what, in the aftermath of a devastating 2001 earthquake affecting the region?", "options": ["Only agricultural recovery", "Tourism-driven economic recovery for the Kutch region", "Only military rebuilding efforts", "Only industrial relocation"], "correctIndex": 1 }
+          ],
+          "summary": "Rann Utsav transforms the stark white salt flats of the Great Rann of Kutch into a vibrant tented festival village near Dhordo each winter, timed deliberately to coincide with cooler temperatures and the dramatic visual spectacle of full moon nights illuminating the seemingly endless white terrain. Launched significantly as part of Gujarat's broader tourism-driven recovery strategy following the devastating 2001 Kutch earthquake, the festival showcases the region's rich cultural heritage, including traditional music, folk dance, and the area's renowned textile and embroidery craftsmanship, giving local artisans direct access to a growing stream of domestic and international visitors. Rann Utsav's sustained popularity in the years since its launch has helped establish it as a genuine tourism success story, credited with meaningfully diversifying the Kutch region's economy well beyond its traditional reliance on agriculture and handicraft trading alone."
+        },
+        {
+          "id": "evt_d40_marwar_festival_jodhpur",
+          "location": { "name": "Marwar Festival — Jodhpur, Rajasthan", "lat": 26.2389, "lng": 73.0243 },
+          "questions": [
+            { "question": "The Marwar Festival, held in Jodhpur, celebrates the folk culture, music, and heritage of which historic Rajasthani region?", "options": ["Mewar", "Marwar", "Shekhawati", "Hadoti"], "correctIndex": 1 },
+            { "question": "Marwar Festival celebrations are held against the backdrop of Jodhpur's iconic hilltop structure. What is it?", "options": ["Mehrangarh Fort", "Amer Fort", "Chittorgarh Fort", "Jaisalmer Fort"], "correctIndex": 0 },
+            { "question": "Marwar Festival traditionally honours the legacy and heroism of historic Rajput warriors and folk heroes through what type of performances?", "options": ["Only modern pop concerts unrelated to local history", "Traditional ballads, folk music, and dance depicting regional history and legend", "Only silent film screenings", "Only academic historical lectures"], "correctIndex": 1 },
+            { "question": "Marwar Festival typically coincides with the full moon of which Hindu month, adding to the atmospheric evening celebrations?", "options": ["Sharad Purnima (around October)", "Holi Purnima", "Buddha Purnima", "Guru Purnima"], "correctIndex": 0 },
+            { "question": "The Marwar Festival, alongside similar regional heritage festivals in Rajasthan, primarily aims to promote what?", "options": ["Only agricultural exports", "Cultural tourism and preservation of traditional Rajasthani arts", "Only industrial investment", "Only political campaign rallies"], "correctIndex": 1 }
+          ],
+          "summary": "The Marwar Festival in Jodhpur celebrates the folk music, dance, and historical legacy of the Marwar region against the dramatic backdrop of Mehrangarh Fort, timed to coincide with the atmospheric full moon of Sharad Purnima each autumn. Performances typically draw on traditional ballads and dances recounting the valour of historic Rajput warriors and regional folk heroes, keeping oral and musical traditions alive for new generations while offering visitors an immersive introduction to Marwar's distinct cultural identity within Rajasthan's broader, internally diverse heritage. Like several similar regional festivals across the state, Marwar Festival serves the dual purpose of genuine cultural preservation and active tourism promotion, helping sustain traditional performing artists financially while showcasing Jodhpur's rich historical character to a growing stream of domestic and international visitors."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d40_article_370_original",
+          "location": { "name": "Article 370 (Original Provisions) — New Delhi", "lat": 28.6139, "lng": 77.2090 },
+          "questions": [
+            { "question": "Article 370, before its abrogation in 2019, granted special autonomous status to which former Indian state?", "options": ["Punjab", "Jammu and Kashmir", "Nagaland", "Sikkim"], "correctIndex": 1 },
+            { "question": "Article 370 was originally intended, according to its text, to be what kind of constitutional provision?", "options": ["A permanent, unchangeable feature", "A temporary and transitional provision", "Applicable to all Indian states equally", "Unrelated to any specific state at all"], "correctIndex": 1 },
+            { "question": "Under the original Article 370 framework, the Indian Parliament's power to legislate for Jammu and Kashmir was generally limited primarily to which subjects, without the state's specific concurrence?", "options": ["All subjects, with no limitation whatsoever", "Defence, foreign affairs, and communications", "Only agriculture", "Only education"], "correctIndex": 1 },
+            { "question": "Article 370's special provisions meant that, prior to 2019, Jammu and Kashmir had its own separate what, distinct from India's national one?", "options": ["Currency", "State constitution", "Judiciary with no connection to the Supreme Court at all", "Military, entirely separate from the Indian Army"], "correctIndex": 1 },
+            { "question": "Article 370 was formally introduced into the Constitution based on which historical agreement/context involving the Maharaja of Jammu and Kashmir?", "options": ["The Instrument of Accession and subsequent negotiations", "A treaty with a foreign country", "A unilateral decision with no state involvement at all", "A United Nations resolution directly imposing the provision"], "correctIndex": 0 }
+          ],
+          "summary": "Article 370, before its abrogation in August 2019, granted Jammu and Kashmir a special autonomous status within the Indian Union, rooted in the historical context of the Instrument of Accession signed by the region's Maharaja and subsequent negotiations over the terms of its integration into India. Under the original provision, the Indian Parliament's legislative authority over the state was generally confined to defence, foreign affairs, and communications, with the state retaining its own separate constitution and greater autonomy over most other matters compared to India's other states. Notably, the article's text explicitly framed it as a 'temporary and transitional' provision, a characterisation frequently invoked by successive central governments over the decades as they periodically debated its eventual modification or removal, culminating in the significant constitutional and political changes of 2019."
+        },
+        {
+          "id": "pol_d40_panchsheel_agreement",
+          "location": { "name": "Panchsheel Agreement — New Delhi", "lat": 28.6100, "lng": 77.2050 },
+          "questions": [
+            { "question": "The Panchsheel Agreement, signed in 1954, laid out five principles primarily governing India's relations with which neighbouring country?", "options": ["Pakistan", "China", "Nepal", "Sri Lanka"], "correctIndex": 1 },
+            { "question": "'Panchsheel' is a term meaning what, reflecting the number of principles articulated in the agreement?", "options": ["Five virtues/principles", "Three treaties", "Ten commandments", "Two nations"], "correctIndex": 0 },
+            { "question": "Among the Panchsheel principles was a commitment to mutual respect for each other's what, a foundational concept in international relations?", "options": ["Territorial integrity and sovereignty", "Religious practices exclusively", "Economic policies exclusively", "Military alliances with other nations"], "correctIndex": 0 },
+            { "question": "The Panchsheel Agreement was championed significantly by which Indian Prime Minister, closely associated with India's early non-aligned foreign policy?", "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Morarji Desai"], "correctIndex": 0 },
+            { "question": "Despite the Panchsheel Agreement's principles of peaceful coexistence, India-China relations deteriorated significantly less than a decade later, culminating in what major event?", "options": ["A trade boom with no conflict", "The 1962 Sino-Indian War", "A permanent alliance treaty", "Complete diplomatic silence for fifty years"], "correctIndex": 1 }
+          ],
+          "summary": "The Panchsheel Agreement, signed between India and China in 1954, articulated five principles of peaceful coexistence — including mutual respect for territorial integrity and sovereignty, non-aggression, and non-interference in each other's internal affairs — and became closely associated with Prime Minister Jawaharlal Nehru's broader vision for India's independent, non-aligned foreign policy in the early Cold War era. Despite the agreement's idealistic framing and its influence on newly independent nations navigating great power politics, India-China relations deteriorated sharply within less than a decade, culminating in the 1962 Sino-Indian War, a conflict that dealt a severe blow to Nehru's foreign policy credibility and to the broader Panchsheel framework's practical durability. Even so, the Panchsheel principles continue to be referenced periodically in Indian diplomatic discourse as a foundational, if imperfectly realised, statement of the country's preferred approach to international relations."
+        },
+        {
+          "id": "pol_d40_non_aligned_movement",
+          "location": { "name": "Non-Aligned Movement — New Delhi", "lat": 28.6180, "lng": 77.2150 },
+          "questions": [
+            { "question": "The Non-Aligned Movement (NAM) was founded during the Cold War era by countries seeking to avoid formal alignment with which two opposing blocs?", "options": ["The United States-led and Soviet-led blocs", "The European Union and African Union", "Only Asian countries versus European countries", "Only religious blocs with no political dimension"], "correctIndex": 0 },
+            { "question": "India, under which Prime Minister, played a founding and leading role in establishing the Non-Aligned Movement?", "options": ["Indira Gandhi", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Rajiv Gandhi"], "correctIndex": 1 },
+            { "question": "The Non-Aligned Movement's first official summit was held in 1961 in which city?", "options": ["New Delhi", "Belgrade, Yugoslavia", "Bandung, Indonesia", "Cairo, Egypt"], "correctIndex": 1 },
+            { "question": "The Non-Aligned Movement's founding principles were significantly influenced by an earlier 1955 conference held in which Indonesian city?", "options": ["Jakarta", "Bandung", "Surabaya", "Bali"], "correctIndex": 1 },
+            { "question": "In the decades following the Cold War's end, critics have questioned the Non-Aligned Movement's continued relevance, given the disappearance of what original context?", "options": ["The two-bloc Cold War rivalry the movement was originally designed to navigate", "All forms of international conflict entirely", "The existence of the United Nations", "Global trade of any kind"], "correctIndex": 0 }
+          ],
+          "summary": "The Non-Aligned Movement, founded during the Cold War by nations seeking to avoid formal alignment with either the American or Soviet-led blocs, held its inaugural summit in Belgrade in 1961, building on principles first articulated at the influential 1955 Bandung Conference in Indonesia. Jawaharlal Nehru played a central founding role in the movement, positioning India as a leading voice for newly independent nations seeking to chart an independent path in international affairs rather than becoming client states of either superpower. With the Cold War's end and the disappearance of the original bipolar rivalry the movement was designed to navigate, critics have increasingly questioned NAM's continued practical relevance, even as it persists as a large multilateral grouping, its member states now grappling with how to redefine collective purpose in a starkly different, more multipolar global order."
+        },
+        {
+          "id": "pol_d40_national_emergency_352",
+          "location": { "name": "National Emergency (Article 352) — New Delhi", "lat": 28.6155, "lng": 77.2095 },
+          "questions": [
+            { "question": "Article 352 of the Constitution provides for the declaration of what type of Emergency, distinct from President's Rule or Financial Emergency?", "options": ["National Emergency", "State Emergency exclusively", "Municipal Emergency", "Judicial Emergency"], "correctIndex": 0 },
+            { "question": "India has declared a National Emergency under Article 352 how many times in its history?", "options": ["Never", "Once", "Three times", "Ten times"], "correctIndex": 2 },
+            { "question": "India's first National Emergency was declared in 1962, prompted primarily by what event?", "options": ["A domestic political crisis with no external threat", "The Sino-Indian War", "A major earthquake", "An economic recession alone"], "correctIndex": 1 },
+            { "question": "India's second National Emergency, declared in 1971, was prompted primarily by which conflict?", "options": ["The war with Pakistan over Bangladesh's independence", "A border dispute with Nepal", "An internal insurgency alone", "A naval conflict with Sri Lanka"], "correctIndex": 0 },
+            { "question": "India's third and most controversial National Emergency, declared in 1975, was justified by the government primarily on grounds of what, rather than an external war?", "options": ["Internal disturbance and threats to national security", "A foreign invasion", "A natural disaster", "A currency crisis alone"], "correctIndex": 0 }
+          ],
+          "summary": "Article 352 provides for the declaration of a National Emergency, invoked three times in India's history: first in 1962 during the Sino-Indian War, again in 1971 amid the conflict with Pakistan over Bangladesh's independence, and finally in 1975, when Prime Minister Indira Gandhi's government controversially declared an Emergency citing internal disturbance rather than any external military conflict. The first two invocations, tied directly to genuine external wars, generated comparatively little domestic controversy at the time, viewed largely as necessary wartime measures. The 1975 Emergency, by contrast, remains the most contested and consequential of the three, its use for primarily domestic political purposes rather than external defence prompting the subsequent 44th Amendment reforms specifically designed to make such expansive, loosely justified invocations of Article 352 considerably harder to repeat in the future."
+        },
+        {
+          "id": "pol_d40_zonal_councils",
+          "location": { "name": "Zonal Councils — New Delhi", "lat": 28.6120, "lng": 77.2180 },
+          "questions": [
+            { "question": "Zonal Councils in India were established primarily to promote cooperation and coordination among groups of neighbouring what?", "options": ["Foreign countries", "States and Union Territories within a geographic zone", "Private corporations", "Religious institutions"], "correctIndex": 1 },
+            { "question": "Zonal Councils were established under which legislation, in the 1950s?", "options": ["The States Reorganisation Act, 1956", "The Right to Information Act", "The GST Act", "The RTE Act"], "correctIndex": 0 },
+            { "question": "India is divided into how many Zonal Councils, each grouping a specific set of neighbouring states?", "options": ["Two", "Five (plus a separate North Eastern Council)", "Ten", "Twenty-eight, one per state"], "correctIndex": 1 },
+            { "question": "Zonal Councils are typically chaired, on a rotating basis, by which official?", "options": ["The Prime Minister", "The Union Home Minister", "The Chief Justice of India", "A rotating Chief Minister from within the zone"], "correctIndex": 1 },
+            { "question": "Zonal Councils primarily serve as advisory bodies to discuss and resolve issues such as what, among neighbouring states?", "options": ["Only foreign policy matters", "Inter-state border disputes, resource sharing, and regional economic cooperation", "Only international trade tariffs", "Only military deployment"], "correctIndex": 1 }
+          ],
+          "summary": "Zonal Councils, established under the States Reorganisation Act of 1956, group India's states and Union Territories into five regional bodies, plus a separate North Eastern Council covering that distinct region, aimed at fostering cooperation and resolving disputes among neighbouring states over shared concerns like water resources, border issues, and regional economic development. Each Zonal Council is chaired by the Union Home Minister, providing a forum where Chief Ministers of neighbouring states can engage directly with central government representation on region-specific matters that might not warrant full national-level intervention but still benefit from structured, formal dialogue. While often operating with less public visibility than bodies like the GST Council or Inter-State Council, Zonal Councils represent a longstanding, if sometimes underutilised, mechanism within India's broader institutional architecture for managing the practical realities of cooperative federalism at a regional rather than purely national or purely state-specific level."
+        }
+      ]
+    }
+  }
+}

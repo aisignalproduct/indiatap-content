@@ -1,0 +1,326 @@
+{
+  "day": 39,
+  "date": "2026-11-08",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d39_karnala_bird_sanctuary",
+          "location": { "name": "Karnala Bird Sanctuary — Maharashtra", "lat": 18.8833, "lng": 73.1167 },
+          "questions": [
+            { "question": "Karnala Bird Sanctuary is located within easy reach of which major Indian city?", "options": ["Pune", "Mumbai", "Nagpur", "Nashik"], "correctIndex": 1 },
+            { "question": "Karnala Bird Sanctuary is named partly after a hill fort located within its boundaries, called what?", "options": ["Karnala Fort", "Raigad Fort", "Sinhagad Fort", "Panhala Fort"], "correctIndex": 0 },
+            { "question": "Karnala Bird Sanctuary is popular among birdwatchers for recording sightings of over how many bird species?", "options": ["About 50 species", "About 150 species", "About 500 species", "Over 1,000 species"], "correctIndex": 1 },
+            { "question": "Karnala's proximity to a major city has made it particularly popular for what type of visitors?", "options": ["Only international scientific expeditions", "Weekend day-trippers and casual nature enthusiasts from nearby urban areas", "Only professional ornithologists", "Only school field trips, with no adult visitors"], "correctIndex": 1 },
+            { "question": "Karnala Bird Sanctuary's landscape is characterised primarily by which terrain, typical of the northern Western Ghats foothills?", "options": ["Coastal mangrove swamp", "Hilly deciduous forest", "High-altitude alpine meadow", "Arid desert scrubland"], "correctIndex": 1 }
+          ],
+          "summary": "Karnala Bird Sanctuary, within easy day-trip distance of Mumbai, draws both dedicated birdwatchers and casual weekend visitors to its hilly deciduous forest, home to recorded sightings of well over 150 bird species across its modest area. The sanctuary takes part of its name from Karnala Fort, an ancient hill fortification whose ruins sit within the reserve, adding a layer of historical interest to what is otherwise primarily valued for its ecological accessibility. Karnala's relative proximity to one of India's largest cities has made it something of an entry point for many first-time birdwatchers and nature enthusiasts, offering a manageable introduction to India's birding culture without requiring extensive travel into more remote wilderness areas."
+        },
+        {
+          "id": "geo_d39_bondla_wildlife_sanctuary",
+          "location": { "name": "Bondla Wildlife Sanctuary — Goa", "lat": 15.4667, "lng": 74.1000 },
+          "questions": [
+            { "question": "Bondla Wildlife Sanctuary is located in which Indian state?", "options": ["Karnataka", "Goa", "Maharashtra", "Kerala"], "correctIndex": 1 },
+            { "question": "Bondla is notable for being Goa's what, in terms of relative size compared to the state's other protected areas?", "options": ["Largest wildlife sanctuary", "Smallest wildlife sanctuary", "Only marine sanctuary", "Only bird-exclusive sanctuary"], "correctIndex": 1 },
+            { "question": "Bondla Wildlife Sanctuary includes a small zoo and botanical garden, making it particularly popular with what type of visitors?", "options": ["Only serious wildlife researchers", "Families and school groups seeking an accessible nature experience", "Only international tourists", "Only religious pilgrims"], "correctIndex": 1 },
+            { "question": "Bondla forms part of the forested Western Ghats foothills within Goa, an important buffer for the state's broader what?", "options": ["Desert ecosystem", "Biodiversity, given Goa's otherwise heavily developed coastline", "Glacial ice reserves", "Volcanic activity monitoring"], "correctIndex": 1 },
+            { "question": "Bondla Wildlife Sanctuary is situated in which Goan district?", "options": ["North Goa", "South Goa", "Ponda taluka, North Goa", "It spans the entire state equally"], "correctIndex": 2 }
+          ],
+          "summary": "Bondla Wildlife Sanctuary, Goa's smallest protected wildlife area, offers a compact but accessible introduction to the state's forested interior, an important ecological counterbalance to Goa's far more internationally famous, and heavily developed, coastline. Featuring a small zoo, botanical garden, and nature trails alongside its core forest habitat, Bondla has become a popular destination for families and school groups seeking a manageable nature experience without venturing deep into more remote Western Ghats terrain. Tucked into Ponda taluka in North Goa, the sanctuary underscores that even a state primarily associated globally with beaches and nightlife retains pockets of significant, deliberately protected biodiversity within its compact borders."
+        },
+        {
+          "id": "geo_d39_rajaji_national_park",
+          "location": { "name": "Rajaji National Park — Uttarakhand", "lat": 30.0500, "lng": 78.2667 },
+          "questions": [
+            { "question": "Rajaji National Park is named after which Indian statesman and independence-era leader?", "options": ["C. Rajagopalachari (Rajaji)", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"], "correctIndex": 0 },
+            { "question": "Rajaji National Park is located in which Indian state?", "options": ["Himachal Pradesh", "Uttarakhand", "Uttar Pradesh", "Punjab"], "correctIndex": 1 },
+            { "question": "Rajaji National Park is known for hosting a significant population of which large mammal, alongside tigers and leopards?", "options": ["Asian elephants", "One-horned rhinoceros", "Snow leopards", "Bactrian camels"], "correctIndex": 0 },
+            { "question": "Rajaji National Park forms an important wildlife corridor connecting forests near which other well-known Uttarakhand reserve?", "options": ["Jim Corbett National Park", "Nanda Devi National Park", "Valley of Flowers National Park", "Govind Pashu Vihar"], "correctIndex": 0 },
+            { "question": "Rajaji National Park was formed by merging three earlier separate sanctuaries in which decade?", "options": ["1960s", "1980s", "2000s", "1950s"], "correctIndex": 1 }
+          ],
+          "summary": "Rajaji National Park, named after the independence-era statesman C. Rajagopalachari, was formed in the 1980s by merging three previously separate wildlife sanctuaries in Uttarakhand's Shivalik foothills into a single, larger protected area. The park supports a significant elephant population alongside tigers and leopards, and its forests form an important wildlife corridor linking toward the more famous Jim Corbett National Park further east, allowing greater movement range for the region's larger mammals. Rajaji's proximity to Haridwar and Rishikesh, both major pilgrimage destinations, occasionally creates friction between conservation priorities and the substantial human and religious tourism traffic passing along the park's periphery."
+        },
+        {
+          "id": "geo_d39_sanjay_gandhi_np",
+          "location": { "name": "Sanjay Gandhi National Park — Mumbai", "lat": 19.2147, "lng": 72.9106 },
+          "questions": [
+            { "question": "Sanjay Gandhi National Park is notable as one of the world's few national parks located entirely within what?", "options": ["A desert region", "The boundaries of a major metropolitan city", "An offshore island chain", "An active volcanic zone"], "correctIndex": 1 },
+            { "question": "Sanjay Gandhi National Park is home to ancient rock-cut caves associated with which religious tradition?", "options": ["Buddhism (Kanheri Caves)", "Jainism exclusively", "Zoroastrianism", "Sikhism"], "correctIndex": 0 },
+            { "question": "Sanjay Gandhi National Park, despite being within Mumbai, still supports a resident population of which big cat, occasionally seen near the city's edges?", "options": ["Bengal tiger", "Leopard", "Snow leopard", "Asiatic lion"], "correctIndex": 1 },
+            { "question": "The presence of leopards within Sanjay Gandhi National Park has occasionally led to what type of incidents, given the park's dense urban surroundings?", "options": ["No interaction with humans has ever occurred", "Human-wildlife conflict incidents at the park's urban fringes", "Complete extinction of the leopard population decades ago", "Leopards being relocated permanently away from the area"], "correctIndex": 1 },
+            { "question": "Sanjay Gandhi National Park is named after which former Indian political figure?", "options": ["Indira Gandhi", "Sanjay Gandhi, son of Indira Gandhi", "Mahatma Gandhi", "Rajiv Gandhi"], "correctIndex": 1 }
+          ],
+          "summary": "Sanjay Gandhi National Park, situated entirely within Mumbai's dense urban sprawl, is among the very few national parks in the world located inside a major metropolitan city, remarkably still hosting a resident population of leopards that occasionally venture close to surrounding residential areas. The park is also home to the ancient Kanheri Caves, a network of Buddhist rock-cut structures carved between roughly the 1st century BCE and the 10th century CE, adding significant historical depth to a landscape more commonly discussed for its unusual urban wildlife. The park's leopard population, while a source of genuine local pride and scientific interest, has periodically brought human-wildlife conflict concerns to the fore, prompting ongoing efforts by wildlife authorities to manage the boundary between the protected forest and Mumbai's ever-expanding residential edges."
+        },
+        {
+          "id": "geo_d39_nal_sarovar",
+          "location": { "name": "Nal Sarovar Bird Sanctuary — Gujarat", "lat": 22.8000, "lng": 72.0500 },
+          "questions": [
+            { "question": "Nal Sarovar Bird Sanctuary in Gujarat is centred around what type of water body?", "options": ["A permanent freshwater lake", "A seasonal wetland lake that shrinks considerably in summer", "An ocean bay", "A glacial lake"], "correctIndex": 1 },
+            { "question": "Nal Sarovar is an important wintering destination for large numbers of migratory what?", "options": ["Waterbirds, including flamingos and pelicans", "Sea turtles", "Freshwater dolphins", "Butterflies exclusively"], "correctIndex": 0 },
+            { "question": "Nal Sarovar Bird Sanctuary is located in which Indian state?", "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Maharashtra"], "correctIndex": 1 },
+            { "question": "Nal Sarovar is one of Asia's largest what, by area, during its peak wet season?", "options": ["Coral reef systems", "Bird sanctuaries/wetland habitats", "Desert regions", "Mangrove forests"], "correctIndex": 1 },
+            { "question": "Visitors to Nal Sarovar typically explore the lake and observe birds via what mode of transport?", "options": ["Small country boats", "Cable cars", "Underwater submarines", "Helicopters only"], "correctIndex": 0 }
+          ],
+          "summary": "Nal Sarovar Bird Sanctuary, centred on one of Asia's largest wetland lakes at its seasonal peak, draws vast numbers of migratory waterbirds each winter, including flamingos, pelicans, and numerous species of ducks and waders arriving from as far afield as Siberia and Central Asia. The lake's size fluctuates dramatically with the seasons, shrinking considerably during Gujarat's dry summer months before swelling again with the monsoon rains that sustain its ecosystem. Visitors typically explore the sanctuary aboard small traditional country boats, gliding quietly across the water for close observation of the birdlife, an experience that has made Nal Sarovar one of western India's more accessible and rewarding birdwatching destinations."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d39_shravanabelagola",
+          "location": { "name": "Gomateshwara Statue — Shravanabelagola, Karnataka", "lat": 12.8556, "lng": 76.4877 },
+          "questions": [
+            { "question": "The Gomateshwara statue at Shravanabelagola depicts which Jain figure?", "options": ["Mahavira", "Bahubali", "Parshvanatha", "Rishabhanatha"], "correctIndex": 1 },
+            { "question": "The Gomateshwara statue is renowned for being one of the world's tallest what, carved from a single block of stone?", "options": ["Wooden statues", "Monolithic statues", "Bronze statues", "Ice sculptures"], "correctIndex": 1 },
+            { "question": "The statue was commissioned in the 10th century by a minister serving under which dynasty?", "options": ["Ganga dynasty", "Chola dynasty", "Chalukya dynasty", "Hoysala dynasty"], "correctIndex": 0 },
+            { "question": "Shravanabelagola hosts a major ceremony every 12 years, called Mahamastakabhisheka, which involves what ritual act performed on the statue?", "options": ["A ceremonial head-anointing with milk, saffron, and other substances", "Painting the statue in gold leaf permanently", "Moving the statue to a new location", "Covering it entirely for restoration"], "correctIndex": 0 },
+            { "question": "Bahubali, depicted by the statue, is revered in Jain tradition for having achieved what, according to the associated legend?", "options": ["Military conquest of all India", "Renunciation of worldly life and attainment of spiritual liberation", "Founding a new trading empire", "Discovering a new form of agriculture"], "correctIndex": 1 }
+          ],
+          "summary": "The Gomateshwara statue at Shravanabelagola, carved from a single block of granite in the 10th century under the patronage of a Ganga dynasty minister, ranks among the world's tallest monolithic statues, standing roughly 17 metres tall atop a hill overlooking the surrounding Karnataka countryside. The statue depicts Bahubali, a revered figure in Jain tradition celebrated for renouncing worldly ambition and achieving spiritual liberation through prolonged meditation, an act reflected in the statue's serene, unclothed depiction entwined with climbing vines symbolising his stillness. Every twelve years, Shravanabelagola hosts the elaborate Mahamastakabhisheka ceremony, during which the towering statue is ceremonially anointed from head to toe with milk, saffron, sandalwood paste, and other sacred substances, drawing enormous crowds of devotees from across the Jain community worldwide."
+        },
+        {
+          "id": "cul_d39_ajmer_sharif_dargah",
+          "location": { "name": "Ajmer Sharif Dargah — Rajasthan", "lat": 26.4517, "lng": 74.6294 },
+          "questions": [
+            { "question": "Ajmer Sharif Dargah is the shrine of which revered Sufi saint?", "options": ["Nizamuddin Auliya", "Khwaja Moinuddin Chishti", "Haji Ali", "Salim Chishti"], "correctIndex": 1 },
+            { "question": "Khwaja Moinuddin Chishti, whose shrine is at Ajmer, founded which major Sufi order in South Asia?", "options": ["Suhrawardiyya order", "Chishti order", "Naqshbandi order", "Qadiriyya order"], "correctIndex": 1 },
+            { "question": "Ajmer Sharif Dargah attracts pilgrims and visitors from which range of religious backgrounds, reflecting its broad devotional appeal?", "options": ["Only Muslims", "People of various faiths, not restricted to one religion", "Only foreign tourists with no local visitors", "Only registered religious scholars"], "correctIndex": 1 },
+            { "question": "The dargah's large cooking cauldrons (degs) are traditionally used to prepare food distributed to pilgrims during what occasion?", "options": ["Only during the annual Urs festival", "Only on Fridays, with no other occasions", "Only for the royal family, historically", "Never used for food, purely ceremonial objects"], "correctIndex": 0 },
+            { "question": "Mughal emperors, including Akbar, historically made pilgrimages to Ajmer Sharif, reflecting the shrine's significance across which political era?", "options": ["Only the British colonial period", "The Mughal era", "Only the post-independence period", "Only the ancient pre-Islamic period"], "correctIndex": 1 }
+          ],
+          "summary": "Ajmer Sharif Dargah, the shrine of Sufi saint Khwaja Moinuddin Chishti, founder of the influential Chishti order, has for centuries drawn pilgrims and visitors of diverse religious backgrounds, its message of universal spiritual devotion transcending narrower sectarian boundaries. Mughal emperors, including Akbar, historically made pilgrimages to Ajmer, reflecting the shrine's deep political and spiritual significance even at the height of imperial power, a tradition of royal patronage that helped fund much of its expansion over the centuries. The dargah's annual Urs festival, commemorating the saint's death anniversary, sees enormous cauldrons of food prepared and distributed to pilgrims, a tradition of communal charity that remains central to the shrine's identity as a place of both devotion and generous hospitality."
+        },
+        {
+          "id": "cul_d39_se_cathedral_goa",
+          "location": { "name": "Se Cathedral — Old Goa", "lat": 15.5033, "lng": 73.9122 },
+          "questions": [
+            { "question": "Se Cathedral in Old Goa is dedicated to which saint, and is one of the largest churches in Asia?", "options": ["St. Catherine of Alexandria", "St. Francis Xavier", "St. Peter", "St. Thomas"], "correctIndex": 0 },
+            { "question": "Se Cathedral was built during which colonial period in Goa's history?", "options": ["British colonial period", "Portuguese colonial period", "Dutch colonial period", "French colonial period"], "correctIndex": 1 },
+            { "question": "Se Cathedral is notable for having only one of its original two towers remaining, after the other was destroyed by what?", "options": ["A deliberate demolition for renovation", "Lightning strike", "An earthquake", "A fire during a war"], "correctIndex": 1 },
+            { "question": "Se Cathedral's remaining bell is famously known by what nickname, reputed for its rich sound?", "options": ["The Golden Bell", "The Golden Bell of Goa (Sino de Ouro)", "The Silver Bell", "The Great Bell of the East"], "correctIndex": 1 },
+            { "question": "Se Cathedral is part of the UNESCO World Heritage listing that also includes which other major Goan basilica?", "options": ["Basilica of Bom Jesus", "St. Peter's Basilica", "San Thome Basilica", "Basilica of Sacred Heart"], "correctIndex": 0 }
+          ],
+          "summary": "Se Cathedral in Old Goa, dedicated to St. Catherine of Alexandria and built under Portuguese colonial rule, ranks among the largest churches in Asia, though today it stands with only one of its original two towers, the other having collapsed after being struck by lightning. Its surviving bell, affectionately nicknamed the 'Golden Bell of Goa' for its exceptionally rich, resonant tone, remains one of the largest bells in the country and continues to be rung for significant religious occasions. Alongside the nearby Basilica of Bom Jesus, Se Cathedral forms part of the UNESCO-listed 'Churches and Convents of Goa,' together representing the substantial architectural and religious legacy of over four centuries of Portuguese presence on the Indian subcontinent."
+        },
+        {
+          "id": "cul_d39_undavalli_caves",
+          "location": { "name": "Undavalli Caves — Andhra Pradesh", "lat": 16.4833, "lng": 80.5667 },
+          "questions": [
+            { "question": "Undavalli Caves are a set of ancient rock-cut monuments located near which Andhra Pradesh city?", "options": ["Visakhapatnam", "Vijayawada", "Tirupati", "Guntur"], "correctIndex": 1 },
+            { "question": "Undavalli Caves were originally excavated and used primarily by adherents of which religion, before later Hindu modifications?", "options": ["Jainism", "Buddhism", "Zoroastrianism", "Sikhism"], "correctIndex": 1 },
+            { "question": "Undavalli Caves contain a notably large monolithic statue depicting Vishnu in which reclining posture?", "options": ["Anantashayana (reclining on the serpent Ananta)", "Standing upright with four arms", "Seated in meditation", "Dancing as Nataraja"], "correctIndex": 0 },
+            { "question": "Undavalli Caves are estimated to date back primarily to which period, with later additions and modifications?", "options": ["4th-5th century CE", "12th century CE", "18th century CE", "20th century CE"], "correctIndex": 0 },
+            { "question": "Undavalli Caves are carved into a hillside overlooking which river?", "options": ["Godavari", "Krishna River", "Kaveri", "Penna River"], "correctIndex": 1 }
+          ],
+          "summary": "Undavalli Caves, carved into a hillside overlooking the Krishna River near Vijayawada, were originally excavated as Buddhist monastic retreats around the 4th-5th century CE before later being adapted and expanded with Hindu iconography over subsequent centuries. Their most striking feature is a large monolithic depiction of Vishnu reclining on the cosmic serpent Ananta, carved directly from the cave's living rock in a form known as Anantashayana. This layered religious history — Buddhist origins later overlaid with Hindu additions — makes Undavalli a valuable, if less internationally famous, window into the shifting religious patronage and architectural evolution that shaped many ancient Indian rock-cut sites over centuries of changing dynastic and spiritual allegiances."
+        },
+        {
+          "id": "cul_d39_champaner_pavagadh",
+          "location": { "name": "Champaner-Pavagadh Archaeological Park — Gujarat", "lat": 22.4864, "lng": 73.5347 },
+          "questions": [
+            { "question": "Champaner-Pavagadh Archaeological Park is unusual among Indian UNESCO sites for representing an intact example of what?", "options": ["A purely modern industrial township", "A pre-Mughal Islamic capital city, largely unmodified by later development", "A colonial-era British cantonment", "A purely Hindu temple complex with no other influences"], "correctIndex": 1 },
+            { "question": "Champaner served as the capital of which Sultanate before its decline?", "options": ["The Gujarat Sultanate", "The Delhi Sultanate directly", "The Bahmani Sultanate", "The Deccan Sultanate"], "correctIndex": 0 },
+            { "question": "Champaner's decline as a major city occurred relatively abruptly after it was conquered by which Mughal emperor in the 16th century?", "options": ["Babur", "Humayun", "Akbar", "Aurangzeb"], "correctIndex": 1 },
+            { "question": "Pavagadh Hill, part of the same archaeological park, is topped by a temple dedicated to which goddess, drawing continued pilgrim traffic today?", "options": ["Kalika Mata", "Meenakshi", "Vaishno Devi", "Durga (as a separate distinct shrine, unrelated to Kalika Mata)"], "correctIndex": 0 },
+            { "question": "Champaner-Pavagadh was inscribed as a UNESCO World Heritage Site in which year?", "options": ["1990", "2004", "2015", "1975"], "correctIndex": 1 }
+          ],
+          "summary": "Champaner-Pavagadh Archaeological Park preserves the rare, largely intact remains of Champaner, a former capital of the Gujarat Sultanate whose thriving urban life came to an abrupt halt after Mughal emperor Humayun's conquest in the 16th century, after which the city was essentially abandoned rather than continuously rebuilt over. This unusual lack of later development left behind an unusually complete pre-Mughal Islamic urban landscape, complete with mosques, tombs, and fortifications, distinguishing it from many other historic Indian sites that were continuously modified over subsequent centuries. Adjacent Pavagadh Hill adds a further layer of continuity, its summit still home to the active Kalika Mata Temple, drawing pilgrims today much as it likely did even during Champaner's medieval Islamic heyday — a rare site where a still-living Hindu pilgrimage tradition sits directly alongside a frozen-in-time Islamic capital, together earning UNESCO World Heritage recognition in 2004."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d39_tcs_mumbai",
+          "location": { "name": "Tata Consultancy Services (TCS) — Mumbai", "lat": 19.0176, "lng": 72.8562 },
+          "questions": [
+            { "question": "Tata Consultancy Services (TCS), headquartered in Mumbai, is one of India's largest companies in which industry?", "options": ["Automobile manufacturing", "Information technology services and consulting", "Textile manufacturing", "Pharmaceutical production"], "correctIndex": 1 },
+            { "question": "TCS was founded in which decade, as part of the broader Tata Group conglomerate?", "options": ["1940s", "1960s", "1990s", "2000s"], "correctIndex": 1 },
+            { "question": "TCS became a major early player helping establish India's global reputation for what type of software work, especially through projects tied to the late 1990s?", "options": ["Video game development", "Y2K (Year 2000) bug remediation and outsourced IT services", "Social media platform development", "Cryptocurrency development"], "correctIndex": 1 },
+            { "question": "TCS is part of which major Indian business conglomerate?", "options": ["Reliance Group", "Tata Group", "Adani Group", "Birla Group"], "correctIndex": 1 },
+            { "question": "TCS, at various points, has ranked among the world's largest IT services companies by what commonly used business metric?", "options": ["Market capitalisation", "Number of retail store locations", "Agricultural land holdings", "Number of aircraft owned"], "correctIndex": 0 }
+          ],
+          "summary": "Tata Consultancy Services, founded in the 1960s as part of the broader Tata Group conglomerate, grew into one of the world's largest information technology services companies, playing a pioneering role in establishing India's global reputation as a major outsourced software and IT services hub. TCS's involvement in large-scale Y2K bug remediation projects in the late 1990s proved a significant early catalyst, demonstrating Indian IT talent's capability on a global stage and helping open the floodgates for the broader Indian IT services boom that followed. Today, TCS regularly ranks among the world's most valuable IT services companies by market capitalisation, a testament to the durability of the outsourcing and consulting model pioneered by companies like TCS decades ago."
+        },
+        {
+          "id": "eco_d39_flipkart_bengaluru",
+          "location": { "name": "Flipkart — Bengaluru", "lat": 12.9698, "lng": 77.7500 },
+          "questions": [
+            { "question": "Flipkart, headquartered in Bengaluru, is one of India's largest companies in which sector?", "options": ["E-commerce (online retail)", "Automobile manufacturing", "Banking", "Textile exports"], "correctIndex": 0 },
+            { "question": "Flipkart was founded in which decade by two former Amazon employees?", "options": ["1990s", "2000s", "2010s", "2020s"], "correctIndex": 1 },
+            { "question": "Flipkart is widely credited with popularising which payment method in Indian e-commerce, particularly important for building consumer trust in a largely cash-based economy?", "options": ["Cryptocurrency payments", "Cash on Delivery (COD)", "Only credit card payments", "Only bank transfers with no other options"], "correctIndex": 1 },
+            { "question": "Flipkart was acquired by which major American retail corporation in 2018, in one of India's largest e-commerce deals?", "options": ["Amazon", "Walmart", "Target", "Costco"], "correctIndex": 1 },
+            { "question": "Flipkart's annual sale events, particularly around festive seasons, are known for driving massive spikes in what?", "options": ["Only offline retail store visits", "Online shopping traffic and sales volume", "Bank interest rates", "Currency exchange rates"], "correctIndex": 1 }
+          ],
+          "summary": "Flipkart, founded in Bengaluru in the mid-2000s by two former Amazon employees, grew into one of India's dominant e-commerce platforms, credited with helping popularise Cash on Delivery as a payment option that proved crucial for building consumer trust in online shopping within a largely cash-preferring economy at the time. The company's rapid growth culminated in a landmark 2018 acquisition, when American retail giant Walmart took a majority stake in the company in one of the largest e-commerce deals India had seen. Flipkart's high-profile annual sale events, particularly around major Indian festivals, have become significant retail phenomena in their own right, driving enormous spikes in online shopping traffic and often setting records for sales volume within short promotional windows."
+        },
+        {
+          "id": "eco_d39_paytm_noida",
+          "location": { "name": "Paytm — Noida", "lat": 28.5706, "lng": 77.3260 },
+          "questions": [
+            { "question": "Paytm, headquartered in Noida, is one of India's major companies in which sector?", "options": ["Digital payments and fintech", "Steel manufacturing", "Textile production", "Aerospace manufacturing"], "correctIndex": 0 },
+            { "question": "Paytm's name is derived from the phrase 'Pay through' which method, reflecting its original core service?", "options": ["Cheque", "Mobile", "Cash only", "Barter"], "correctIndex": 1 },
+            { "question": "Paytm experienced a dramatic surge in usage following which major 2016 Indian government policy action?", "options": ["The introduction of GST", "The demonetisation of high-value currency notes", "The launch of a new highway project", "A change in import tariffs"], "correctIndex": 1 },
+            { "question": "Beyond digital payments, Paytm has expanded into offering services including what other financial product category?", "options": ["Only postal services", "Banking, insurance, and investment products", "Only agricultural equipment sales", "Only automobile financing"], "correctIndex": 1 },
+            { "question": "Paytm's 2021 initial public offering (IPO) on Indian stock exchanges was notable for being one of the country's largest, though its stock performance afterward was widely described as what?", "options": ["Immediately and consistently highly profitable with steady gains", "Volatile, with a significant early decline from its listing price", "Completely unaffected by any market changes", "Banned from trading entirely after listing"], "correctIndex": 1 }
+          ],
+          "summary": "Paytm, headquartered in Noida and named for its original core proposition of enabling 'Pay through Mobile' transactions, saw explosive growth in adoption following India's 2016 demonetisation of high-value currency notes, which pushed millions of consumers and small merchants toward digital payment alternatives almost overnight. The company has since expanded well beyond simple payments into banking, insurance, and investment products, positioning itself as a broader financial services platform rather than a single-purpose payments app. Paytm's much-anticipated 2021 stock market listing, one of India's largest initial public offerings at the time, was followed by a notably volatile trading period, with the stock declining significantly from its debut price — a cautionary tale frequently cited in discussions of hype versus sustainable value among India's fast-growing technology startups."
+        },
+        {
+          "id": "eco_d39_vizag_steel_plant",
+          "location": { "name": "Visakhapatnam Steel Plant — Andhra Pradesh", "lat": 17.6200, "lng": 83.1500 },
+          "questions": [
+            { "question": "Visakhapatnam Steel Plant, also known as Vizag Steel, is operated by which public sector company?", "options": ["Steel Authority of India Limited (SAIL)", "Rashtriya Ispat Nigam Limited (RINL)", "Tata Steel", "JSW Steel"], "correctIndex": 1 },
+            { "question": "Vizag Steel Plant is notable for being India's first major steel plant built primarily along which type of location?", "options": ["A desert region far from any coast", "The coast, allowing for easier import of raw materials and export of finished steel", "A landlocked mountain valley", "An offshore platform"], "correctIndex": 1 },
+            { "question": "The demand for establishing Vizag Steel Plant grew out of a significant regional political movement advocating for what?", "options": ["A completely separate country", "Industrial development for the Andhra/Visakhapatnam region specifically", "The abolition of all public sector companies", "A change in the state's official language only"], "correctIndex": 1 },
+            { "question": "Vizag Steel Plant has, in recent years, been the subject of significant public and political debate over proposals to do what?", "options": ["Expand production with no controversy", "Privatise the company, facing strong opposition from workers and local political groups", "Relocate the plant to another state entirely", "Convert it entirely into a tourist attraction"], "correctIndex": 1 },
+            { "question": "Vizag Steel Plant's coastal location distinguishes it from many of India's older steel plants, such as Bhilai, Rourkela, and Durgapur, which were built primarily near what resource instead?", "options": ["Ocean ports directly", "Inland iron ore and coal deposits", "Major rivers with no coastal access", "International borders"], "correctIndex": 1 }
+          ],
+          "summary": "Visakhapatnam Steel Plant, operated by Rashtriya Ispat Nigam Limited, holds the distinction of being India's first major steel plant built with a coastal location, allowing more efficient import of raw materials and export of finished steel compared to older inland plants like Bhilai and Rourkela, which were sited primarily near iron ore and coal deposits instead. The plant's establishment emerged directly from a significant regional political movement demanding dedicated industrial development for the Visakhapatnam and broader Andhra region. In more recent years, Vizag Steel has become a flashpoint in India's ongoing privatisation debates, with government proposals to sell the company facing sustained opposition from workers' unions and regional political parties who view the plant as both an economic anchor and a symbol of the earlier movement that helped bring it into existence."
+        },
+        {
+          "id": "eco_d39_damodar_valley_corporation",
+          "location": { "name": "Damodar Valley Corporation — Jharkhand/West Bengal", "lat": 23.7957, "lng": 86.4304 },
+          "questions": [
+            { "question": "The Damodar Valley Corporation (DVC) is often cited as independent India's first what, modelled partly on an American precedent?", "options": ["Private airline", "Multi-purpose river valley development project", "National bank", "Space research organisation"], "correctIndex": 1 },
+            { "question": "DVC's design was explicitly inspired by which American federal agency, known for integrated regional river development?", "options": ["The Federal Reserve", "The Tennessee Valley Authority (TVA)", "NASA", "The Environmental Protection Agency"], "correctIndex": 1 },
+            { "question": "DVC's core mandate includes managing the Damodar River primarily for flood control, irrigation, and what other key purpose?", "options": ["Hydroelectric power generation", "Passenger ferry services exclusively", "Deep-sea fishing rights", "International trade shipping"], "correctIndex": 0 },
+            { "question": "DVC operates across which two Indian states, given the Damodar River's course?", "options": ["Bihar and Odisha", "Jharkhand and West Bengal", "Madhya Pradesh and Chhattisgarh", "Uttar Pradesh and Bihar"], "correctIndex": 1 },
+            { "question": "The Damodar River, before DVC's dam and management projects, was historically nicknamed what, due to its tendency to cause devastating floods?", "options": ["The River of Gold", "The Sorrow of Bengal", "The Silent River", "The Golden Delta"], "correctIndex": 1 }
+          ],
+          "summary": "The Damodar Valley Corporation, established shortly after independence and explicitly modelled on America's Tennessee Valley Authority, was India's first major multi-purpose river valley development project, tasked with taming the Damodar River — long nicknamed 'the Sorrow of Bengal' for its history of devastating, unpredictable flooding. Spanning operations across Jharkhand and West Bengal, DVC's network of dams and reservoirs was designed to simultaneously provide flood control, irrigation water, and hydroelectric power generation, an integrated approach to regional development that was relatively novel for its time in India. As one of the earliest large-scale infrastructure institutions of independent India, DVC's mixed legacy — genuine flood mitigation success alongside ongoing challenges around silt accumulation and power generation efficiency — continues to be studied as an important early case study in India's post-independence approach to large-scale water and energy infrastructure planning."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d39_dree_festival_arunachal",
+          "location": { "name": "Dree Festival — Ziro Valley, Arunachal Pradesh", "lat": 27.5833, "lng": 93.8333 },
+          "questions": [
+            { "question": "Dree Festival is an agricultural festival celebrated by which community of the Ziro Valley?", "options": ["Nyishi", "Apatani", "Adi", "Monpa"], "correctIndex": 1 },
+            { "question": "Dree Festival is primarily observed to pray for what outcome, related to the community's farming activities?", "options": ["A good harvest and protection of crops from natural calamities", "Success in trade negotiations", "Victory in tribal conflicts", "Favourable weather for fishing only"], "correctIndex": 0 },
+            { "question": "Dree Festival involves ritual sacrifices and prayers directed to several deities associated with agriculture and protection, including one associated with what natural element?", "options": ["Fire", "Insects/pests threatening crops", "Ocean tides", "Volcanic activity"], "correctIndex": 1 },
+            { "question": "Dree Festival typically falls during which month, timed with a key point in the agricultural calendar?", "options": ["July", "December", "March", "October"], "correctIndex": 0 },
+            { "question": "In more recent years, Dree Festival has increasingly been promoted alongside Ziro's other major event to attract what kind of visitors?", "options": ["Only religious pilgrims", "Cultural and eco-tourists interested in Apatani heritage", "Only agricultural trade delegations", "Only school research groups"], "correctIndex": 1 }
+          ],
+          "summary": "Dree Festival, celebrated by the Apatani community of Arunachal Pradesh's Ziro Valley each July, centres on ritual prayers and sacrifices offered to several deities believed to protect crops from pests, disease, and unpredictable weather during the critical growing season. The festival's timing reflects the community's deep agricultural rhythms, seeking divine favour at a pivotal point when the season's harvest outcome still hangs in the balance. In recent years, Dree has increasingly featured in tourism promotion alongside the valley's separate, more modern Ziro Festival of Music, together helping draw wider attention to the Apatani people's rich traditional culture and their globally significant sustainable farming practices."
+        },
+        {
+          "id": "evt_d39_lui_ngai_ni_manipur",
+          "location": { "name": "Lui-Ngai-Ni — Manipur", "lat": 24.8170, "lng": 93.9368 },
+          "questions": [
+            { "question": "Lui-Ngai-Ni is a seed-sowing festival celebrated by which broader community group in Manipur and neighbouring states?", "options": ["Naga communities", "Meitei community exclusively", "Bengali migrant communities", "Marwari settlers"], "correctIndex": 0 },
+            { "question": "Lui-Ngai-Ni serves as a unifying festival, bringing together various Naga tribes across which states?", "options": ["Only within Manipur", "Manipur, Nagaland, and other northeastern states with Naga populations", "Only Assam", "Only outside India entirely"], "correctIndex": 1 },
+            { "question": "Lui-Ngai-Ni is primarily observed to mark the beginning of which agricultural activity?", "options": ["Harvesting", "Seed-sowing for the new farming season", "Cattle grazing rotation", "Fishing season"], "correctIndex": 1 },
+            { "question": "Lui-Ngai-Ni celebrations typically feature various Naga tribes showcasing distinct what, reflecting the diversity within the broader Naga community?", "options": ["Currency systems", "Traditional attire, dances, and customs specific to each tribe", "Competing political manifestos", "Rival sports team rankings"], "correctIndex": 1 },
+            { "question": "Lui-Ngai-Ni typically falls during which month?", "options": ["February", "June", "September", "December"], "correctIndex": 0 }
+          ],
+          "summary": "Lui-Ngai-Ni, observed each February, brings together various Naga tribal communities across Manipur, Nagaland, and other parts of Northeast India to mark the beginning of the seed-sowing season with shared prayers and celebration. Functioning as something of a unifying pan-Naga festival, Lui-Ngai-Ni showcases the distinct traditional attire, dances, and customs of individual tribes side by side, offering a rare, deliberately inclusive platform highlighting both the shared identity and internal diversity within the broader Naga community. As with several other Northeast Indian agricultural festivals, Lui-Ngai-Ni's continued observance reflects deep-rooted farming traditions even as increasing numbers of younger community members move toward urban livelihoods less directly tied to the seasonal agricultural cycles the festival was originally designed to honour."
+        },
+        {
+          "id": "evt_d39_solung_arunachal",
+          "location": { "name": "Solung Festival — Arunachal Pradesh", "lat": 28.0500, "lng": 95.3333 },
+          "questions": [
+            { "question": "Solung Festival is celebrated by which tribal community of Arunachal Pradesh?", "options": ["Nyishi", "Adi", "Apatani", "Monpa"], "correctIndex": 1 },
+            { "question": "Solung Festival is primarily celebrated to give thanks for a successful what, and to seek blessings for the year ahead?", "options": ["Trade negotiation", "Harvest and agricultural prosperity", "Military campaign", "Fishing expedition"], "correctIndex": 1 },
+            { "question": "Solung celebrations traditionally involve ritual sacrifices of animals such as mithun (a type of domesticated cattle) and what other creature?", "options": ["Pigs", "Horses", "Camels", "Elephants"], "correctIndex": 0 },
+            { "question": "Solung Festival typically features traditional war dances and other performances, reflecting the Adi community's historical emphasis on what value?", "options": ["Purely peaceful agrarian life with no martial elements at all", "Valour and martial tradition, alongside agricultural celebration", "Naval seafaring skills", "Urban commercial trade"], "correctIndex": 1 },
+            { "question": "Solung Festival is typically celebrated during which month?", "options": ["September", "January", "May", "November"], "correctIndex": 0 }
+          ],
+          "summary": "Solung Festival, celebrated each September by the Adi community of Arunachal Pradesh, combines heartfelt thanksgiving for a successful harvest with ritual sacrifices of mithun cattle and pigs, offerings intended to secure continued agricultural prosperity and protection for the coming year. The festival's traditional war dances and martial performances reflect the historical value the Adi placed on valour and community defence, elements woven together with the more purely agrarian celebratory aspects of the occasion. Like many of Arunachal Pradesh's diverse tribal festivals, Solung offers a window into a distinctive cultural and spiritual worldview shaped by the specific agricultural rhythms, historical circumstances, and social values of one of Northeast India's numerous indigenous communities."
+        },
+        {
+          "id": "evt_d39_konark_dance_festival",
+          "location": { "name": "Konark Dance Festival — Odisha", "lat": 19.8876, "lng": 86.0945 },
+          "questions": [
+            { "question": "The Konark Dance Festival is an annual event showcasing which broader category of Indian performing arts?", "options": ["Only Bollywood-style dance", "Classical Indian dance forms", "Only Western contemporary dance", "Only folk music with no dance element"], "correctIndex": 1 },
+            { "question": "The Konark Dance Festival is held against the backdrop of which iconic historical monument?", "options": ["The Taj Mahal", "The Konark Sun Temple", "The Red Fort", "The Golden Temple"], "correctIndex": 1 },
+            { "question": "Konark Dance Festival particularly features performances of Odisha's own classical dance form. What is it called?", "options": ["Odissi", "Bharatanatyam exclusively, with no regional focus", "Kathak exclusively", "Kuchipudi exclusively"], "correctIndex": 0 },
+            { "question": "Beyond Odissi, the Konark Dance Festival typically also showcases performances of other classical Indian dance styles, reflecting India's broader what?", "options": ["Political diversity", "Rich diversity of classical performing arts traditions across regions", "Only regional cuisine variety", "Only textile variety"], "correctIndex": 1 },
+            { "question": "The Konark Dance Festival is typically organised annually by which type of body, promoting cultural tourism in Odisha?", "options": ["A private foreign corporation with no government involvement", "State cultural and tourism authorities", "A purely religious trust with no government role", "An international body unrelated to any state government"], "correctIndex": 1 }
+          ],
+          "summary": "The Konark Dance Festival, staged annually against the dramatic backdrop of the Konark Sun Temple's intricately carved stone chariot-shaped structure, showcases classical Indian dance traditions, with particular emphasis on Odissi, the graceful classical dance form native to Odisha itself. Alongside Odissi, the festival typically features performances of other major classical Indian dance styles, offering audiences a broader survey of the country's rich and regionally diverse performing arts heritage in a single dramatic outdoor setting. Organised with support from state cultural and tourism authorities, the festival serves a dual purpose: celebrating India's classical dance traditions while simultaneously promoting Konark and its UNESCO-listed temple as a significant cultural tourism destination on both the national and international stage."
+        },
+        {
+          "id": "evt_d39_khajuraho_dance_festival",
+          "location": { "name": "Khajuraho Dance Festival — Madhya Pradesh", "lat": 24.8318, "lng": 79.9199 },
+          "questions": [
+            { "question": "The Khajuraho Dance Festival is held annually against the backdrop of which historic temple complex?", "options": ["The Khajuraho Temples", "The Sanchi Stupa", "The Konark Sun Temple", "Ellora Caves"], "correctIndex": 0 },
+            { "question": "The Khajuraho Dance Festival, like the Konark Dance Festival, primarily showcases which category of Indian performing arts?", "options": ["Classical Indian dance forms", "Only rock and pop music concerts", "Only stand-up comedy performances", "Only puppet shows"], "correctIndex": 0 },
+            { "question": "The Khajuraho Dance Festival typically features performances by artists representing multiple classical dance styles, including Bharatanatyam, Kathak, and which other well-known form?", "options": ["Odissi", "Salsa", "Ballet", "Tap dance"], "correctIndex": 0 },
+            { "question": "The Khajuraho Dance Festival is generally held during which season, offering pleasant outdoor evening viewing conditions?", "options": ["Peak monsoon (July-August)", "Winter (typically February)", "Peak summer (May-June)", "Only during the rainy autumn months"], "correctIndex": 1 },
+            { "question": "The choice of Khajuraho as a venue for a classical dance festival is considered fitting, given the temple complex's extensive carvings depicting what?", "options": ["Only geometric abstract patterns", "Dancers, musicians, and celestial figures among its sculptural themes", "Only battle scenes", "Only agricultural scenes"], "correctIndex": 1 }
+          ],
+          "summary": "The Khajuraho Dance Festival, typically held each February against the striking backdrop of Khajuraho's medieval temple complex, brings together performers from across India's classical dance traditions, including Bharatanatyam, Kathak, and Odissi, for a week of evening performances under the illuminated temple spires. The choice of venue feels especially fitting given that Khajuraho's own temple carvings extensively depict dancers, musicians, and celestial figures among their broader sculptural themes, creating a resonant dialogue between centuries-old stone artistry and the living classical dance traditions performed before it each year. Like its counterpart at Konark, the festival serves as both a genuine celebration of India's classical performing arts and a deliberate cultural tourism initiative, drawing visitors to a UNESCO World Heritage site during a season chosen specifically for its pleasant, comfortable outdoor evening conditions."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d39_mandal_commission",
+          "location": { "name": "Mandal Commission (Reservation Policy) — New Delhi", "lat": 28.6139, "lng": 77.2090 },
+          "questions": [
+            { "question": "The Mandal Commission was tasked with identifying which category of Indian citizens for the purpose of social and educational advancement?", "options": ["Scheduled Castes only", "Socially and Educationally Backward Classes (OBCs)", "Religious minorities only", "Only economically poor citizens regardless of caste"], "correctIndex": 1 },
+            { "question": "The Mandal Commission submitted its report in which year, though its key recommendations were only implemented later?", "options": ["1955", "1980", "2000", "2014"], "correctIndex": 1 },
+            { "question": "The Mandal Commission's central recommendation, implemented in 1990, involved reserving what percentage of central government jobs for OBCs?", "options": ["10%", "27%", "50%", "70%"], "correctIndex": 1 },
+            { "question": "The implementation of Mandal Commission recommendations in 1990 sparked widespread protests, particularly among which group who felt disadvantaged by the new reservation policy?", "options": ["Only rural farmers", "Upper-caste students and job seekers in urban areas", "Only religious minorities", "Only elderly citizens"], "correctIndex": 1 },
+            { "question": "The Supreme Court's 1992 ruling in the Indra Sawhney case upheld the Mandal Commission's reservation policy but also imposed what overall limit on total reservations?", "options": ["No limit whatsoever", "A 50% ceiling on total reservations, with limited exceptions", "A complete ban on any further reservation increases forever", "A limit of only 10% total reservations"], "correctIndex": 1 }
+          ],
+          "summary": "The Mandal Commission, submitting its landmark report in 1980, was tasked with identifying socially and educationally backward classes deserving of affirmative action measures, recommending that 27% of central government jobs be reserved for Other Backward Classes. When these recommendations were finally implemented a decade later in 1990, they triggered significant public protests, particularly among upper-caste urban youth who felt their own job and educational prospects would be adversely affected by the expanded reservation quotas. The Supreme Court's subsequent 1992 ruling in the Indra Sawhney case upheld the Mandal recommendations as constitutionally valid while also establishing an important overall ceiling of 50% on total reservations across all categories, a limit that has remained a central reference point in India's ongoing, often politically charged debates over caste-based affirmative action."
+        },
+        {
+          "id": "pol_d39_right_to_education",
+          "location": { "name": "Right to Education Act — New Delhi", "lat": 28.6170, "lng": 77.2100 },
+          "questions": [
+            { "question": "The Right to Education (RTE) Act, which came into force in 2010, guarantees free and compulsory education to children in which age range?", "options": ["Ages 3-5", "Ages 6-14", "Ages 15-18", "All ages, without restriction"], "correctIndex": 1 },
+            { "question": "The RTE Act gave practical legislative effect to which constitutional provision, added earlier through the 86th Amendment?", "options": ["Article 21A (Right to Education as a Fundamental Right)", "Article 32", "Article 356", "Article 370"], "correctIndex": 0 },
+            { "question": "The RTE Act includes a provision requiring private unaided schools to reserve a minimum percentage of seats for children from economically weaker sections. What is this percentage?", "options": ["5%", "15%", "25%", "50%"], "correctIndex": 2 },
+            { "question": "The RTE Act also sets specific standards regarding what aspect of school infrastructure and staffing, to ensure a baseline quality of education?", "options": ["Only textbook pricing", "Pupil-teacher ratios, building infrastructure, and other minimum norms", "Only school uniform colours", "Only the length of school holidays"], "correctIndex": 1 },
+            { "question": "Critics of the RTE Act have periodically pointed to challenges in implementation, particularly regarding what ongoing issue?", "options": ["Excessive funding with no use for it", "Ensuring actual learning outcomes improve, not just enrolment numbers", "Too few schools being built, with all existing schools closing", "Complete absence of any private school involvement"], "correctIndex": 1 }
+          ],
+          "summary": "The Right to Education Act, which came into force in 2010, gave practical effect to Article 21A of the Constitution, added through the 86th Amendment, establishing free and compulsory education as a legally enforceable right for children between the ages of 6 and 14. Among its more debated provisions, the Act requires private unaided schools to reserve 25% of their entry-level seats for children from economically weaker and disadvantaged sections, a measure aimed at promoting social integration within India's often sharply divided school system. While the RTE Act has contributed to significant gains in school enrolment nationwide, critics have consistently pointed to a persistent gap between rising enrolment figures and genuine improvements in actual learning outcomes, a challenge that continues to shape ongoing debates over Indian education policy well over a decade after the law's implementation."
+        },
+        {
+          "id": "pol_d39_lokayukta",
+          "location": { "name": "Lokayukta — State Anti-Corruption Ombudsman", "lat": 28.6100, "lng": 77.2200 },
+          "questions": [
+            { "question": "A Lokayukta functions as an anti-corruption ombudsman at which level of Indian government, distinct from the national Lokpal?", "options": ["Only at the international level", "The state level", "Only within private corporations", "Only at the village panchayat level"], "correctIndex": 1 },
+            { "question": "Lokayukta institutions were established in various Indian states beginning in which decade, well before the national Lokpal was finally created?", "options": ["1970s", "1990s", "2010s", "1950s"], "correctIndex": 0 },
+            { "question": "Which Indian state is generally credited with establishing the first Lokayukta institution?", "options": ["Maharashtra", "Kerala", "Karnataka", "Uttar Pradesh"], "correctIndex": 0 },
+            { "question": "A Lokayukta's core function typically involves investigating allegations of corruption against whom, within the concerned state's administration?", "options": ["Only private citizens with no government role", "State government officials, ministers, and public servants", "Only foreign diplomats", "Only members of the judiciary exclusively"], "correctIndex": 1 },
+            { "question": "The effectiveness of Lokayukta institutions has varied significantly across Indian states, largely depending on what factor?", "options": ["The specific powers and independence granted under each state's own legislation", "The size of the state's population alone", "The state's geographic location only", "The state's official language"], "correctIndex": 0 }
+          ],
+          "summary": "The Lokayukta serves as a state-level anti-corruption ombudsman, investigating allegations of corruption against state government officials and public servants, functioning as a state-level counterpart to the more recently established national Lokpal. Maharashtra is generally credited with establishing India's first Lokayukta institution in the 1970s, well ahead of the decades-long national debate that eventually produced the Lokpal at the central level. The actual effectiveness of Lokayukta institutions has varied considerably from state to state, largely shaped by the specific powers, independence, and resources granted under each state's own enabling legislation — some Lokayuktas wielding genuinely significant investigative authority, while others have been criticised as comparatively toothless bodies constrained by the very state governments they are meant to hold accountable."
+        },
+        {
+          "id": "pol_d39_97th_amendment_cooperatives",
+          "location": { "name": "97th Amendment (Cooperative Societies) — New Delhi", "lat": 28.6180, "lng": 77.2080 },
+          "questions": [
+            { "question": "The 97th Constitutional Amendment, passed in 2011, primarily strengthened the constitutional status of which type of organisation?", "options": ["Private corporations", "Cooperative societies", "Political parties", "Trade unions exclusively"], "correctIndex": 1 },
+            { "question": "The 97th Amendment added the 'right to form cooperative societies' as an extension of which broader Fundamental Right?", "options": ["Right to Equality", "Right to Freedom (specifically the right to form associations)", "Right against Exploitation", "Right to Constitutional Remedies"], "correctIndex": 1 },
+            { "question": "The 97th Amendment aimed to ensure autonomous and democratic functioning of cooperatives partly by mandating what, similar to Panchayati Raj institutions?", "options": ["Regular elections to cooperative society boards", "Permanent, unelected leadership for life", "Direct central government appointment of all cooperative leaders", "Abolition of all existing cooperative societies"], "correctIndex": 0 },
+            { "question": "In 2021, the Supreme Court struck down a significant part of the 97th Amendment, ruling that certain provisions required what additional constitutional process that had not been followed?", "options": ["A national referendum", "Ratification by at least half of India's state legislatures", "Direct approval from the United Nations", "Unanimous approval from the Rajya Sabha alone"], "correctIndex": 1 },
+            { "question": "Cooperative societies in India play a particularly significant historical role in which sector, including well-known dairy cooperatives?", "options": ["Only in urban banking", "Rural agriculture, dairy, and credit systems", "Only in aviation", "Only in software development"], "correctIndex": 1 }
+          ],
+          "summary": "The 97th Constitutional Amendment, passed in 2011, sought to strengthen the constitutional standing of cooperative societies, adding the right to form them as part of the broader Fundamental Right to freedom of association, while also mandating more democratic practices such as regular elections to cooperative boards, echoing similar principles applied earlier to Panchayati Raj institutions. Cooperative societies hold particular historical significance in India's rural economy, especially in dairy farming — Gujarat's Amul cooperative model being perhaps the most famous example — as well as agricultural credit and marketing systems supporting millions of small farmers. In a significant 2021 ruling, however, the Supreme Court struck down key provisions of the amendment relating to state-level cooperative societies, holding that such changes required ratification by at least half of India's state legislatures, a constitutional procedural step that had not been properly followed when the amendment was originally passed."
+        },
+        {
+          "id": "pol_d39_ncpcr",
+          "location": { "name": "National Commission for Protection of Child Rights — New Delhi", "lat": 28.6300, "lng": 77.2200 },
+          "questions": [
+            { "question": "The National Commission for Protection of Child Rights (NCPCR) was established primarily to safeguard and promote what?", "options": ["Adult voting rights", "The rights and welfare of children", "Corporate business rights", "Agricultural land rights"], "correctIndex": 1 },
+            { "question": "The NCPCR was established under which legislation, passed in 2005?", "options": ["The Commissions for Protection of Child Rights Act", "The Right to Information Act", "The Juvenile Justice Act alone, with no separate commission created", "The Protection of Human Rights Act"], "correctIndex": 0 },
+            { "question": "The NCPCR's mandate includes monitoring the implementation of child rights laws and examining complaints related to violations affecting children in areas such as education and what other significant concern?", "options": ["Only sports participation", "Child labour and exploitation", "Only fashion industry standards", "Only entertainment media ratings"], "correctIndex": 1 },
+            { "question": "The NCPCR operates alongside similar State Commissions for Protection of Child Rights, reflecting a structure similar to which other rights-focused institutional pairing in India?", "options": ["National and State Human Rights Commissions", "Only the judiciary, with no equivalent structure", "Only international bodies with no domestic equivalent", "Only private NGOs with no government commissions at all"], "correctIndex": 0 },
+            { "question": "The NCPCR's functions include reviewing laws, policies, and programmes to ensure they are consistent with which international framework India is a signatory to?", "options": ["The UN Convention on the Rights of the Child", "The Kyoto Protocol", "The Geneva Conventions on warfare", "The World Trade Organization agreements"], "correctIndex": 0 }
+          ],
+          "summary": "The National Commission for Protection of Child Rights, established under a 2005 Act of Parliament, works to safeguard children's rights and welfare across India, investigating complaints related to issues such as child labour, exploitation, and violations affecting access to education. Operating alongside a parallel structure of State Commissions for Protection of Child Rights, the NCPCR mirrors the broader national-state institutional pairing seen elsewhere in India's rights protection framework, such as with the National and State Human Rights Commissions. Part of the Commission's mandate involves reviewing existing laws, policies, and government programmes to ensure consistency with the UN Convention on the Rights of the Child, an international framework India formally ratified, embedding the country's domestic child protection efforts within a broader global human rights context."
+        }
+      ]
+    }
+  }
+}

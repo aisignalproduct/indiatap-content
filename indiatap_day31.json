@@ -1,0 +1,326 @@
+{
+  "day": 31,
+  "date": "2026-10-31",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d31_majuli_island",
+          "location": { "name": "Majuli Island — Assam", "lat": 26.9526, "lng": 94.1697 },
+          "questions": [
+            { "question": "Majuli, in the Brahmaputra River, holds which world record?", "options": ["Largest delta island", "Largest river island", "Largest lake island", "Largest mangrove island"], "correctIndex": 1 },
+            { "question": "Majuli is a major centre of which religious-cultural institution unique to Assam?", "options": ["Gurdwaras", "Sattras (Vaishnavite monasteries)", "Jain temples", "Buddhist viharas"], "correctIndex": 1 },
+            { "question": "Majuli faces significant erosion from which river?", "options": ["Teesta", "Barak", "Brahmaputra", "Subansiri"], "correctIndex": 2 },
+            { "question": "Majuli's sattras were founded in the 15th-16th century by which saint-reformer?", "options": ["Srimanta Sankardeva", "Guru Nanak", "Chaitanya Mahaprabhu", "Ramanuja"], "correctIndex": 0 },
+            { "question": "What has Majuli lost roughly two-thirds of since the early 20th century due to erosion?", "options": ["Its forest cover", "Its landmass", "Its population", "Its sattras"], "correctIndex": 1 }
+          ],
+          "summary": "Majuli in the Brahmaputra is the world's largest river island, though relentless erosion has shrunk it from roughly 1,250 sq km a century ago to under 500 sq km today. It is the spiritual heart of Assam's Vaishnavite tradition, home to sattras — monastery-cum-cultural-centres founded by the 15th-16th century reformer Srimanta Sankardeva — that still teach classical mask-making, dance, and manuscript painting. Majuli's mostly tribal and Mishing population lives on stilted bamboo houses adapted to seasonal flooding, and the island was in serious contention to be declared India's first island district."
+        },
+        {
+          "id": "geo_d31_rann_of_kutch",
+          "location": { "name": "Great Rann of Kutch — Gujarat", "lat": 23.8859, "lng": 69.8590 },
+          "questions": [
+            { "question": "The Great Rann of Kutch is best described as which type of terrain?", "options": ["Rocky desert", "Seasonal salt marsh", "Sand dune desert", "Volcanic plateau"], "correctIndex": 1 },
+            { "question": "The Rann Utsav festival is held annually near which town in Kutch?", "options": ["Bhuj", "Dholavira", "Dhordo", "Mandvi"], "correctIndex": 2 },
+            { "question": "During the monsoon, the Great Rann largely becomes what?", "options": ["A shallow saline marsh", "A freshwater lake", "A forest", "A river delta"], "correctIndex": 0 },
+            { "question": "The Great Rann of Kutch borders which country?", "options": ["Bangladesh", "Nepal", "Pakistan", "Myanmar"], "correctIndex": 2 },
+            { "question": "The Rann is home to which unique wildlife sanctuary for a large mammal?", "options": ["Indian Wild Ass Sanctuary", "Asiatic Lion Sanctuary", "Snow Leopard Sanctuary", "One-horned Rhino Sanctuary"], "correctIndex": 0 }
+          ],
+          "summary": "The Great Rann of Kutch is one of the world's largest salt marshes, a roughly 7,500 sq km expanse that floods during the monsoon and dries into a blinding white salt desert by winter. Every winter the Gujarat government's Rann Utsav transforms the village of Dhordo into a tented festival city celebrating Kutchi music, crafts, and cuisine under full-moon nights. The Rann also hosts the Indian Wild Ass Sanctuary, protecting the last wild population of the native khur, and its stark whiteness is visible even from space."
+        },
+        {
+          "id": "geo_d31_barren_island",
+          "location": { "name": "Barren Island — Andaman Islands", "lat": 12.2783, "lng": 93.8580 },
+          "questions": [
+            { "question": "Barren Island is notable in India for being its only what?", "options": ["Coral atoll", "Active volcano", "Freshwater island", "Mangrove reserve"], "correctIndex": 1 },
+            { "question": "Barren Island lies in which body of water?", "options": ["Arabian Sea", "Bay of Bengal", "Andaman Sea", "Laccadive Sea"], "correctIndex": 2 },
+            { "question": "In which decade did Barren Island's volcano have a major eruption after roughly 150 years of dormancy?", "options": ["1970s", "1990s", "2000s", "1950s"], "correctIndex": 1 },
+            { "question": "Barren Island is administratively part of which Union Territory?", "options": ["Lakshadweep", "Puducherry", "Andaman and Nicobar Islands", "Daman and Diu"], "correctIndex": 2 },
+            { "question": "Is Barren Island permanently inhabited by people?", "options": ["Yes, a small fishing village", "No, it is uninhabited", "Yes, a research base only", "Yes, a lighthouse keeper's family"], "correctIndex": 1 }
+          ],
+          "summary": "Barren Island, roughly 140 km northeast of Port Blair, is India's only confirmed active volcano and one of very few in all of South Asia. Dormant for about a century and a half, it reawakened in 1991 and has erupted intermittently since, most notably during the 2004 Indian Ocean earthquake period. The island is uninhabited and largely barren, as its name suggests, with a stark black cone rising from turquoise water — visited mainly by researchers and the occasional adventure diving expedition, since landing is heavily restricted."
+        },
+        {
+          "id": "geo_d31_dzukou_valley",
+          "location": { "name": "Dzükou Valley — Nagaland-Manipur Border", "lat": 25.5833, "lng": 94.0333 },
+          "questions": [
+            { "question": "Dzükou Valley is popularly nicknamed after which flower it is famous for?", "options": ["Rhododendron Valley", "Valley of Flowers of the Northeast", "Lily Valley", "Orchid Valley"], "correctIndex": 1 },
+            { "question": "Dzükou Valley sits on the border between Nagaland and which other state?", "options": ["Assam", "Manipur", "Mizoram", "Arunachal Pradesh"], "correctIndex": 1 },
+            { "question": "The valley is accessible primarily via trekking from which Nagaland town?", "options": ["Kohima", "Dimapur", "Mokokchung", "Wokha"], "correctIndex": 0 },
+            { "question": "In 2020, Dzükou Valley suffered significant damage from what natural event?", "options": ["An earthquake", "A wildfire", "A landslide", "A flood"], "correctIndex": 1 },
+            { "question": "The valley is especially famous for its blooms of which specific lily species?", "options": ["Dzükou lily", "Tiger lily", "Water lily", "Kashmir lily"], "correctIndex": 0 }
+          ],
+          "summary": "Dzükou Valley, straddling the Nagaland-Manipur border near Kohima, is one of Northeast India's most celebrated trekking destinations — a high-altitude valley that turns carpet-green in monsoon and bursts with seasonal blooms, including the rare Dzükou lily found almost nowhere else. The valley has no road access; reaching it requires a steep trek of several hours, which has helped preserve its untouched character. In December 2020, a large wildfire — reportedly started by trekkers' campfires — burned through a significant portion of the valley, prompting stricter access controls."
+        },
+        {
+          "id": "geo_d31_loktak_lake",
+          "location": { "name": "Loktak Lake — Manipur", "lat": 24.5500, "lng": 93.7833 },
+          "questions": [
+            { "question": "Loktak Lake is famous for its floating masses of vegetation called what?", "options": ["Phumdis", "Atolls", "Sudds", "Bogs"], "correctIndex": 0 },
+            { "question": "Loktak Lake is the largest freshwater lake in which part of India?", "options": ["Northeast India", "South India", "Western India", "Central India"], "correctIndex": 0 },
+            { "question": "Keibul Lamjao, the world's only floating national park, sits within Loktak Lake to protect which endangered deer?", "options": ["Hangul", "Sangai (brow-antlered deer)", "Chital", "Barasingha of Kanha"], "correctIndex": 1 },
+            { "question": "Loktak Lake is a vital source of livelihood for local fisherfolk who build floating huts called what?", "options": ["Machans", "Athaphums", "Kutcha huts", "Stilt houses"], "correctIndex": 1 },
+            { "question": "Loktak Lake was designated a Ramsar Wetland of International Importance in which year?", "options": ["1980", "1990", "2000", "2010"], "correctIndex": 1 }
+          ],
+          "summary": "Loktak Lake in Manipur is the largest freshwater lake in Northeast India, famous for its phumdis — thick floating mats of vegetation and soil that drift across the water and are even used to build fishing huts called athaphums. At its heart sits Keibul Lamjao, the world's only floating national park, created specifically to protect the sangai, Manipur's endangered brow-antlered deer, which lives on the springy phumdi terrain found nowhere else on Earth. Loktak has been a Ramsar-listed wetland since 1990, though it faces ongoing environmental pressure from a hydroelectric project and pollution."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d31_sanchi_stupa",
+          "location": { "name": "Sanchi Stupa — Madhya Pradesh", "lat": 23.4793, "lng": 77.7398 },
+          "questions": [
+            { "question": "The Great Stupa at Sanchi was originally commissioned by which emperor?", "options": ["Chandragupta Maurya", "Ashoka", "Harsha", "Kanishka"], "correctIndex": 1 },
+            { "question": "Sanchi's stupas primarily commemorate the life and relics of which figure?", "options": ["Mahavira", "The Buddha", "Adi Shankaracharya", "Guru Nanak"], "correctIndex": 1 },
+            { "question": "The four ornately carved gateways at the Great Stupa are called what?", "options": ["Toranas", "Gopurams", "Shikharas", "Mandapas"], "correctIndex": 0 },
+            { "question": "In which century BCE was the core of the Great Stupa originally built?", "options": ["5th century BCE", "3rd century BCE", "1st century BCE", "7th century BCE"], "correctIndex": 1 },
+            { "question": "Sanchi was rediscovered and later restored in the 19th century after being found in what state?", "options": ["Fully intact and in worship", "Abandoned and overgrown", "Submerged underwater", "Converted into a fort"], "correctIndex": 1 }
+          ],
+          "summary": "The Great Stupa at Sanchi, originally commissioned by Emperor Ashoka in the 3rd century BCE, is among the oldest surviving stone structures in India. Its four intricately carved toranas (gateways), added later by the Satavahanas, depict scenes from the Buddha's life and Jataka tales in a style that predates figurative depictions of the Buddha himself — he appears only through symbols like the wheel and the empty throne. Abandoned and left to decay for centuries after Buddhism's decline in India, Sanchi was rediscovered in 1818 and carefully restored, earning UNESCO World Heritage status in 1989."
+        },
+        {
+          "id": "cul_d31_rani_ki_vav",
+          "location": { "name": "Rani ki Vav — Patan, Gujarat", "lat": 23.8590, "lng": 72.1013 },
+          "questions": [
+            { "question": "Rani ki Vav is an elaborate example of which type of traditional water structure?", "options": ["Stepwell", "Reservoir", "Aqueduct", "Canal lock"], "correctIndex": 0 },
+            { "question": "Rani ki Vav was built in memory of which Solanki dynasty king by his widowed queen?", "options": ["Bhimdev I", "Siddharaja Jayasimha", "Kumarapala", "Karna"], "correctIndex": 0 },
+            { "question": "Rani ki Vav appeared on which Indian currency note starting 2018?", "options": ["₹100", "₹200", "₹500", "₹2000"], "correctIndex": 1 },
+            { "question": "The stepwell was buried under silt from a nearby river for centuries before excavation. Which river caused this?", "options": ["Sabarmati", "Saraswati", "Narmada", "Tapi"], "correctIndex": 1 },
+            { "question": "Rani ki Vav was inscribed as a UNESCO World Heritage Site in which year?", "options": ["1998", "2004", "2014", "2020"], "correctIndex": 2 }
+          ],
+          "summary": "Rani ki Vav in Patan, Gujarat, is widely regarded as India's finest surviving stepwell — an inverted temple of sculpted galleries descending seven levels underground, built around 1063 CE by Queen Udayamati in memory of her husband, King Bhimdev I of the Solanki dynasty. Buried under silt from the Saraswati River for centuries, it was excavated only in the 1980s, which paradoxically preserved its more than 1,500 sculptural panels in remarkable condition. Since 2018, its image has appeared on the reverse of the Indian ₹100 note, and UNESCO listed it as a World Heritage Site in 2014."
+        },
+        {
+          "id": "cul_d31_elephanta_caves",
+          "location": { "name": "Elephanta Caves — Mumbai", "lat": 18.9633, "lng": 72.9315 },
+          "questions": [
+            { "question": "The Elephanta Caves are rock-cut temples primarily dedicated to which deity?", "options": ["Vishnu", "Shiva", "Brahma", "Ganesha"], "correctIndex": 1 },
+            { "question": "Elephanta Island lies in which body of water near Mumbai?", "options": ["Arabian Sea", "Mumbai Harbour", "Thane Creek", "Vasai Creek"], "correctIndex": 1 },
+            { "question": "The caves' most famous sculpture is a three-faced bust representing Shiva known as what?", "options": ["Nataraja", "Sadashiva (Trimurti)", "Ardhanarishvara", "Dakshinamurti"], "correctIndex": 1 },
+            { "question": "The island's name 'Elephanta' was given by which colonial power, after a stone elephant statue they found there?", "options": ["British", "Dutch", "Portuguese", "French"], "correctIndex": 2 },
+            { "question": "The Elephanta Caves are estimated to have been carved primarily in which century CE?", "options": ["3rd century CE", "5th-6th century CE", "10th century CE", "12th century CE"], "correctIndex": 1 }
+          ],
+          "summary": "The Elephanta Caves, on an island in Mumbai Harbour reachable by a short ferry ride, are a network of rock-cut temples carved mainly in the 5th-6th centuries CE, dedicated overwhelmingly to Shiva. Their centerpiece is the towering Sadashiva or Trimurti sculpture — a six-metre bust with three faces representing creation, preservation, and destruction — considered one of the masterpieces of Indian rock-cut art. The Portuguese named the island after a large stone elephant statue they found near the shore (now relocated to a Mumbai museum), and the caves have been a UNESCO World Heritage Site since 1987."
+        },
+        {
+          "id": "cul_d31_mehrangarh_fort",
+          "location": { "name": "Mehrangarh Fort — Jodhpur", "lat": 26.2979, "lng": 73.0180 },
+          "questions": [
+            { "question": "Mehrangarh Fort overlooks which Rajasthani city, known as the Blue City?", "options": ["Jaisalmer", "Udaipur", "Jodhpur", "Bikaner"], "correctIndex": 2 },
+            { "question": "Mehrangarh Fort was founded in which century by Rao Jodha?", "options": ["12th century", "15th century", "17th century", "19th century"], "correctIndex": 1 },
+            { "question": "The fort sits atop a hill rising how high above the surrounding city?", "options": ["About 50m", "About 125m", "About 300m", "About 500m"], "correctIndex": 1 },
+            { "question": "Mehrangarh's massive walls are, in places, how thick?", "options": ["Around 2m", "Around 6m", "Around 12m", "Around 20m"], "correctIndex": 2 },
+            { "question": "The fort houses a museum showcasing collections of what, among other things?", "options": ["Only modern art", "Royal palanquins, armoury, and paintings", "Only textiles", "Only coins"], "correctIndex": 1 }
+          ],
+          "summary": "Mehrangarh Fort rises dramatically some 125 metres above Jodhpur — the Blue City — its walls in places up to 36 metres high and 21 metres thick, founded in 1459 by Rao Jodha, the Rathore ruler who established the city itself. One of India's most formidable and best-preserved forts, it was never conquered despite centuries of regional conflict. Today it houses a well-curated museum of royal palanquins, weaponry, textiles, and Rajput miniature paintings, and its ramparts offer sweeping views over Jodhpur's famous blue-painted old town below."
+        },
+        {
+          "id": "cul_d31_mahabalipuram_shore_temple",
+          "location": { "name": "Shore Temple, Mahabalipuram — Tamil Nadu", "lat": 12.6169, "lng": 80.1980 },
+          "questions": [
+            { "question": "The Shore Temple at Mahabalipuram was built by which dynasty?", "options": ["Chola", "Pallava", "Pandya", "Chera"], "correctIndex": 1 },
+            { "question": "The Shore Temple sits directly beside which body of water?", "options": ["Arabian Sea", "Bay of Bengal", "Indian Ocean (open sea)", "Palk Strait"], "correctIndex": 1 },
+            { "question": "The temple complex is primarily dedicated to which two deities?", "options": ["Vishnu and Brahma", "Shiva and Vishnu", "Shiva and Parvati", "Ganesha and Murugan"], "correctIndex": 1 },
+            { "question": "Mahabalipuram's monuments, including the Shore Temple, were built mainly during the reign of which Pallava king?", "options": ["Mahendravarman I", "Narasimhavarman I", "Nandivarman II", "Simhavishnu"], "correctIndex": 1 },
+            { "question": "The 2004 Indian Ocean tsunami briefly exposed what near the Shore Temple, fueling theories of a submerged ancient city?", "options": ["Ancient shipwrecks", "Additional stone structures on the seabed", "A buried temple bell", "Old coins"], "correctIndex": 1 }
+          ],
+          "summary": "The Shore Temple at Mahabalipuram, built by the Pallava dynasty in the early 8th century, is one of the oldest surviving structural stone temples in South India, standing directly on the Bay of Bengal shoreline where centuries of salt spray have worn its granite surfaces smooth. Dedicated jointly to Shiva and Vishnu, it forms part of a larger complex of rock-cut monuments developed under King Narasimhavarman I. After the devastating 2004 tsunami briefly receded the sea, additional stone structures were glimpsed on the seabed nearby, reviving long-standing legends of a larger submerged temple city — the fabled 'Seven Pagodas' of Mahabalipuram."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d31_jamnagar_refinery",
+          "location": { "name": "Jamnagar Refinery — Gujarat", "lat": 22.3512, "lng": 69.8567 },
+          "questions": [
+            { "question": "The Jamnagar Refinery, operated by Reliance Industries, is recognised as the world's what?", "options": ["Oldest refinery", "Largest single-location oil refinery complex", "Smallest refinery", "First offshore refinery"], "correctIndex": 1 },
+            { "question": "Jamnagar Refinery is located in which Indian state?", "options": ["Maharashtra", "Gujarat", "Rajasthan", "Karnataka"], "correctIndex": 1 },
+            { "question": "The Jamnagar complex actually consists of how many separate refineries built side by side?", "options": ["One", "Two", "Three", "Four"], "correctIndex": 1 },
+            { "question": "Jamnagar Refinery's combined processing capacity handles roughly how many barrels of crude oil per day?", "options": ["Around 200,000", "Around 700,000", "Around 1.24 million", "Around 3 million"], "correctIndex": 2 },
+            { "question": "Reliance's second refinery unit at Jamnagar, completed in 2008, was built primarily to focus on what?", "options": ["Domestic-only fuel", "Export-oriented refined products", "Petrochemicals only", "Natural gas processing"], "correctIndex": 1 }
+          ],
+          "summary": "The Jamnagar Refinery Complex in Gujarat, operated by Reliance Industries, is the world's largest single-location oil refining complex, combining two refineries with a joint capacity of about 1.24 million barrels per day. The original refinery opened in 1999; a second, export-oriented unit was added in 2008, doubling capacity and making Jamnagar a critical hub feeding fuel to markets across Asia, Europe, and beyond. The complex sprawls across roughly 7,500 acres and functions almost like a self-contained industrial township, complete with its own port and power plant."
+        },
+        {
+          "id": "eco_d31_visakhapatnam_port",
+          "location": { "name": "Visakhapatnam Port — Andhra Pradesh", "lat": 17.6868, "lng": 83.2185 },
+          "questions": [
+            { "question": "Visakhapatnam Port is one of India's deepest natural ports on which coast?", "options": ["West coast", "East coast", "Southern tip", "Northeast coast"], "correctIndex": 1 },
+            { "question": "Visakhapatnam Port primarily handles bulk exports of which commodity historically?", "options": ["Textiles", "Iron ore and coal", "Automobiles", "Electronics"], "correctIndex": 1 },
+            { "question": "Visakhapatnam is also home to a major base for which branch of the Indian armed forces?", "options": ["Indian Army", "Indian Air Force", "Indian Navy (Eastern Naval Command)", "Border Security Force"], "correctIndex": 2 },
+            { "question": "Visakhapatnam Port was established under British administration in which decade?", "options": ["1900s", "1930s", "1950s", "1970s"], "correctIndex": 1 },
+            { "question": "Which Andhra Pradesh city, home to this port, is nicknamed 'The City of Destiny'?", "options": ["Vijayawada", "Visakhapatnam", "Guntur", "Tirupati"], "correctIndex": 1 }
+          ],
+          "summary": "Visakhapatnam Port on India's east coast is among the country's deepest natural harbours, historically built around bulk exports of iron ore, coal, and manganese from the mineral-rich interior of Odisha and Chhattisgarh. Established in the 1930s under British rule, it has since grown into one of India's major ports, now handling containers, petroleum, and general cargo alongside its traditional bulk trade. The city, nicknamed 'The City of Destiny,' also hosts the headquarters of the Indian Navy's Eastern Naval Command, making it a hub of both commercial and strategic maritime importance."
+        },
+        {
+          "id": "eco_d31_bhel_trichy",
+          "location": { "name": "BHEL Trichy — Tamil Nadu", "lat": 10.7245, "lng": 78.7047 },
+          "questions": [
+            { "question": "BHEL (Bharat Heavy Electricals Limited) Trichy is a major manufacturing unit for which sector's equipment?", "options": ["Textiles machinery", "Power plant equipment (boilers, turbines)", "Automobiles", "Consumer electronics"], "correctIndex": 1 },
+            { "question": "BHEL is classified by the Indian government under which category of public sector enterprise?", "options": ["Miniratna", "Maharatna", "Private limited", "Foreign joint venture"], "correctIndex": 1 },
+            { "question": "In which decade was the BHEL Trichy unit, known as High Pressure Boiler Plant, established?", "options": ["1950s", "1960s", "1980s", "2000s"], "correctIndex": 1 },
+            { "question": "BHEL Trichy's boilers are primarily supplied to which type of power stations?", "options": ["Solar power stations", "Thermal power stations", "Nuclear power stations only", "Wind farms"], "correctIndex": 1 },
+            { "question": "BHEL as a company was originally established in which decade with Soviet and Czech technical collaboration?", "options": ["1940s", "1950s-60s", "1980s", "1990s"], "correctIndex": 1 }
+          ],
+          "summary": "BHEL's High Pressure Boiler Plant in Tiruchirappalli (Trichy), established in the mid-1960s, is one of the flagship manufacturing units of Bharat Heavy Electricals Limited, India's largest power-sector public enterprise. It manufactures boilers, heat exchangers, and pressure vessels for thermal power stations across India and abroad, playing a central role in the country's power-generation capacity buildup since independence. BHEL itself was founded with early technical collaboration from the Soviet Union and Czechoslovakia and today holds Maharatna status, India's highest tier for public sector companies."
+        },
+        {
+          "id": "eco_d31_namma_metro",
+          "location": { "name": "Namma Metro — Bengaluru", "lat": 12.9767, "lng": 77.5713 },
+          "questions": [
+            { "question": "Namma Metro is the rapid transit metro system serving which Indian city?", "options": ["Chennai", "Hyderabad", "Bengaluru", "Pune"], "correctIndex": 2 },
+            { "question": "'Namma Metro' translates roughly to what in Kannada?", "options": ["Fast Metro", "Our Metro", "New Metro", "City Metro"], "correctIndex": 1 },
+            { "question": "Namma Metro's first line became operational in which year?", "options": ["2008", "2011", "2016", "2020"], "correctIndex": 1 },
+            { "question": "Namma Metro's two original main lines are colour-coded as which pair?", "options": ["Red and Blue", "Purple and Green", "Yellow and Orange", "Pink and Grey"], "correctIndex": 1 },
+            { "question": "Bengaluru's metro system was built primarily to address which major urban problem?", "options": ["Water scarcity", "Traffic congestion", "Housing shortage", "Air pollution from factories"], "correctIndex": 1 }
+          ],
+          "summary": "Namma Metro ('Our Metro' in Kannada) is Bengaluru's rapid transit rail system, launched in 2011 to tackle the city's notoriously severe traffic congestion, born of its rapid growth as India's tech hub. Its original Purple and Green lines have since been extended repeatedly, with several newer lines and extensions under active construction to keep pace with the city's sprawl. Namma Metro is operated by the Bangalore Metro Rail Corporation Limited and has become an essential, if still-expanding, backbone for the city's daily commuters navigating one of India's most gridlocked urban road networks."
+        },
+        {
+          "id": "eco_d31_vssc_thiruvananthapuram",
+          "location": { "name": "Vikram Sarabhai Space Centre — Thiruvananthapuram", "lat": 8.5285, "lng": 76.8698 },
+          "questions": [
+            { "question": "VSSC is ISRO's lead centre for developing what?", "options": ["Satellites only", "Launch vehicles (rockets)", "Ground-based telescopes", "Weather balloons"], "correctIndex": 1 },
+            { "question": "VSSC is named after which figure, considered the father of India's space programme?", "options": ["Homi Bhabha", "Vikram Sarabhai", "APJ Abdul Kalam", "Satish Dhawan"], "correctIndex": 1 },
+            { "question": "VSSC was established at Thumba, near Thiruvananthapuram, in which decade?", "options": ["1950s", "1960s", "1980s", "2000s"], "correctIndex": 1 },
+            { "question": "The original rocket launching station at Thumba famously used which local building, repurposed for early operations?", "options": ["A church (St Mary Magdalene Church)", "A mosque", "A royal palace", "A colonial fort"], "correctIndex": 0 },
+            { "question": "VSSC contributed to the development of which major Indian launch vehicle family?", "options": ["Only sounding rockets", "PSLV and GSLV", "Only satellites", "Ballistic missiles exclusively"], "correctIndex": 1 }
+          ],
+          "summary": "The Vikram Sarabhai Space Centre at Thumba, near Thiruvananthapuram, is ISRO's principal centre for designing and developing India's launch vehicles, including the workhorse PSLV and the heavier GSLV rockets. Named after Vikram Sarabhai, widely regarded as the founder of India's space programme, the site was chosen in the 1960s for its proximity to the geomagnetic equator, ideal for early sounding rocket experiments. In a now-famous detail of India's space history, the fledgling programme's first office and rocket-assembly space were housed in a converted church and bishop's house, since the government initially had no dedicated facilities to offer."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d31_baisakhi_punjab",
+          "location": { "name": "Baisakhi — Punjab", "lat": 31.6340, "lng": 74.8723 },
+          "questions": [
+            { "question": "Baisakhi, widely celebrated in Punjab, marks both a harvest festival and which significant Sikh historical event?", "options": ["The birth of Guru Nanak", "The formation of the Khalsa Panth in 1699", "The construction of the Golden Temple", "Guru Gobind Singh's death anniversary"], "correctIndex": 1 },
+            { "question": "Baisakhi typically falls in which month of the year?", "options": ["March", "April", "June", "October"], "correctIndex": 1 },
+            { "question": "Baisakhi also marks the traditional harvest of which major crop in Punjab?", "options": ["Rice", "Wheat", "Sugarcane", "Cotton"], "correctIndex": 1 },
+            { "question": "The 1699 Baisakhi gathering where the Khalsa was formed took place at which location?", "options": ["Amritsar", "Anandpur Sahib", "Patna Sahib", "Nankana Sahib"], "correctIndex": 1 },
+            { "question": "The energetic harvest folk dance closely associated with Baisakhi celebrations in Punjab is called what?", "options": ["Garba", "Bhangra", "Kathak", "Lavani"], "correctIndex": 1 }
+          ],
+          "summary": "Baisakhi is one of Punjab's most significant festivals, layering a joyous wheat-harvest celebration over a pivotal moment in Sikh history: in 1699, Guru Gobind Singh formally established the Khalsa Panth at Anandpur Sahib on this day, initiating the first five Sikhs (the Panj Pyare) into a distinct martial and spiritual order. Falling in mid-April, Baisakhi sees fields of golden wheat ready for harvest, farmers offering thanks, and communities coming together for energetic Bhangra performances, processions (nagar kirtans), and langar feasts at gurdwaras across Punjab and the Sikh diaspora worldwide."
+        },
+        {
+          "id": "evt_d31_losar_ladakh",
+          "location": { "name": "Losar — Leh, Ladakh", "lat": 34.1526, "lng": 77.5771 },
+          "questions": [
+            { "question": "Losar is the traditional New Year festival of which Himalayan communities?", "options": ["Kashmiri Muslims", "Tibetan Buddhist and Ladakhi communities", "Punjabi Sikhs", "Assamese Hindus"], "correctIndex": 1 },
+            { "question": "Losar is typically celebrated in which season?", "options": ["Late winter (Dec-Feb)", "Summer (June)", "Monsoon (August)", "Early autumn (Sept)"], "correctIndex": 0 },
+            { "question": "Losar celebrations traditionally include rituals to drive away what, symbolically, from the old year?", "options": ["Bad harvests", "Evil spirits and misfortune", "Disease-carrying insects", "Rival clans"], "correctIndex": 1 },
+            { "question": "Losar festivities commonly include performances of which traditional masked dance?", "options": ["Cham dance", "Kathakali", "Bharatanatyam", "Garba"], "correctIndex": 0 },
+            { "question": "Ladakh's Losar is observed roughly two months earlier than the Tibetan Losar in some traditions, largely due to what?", "options": ["A local monastic calendar variation", "A British colonial-era decree", "Modern government scheduling", "A recent 21st-century change"], "correctIndex": 0 }
+          ],
+          "summary": "Losar, the Tibetan Buddhist New Year, is celebrated with particular vibrancy across Ladakh, where monasteries come alive with butter lamps, ritual cham masked dances performed by monks, and family gatherings marking the turn of the lunar year. Ladakh actually observes Losar roughly two months ahead of the mainstream Tibetan calendar, a local variation tracing back to older monastic astrological traditions in the region. The festival blends solemn spiritual rites — driving away the misfortunes of the past year — with genuinely festive elements: feasting, archery contests, and communal singing that light up Leh's freezing winter nights."
+        },
+        {
+          "id": "evt_d31_chhath_puja_bihar",
+          "location": { "name": "Chhath Puja — Patna Ghats, Bihar", "lat": 25.6127, "lng": 85.1279 },
+          "questions": [
+            { "question": "Chhath Puja is primarily a form of worship dedicated to which celestial body?", "options": ["The Moon", "The Sun God (Surya)", "Venus", "Saturn"], "correctIndex": 1 },
+            { "question": "Chhath Puja rituals uniquely require devotees to offer prayers standing in what?", "options": ["A temple courtyard", "Water (rivers or ponds), at sunrise and sunset", "A forest clearing", "A mountain summit"], "correctIndex": 1 },
+            { "question": "Chhath Puja is most strongly associated with which two Indian states?", "options": ["Punjab and Haryana", "Bihar and eastern Uttar Pradesh", "Kerala and Tamil Nadu", "Gujarat and Rajasthan"], "correctIndex": 1 },
+            { "question": "The Chhath festival spans how many days of rituals?", "options": ["One day", "Two days", "Four days", "Seven days"], "correctIndex": 2 },
+            { "question": "Chhath Puja rituals are notable for including offerings to the sun during which two specific times?", "options": ["Only sunrise", "Only sunset", "Both sunrise and sunset (setting and rising sun)", "Only midday"], "correctIndex": 2 }
+          ],
+          "summary": "Chhath Puja, observed intensely across Bihar and eastern Uttar Pradesh, is a four-day festival dedicated to the Sun God, Surya, distinguished by its rigorous rituals: devotees fast for extended periods and stand waist-deep in rivers or ponds at both sunset and the following sunrise to offer prayers — a rare instance of worship extended to the 'setting' sun as well as the rising one. Patna's riverside ghats along the Ganga become a sea of devotees during Chhath, with elaborate offerings of fruit, sugarcane, and traditional thekua sweets. The festival has spread wherever Bihari and Purvanchali communities have migrated, from Delhi to Mumbai to cities abroad."
+        },
+        {
+          "id": "evt_d31_bohag_bihu_assam",
+          "location": { "name": "Rongali Bihu — Guwahati, Assam", "lat": 26.1445, "lng": 91.7362 },
+          "questions": [
+            { "question": "Rongali (Bohag) Bihu marks the beginning of what in the Assamese calendar?", "options": ["The harvest season's end", "The Assamese New Year and spring sowing season", "The monsoon's end", "The winter solstice"], "correctIndex": 1 },
+            { "question": "Bohag Bihu is typically celebrated in which month?", "options": ["January", "April", "August", "November"], "correctIndex": 1 },
+            { "question": "Assam actually celebrates three Bihu festivals across the year, tied to which agricultural cycle stages?", "options": ["Sowing, harvest, and storage/rest phases", "Only three different deities", "Three different rivers", "Three different regions"], "correctIndex": 0 },
+            { "question": "The energetic traditional dance performed during Bihu, especially by young men and women, is called what?", "options": ["Bihu dance", "Sattriya", "Ghoomar", "Dandiya"], "correctIndex": 0 },
+            { "question": "Which of the three Bihu festivals is considered the most significant and joyous, marking the new year?", "options": ["Magh Bihu", "Kati Bihu", "Bohag (Rongali) Bihu", "None, they are equal"], "correctIndex": 2 }
+          ],
+          "summary": "Rongali or Bohag Bihu, celebrated in mid-April, marks the Assamese New Year and the start of the sowing season, making it the most joyous of Assam's three annual Bihu festivals (the others being the more solemn Kati and Magh Bihu, tied to different points in the farming calendar). The festival is inseparable from the vibrant Bihu dance — fast-paced, hip-swaying movements performed by young men and women in traditional Assamese attire, accompanied by the dhol and pepa (buffalo-horn pipe). Bohag Bihu is as much a community and courtship ritual as an agricultural one, historically serving as an occasion for young Assamese to meet and socialise."
+        },
+        {
+          "id": "evt_d31_teej_rajasthan",
+          "location": { "name": "Teej — Jaipur, Rajasthan", "lat": 26.9124, "lng": 75.7873 },
+          "questions": [
+            { "question": "Teej is a monsoon festival in Rajasthan primarily celebrated by whom?", "options": ["Farmers only", "Women, honouring marital bonds and Goddess Parvati", "Children", "Traders and merchants"], "correctIndex": 1 },
+            { "question": "Teej festivities in Jaipur famously include a grand procession featuring what?", "options": ["A decorated idol of Goddess Teej Mata carried on a palanquin", "A camel race", "A kite-flying competition", "A boat regatta"], "correctIndex": 0 },
+            { "question": "Teej celebrations commonly involve women wearing which colour prominently?", "options": ["White", "Green", "Black", "Yellow only"], "correctIndex": 1 },
+            { "question": "A traditional activity strongly associated with Teej, especially for young women, is riding what?", "options": ["Bicycles", "Decorated swings (jhulas)", "Horses", "Bullock carts"], "correctIndex": 1 },
+            { "question": "Teej is dedicated to the union of Lord Shiva and which goddess?", "options": ["Lakshmi", "Saraswati", "Parvati", "Durga"], "correctIndex": 2 }
+          ],
+          "summary": "Teej, arriving with the monsoon rains, is one of Rajasthan's most visually spectacular festivals, dedicated to the union of Shiva and Parvati and celebrated predominantly by women, who dress in vivid green attire symbolising the season's fresh growth, apply intricate mehndi, and swing on flower-decorated jhulas hung from trees. Jaipur hosts the festival's grandest public celebration: a resplendent procession carrying the idol of Teej Mata through the old city on a gold-and-silver palanquin, accompanied by elephants, dancers, and folk musicians, drawing crowds that rival the city's more famous Gangaur festival."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d31_jammu_kashmir_ut",
+          "location": { "name": "Srinagar — Jammu & Kashmir", "lat": 34.0837, "lng": 74.7973 },
+          "questions": [
+            { "question": "Jammu and Kashmir was reorganised from a state into a Union Territory in which year?", "options": ["2014", "2016", "2019", "2021"], "correctIndex": 2 },
+            { "question": "The reorganisation of Jammu and Kashmir followed the abrogation of which constitutional article?", "options": ["Article 356", "Article 370", "Article 44", "Article 21"], "correctIndex": 1 },
+            { "question": "Jammu and Kashmir, unlike most other Union Territories, uniquely retains what?", "options": ["Its own currency", "Its own Legislative Assembly", "A separate constitution", "Full statehood powers"], "correctIndex": 1 },
+            { "question": "Srinagar serves as which type of capital for Jammu and Kashmir?", "options": ["Permanent sole capital", "Summer capital (Jammu is the winter capital)", "Only a tourist capital", "Judicial capital only"], "correctIndex": 1 },
+            { "question": "Ladakh was carved out as a separate Union Territory at the same time as the J&K reorganisation. Does Ladakh have its own legislature?", "options": ["Yes, a full assembly", "No, it is governed without a legislature", "Yes, but only for local matters", "No information available"], "correctIndex": 1 }
+          ],
+          "summary": "Jammu and Kashmir was reorganised from a state into a Union Territory in August 2019, following Parliament's abrogation of Article 370, which had granted the former state special autonomous status. Unusually among Union Territories, J&K retains its own Legislative Assembly, giving it a degree of self-governance closer to statehood than most UTs enjoy. The region follows a historic dual-capital system, with Srinagar serving as the summer capital and Jammu as the winter capital, a practice dating back to the era of the Dogra monarchy. Ladakh, split off in the same reorganisation, became a separate UT without its own legislature."
+        },
+        {
+          "id": "pol_d31_ladakh_ut",
+          "location": { "name": "Leh — Ladakh", "lat": 34.1526, "lng": 77.5771 },
+          "questions": [
+            { "question": "Ladakh became a separate Union Territory in which year?", "options": ["2014", "2019", "2021", "2016"], "correctIndex": 1 },
+            { "question": "Ladakh is administered directly by which authority, given it has no state legislature?", "options": ["The Governor of Jammu and Kashmir", "A Lieutenant Governor appointed by the Centre", "The Prime Minister's Office directly", "A locally elected Chief Minister"], "correctIndex": 1 },
+            { "question": "Ladakh comprises which two main districts?", "options": ["Leh and Kargil", "Srinagar and Jammu", "Leh and Zanskar", "Kargil and Drass"], "correctIndex": 0 },
+            { "question": "Ladakh is bordered by which two countries, making it strategically significant?", "options": ["Nepal and Bhutan", "China and Pakistan", "Bangladesh and Myanmar", "Afghanistan and Iran"], "correctIndex": 1 },
+            { "question": "Local governance in Ladakh's districts is significantly handled by which elected bodies?", "options": ["Municipal corporations", "Autonomous Hill Development Councils", "Panchayati Raj institutions only", "State legislative committees"], "correctIndex": 1 }
+          ],
+          "summary": "Ladakh became India's newest Union Territory in October 2019, split from the former state of Jammu and Kashmir, and is administered by a Lieutenant Governor rather than an elected legislature, since Parliament did not grant it a state assembly. Local governance instead runs significantly through the Ladakh Autonomous Hill Development Councils for Leh and Kargil districts, which handle many day-to-day administrative matters. Bordering both China and Pakistan, Ladakh occupies a strategically sensitive position in India's north, and its cold desert landscape, Buddhist monastic culture, and remoteness have made it an increasingly popular high-altitude tourism destination even as it remains a militarily significant frontier region."
+        },
+        {
+          "id": "pol_d31_andaman_nicobar",
+          "location": { "name": "Port Blair — Andaman and Nicobar Islands", "lat": 11.6234, "lng": 92.7265 },
+          "questions": [
+            { "question": "Port Blair is the capital of which Union Territory?", "options": ["Lakshadweep", "Andaman and Nicobar Islands", "Puducherry", "Daman and Diu"], "correctIndex": 1 },
+            { "question": "The Andaman and Nicobar Islands are located in which body of water?", "options": ["Arabian Sea", "Bay of Bengal", "Laccadive Sea", "Persian Gulf"], "correctIndex": 1 },
+            { "question": "Port Blair was historically infamous for housing which colonial-era prison?", "options": ["Tihar Jail", "Cellular Jail (Kala Pani)", "Yerwada Jail", "Alipore Jail"], "correctIndex": 1 },
+            { "question": "The Andaman and Nicobar Islands are administered by which official appointed by the Centre?", "options": ["A Chief Minister", "A Lieutenant Governor", "A Governor", "A District Collector only"], "correctIndex": 1 },
+            { "question": "The Nicobar group, distinct from the Andamans, is home to several tribes, including the isolated inhabitants of which island?", "options": ["Havelock Island", "North Sentinel Island", "Neil Island", "Ross Island"], "correctIndex": 1 }
+          ],
+          "summary": "Port Blair, capital of the Andaman and Nicobar Islands Union Territory, sits in the Bay of Bengal roughly 1,300 km from the Indian mainland, making this one of India's most geographically remote administrative capitals. The city is historically notorious for the Cellular Jail, or 'Kala Pani,' where the British imprisoned Indian freedom fighters in near-total isolation. Administered by a Centrally appointed Lieutenant Governor, the territory includes the Nicobar group further south, home to the reclusive Sentinelese people of North Sentinel Island, among the last uncontacted tribes on Earth, protected by strict government-enforced isolation."
+        },
+        {
+          "id": "pol_d31_telangana_formation",
+          "location": { "name": "Hyderabad — Telangana", "lat": 17.3850, "lng": 78.4867 },
+          "questions": [
+            { "question": "Telangana became India's newest state (before Ladakh's UT status) by bifurcation from which state in 2014?", "options": ["Karnataka", "Andhra Pradesh", "Maharashtra", "Odisha"], "correctIndex": 1 },
+            { "question": "Telangana officially came into existence on which date in 2014?", "options": ["15 August", "26 January", "2 June", "1 November"], "correctIndex": 2 },
+            { "question": "Hyderabad serves an unusual dual role as the capital of which two entities for a transitional period?", "options": ["Telangana and Karnataka", "Telangana and Andhra Pradesh (temporarily)", "Only Telangana, no dual role existed", "Andhra Pradesh and Tamil Nadu"], "correctIndex": 1 },
+            { "question": "The demand for a separate Telangana state was rooted in grievances over what, among Telangana-region residents?", "options": ["Language differences only", "Perceived regional neglect and unequal development", "Religious disputes", "Border conflicts with a neighbouring country"], "correctIndex": 1 },
+            { "question": "The movement for Telangana statehood was politically spearheaded prominently by which party?", "options": ["Indian National Congress", "Telangana Rashtra Samithi (TRS)", "Bharatiya Janata Party", "Communist Party of India"], "correctIndex": 1 }
+          ],
+          "summary": "Telangana was carved out of Andhra Pradesh on 2 June 2014, becoming India's 29th state after a decades-long movement rooted in claims of regional neglect and unequal development for the Telangana region compared to coastal Andhra. The Telangana Rashtra Samithi, founded specifically to press this demand, spearheaded the political campaign that eventually led Parliament to pass the bifurcation bill. Hyderabad, the shared former capital, served as the joint capital of both Telangana and residual Andhra Pradesh for a transitional ten-year period, an unusual arrangement designed to give Andhra Pradesh time to develop a new capital, which it later began building at Amaravati."
+        },
+        {
+          "id": "pol_d31_uttarakhand_formation",
+          "location": { "name": "Dehradun — Uttarakhand", "lat": 30.3165, "lng": 78.0322 },
+          "questions": [
+            { "question": "Uttarakhand was carved out of which larger state in 2000?", "options": ["Himachal Pradesh", "Uttar Pradesh", "Punjab", "Rajasthan"], "correctIndex": 1 },
+            { "question": "Uttarakhand was originally named what, before being officially renamed in 2007?", "options": ["Uttaranchal", "Garhwal Pradesh", "Kumaon State", "Himvat Pradesh"], "correctIndex": 0 },
+            { "question": "Dehradun serves as which type of capital for Uttarakhand?", "options": ["Sole permanent capital", "Interim/current capital (Gairsain proposed as summer capital)", "Only a judicial capital", "A ceremonial capital only"], "correctIndex": 1 },
+            { "question": "The demand for a separate hill state that became Uttarakhand grew significantly during a mass movement in which decade?", "options": ["1970s", "1990s", "1960s", "2010s"], "correctIndex": 1 },
+            { "question": "Uttarakhand's two main historical-cultural regions are Garhwal and which other?", "options": ["Kumaon", "Doon", "Terai", "Bhabar"], "correctIndex": 0 }
+          ],
+          "summary": "Uttarakhand was carved out of Uttar Pradesh in November 2000, becoming India's 27th state after a sustained hill-state movement through the 1990s that argued the Himalayan districts had distinct geographic, cultural, and developmental needs poorly served by governance from the plains. Initially named Uttaranchal, it was officially renamed Uttarakhand in 2007, restoring what many residents felt was its more historically resonant name. Dehradun serves as the current seat of government, though Gairsain, more centrally located in the hills, has been designated a proposed summer capital — part of a long-running debate over whether the state's administration should sit closer to its mountainous heartland."
+        }
+      ]
+    }
+  }
+}

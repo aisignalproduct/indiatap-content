@@ -1,0 +1,326 @@
+{
+  "day": 37,
+  "date": "2026-11-06",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d37_kanger_valley_np",
+          "location": { "name": "Kanger Valley National Park — Chhattisgarh", "lat": 18.8333, "lng": 81.9333 },
+          "questions": [
+            { "question": "Kanger Valley National Park is particularly famous for its extensive network of what natural feature?", "options": ["Volcanic craters", "Limestone caves", "Glaciers", "Coral formations"], "correctIndex": 1 },
+            { "question": "Kanger Valley's most famous cave, a major tourist and scientific attraction, is called what?", "options": ["Amarnath Cave", "Kotumsar Cave", "Borra Caves", "Edakkal Cave"], "correctIndex": 1 },
+            { "question": "Kanger Valley National Park is located in which Indian state?", "options": ["Odisha", "Chhattisgarh", "Jharkhand", "Madhya Pradesh"], "correctIndex": 1 },
+            { "question": "Kanger Valley is also notable for a rare species of tree found only in this specific region, called what?", "options": ["Kanger Ghati tree fern", "Sundari mangrove", "Deodar cedar", "Himalayan pine"], "correctIndex": 0 },
+            { "question": "Kotumsar Cave's ecosystem is scientifically significant for containing rare cave-adapted species, including a unique blind form of which animal?", "options": ["Fish", "Bat", "Snake", "Frog"], "correctIndex": 1 }
+          ],
+          "summary": "Kanger Valley National Park in Chhattisgarh is renowned for its extensive limestone cave systems, most notably the Kotumsar Cave, whose dark interior chambers host a scientifically significant ecosystem of cave-adapted species, including a rare blind form of bat that has evolved without functional eyesight in the absence of light. The park is also home to the rare Kanger Ghati tree fern, a species found almost nowhere else, adding to the reserve's distinctive biodiversity beyond its geological attractions. Combining dense forest, dramatic waterfalls, and this remarkable underground cave network, Kanger Valley offers a rare glimpse into central India's lesser-known but ecologically rich Bastar region."
+        },
+        {
+          "id": "geo_d37_marine_np_gulf_kutch",
+          "location": { "name": "Marine National Park, Gulf of Kutch — Gujarat", "lat": 22.4500, "lng": 69.0833 },
+          "questions": [
+            { "question": "Marine National Park in the Gulf of Kutch was India's first marine park protecting which type of ecosystem?", "options": ["Deep-sea trench ecosystems", "Coral reefs and marine biodiversity", "Freshwater river deltas", "Arctic tundra"], "correctIndex": 1 },
+            { "question": "The Marine National Park comprises numerous small islands and reefs, home to significant populations of what marine organism forming reef structures?", "options": ["Corals", "Kelp forests", "Sea sponges exclusively", "Freshwater mussels"], "correctIndex": 0 },
+            { "question": "Marine National Park in the Gulf of Kutch is located along which coast of India?", "options": ["East coast", "West coast (Gujarat)", "Southern tip", "Andaman coast"], "correctIndex": 1 },
+            { "question": "The park is also significant for providing habitat to various species of what large marine mammal, occasionally spotted in the gulf?", "options": ["Dolphins", "Polar bears", "Sea otters", "Manatees"], "correctIndex": 0 },
+            { "question": "Marine National Park in the Gulf of Kutch was established in which decade?", "options": ["1970s", "1980s", "2000s", "2010s"], "correctIndex": 1 }
+          ],
+          "summary": "The Marine National Park in the Gulf of Kutch, established in the 1980s, was India's first marine protected area, safeguarding a scattering of small islands and coral reef ecosystems along Gujarat's western coastline. The park's shallow, reef-studded waters support diverse marine life, including several species of dolphins occasionally sighted moving through the gulf's channels, alongside a wide array of fish and invertebrate species dependent on the coral structures. Balancing conservation with the Gulf of Kutch's heavy industrial and shipping activity — the region also hosts major ports and refineries nearby — remains an ongoing challenge for managing this ecologically sensitive marine landscape."
+        },
+        {
+          "id": "geo_d37_khecheopalri_lake",
+          "location": { "name": "Khecheopalri Lake — Sikkim", "lat": 27.3667, "lng": 88.2167 },
+          "questions": [
+            { "question": "Khecheopalri Lake is considered sacred by both Buddhist and which other community in Sikkim?", "options": ["Hindu communities", "Jain communities", "Sikh communities", "Muslim communities"], "correctIndex": 0 },
+            { "question": "Khecheopalri Lake is popularly believed to be shaped like what, according to local folklore?", "options": ["A human footprint", "A star", "A crescent moon", "A conch shell"], "correctIndex": 0 },
+            { "question": "Local tradition holds that leaves falling onto Khecheopalri Lake's surface are quickly removed by what?", "options": ["Local villagers by hand", "Birds picking them off the water", "Wind currents alone", "No leaves ever fall near the lake"], "correctIndex": 1 },
+            { "question": "Khecheopalri Lake is located in which district of Sikkim?", "options": ["East Sikkim", "West Sikkim", "North Sikkim", "South Sikkim"], "correctIndex": 1 },
+            { "question": "Due to its sacred status, which activity is strictly prohibited on Khecheopalri Lake?", "options": ["Boating and fishing", "Photography", "Walking nearby", "Prayer offerings"], "correctIndex": 0 }
+          ],
+          "summary": "Khecheopalri Lake in West Sikkim holds deep spiritual significance for both the region's Buddhist and Hindu communities, its clear waters considered wish-fulfilling according to local tradition. Legend holds that the lake is shaped like a human footprint from above, and that birds swoop in to pick away any fallen leaves that land on its surface, keeping the water pristine — a detail locals point to as evidence of the lake's sacred, almost sentient character. Reflecting this reverence, boating and fishing are strictly prohibited on Khecheopalri, preserving both its ecological purity and its status as one of Sikkim's most important pilgrimage sites."
+        },
+        {
+          "id": "geo_d37_tso_moriri",
+          "location": { "name": "Tso Moriri Lake — Ladakh", "lat": 32.9000, "lng": 78.3167 },
+          "questions": [
+            { "question": "Tso Moriri is a high-altitude lake located in which Indian Union Territory?", "options": ["Jammu and Kashmir", "Ladakh", "Himachal Pradesh", "Sikkim"], "correctIndex": 1 },
+            { "question": "Unlike some other Ladakhi lakes, Tso Moriri is entirely what type of water body, contained within India?", "options": ["A transboundary lake shared with China", "An entirely domestic lake within India, not crossing any international border", "A man-made reservoir", "A seasonal lake that dries up annually"], "correctIndex": 1 },
+            { "question": "Tso Moriri sits at an altitude of approximately how many metres?", "options": ["Around 1,500m", "Around 2,800m", "Around 4,500m", "Around 6,500m"], "correctIndex": 2 },
+            { "question": "Tso Moriri is designated as a Ramsar Wetland, significant for supporting breeding populations of which bird?", "options": ["Black-necked crane", "Sarus crane", "Bar-headed goose only", "Flamingo"], "correctIndex": 0 },
+            { "question": "The village of Korzok, near Tso Moriri, is notable as one of the highest permanently inhabited settlements in the region, home to which traditionally nomadic community?", "options": ["Changpa nomadic herders", "Gujjar herders", "Bakarwal herders", "Van Gujjar community"], "correctIndex": 0 }
+          ],
+          "summary": "Tso Moriri, sitting at roughly 4,500 metres in Ladakh's remote Changthang plateau, is one of the highest-altitude lakes of its size entirely within India, distinguishing it from Pangong Tso, which extends across the border into Tibet. Its Ramsar-listed wetland status recognises its importance as a breeding ground for the black-necked crane, a species holding particular cultural significance in Tibetan Buddhist tradition. The nearby village of Korzok, home to the traditionally nomadic Changpa pastoralist community, offers a rare glimpse of high-altitude pastoral life adapted to one of the most extreme and beautiful landscapes in the Indian Himalayas."
+        },
+        {
+          "id": "geo_d37_chembra_peak",
+          "location": { "name": "Chembra Peak — Wayanad, Kerala", "lat": 11.5167, "lng": 76.1000 },
+          "questions": [
+            { "question": "Chembra Peak is the highest peak in which Kerala district?", "options": ["Idukki", "Wayanad", "Munnar district (not an actual district name)", "Palakkad"], "correctIndex": 1 },
+            { "question": "Chembra Peak is particularly famous among trekkers for a natural feature near its summit shaped like what?", "options": ["A perfect circle", "A heart (heart-shaped lake)", "A star", "A crescent"], "correctIndex": 1 },
+            { "question": "Chembra Peak's heart-shaped lake is believed by some locals to never do what, regardless of season?", "options": ["Freeze", "Dry up completely", "Change colour", "Overflow"], "correctIndex": 1 },
+            { "question": "Trekking access to Chembra Peak's summit has, in recent years, been periodically restricted primarily to address what concern?", "options": ["Environmental degradation from heavy tourist footfall", "Border security concerns", "Wildlife attacks", "Ongoing construction"], "correctIndex": 0 },
+            { "question": "Chembra Peak lies within the broader Western Ghats range, contributing to Wayanad's status as part of which UNESCO-recognised biodiversity zone?", "options": ["Nilgiri Biosphere Reserve", "Sundarbans Biosphere Reserve", "Nanda Devi Biosphere Reserve", "Gulf of Mannar Biosphere Reserve"], "correctIndex": 0 }
+          ],
+          "summary": "Chembra Peak, the highest point in Kerala's Wayanad district, draws trekkers primarily for the distinctive heart-shaped lake nestled just below its summit, a natural formation locals say never dries up completely even in peak summer. Part of the broader Nilgiri Biosphere Reserve within the Western Ghats, the peak and its surrounding forest support rich biodiversity typical of this globally significant mountain range. Rising visitor numbers in recent years led authorities to periodically restrict or regulate summit access, aiming to balance Chembra's growing popularity as a trekking destination against the environmental strain that heavy, unregulated foot traffic can place on such a fragile high-altitude ecosystem."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d37_vaishno_devi",
+          "location": { "name": "Vaishno Devi Shrine — Jammu and Kashmir", "lat": 33.0306, "lng": 74.9497 },
+          "questions": [
+            { "question": "Vaishno Devi Shrine is dedicated to a form of which goddess?", "options": ["Lakshmi", "The Divine Mother (Shakti/Durga)", "Saraswati only", "Sita"], "correctIndex": 1 },
+            { "question": "The Vaishno Devi shrine is located inside a cave near which town, the base point for pilgrims?", "options": ["Jammu (Katra)", "Srinagar", "Leh", "Kargil"], "correctIndex": 0 },
+            { "question": "Pilgrims typically undertake the journey to Vaishno Devi's cave shrine primarily by what means?", "options": ["Helicopter only, with no walking option", "Trekking on foot (or pony/palanquin) along a mountain path", "Car directly to the cave entrance", "Boat along a river"], "correctIndex": 1 },
+            { "question": "The trek to Vaishno Devi shrine covers a distance of approximately how many kilometres from the base at Katra?", "options": ["About 2 km", "About 13 km", "About 30 km", "About 50 km"], "correctIndex": 1 },
+            { "question": "Vaishno Devi is one of India's most visited pilgrimage sites, drawing several million pilgrims annually, particularly during what?", "options": ["Only a single day each year", "Navratri and other major festival periods", "Only during winter snowfall", "Only on New Year's Day"], "correctIndex": 1 }
+          ],
+          "summary": "Vaishno Devi, one of India's most visited pilgrimage sites, draws millions of devotees each year to a sacred cave shrine nestled in the Trikuta mountains near Katra in Jammu, dedicated to the Divine Mother in her form as Vaishno Devi. Pilgrims typically undertake a roughly 13-kilometre trek along a well-maintained mountain path, some walking, others opting for ponies, palanquins, or a helicopter service covering part of the route, reflecting the shrine's accessibility to devotees across a wide range of physical abilities and means. The pilgrimage sees its heaviest crowds during Navratri and other major Hindu festivals, when the flow of devotees along the mountain path can stretch for hours despite extensive crowd-management infrastructure built up over decades."
+        },
+        {
+          "id": "cul_d37_tirupati_balaji",
+          "location": { "name": "Tirumala Venkateswara Temple — Tirupati, Andhra Pradesh", "lat": 13.6833, "lng": 79.3475 },
+          "questions": [
+            { "question": "Tirupati's Venkateswara Temple is dedicated to which deity, a form of Vishnu?", "options": ["Rama", "Venkateswara (Balaji)", "Krishna", "Narasimha"], "correctIndex": 1 },
+            { "question": "The Venkateswara Temple is situated atop which hill range?", "options": ["Nilgiri Hills", "Tirumala Hills (part of the Seshachalam range)", "Aravalli range", "Palani Hills"], "correctIndex": 1 },
+            { "question": "Tirupati Temple is widely considered one of the world's what, in terms of visitor numbers and daily donations?", "options": ["Least visited religious sites", "Richest and most visited pilgrimage sites", "Newest temples, built in the last decade", "Smallest temple complexes"], "correctIndex": 1 },
+            { "question": "A distinctive ritual at Tirupati involves devotees offering what, as an act of devotion, often visible on many pilgrims after their visit?", "options": ["Tattooing religious symbols", "Tonsuring (shaving) their heads", "Fasting for a full month", "Wearing only white clothing permanently"], "correctIndex": 1 },
+            { "question": "The temple's prasadam, a famous sweet offered to devotees, is known by what name?", "options": ["Tirupati Laddu", "Modak", "Peda", "Halwa"], "correctIndex": 0 }
+          ],
+          "summary": "The Venkateswara Temple atop the Tirumala Hills in Andhra Pradesh is among the world's most visited and wealthiest religious sites, drawing tens of thousands of pilgrims daily and receiving donations that fund extensive charitable and educational activities across the region. A striking and common sight among devotees is the practice of tonsuring, or shaving one's head, as an offering of humility and gratitude to Lord Venkateswara, a ritual performed on-site at dedicated facilities capable of processing enormous daily volumes of pilgrims. The temple's famous Tirupati Laddu, a dense, fragrant sweet distributed as prasadam, has become so iconic that it received Geographical Indication (GI) protection, legally safeguarding its unique recipe and status."
+        },
+        {
+          "id": "cul_d37_sabarimala",
+          "location": { "name": "Sabarimala Temple — Kerala", "lat": 9.4342, "lng": 77.0817 },
+          "questions": [
+            { "question": "Sabarimala Temple is dedicated to which deity, revered as a celibate ascetic god?", "options": ["Lord Ganesha", "Lord Ayyappa", "Lord Murugan", "Lord Hanuman"], "correctIndex": 1 },
+            { "question": "Before undertaking the Sabarimala pilgrimage, devotees traditionally observe a rigorous period of penance and abstinence lasting how long?", "options": ["3 days", "41 days", "6 months", "1 year"], "correctIndex": 1 },
+            { "question": "Sabarimala's pilgrimage tradition uniquely welcomes devotees regardless of caste or religion, reflecting a message closely associated with which historical figure connected to the temple's legend?", "options": ["Vavar, a Muslim companion of Lord Ayyappa", "A British colonial administrator", "A Portuguese missionary", "A Mughal court poet"], "correctIndex": 0 },
+            { "question": "Sabarimala Temple made international headlines in 2018 following a Supreme Court ruling on what contentious issue?", "options": ["Temple land ownership", "The entry of women of menstruating age into the temple", "Temple architecture renovation", "Ticket pricing for pilgrims"], "correctIndex": 1 },
+            { "question": "Pilgrims to Sabarimala traditionally carry a sacred offering bundle on their heads called what?", "options": ["Irumudikettu", "Prasad thali", "Kalash", "Bhandara"], "correctIndex": 0 }
+          ],
+          "summary": "Sabarimala Temple in Kerala, dedicated to Lord Ayyappa, draws millions of pilgrims each year who observe a demanding 41-day period of penance, abstinence, and simple living before undertaking the arduous forest trek to the shrine, traditionally carrying a sacred offering bundle known as the irumudikettu atop their heads. Uniquely among major Hindu pilgrimage traditions, Sabarimala's origin legend includes deep reverence for Vavar, a Muslim companion of Lord Ayyappa, whose shrine pilgrims traditionally visit en route, reflecting a syncretic religious history unusual for such a site. In 2018, the temple became the centre of intense national debate after the Supreme Court ruled that women of menstruating age could not be barred from entry, a decision that sparked widespread protests and a prolonged, still-contested societal conversation about tradition, gender equality, and religious autonomy in India."
+        },
+        {
+          "id": "cul_d37_ranganathaswamy_srirangam",
+          "location": { "name": "Sri Ranganathaswamy Temple — Srirangam, Tamil Nadu", "lat": 10.8624, "lng": 78.6905 },
+          "questions": [
+            { "question": "Sri Ranganathaswamy Temple at Srirangam is dedicated to which deity, a reclining form of Vishnu?", "options": ["Ranganatha", "Venkateswara", "Jagannath", "Narasimha"], "correctIndex": 0 },
+            { "question": "Srirangam Temple is widely cited as the largest functioning what, in the world, by area?", "options": ["Buddhist monastery", "Hindu temple complex", "Mosque", "Church"], "correctIndex": 1 },
+            { "question": "The temple complex at Srirangam is enclosed within how many concentric walls (prakarams), a hallmark of its scale?", "options": ["3", "7", "12", "20"], "correctIndex": 1 },
+            { "question": "Srirangam is located on an island formed by which two rivers?", "options": ["Kaveri and Coleroon (Kollidam)", "Krishna and Godavari", "Tamiraparani and Vaigai", "Palar and Ponnaiyar"], "correctIndex": 0 },
+            { "question": "The towering entrance gateway (gopuram) at Srirangam's main entrance, one of Asia's tallest temple towers, was completed relatively recently, in which decade?", "options": ["1930s", "1980s", "1930s to early 2000s across phases", "2010s only"], "correctIndex": 2 }
+          ],
+          "summary": "Sri Ranganathaswamy Temple at Srirangam, dedicated to Vishnu in his reclining form as Ranganatha, is widely regarded as the largest functioning Hindu temple complex in the world, its sprawling grounds enclosed within seven concentric walls, or prakarams, forming an entire self-contained temple town. Located on an island cradled between the Kaveri and Coleroon rivers near Tiruchirappalli, the temple's towering main gopuram gateway — among the tallest of its kind in Asia — was actually completed only in stages spanning from the 1930s through the early 2000s, a project that took decades to finish despite the temple's ancient origins. Srirangam remains one of the most important Vaishnavite pilgrimage centres in South India, its daily rituals and annual festivals drawing devotees from across the Tamil-speaking world and beyond."
+        },
+        {
+          "id": "cul_d37_haji_ali_dargah",
+          "location": { "name": "Haji Ali Dargah — Mumbai", "lat": 18.9827, "lng": 72.8090 },
+          "questions": [
+            { "question": "Haji Ali Dargah is a shrine dedicated to which historical Sufi saint?", "options": ["Nizamuddin Auliya", "Pir Haji Ali Shah Bukhari", "Moinuddin Chishti", "Salim Chishti"], "correctIndex": 1 },
+            { "question": "Haji Ali Dargah is uniquely situated on what kind of location, off the coast of Mumbai?", "options": ["A hilltop", "A small islet, connected to the mainland by a narrow causeway", "A riverbank", "Underground, beneath the city"], "correctIndex": 1 },
+            { "question": "The causeway leading to Haji Ali Dargah becomes impassable during which condition?", "options": ["Heavy fog", "High tide", "Strong winds only", "Full moon nights only"], "correctIndex": 1 },
+            { "question": "Haji Ali Dargah is open to and visited by people of which religious backgrounds, reflecting its broad appeal?", "options": ["Only Muslims", "People of various faiths, not restricted to one religion", "Only local Mumbai residents", "Only registered pilgrims with prior permits"], "correctIndex": 1 },
+            { "question": "Legend holds that Haji Ali, after whom the dargah is named, gave up his worldly wealth to undertake what?", "options": ["A pilgrimage to Mecca and a life of asceticism", "A trading voyage to Africa", "Military service under a local ruler", "Building a fleet of ships"], "correctIndex": 0 }
+          ],
+          "summary": "Haji Ali Dargah, dedicated to the Sufi saint Pir Haji Ali Shah Bukhari, occupies a small islet just off Mumbai's Worli coastline, connected to the mainland by a narrow causeway that disappears beneath the waves entirely during high tide, temporarily cutting the shrine off from the city. According to popular legend, Haji Ali renounced his considerable wealth to live an ascetic life devoted to pilgrimage and spiritual practice, a story that continues to resonate with the dargah's remarkably diverse visitor base, drawing worshippers and curious visitors across religious lines rather than Muslims alone. The dargah's striking visual setting — a white marble shrine seemingly floating on the Arabian Sea when the tide is high — has made it one of Mumbai's most recognisable and photographed landmarks."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d37_hyundai_chennai",
+          "location": { "name": "Hyundai Motor India Plant — Chennai", "lat": 12.7833, "lng": 80.0167 },
+          "questions": [
+            { "question": "Hyundai's manufacturing plant near Chennai is one of the company's largest outside which home country?", "options": ["Japan", "South Korea", "Germany", "United States"], "correctIndex": 1 },
+            { "question": "Hyundai's Chennai plant contributes significantly to Chennai's reputation for which broader industry, alongside several other automakers?", "options": ["Textile manufacturing", "Automobile manufacturing", "Aerospace manufacturing", "Shipbuilding"], "correctIndex": 1 },
+            { "question": "Hyundai first established its Chennai manufacturing operations in which decade?", "options": ["1980s", "1990s", "2000s", "2010s"], "correctIndex": 1 },
+            { "question": "A significant share of vehicles produced at Hyundai's Chennai plant are intended for what purpose, beyond serving the domestic Indian market?", "options": ["Only military use", "Export to other countries", "Only government fleet use", "Only ride-sharing services"], "correctIndex": 1 },
+            { "question": "Hyundai's presence in Chennai contributed to the broader Chennai automobile manufacturing cluster, which also earned the city its unofficial nickname, referencing a major American car-manufacturing city.", "options": ["Motor City of the East / Detroit of India", "Silicon Valley of India", "Manchester of India", "Steel City of South India"], "correctIndex": 0 }
+          ],
+          "summary": "Hyundai Motor India's manufacturing plant near Chennai, established in the late 1990s, ranks among the company's largest facilities outside South Korea, producing vehicles for both the domestic Indian market and substantial export to other countries. The plant's presence, alongside several other global and domestic automakers who set up operations in the region, helped cement Chennai's status as a major automobile manufacturing hub, earning it the popular nickname 'Detroit of India.' Hyundai's continued investment in expanding capacity at the site reflects both India's growing importance as a domestic auto market and its increasing role as a competitive manufacturing and export base within the company's global operations."
+        },
+        {
+          "id": "eco_d37_serum_institute_pune",
+          "location": { "name": "Serum Institute of India — Pune", "lat": 18.5679, "lng": 73.7143 },
+          "questions": [
+            { "question": "Serum Institute of India, headquartered in Pune, is recognised as the world's largest producer of what, by number of doses?", "options": ["Antibiotics", "Vaccines", "Insulin", "Painkillers"], "correctIndex": 1 },
+            { "question": "Serum Institute gained significant global attention during the COVID-19 pandemic for manufacturing which vaccine under licence?", "options": ["Pfizer-BioNTech vaccine", "Oxford-AstraZeneca vaccine (as Covishield)", "Moderna vaccine", "Sputnik V vaccine exclusively"], "correctIndex": 1 },
+            { "question": "Serum Institute of India was founded in which decade?", "options": ["1950s", "1960s", "1980s", "2000s"], "correctIndex": 1 },
+            { "question": "Beyond COVID-19 vaccines, Serum Institute has historically been a major global supplier of vaccines for which category of diseases?", "options": ["Only cancer treatments", "Diseases such as measles, polio, and tetanus, especially for developing countries", "Only rare genetic disorders", "Only veterinary diseases"], "correctIndex": 1 },
+            { "question": "Serum Institute's scale of production has made India sometimes referred to informally as what, in relation to global vaccine supply?", "options": ["The world's pharmacy", "The world's vaccine capital / a key vaccine supplier to the world", "The world's largest hospital network", "The world's biggest drug testing ground"], "correctIndex": 1 }
+          ],
+          "summary": "Serum Institute of India, founded in Pune in the 1960s, has grown into the world's largest vaccine manufacturer by number of doses produced, supplying immunisations against diseases like measles, polio, and tetanus to developing countries across the globe for decades. The company gained unprecedented international attention during the COVID-19 pandemic, when it began mass-producing the Oxford-AstraZeneca vaccine under licence as Covishield, becoming a critical supplier not just for India's domestic vaccination drive but for numerous other countries relying on Indian-manufactured doses. Serum Institute's scale and global reach have reinforced India's broader reputation, alongside its pharmaceutical manufacturing sector generally, as an indispensable supplier in international efforts to make essential medicines and vaccines more affordable and accessible worldwide."
+        },
+        {
+          "id": "eco_d37_cipla_mumbai",
+          "location": { "name": "Cipla — Mumbai", "lat": 19.1197, "lng": 72.8464 },
+          "questions": [
+            { "question": "Cipla, headquartered in Mumbai, is one of India's major companies in which industry?", "options": ["Automobile manufacturing", "Pharmaceuticals", "Steel production", "Textile manufacturing"], "correctIndex": 1 },
+            { "question": "Cipla was founded in which decade, making it one of India's older pharmaceutical companies?", "options": ["1930s", "1960s", "1990s", "2000s"], "correctIndex": 0 },
+            { "question": "Cipla gained significant international attention in the early 2000s for its role in making what type of medication more affordable for developing countries?", "options": ["Cancer chemotherapy drugs", "HIV/AIDS antiretroviral drugs", "Diabetes medication", "Blood pressure medication"], "correctIndex": 1 },
+            { "question": "Cipla's founder, Khwaja Abdul Hamied, established the company partly in response to what broader context during India's independence movement?", "options": ["A desire to reduce dependence on imported foreign medicines", "A government mandate with no independence-era connection", "A purely personal business venture unrelated to national context", "A direct request from Mahatma Gandhi"], "correctIndex": 0 },
+            { "question": "Cipla's low-cost generic drug manufacturing model has made India, and companies like Cipla specifically, significant global suppliers of what category of medicine?", "options": ["Only branded, patented original drugs", "Affordable generic medicines", "Only veterinary drugs", "Only cosmetic products"], "correctIndex": 1 }
+          ],
+          "summary": "Cipla, founded in Mumbai in the 1930s by Khwaja Abdul Hamied partly to reduce colonial India's dependence on imported medicines, has grown into one of the country's most significant pharmaceutical companies, particularly known for pioneering affordable generic drug manufacturing. The company earned major international recognition in the early 2000s when it dramatically undercut prices for HIV/AIDS antiretroviral drugs, making life-saving treatment accessible to millions in developing countries who previously could not afford Western pharmaceutical pricing. Cipla's business model exemplifies a broader pattern in India's pharmaceutical sector, often described informally as 'the pharmacy of the world,' leveraging generic drug expertise to supply affordable medicines across the globe."
+        },
+        {
+          "id": "eco_d37_bombay_stock_exchange",
+          "location": { "name": "Bombay Stock Exchange — Mumbai", "lat": 18.9298, "lng": 72.8331 },
+          "questions": [
+            { "question": "The Bombay Stock Exchange (BSE) is recognised as which of the following, regarding its age in Asia?", "options": ["Asia's newest stock exchange", "Asia's oldest stock exchange", "A purely digital exchange with no physical history", "Not an actual stock exchange, just a trading app"], "correctIndex": 1 },
+            { "question": "The Bombay Stock Exchange was established in which year?", "options": ["1875", "1935", "1975", "1991"], "correctIndex": 0 },
+            { "question": "The BSE's benchmark stock market index, closely tracked by investors, is called what?", "options": ["Nifty 50", "Sensex", "Dow Jones", "FTSE 100"], "correctIndex": 1 },
+            { "question": "The BSE is headquartered in an iconic building in Mumbai known as what?", "options": ["Phiroze Jeejeebhoy Towers", "Reserve Bank Tower", "Air India Building", "Taj Mahal Palace"], "correctIndex": 0 },
+            { "question": "The BSE, alongside the more recently established National Stock Exchange (NSE), together form the backbone of India's what?", "options": ["Banking regulatory system", "Equity capital markets / stock trading infrastructure", "Currency printing system", "Postal services network"], "correctIndex": 1 }
+          ],
+          "summary": "The Bombay Stock Exchange, established in 1875, holds the distinction of being Asia's oldest stock exchange, predating even many exchanges in more industrially developed nations at the time of its founding. Headquartered in the iconic Phiroze Jeejeebhoy Towers in Mumbai's financial district, the BSE's benchmark Sensex index remains one of the most closely watched barometers of Indian economic sentiment, tracked by domestic and international investors alike. Alongside the more technologically driven National Stock Exchange established over a century later, the BSE continues to form a core pillar of India's capital markets infrastructure, facilitating the buying and selling of shares across thousands of listed companies."
+        },
+        {
+          "id": "eco_d37_gail_india",
+          "location": { "name": "GAIL (India) Limited — Noida/Delhi NCR", "lat": 28.5706, "lng": 77.3272 },
+          "questions": [
+            { "question": "GAIL, headquartered in the Delhi NCR region, is India's largest company primarily dealing in what?", "options": ["Coal mining", "Natural gas transmission and processing", "Solar panel manufacturing", "Automobile fuel retail exclusively"], "correctIndex": 1 },
+            { "question": "'GAIL' stands for what?", "options": ["Gas Authority of India Limited", "Global Automotive Industries Limited", "Government Agricultural Infrastructure Limited", "General Aviation and Industrial Logistics"], "correctIndex": 0 },
+            { "question": "GAIL operates a significant portion of India's natural gas what, connecting gas sources to consumers across the country?", "options": ["Retail petrol pumps", "Pipeline network", "Coal wagons", "Electric grid transmission lines"], "correctIndex": 1 },
+            { "question": "GAIL was established as a public sector undertaking in which decade?", "options": ["1970s", "1980s", "1990s", "2000s"], "correctIndex": 1 },
+            { "question": "Beyond pipeline transmission, GAIL is also involved in the production of which other related product derived from natural gas processing?", "options": ["Petrochemicals such as polymers", "Coal briquettes", "Solar cells", "Biofuels exclusively"], "correctIndex": 0 }
+          ],
+          "summary": "GAIL (India) Limited, established as a public sector undertaking in the 1980s, operates the backbone of India's natural gas pipeline network, transporting gas from production sources and import terminals to power plants, fertiliser units, city gas distribution networks, and industries across the country. Beyond transmission, GAIL also engages in petrochemical production, converting natural gas into polymers and other industrial materials used across a wide range of manufacturing sectors. As India's energy mix has gradually shifted to incorporate more natural gas alongside its traditional reliance on coal and oil, GAIL's extensive pipeline infrastructure has become an increasingly critical piece of the country's broader energy security and industrial supply chain."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d37_kambala_karnataka",
+          "location": { "name": "Kambala — Coastal Karnataka", "lat": 13.0500, "lng": 74.7833 },
+          "questions": [
+            { "question": "Kambala is a traditional sporting event held in coastal Karnataka involving races of which animal?", "options": ["Horses", "Buffaloes", "Bulls (bullock cart races)", "Camels"], "correctIndex": 1 },
+            { "question": "Kambala races are traditionally conducted through what type of terrain?", "options": ["Dry desert sand", "Muddy, waterlogged paddy fields/tracks", "Paved concrete roads", "Rocky mountain trails"], "correctIndex": 1 },
+            { "question": "Kambala events are historically associated with which two coastal Karnataka regions in particular?", "options": ["Mangalore and Udupi", "Bengaluru and Mysuru", "Hubli and Belagavi", "Hampi and Bellary"], "correctIndex": 0 },
+            { "question": "Kambala has, in recent years, faced legal scrutiny and controversy similar to Tamil Nadu's Jallikattu, primarily over concerns of what?", "options": ["Excessive gambling only", "Animal welfare and cruelty concerns", "Environmental water usage", "Land ownership disputes"], "correctIndex": 1 },
+            { "question": "Following legal challenges, Kambala was permitted to continue under state legislation, similar to the legal route taken to preserve which other regional sport?", "options": ["Jallikattu in Tamil Nadu", "Cricket in general", "Kabaddi nationally", "Wrestling in Haryana"], "correctIndex": 0 }
+          ],
+          "summary": "Kambala, a traditional buffalo race deeply rooted in the coastal Karnataka regions of Mangalore and Udupi, sees pairs of buffaloes driven by a jockey sprinting through muddy, waterlogged paddy tracks, drawing enthusiastic local crowds who have followed the sport for generations. Like Tamil Nadu's Jallikattu, Kambala came under legal scrutiny in recent years over animal welfare concerns, facing a ban that was subsequently reversed through specific state legislation designed to allow the tradition to continue under regulated conditions. The event remains an important marker of coastal Karnataka's distinct regional identity, blending competitive sport, agrarian tradition, and community celebration in a way that has proven resilient despite recurring legal and ethical debates."
+        },
+        {
+          "id": "evt_d37_torgya_tawang",
+          "location": { "name": "Torgya Festival — Tawang, Arunachal Pradesh", "lat": 27.5859, "lng": 91.8594 },
+          "questions": [
+            { "question": "Torgya Festival is celebrated at Tawang Monastery, associated with which Buddhist community of Arunachal Pradesh?", "options": ["Nyishi", "Monpa", "Adi", "Apatani"], "correctIndex": 1 },
+            { "question": "Torgya Festival is held with the purpose of driving away what, according to Monpa Buddhist tradition?", "options": ["Bad weather only", "Evil spirits and negative forces from the past year", "Rival tribal groups", "Agricultural pests"], "correctIndex": 1 },
+            { "question": "Tawang Monastery, where Torgya is celebrated, is one of the largest monasteries of its kind in India, belonging to which Buddhist sect?", "options": ["Gelug sect (same as the Dalai Lama's tradition)", "Nyingma sect exclusively", "Theravada Buddhism", "Zen Buddhism"], "correctIndex": 0 },
+            { "question": "Torgya Festival celebrations feature ritual masked dances performed by monks, similar in style to which other Himalayan Buddhist festival?", "options": ["Hemis Festival in Ladakh", "Durga Puja in Bengal", "Onam in Kerala", "Baisakhi in Punjab"], "correctIndex": 0 },
+            { "question": "Tawang, home to this festival, is located in a strategically significant part of Arunachal Pradesh, near the border with which country?", "options": ["Myanmar", "Bhutan and China", "Bangladesh", "Nepal"], "correctIndex": 1 }
+          ],
+          "summary": "Torgya Festival, held at the historic Tawang Monastery in Arunachal Pradesh, is a significant Monpa Buddhist observance featuring ritual cham masked dances performed by resident monks, aimed at driving away evil spirits and negative influences accumulated over the past year. Tawang Monastery itself, belonging to the Gelug lineage of Tibetan Buddhism — the same tradition followed by the Dalai Lama — is one of the largest monasteries of its kind in India, underscoring the deep historical and religious ties between this remote Himalayan region and the broader Tibetan Buddhist world. Tawang's location near the sensitive tri-junction with Bhutan and China adds a layer of strategic significance to a region already notable for its rich Monpa cultural and monastic heritage."
+        },
+        {
+          "id": "evt_d37_losoong_sikkim",
+          "location": { "name": "Losoong — Sikkim", "lat": 27.3389, "lng": 88.6065 },
+          "questions": [
+            { "question": "Losoong is the traditional New Year festival of which Sikkimese ethnic communities?", "options": ["Nepali community exclusively", "Bhutia and Lepcha communities", "Marwari settlers", "Bengali migrant communities"], "correctIndex": 1 },
+            { "question": "Losoong is celebrated to mark the end of which agricultural activity in Sikkim?", "options": ["The sowing season", "The harvest season", "The monsoon planting season", "The fishing season"], "correctIndex": 1 },
+            { "question": "Losoong celebrations often include performances of traditional masked dances, similar in spirit to which other Himalayan Buddhist tradition?", "options": ["Cham dances, as seen in Ladakh and Bhutan", "Bharatanatyam", "Kathak", "Odissi"], "correctIndex": 0 },
+            { "question": "Losoong typically coincides closely with which other Sikkimese/Buddhist observance, sometimes celebrated around the same period?", "options": ["Namsoong (the Lepcha New Year)", "Diwali", "Holi", "Eid-ul-Fitr"], "correctIndex": 0 },
+            { "question": "Losoong festivities traditionally include archery competitions and the ceremonial performance of what dance depicting the slaying of a symbolic demon?", "options": ["Chaam dance re-enacting good triumphing over evil", "Bhangra", "Garba", "Lavani"], "correctIndex": 0 }
+          ],
+          "summary": "Losoong, the traditional New Year of Sikkim's Bhutia community, celebrates the completion of the harvest season with masked chaam dances performed by monks, echoing similar Himalayan Buddhist traditions found in Ladakh and Bhutan, often depicting the triumph of good over evil through ritualised, symbolic performance. The festival closely coincides with Namsoong, the parallel New Year celebration of Sikkim's Lepcha community, reflecting the state's rich ethnic diversity within a relatively compact Himalayan territory. Alongside religious ritual, Losoong festivities traditionally include archery competitions and communal feasting, offering Sikkimese families a joyful close to the agricultural year before the onset of the region's cold winter months."
+        },
+        {
+          "id": "evt_d37_chithirai_madurai",
+          "location": { "name": "Chithirai Festival — Madurai, Tamil Nadu", "lat": 9.9195, "lng": 78.1193 },
+          "questions": [
+            { "question": "The Chithirai Festival at Madurai celebrates the divine wedding of Goddess Meenakshi to which deity?", "options": ["Lord Shiva (as Sundareswarar)", "Lord Vishnu", "Lord Murugan", "Lord Brahma"], "correctIndex": 0 },
+            { "question": "Chithirai Festival takes its name from which month of the Tamil calendar, during which it is celebrated?", "options": ["Aadi", "Chithirai", "Karthigai", "Margazhi"], "correctIndex": 1 },
+            { "question": "The Chithirai Festival is centred around which major Madurai temple?", "options": ["Meenakshi Amman Temple", "Brihadeeswarar Temple", "Ranganathaswamy Temple", "Kapaleeshwarar Temple"], "correctIndex": 0 },
+            { "question": "A distinctive feature of Chithirai Festival involves a symbolic procession representing Lord Vishnu (as Kallazhagar) crossing which river to attend the celestial wedding?", "options": ["Kaveri River", "Vaigai River", "Tamiraparani River", "Palar River"], "correctIndex": 1 },
+            { "question": "Chithirai Festival is one of the most significant annual events for the city of Madurai, drawing large crowds primarily for what type of celebration?", "options": ["A purely secular cultural fair with no religious element", "A major temple festival blending mythology, procession, and civic participation", "A political rally", "A sporting tournament"], "correctIndex": 1 }
+          ],
+          "summary": "Madurai's Chithirai Festival, held during the Tamil month of Chithirai, commemorates the celestial wedding of Goddess Meenakshi to Lord Shiva in his form as Sundareswarar, centred on the city's iconic Meenakshi Amman Temple. One of the festival's most anticipated moments involves a symbolic procession in which Lord Vishnu, worshipped locally as Kallazhagar, is depicted crossing the Vaigai River to attend his sister's wedding, an event that draws enormous crowds along the riverbanks. Blending mythology, elaborate temple ritual, and city-wide civic participation, Chithirai has grown into one of South India's most significant annual religious and cultural events, transforming Madurai's streets into a vast, colourful procession route each year."
+        },
+        {
+          "id": "evt_d37_yaoshang_manipur",
+          "location": { "name": "Yaoshang — Manipur", "lat": 24.8170, "lng": 93.9368 },
+          "questions": [
+            { "question": "Yaoshang is Manipur's regional variant of which pan-Indian festival?", "options": ["Diwali", "Holi", "Navratri", "Raksha Bandhan"], "correctIndex": 1 },
+            { "question": "Yaoshang celebrations traditionally last for how many days?", "options": ["A single day", "Around five days", "A full month", "Two weeks"], "correctIndex": 1 },
+            { "question": "Yaoshang festivities in Manipur prominently feature a traditional folk dance and sport activity called what, played by young men and boys?", "options": ["Thabal Chongba (moonlight folk dance)", "Bhangra", "Garba", "Kathakali"], "correctIndex": 0 },
+            { "question": "Yaoshang traditionally begins with the ceremonial burning of a small hut made from what material?", "options": ["Straw and bamboo", "Cardboard", "Stone", "Plastic sheeting"], "correctIndex": 0 },
+            { "question": "Yaoshang has, in more recent times, also become closely intertwined with the promotion of which sport in Manipur, particularly among youth?", "options": ["Manipuri thang-ta (martial art) and sports events", "Cricket exclusively", "Formula racing", "Ice hockey"], "correctIndex": 0 }
+          ],
+          "summary": "Yaoshang, Manipur's vibrant regional take on Holi, unfolds over roughly five days, opening with the ceremonial burning of a small straw-and-bamboo hut symbolising the destruction of evil, before giving way to days of colour-throwing, folk performances, and communal festivity. Young men and boys traditionally engage in Thabal Chongba, a moonlit folk dance, alongside sporting and martial displays, including elements of Manipur's indigenous thang-ta martial art tradition, blending festive celebration with cultural pride in local heritage. Over recent decades, Yaoshang has also evolved into an occasion for promoting sports and youth engagement across the state, adding a modern civic dimension to a festival still rooted firmly in its traditional springtime origins."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d37_article_32",
+          "location": { "name": "Article 32 — Supreme Court of India, New Delhi", "lat": 28.6225, "lng": 77.2411 },
+          "questions": [
+            { "question": "Article 32 of the Constitution grants citizens the right to move which court directly for enforcement of Fundamental Rights?", "options": ["Any local magistrate court", "The Supreme Court", "Only a state High Court", "A village panchayat court"], "correctIndex": 1 },
+            { "question": "Dr. B.R. Ambedkar famously described Article 32 as what, emphasising its importance within the Constitution?", "options": ["An unnecessary formality", "The heart and soul of the Constitution", "A minor procedural clause", "A temporary provision meant to be removed later"], "correctIndex": 1 },
+            { "question": "Article 32 allows the Supreme Court to issue various types of what, to enforce Fundamental Rights?", "options": ["Executive orders", "Writs (such as habeas corpus, mandamus)", "Only fines", "Only advisory opinions"], "correctIndex": 1 },
+            { "question": "Unlike ordinary legal remedies, the right to approach the Supreme Court under Article 32 is itself considered what?", "options": ["An optional privilege granted only in special cases", "A Fundamental Right in itself", "Available only to government officials", "Applicable only during a national Emergency"], "correctIndex": 1 },
+            { "question": "During the 1975-77 Emergency, the right to move courts under Article 32 for certain rights was controversially what?", "options": ["Expanded further", "Suspended", "Left completely unaffected", "Transferred entirely to state courts"], "correctIndex": 1 }
+          ],
+          "summary": "Article 32 grants Indian citizens the right to approach the Supreme Court directly for enforcement of their Fundamental Rights, a provision Dr. B.R. Ambedkar, chief architect of the Constitution, famously described as its very 'heart and soul.' Under this article, the Supreme Court can issue various writs — including habeas corpus, mandamus, and certiorari — to protect individuals against unlawful detention or other rights violations, with the right to seek this remedy itself elevated to the status of a Fundamental Right. The provision's importance was starkly illustrated during the 1975-77 Emergency, when the government controversially suspended citizens' ability to invoke Article 32 for certain rights, a move widely criticised afterward as one of the period's most troubling assaults on constitutional safeguards."
+        },
+        {
+          "id": "pol_d37_uniform_civil_code_goa",
+          "location": { "name": "Uniform Civil Code — Goa", "lat": 15.2993, "lng": 74.1240 },
+          "questions": [
+            { "question": "A Uniform Civil Code refers to a single set of personal laws governing matters like marriage and inheritance, applicable equally to whom?", "options": ["Only government employees", "All citizens, regardless of religion", "Only citizens of a specific state", "Only unmarried individuals"], "correctIndex": 1 },
+            { "question": "Goa is often cited as India's only state to have implemented what, inherited from its pre-1961 colonial administration?", "options": ["A separate currency", "A Uniform Civil Code (the Goa Civil Code)", "An independent judiciary", "A separate constitution"], "correctIndex": 1 },
+            { "question": "Goa's Uniform Civil Code was originally introduced under which colonial power's administration, before Goa's integration into India?", "options": ["British", "Portuguese", "French", "Dutch"], "correctIndex": 1 },
+            { "question": "A Uniform Civil Code is mentioned as a goal under which part of the Indian Constitution, though not made a Fundamental Right?", "options": ["Fundamental Rights (Part III)", "Directive Principles of State Policy (Part IV)", "The Preamble alone", "It is not mentioned anywhere in the Constitution"], "correctIndex": 1 },
+            { "question": "Debates over introducing a nationwide Uniform Civil Code in India have historically centred on balancing legal uniformity against what other consideration?", "options": ["International trade regulations", "Religious and cultural diversity in personal law traditions", "Currency exchange rates", "Environmental regulations"], "correctIndex": 1 }
+          ],
+          "summary": "Goa stands as India's only state to implement a genuine Uniform Civil Code, a legacy inherited from its Portuguese colonial administration that applied a single set of personal laws on marriage, inheritance, and family matters equally to all residents regardless of religion, and which continued largely unchanged after Goa's integration into India in 1961. Elsewhere in the country, personal law remains largely governed by separate religious codes, and while the Constitution's Directive Principles envision a nationwide Uniform Civil Code as a goal, it has never been made a Fundamental Right or mandatory obligation, leaving its implementation a matter of ongoing political and social debate. Goa's example is frequently invoked in this broader national conversation, cited by proponents as proof of feasibility and by critics as a special historical circumstance not easily replicated across India's far more religiously and culturally diverse mainland."
+        },
+        {
+          "id": "pol_d37_ninth_schedule",
+          "location": { "name": "Ninth Schedule of the Constitution — New Delhi", "lat": 28.6160, "lng": 77.2090 },
+          "questions": [
+            { "question": "The Ninth Schedule of the Indian Constitution was originally created to protect certain laws from being challenged on grounds of violating what?", "options": ["Fundamental Rights", "International treaties", "State budgets", "Election rules"], "correctIndex": 0 },
+            { "question": "The Ninth Schedule was introduced through which constitutional amendment, the very first one passed after the Constitution's adoption?", "options": ["The First Amendment (1951)", "The 42nd Amendment", "The 44th Amendment", "The 73rd Amendment"], "correctIndex": 0 },
+            { "question": "Laws placed in the Ninth Schedule were originally intended primarily to shield which category of legislation from judicial challenge?", "options": ["Tax laws", "Land reform and zamindari abolition laws", "Election laws", "Banking regulations"], "correctIndex": 1 },
+            { "question": "In a landmark 2007 ruling, the Supreme Court held that laws placed in the Ninth Schedule after which earlier judgment could still be subject to judicial review if they violate the Basic Structure?", "options": ["The Kesavananda Bharati case (1973)", "The Golaknath case (1967)", "The Maneka Gandhi case", "The Shah Bano case"], "correctIndex": 0 },
+            { "question": "The Ninth Schedule has, over decades, grown to include a wide range of laws well beyond its original land-reform focus, an expansion critics argue reflects what pattern?", "options": ["A shrinking of legislative power over time", "Increasing government use of it to shield politically sensitive laws from court review", "No expansion has occurred at all", "Its complete abolition in the 1990s"], "correctIndex": 1 }
+          ],
+          "summary": "The Ninth Schedule, introduced through the very First Amendment to the Constitution in 1951, was originally designed to protect land reform and zamindari abolition laws from being struck down by courts on the grounds that they violated citizens' property rights, a real concern at the time given fierce legal challenges to early land redistribution efforts. Over subsequent decades, however, successive governments expanded the schedule to include a far broader range of laws, well beyond its original narrow purpose, a trend critics argued was increasingly used to shield politically sensitive legislation from judicial scrutiny altogether. The Supreme Court significantly curtailed this practice in a landmark 2007 ruling, holding that laws added to the Ninth Schedule after the 1973 Kesavananda Bharati judgment remain subject to judicial review if they violate the Constitution's Basic Structure, restoring an important judicial check on what had become an increasingly broad legislative shield."
+        },
+        {
+          "id": "pol_d37_money_bill",
+          "location": { "name": "Money Bill (Article 110) — Parliament, New Delhi", "lat": 28.6170, "lng": 77.2075 },
+          "questions": [
+            { "question": "Under Article 110, a Money Bill in Indian Parliament can only be introduced in which house?", "options": ["Rajya Sabha", "Lok Sabha", "Either house, at the government's discretion", "A joint sitting of both houses"], "correctIndex": 1 },
+            { "question": "A Money Bill typically deals primarily with matters relating to what?", "options": ["Foreign policy treaties", "Taxation, government borrowing, and expenditure from the Consolidated Fund", "Judicial appointments", "State boundary changes"], "correctIndex": 1 },
+            { "question": "Regarding a Money Bill, the Rajya Sabha's role is generally limited to what, unlike its power over ordinary legislation?", "options": ["Full amending and blocking power, identical to the Lok Sabha", "Only offering recommendations, which the Lok Sabha may accept or reject", "No role whatsoever, not even to see the bill", "The power to permanently veto it"], "correctIndex": 1 },
+            { "question": "The authority to decide whether a particular bill qualifies as a Money Bill rests with whom?", "options": ["The Rajya Sabha Chairman", "The Speaker of the Lok Sabha", "The President alone", "The Supreme Court, before any bill is introduced"], "correctIndex": 1 },
+            { "question": "The classification of certain bills as Money Bills has, in recent years, generated controversy when used for legislation seen by critics as extending beyond what should be considered purely what?", "options": ["Foreign policy matters", "Financial/fiscal matters, arguably bypassing fuller Rajya Sabha scrutiny", "Sports regulations", "Environmental policy exclusively"], "correctIndex": 1 }
+          ],
+          "summary": "Under Article 110 of the Constitution, a Money Bill — dealing with matters like taxation, government borrowing, and expenditure from the Consolidated Fund — can be introduced only in the Lok Sabha, with the Rajya Sabha's role limited to offering recommendations that the lower house may accept or reject, rather than exercising full amending power as it can with ordinary legislation. The crucial decision of whether a given bill qualifies as a Money Bill rests solely with the Speaker of the Lok Sabha, whose ruling on this classification is generally treated as final. In recent years, this classification power has become a source of political controversy, with critics arguing that some legislation with implications well beyond narrow fiscal matters has been controversially routed as Money Bills specifically to limit the Rajya Sabha's ability to scrutinise or block it."
+        },
+        {
+          "id": "pol_d37_financial_emergency",
+          "location": { "name": "Financial Emergency (Article 360) — New Delhi", "lat": 28.6143, "lng": 77.1994 },
+          "questions": [
+            { "question": "Article 360 of the Indian Constitution provides for the declaration of what type of Emergency?", "options": ["National Emergency", "State Emergency (President's Rule)", "Financial Emergency", "Military Emergency"], "correctIndex": 2 },
+            { "question": "A Financial Emergency under Article 360 can be declared if the President is satisfied that the financial stability or credit of India, or part of it, is threatened by what?", "options": ["A foreign invasion", "An economic crisis or threat to financial stability", "A religious conflict", "A natural disaster with no financial dimension"], "correctIndex": 1 },
+            { "question": "As of the present day, how many times has a Financial Emergency actually been declared in India since the Constitution came into effect?", "options": ["Never", "Once, in 1991", "Three times", "Every decade since independence"], "correctIndex": 0 },
+            { "question": "If declared, a Financial Emergency would give the Union government the power to direct states to observe what kind of measures?", "options": ["Financial propriety and reductions in salaries/allowances of government officials", "Only foreign policy alignment", "Only military conscription", "Only agricultural production targets"], "correctIndex": 0 },
+            { "question": "The fact that a Financial Emergency has never been invoked, despite India experiencing serious economic crises (such as in 1991), is often cited to illustrate what?", "options": ["That the provision is entirely symbolic and legally meaningless", "That other economic policy tools have generally been considered sufficient to address crises without resorting to this extreme constitutional measure", "That the Constitution does not actually contain this provision", "That courts have permanently banned its use"], "correctIndex": 1 }
+          ],
+          "summary": "Article 360 of the Constitution provides for the declaration of a Financial Emergency if the President is satisfied that India's financial stability or credit is under serious threat, granting the Union government sweeping powers to direct states on matters of financial propriety, including potentially reducing salaries of government officials. Remarkably, despite India experiencing several serious economic crises over the decades — most notably the severe balance-of-payments crisis of 1991 — a Financial Emergency has never actually been invoked, with governments instead relying on conventional fiscal and monetary policy tools, along with structural economic reforms, to navigate such periods. This unbroken non-use is often cited by constitutional scholars as evidence that, while the provision remains available as a genuine extreme measure, India's institutions and policymakers have consistently judged other available responses sufficient to address even severe economic challenges without resorting to this particular constitutional mechanism."
+        }
+      ]
+    }
+  }
+}

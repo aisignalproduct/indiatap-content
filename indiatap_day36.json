@@ -1,0 +1,326 @@
+{
+  "day": 36,
+  "date": "2026-11-05",
+  "categories": {
+    "INDIAN_GEOGRAPHY": {
+      "pins": [
+        {
+          "id": "geo_d36_achanakmar_tiger_reserve",
+          "location": { "name": "Achanakmar Tiger Reserve — Chhattisgarh", "lat": 22.4500, "lng": 81.7833 },
+          "questions": [
+            { "question": "Achanakmar Tiger Reserve is located in which Indian state?", "options": ["Madhya Pradesh", "Chhattisgarh", "Odisha", "Jharkhand"], "correctIndex": 1 },
+            { "question": "Achanakmar forms part of a larger biosphere reserve shared with which adjoining state's forest area?", "options": ["Maharashtra", "Madhya Pradesh (Amarkantak region)", "Odisha", "Uttar Pradesh"], "correctIndex": 1 },
+            { "question": "Achanakmar-Amarkantak Biosphere Reserve is significant partly because it lies near the source of which major Indian river?", "options": ["Godavari", "Narmada", "Krishna", "Kaveri"], "correctIndex": 1 },
+            { "question": "Achanakmar was declared a tiger reserve under Project Tiger in which decade?", "options": ["1970s", "1990s", "2000s", "2010s"], "correctIndex": 2 },
+            { "question": "The forests of Achanakmar are predominantly composed of which tree species, common across central India?", "options": ["Sal and teak forests", "Pine forests", "Coconut palm groves", "Mangrove forests"], "correctIndex": 0 }
+          ],
+          "summary": "Achanakmar Tiger Reserve in Chhattisgarh forms part of the Achanakmar-Amarkantak Biosphere Reserve, a significant conservation landscape that straddles the Chhattisgarh-Madhya Pradesh border near Amarkantak, revered as the source of the Narmada River. Declared a tiger reserve in the 2000s, Achanakmar's sal and teak forests support a modest but ecologically important tiger population alongside numerous other central Indian species. The reserve's location near such a culturally significant river source adds a layer of pilgrimage traffic and local reverence to a landscape otherwise defined by conservation efforts, occasionally creating friction between religious tourism and wildlife protection priorities."
+        },
+        {
+          "id": "geo_d36_great_nicobar_island",
+          "location": { "name": "Great Nicobar Island", "lat": 7.0281, "lng": 93.8489 },
+          "questions": [
+            { "question": "Great Nicobar Island is the southernmost island of which Indian territory?", "options": ["Lakshadweep", "Andaman and Nicobar Islands", "Puducherry's island territories", "Daman and Diu"], "correctIndex": 1 },
+            { "question": "Great Nicobar is home to which indigenous tribal community, among the more isolated groups in the Nicobar chain?", "options": ["Shompen and Nicobarese", "Sentinelese", "Jarawa", "Onge"], "correctIndex": 0 },
+            { "question": "Great Nicobar's Campbell Bay area was severely affected by which 2004 natural disaster?", "options": ["A cyclone", "The Indian Ocean tsunami", "A volcanic eruption", "A major earthquake with no tsunami"], "correctIndex": 1 },
+            { "question": "Great Nicobar is part of a UNESCO-designated Biosphere Reserve, recognising its significance for what?", "options": ["Desert ecosystems", "Tropical rainforest and marine biodiversity", "Alpine meadows", "Arid grasslands"], "correctIndex": 1 },
+            { "question": "In recent years, Great Nicobar has been the subject of significant debate over a proposed large-scale what, raising environmental concerns?", "options": ["Coal mining project", "Transhipment port and infrastructure development project", "Nuclear power plant", "Large dam construction"], "correctIndex": 1 }
+          ],
+          "summary": "Great Nicobar, the southernmost island in India's Andaman and Nicobar chain, is home to the Shompen and Nicobarese indigenous communities and forms part of a UNESCO Biosphere Reserve prized for its tropical rainforest and marine biodiversity. The island's Campbell Bay area suffered severe damage during the 2004 Indian Ocean tsunami, which struck the low-lying Nicobar Islands with particular ferocity given their proximity to the earthquake's epicentre. In recent years, a proposed large-scale infrastructure and transhipment port development on Great Nicobar has generated significant controversy, with environmentalists warning of severe risks to the island's fragile rainforest ecosystem and its vulnerable indigenous population."
+        },
+        {
+          "id": "geo_d36_araku_valley",
+          "location": { "name": "Araku Valley — Andhra Pradesh", "lat": 18.3273, "lng": 82.8737 },
+          "questions": [
+            { "question": "Araku Valley, in the Eastern Ghats, is particularly well known for cultivating which cash crop?", "options": ["Tea", "Coffee", "Cotton", "Rubber"], "correctIndex": 1 },
+            { "question": "Araku Valley is located in which Indian state?", "options": ["Odisha", "Andhra Pradesh", "Telangana", "Chhattisgarh"], "correctIndex": 1 },
+            { "question": "Araku Valley's coffee cultivation is notable for being grown primarily through what farming method?", "options": ["Large industrial monoculture plantations", "Organic farming by tribal smallholder farmers", "Hydroponic greenhouse systems", "Genetically modified crop trials"], "correctIndex": 1 },
+            { "question": "Araku Valley is home to a significant tribal population, with communities practising traditional agriculture in the surrounding what type of terrain?", "options": ["Coastal wetlands", "Hilly Eastern Ghats terrain", "Desert plains", "River delta floodplains"], "correctIndex": 1 },
+            { "question": "The scenic train journey to Araku Valley from Visakhapatnam is notable for passing through numerous what?", "options": ["Underwater tunnels", "Tunnels and bridges through the Eastern Ghats", "Desert crossings", "River ferry connections"], "correctIndex": 1 }
+          ],
+          "summary": "Araku Valley, tucked into the Eastern Ghats of Andhra Pradesh, has built a distinctive reputation around its organic coffee, grown largely by tribal smallholder farmers on the hilly terrain surrounding the valley, in contrast to the large industrial plantations more typical elsewhere. The valley is reached from Visakhapatnam via a scenic railway line threading through dozens of tunnels and bridges cut through the hills, a journey nearly as celebrated as the destination itself. Home to a significant tribal population maintaining traditional agricultural and cultural practices, Araku has increasingly leaned into eco-tourism and its coffee brand as complementary sources of livelihood alongside subsistence farming."
+        },
+        {
+          "id": "geo_d36_saputara",
+          "location": { "name": "Saputara — Gujarat", "lat": 20.5748, "lng": 73.7595 },
+          "questions": [
+            { "question": "Saputara is notable as Gujarat's only significant what, given the state's largely flat and coastal geography?", "options": ["Desert region", "Hill station", "Glacier", "Mangrove delta"], "correctIndex": 1 },
+            { "question": "Saputara is located in which range of hills?", "options": ["Aravalli Range", "Sahyadri (Western Ghats) Range", "Vindhya Range", "Satpura Range directly"], "correctIndex": 1 },
+            { "question": "The name 'Saputara' is often translated as what, reflecting local tribal folklore?", "options": ["Abode of serpents", "City of gold", "Valley of flowers", "Land of five rivers"], "correctIndex": 0 },
+            { "question": "Saputara is located within which district of Gujarat, known for its significant tribal population?", "options": ["Kutch district", "Dang district", "Surat district", "Junagadh district"], "correctIndex": 1 },
+            { "question": "Saputara's relatively cool climate compared to the rest of Gujarat is primarily due to what factor?", "options": ["Its coastal location", "Its elevation in the Sahyadri hills", "Ocean currents", "Artificial climate control systems"], "correctIndex": 1 }
+          ],
+          "summary": "Saputara stands as Gujarat's sole significant hill station, offering a cool climate retreat within the Sahyadri range in a state otherwise defined by coastline, desert, and flat agricultural plains. Located in Dang district, home to a substantial tribal population, the name Saputara is popularly linked to local folklore meaning 'abode of serpents,' reflecting indigenous tribal reverence for snake deities in the region. Though modest compared to more famous Indian hill stations, Saputara has grown as a regional tourist destination for Gujaratis and neighbouring Maharashtrians seeking cooler weather and forested scenery without the longer journey to the Himalayas or further south."
+        },
+        {
+          "id": "geo_d36_nagzira_wildlife_sanctuary",
+          "location": { "name": "Nagzira Wildlife Sanctuary — Maharashtra", "lat": 21.1500, "lng": 80.0833 },
+          "questions": [
+            { "question": "Nagzira Wildlife Sanctuary is located in which Indian state?", "options": ["Madhya Pradesh", "Maharashtra", "Chhattisgarh", "Telangana"], "correctIndex": 1 },
+            { "question": "Nagzira is often combined with a neighbouring sanctuary to form a joint conservation reserve. What is that neighbouring reserve called?", "options": ["Navegaon", "Tadoba", "Melghat", "Pench"], "correctIndex": 0 },
+            { "question": "The Nagzira-Navegaon landscape is known for its relatively pristine forest that inspired which noted Indian naturalist-writer's works?", "options": ["Jim Corbett", "Marutrao Chitampalli", "Salim Ali", "Kailash Sankhala"], "correctIndex": 1 },
+            { "question": "Nagzira Wildlife Sanctuary is notable for its diversity of habitat, ranging from dense forest to what other feature?", "options": ["Alpine meadows", "Numerous small lakes and water bodies", "Coastal mangroves", "Desert scrubland"], "correctIndex": 1 },
+            { "question": "Nagzira, though smaller and less famous than reserves like Tadoba, is valued by wildlife enthusiasts for offering a comparatively what kind of experience?", "options": ["Overcrowded, high-traffic safari experience", "Quieter, less crowded wildlife viewing experience", "Purely aquatic wildlife viewing only", "No wildlife viewing at all, historical site only"], "correctIndex": 1 }
+          ],
+          "summary": "Nagzira Wildlife Sanctuary in Maharashtra, often administered jointly with the neighbouring Navegaon reserve as the Nagzira-Navegaon Tiger Reserve, is celebrated for its scattering of small lakes woven through dense forest, creating varied habitat that supports a healthy diversity of wildlife despite the reserve's relatively modest size. The landscape inspired the writings of noted Marathi naturalist Marutrao Chitampalli, whose evocative accounts of the region's flora and fauna helped bring wider attention to a forest that had long remained comparatively obscure next to more famous Maharashtra reserves like Tadoba. Wildlife enthusiasts often favour Nagzira precisely for this lower profile, offering quieter, less congested safari experiences than the state's more heavily visited tiger reserves."
+        }
+      ]
+    },
+    "CULTURALS_LANDMARKS": {
+      "pins": [
+        {
+          "id": "cul_d36_chaturbhuj_temple_orchha",
+          "location": { "name": "Chaturbhuj Temple — Orchha, Madhya Pradesh", "lat": 25.3517, "lng": 78.6417 },
+          "questions": [
+            { "question": "Chaturbhuj Temple at Orchha was built under which regional dynasty?", "options": ["Bundela dynasty", "Chandela dynasty", "Solanki dynasty", "Rashtrakuta dynasty"], "correctIndex": 0 },
+            { "question": "Chaturbhuj Temple was originally constructed to enshrine an idol of which deity, though the idol was later moved elsewhere?", "options": ["Lord Shiva", "Lord Rama", "Lord Krishna", "Goddess Durga"], "correctIndex": 1 },
+            { "question": "According to local tradition, the Rama idol intended for Chaturbhuj Temple ended up being permanently installed instead at which nearby temple?", "options": ["Ram Raja Temple", "Lakshmi Narayan Temple", "Jahangir Mahal", "Betwa Temple"], "correctIndex": 0 },
+            { "question": "Chaturbhuj Temple's architecture is notable for blending temple design elements with features borrowed from what other type of structure?", "options": ["Fort/palace architecture", "Stepwell architecture", "Mosque architecture", "Colonial bungalow architecture"], "correctIndex": 0 },
+            { "question": "Orchha, home to Chaturbhuj Temple, is situated on the banks of which river?", "options": ["Chambal", "Betwa", "Ken", "Narmada"], "correctIndex": 1 }
+          ],
+          "summary": "Chaturbhuj Temple in Orchha, built by the Bundela rulers in the 16th century, was originally intended to house an idol of Lord Rama, but local legend holds that the queen who commissioned the temple kept the idol at her own residence until the temple's construction was complete — after which the idol reportedly could not be moved, and remains instead at the nearby Ram Raja Temple to this day. Chaturbhuj's imposing structure blends conventional temple design with fortress-like elements, including thick walls and a commanding elevated position, reflecting the turbulent political landscape of Bundelkhand at the time of its construction. Set on the banks of the Betwa River alongside Orchha's other Bundela-era palaces and cenotaphs, the temple remains an active, if architecturally unconventional, place of worship."
+        },
+        {
+          "id": "cul_d36_shaniwar_wada_pune",
+          "location": { "name": "Shaniwar Wada — Pune", "lat": 18.5195, "lng": 73.8553 },
+          "questions": [
+            { "question": "Shaniwar Wada in Pune was historically the seat of power for which political entity?", "options": ["The Mughal Empire", "The Peshwas of the Maratha Empire", "The British East India Company", "The Nizams of Hyderabad"], "correctIndex": 1 },
+            { "question": "Shaniwar Wada was originally constructed in which century?", "options": ["16th century", "18th century", "19th century", "20th century"], "correctIndex": 1 },
+            { "question": "Much of Shaniwar Wada's original structure was destroyed by a fire in which century, leaving mainly its outer walls and gates standing today?", "options": ["18th century, shortly after construction", "19th century", "20th century", "It remains fully intact today"], "correctIndex": 1 },
+            { "question": "Shaniwar Wada's main gate is famously studded with sharp iron spikes, a defensive feature designed to prevent what?", "options": ["Cavalry horse charges against the gate", "Elephant-assisted battering ram attacks", "Fire arrows", "Tunnelling underneath"], "correctIndex": 1 },
+            { "question": "Shaniwar Wada is associated with local legends and ghost stories connected to the mysterious death of which young Peshwa?", "options": ["Baji Rao I", "Narayanrao Peshwa", "Madhavrao I", "Balaji Baji Rao"], "correctIndex": 1 }
+          ],
+          "summary": "Shaniwar Wada, built in the early 18th century, served as the fortified seat of the Peshwas, the powerful hereditary prime ministers who effectively led the Maratha Empire for much of the 18th century, ruling from this Pune stronghold. A devastating fire in the 19th century destroyed most of the original wooden palace structures, leaving today's visitors mainly the imposing outer walls and elaborately spiked main gate, whose iron studs were specifically designed to deter elephant-led battering ram attacks. The fort is also steeped in local legend surrounding the mysterious 1773 murder of the young Peshwa Narayanrao within its walls, an event still associated in local folklore with ghostly cries said to echo through the ruins on certain nights."
+        },
+        {
+          "id": "cul_d36_st_thomas_basilica_chennai",
+          "location": { "name": "San Thome Basilica — Chennai", "lat": 13.0336, "lng": 80.2775 },
+          "questions": [
+            { "question": "San Thome Basilica in Chennai is built over the believed burial site of which apostle of Jesus Christ?", "options": ["St. Peter", "St. Thomas", "St. Paul", "St. John"], "correctIndex": 1 },
+            { "question": "San Thome Basilica holds a rare distinction of being one of only how many churches in the world built over the tomb of an apostle?", "options": ["Two", "Three", "Five", "Ten"], "correctIndex": 1 },
+            { "question": "The current Gothic-style structure of San Thome Basilica was built primarily during which colonial period?", "options": ["Dutch colonial period", "Portuguese colonial period, later rebuilt by the British", "French colonial period", "Danish colonial period"], "correctIndex": 1 },
+            { "question": "According to Christian tradition, St. Thomas is believed to have arrived in India in which century CE, making Indian Christianity remarkably ancient?", "options": ["1st century CE", "5th century CE", "10th century CE", "15th century CE"], "correctIndex": 0 },
+            { "question": "San Thome Basilica was elevated to the status of a minor basilica by which authority?", "options": ["The Archbishop of Canterbury", "The Pope (Vatican)", "The Indian Parliament", "The local state government"], "correctIndex": 1 }
+          ],
+          "summary": "San Thome Basilica in Chennai stands over what is traditionally venerated as the tomb of St. Thomas the Apostle, who according to long-standing Christian tradition arrived on India's shores in the 1st century CE, making Indian Christianity one of the oldest continuous Christian traditions anywhere outside the Holy Land. The basilica holds the rare distinction of being one of only three churches in the world built directly over an apostle's burial site, alongside St. Peter's Basilica in Rome and Santiago de Compostela in Spain. Its current neo-Gothic structure, rebuilt by the British in the late 19th century atop earlier Portuguese-era foundations, was later elevated to the formal status of a minor basilica by the Vatican, cementing its significance within global Catholic heritage."
+        },
+        {
+          "id": "cul_d36_bibi_ka_maqbara",
+          "location": { "name": "Bibi Ka Maqbara — Aurangabad", "lat": 19.9089, "lng": 75.3210 },
+          "questions": [
+            { "question": "Bibi Ka Maqbara is popularly nicknamed what, due to its strong resemblance to a more famous Mughal monument?", "options": ["Mini Red Fort", "Mini Taj Mahal (Dakkhani Taj)", "Little Fatehpur Sikri", "Small Humayun's Tomb"], "correctIndex": 1 },
+            { "question": "Bibi Ka Maqbara was built by which Mughal emperor, in memory of his mother?", "options": ["Shah Jahan", "Aurangzeb (or his son, depending on account)", "Akbar", "Jahangir"], "correctIndex": 1 },
+            { "question": "Unlike the Taj Mahal, Bibi Ka Maqbara used marble only for which limited part of the structure, due to budget constraints?", "options": ["Only the main dome and lower plinth", "The entire structure fully in marble", "No marble was used at all", "Only the interior floor tiles"], "correctIndex": 0 },
+            { "question": "Bibi Ka Maqbara is located in which Maharashtra city?", "options": ["Nagpur", "Aurangabad", "Nashik", "Pune"], "correctIndex": 1 },
+            { "question": "Bibi Ka Maqbara was constructed in which century, notably later than the Taj Mahal it emulates?", "options": ["16th century", "17th century (late)", "19th century", "20th century"], "correctIndex": 1 }
+          ],
+          "summary": "Bibi Ka Maqbara, built in the late 17th century as a tomb for the mother of Emperor Aurangzeb, deliberately echoes the Taj Mahal's design so closely that it has earned the popular nickname 'Mini Taj' or 'Dakkhani Taj.' Constructed under Aurangzeb's notably more austere and cost-conscious reign compared to his father Shah Jahan's lavish building projects, the monument used costly marble only for its central dome and lower plinth, relying on plastered basalt and other cheaper materials for the rest of the structure. Located in Aurangabad, the mausoleum stands as a telling architectural footnote to Mughal history — a clear homage to the Taj Mahal's grandeur, built with a fraction of its predecessor's budget and, consequently, a fraction of its lasting fame."
+        },
+        {
+          "id": "cul_d36_padmanabhapuram_palace",
+          "location": { "name": "Padmanabhapuram Palace — Tamil Nadu (Kerala Border)", "lat": 8.2461, "lng": 77.3242 },
+          "questions": [
+            { "question": "Padmanabhapuram Palace was the historic seat of which former princely kingdom?", "options": ["Cochin", "Travancore", "Mysore", "Pudukkottai"], "correctIndex": 1 },
+            { "question": "Padmanabhapuram Palace is built predominantly using which traditional building material, unusual for a palace of its scale?", "options": ["White marble", "Wood, in traditional Kerala architectural style", "Steel and glass", "Red sandstone"], "correctIndex": 1 },
+            { "question": "Although located geographically within Tamil Nadu today, Padmanabhapuram Palace is administered and maintained by which neighbouring state's government?", "options": ["Tamil Nadu", "Kerala", "Karnataka", "It is jointly unmanaged"], "correctIndex": 1 },
+            { "question": "Padmanabhapuram Palace features an intricately carved ceiling in one hall made from how many different types of wood?", "options": ["A single type of wood", "Around 60 types of wood", "Only teak and rosewood", "No wood, only stone carving"], "correctIndex": 1 },
+            { "question": "This unusual cross-border administrative arrangement for Padmanabhapuram Palace arose primarily due to what historical event?", "options": ["A colonial-era treaty with no lasting relevance", "Post-independence state boundary reorganisation separating the palace from Travancore's historical core", "A recent 21st-century land swap agreement", "A religious dispute settlement"], "correctIndex": 1 }
+          ],
+          "summary": "Padmanabhapuram Palace, the historic seat of the Travancore kingdom, sits in an unusual cross-border arrangement: though geographically located within present-day Tamil Nadu following post-independence state boundary reorganisation, it remains administered by the Kerala government, reflecting its deep historical ties to Travancore rather than the modern state lines drawn around it. Built almost entirely from wood in traditional Kerala architectural style, the palace showcases remarkable craftsmanship, including one hall with an intricately carved ceiling using an estimated 60 different types of wood, each contributing subtly different grain and colour to the overall design. As one of the largest and best-preserved wooden palace complexes in Asia, Padmanabhapuram offers a rare, intimate glimpse into pre-colonial South Indian royal life and architecture."
+        }
+      ]
+    },
+    "ECONOMY_INFRASTRUCTURE": {
+      "pins": [
+        {
+          "id": "eco_d36_kudremukh_iron_ore",
+          "location": { "name": "Kudremukh Iron Ore Mines — Karnataka", "lat": 13.2167, "lng": 75.2667 },
+          "questions": [
+            { "question": "Kudremukh in Karnataka was historically significant for the mining of which mineral?", "options": ["Bauxite", "Iron ore", "Coal", "Copper"], "correctIndex": 1 },
+            { "question": "Kudremukh Iron Ore Company Limited (KIOCL) mining operations were eventually halted primarily due to concerns over what?", "options": ["Falling global iron ore prices only", "Environmental damage within a protected forest/wildlife area", "Labour disputes", "Currency devaluation"], "correctIndex": 1 },
+            { "question": "Kudremukh's name, meaning 'horse face,' refers to the distinctive shape of what natural feature in the region?", "options": ["A river bend", "A mountain peak", "A cave formation", "A waterfall"], "correctIndex": 1 },
+            { "question": "Following the mining shutdown, the Kudremukh region has increasingly been managed for what alternate primary purpose?", "options": ["Urban residential development", "Wildlife conservation as a national park", "Large-scale agriculture", "Military training grounds"], "correctIndex": 1 },
+            { "question": "Kudremukh's iron ore, when mining was active, was primarily processed and exported through which nearby port?", "options": ["Mangalore (New Mangalore Port)", "Chennai Port", "Kandla Port", "Visakhapatnam Port"], "correctIndex": 0 }
+          ],
+          "summary": "Kudremukh, named for a peak whose silhouette resembles a horse's face, was once home to significant iron ore mining operations run by the public sector Kudremukh Iron Ore Company, with output exported through nearby New Mangalore Port. Mounting evidence of serious environmental damage to the surrounding forest and the Bhadra River ecosystem, situated within a designated wildlife sanctuary, eventually led the Supreme Court to order a phased shutdown of mining operations in the early 2000s. Since then, the Kudremukh region has been increasingly oriented toward conservation as part of a national park, illustrating a rare instance in India where large-scale industrial mining was deliberately wound down in favour of ecological restoration."
+        },
+        {
+          "id": "eco_d36_hindustan_zinc_udaipur",
+          "location": { "name": "Hindustan Zinc — Udaipur, Rajasthan", "lat": 24.5854, "lng": 73.7125 },
+          "questions": [
+            { "question": "Hindustan Zinc Limited, headquartered near Udaipur, is primarily engaged in the mining and production of which metals?", "options": ["Gold and silver only", "Zinc, lead, and silver", "Copper and aluminium", "Iron and steel"], "correctIndex": 1 },
+            { "question": "Hindustan Zinc operates mines in the Zawar and Rampura Agucha areas, both located in which Indian state?", "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Maharashtra"], "correctIndex": 1 },
+            { "question": "Hindustan Zinc was originally a public sector company before undergoing privatisation, with which conglomerate acquiring a majority stake?", "options": ["Tata Group", "Vedanta Group", "Adani Group", "Reliance Group"], "correctIndex": 1 },
+            { "question": "India's zinc-mining history in the Zawar area near Udaipur is notably ancient, with evidence of zinc smelting dating back roughly how many centuries?", "options": ["A few decades", "Around 4-5 centuries", "Over a thousand years", "Only since the 20th century"], "correctIndex": 2 },
+            { "question": "Rampura Agucha, one of Hindustan Zinc's key mines, is considered among the world's largest sources of which specific metal?", "options": ["Gold", "Zinc", "Platinum", "Uranium"], "correctIndex": 1 }
+          ],
+          "summary": "Hindustan Zinc, headquartered near Udaipur, operates some of the world's most significant zinc, lead, and silver mining and smelting operations, including the massive Rampura Agucha mine, among the largest zinc deposits globally. Remarkably, zinc smelting in the nearby Zawar area dates back over a thousand years, with archaeological evidence suggesting ancient Indian metallurgists had developed distillation techniques for extracting zinc centuries before similar methods emerged in Europe. Originally a public sector enterprise, Hindustan Zinc was privatised in the early 2000s, with the Vedanta Group acquiring a majority stake, transforming it into one of the most profitable metals and mining businesses in the country."
+        },
+        {
+          "id": "eco_d36_rawatbhata_atomic_power",
+          "location": { "name": "Rajasthan Atomic Power Station — Rawatbhata", "lat": 24.8833, "lng": 75.5833 },
+          "questions": [
+            { "question": "Rajasthan Atomic Power Station at Rawatbhata was India's what, in terms of nuclear plant sequence?", "options": ["First nuclear power station", "Second nuclear power station", "Newest nuclear power station", "Only research reactor, not a power station"], "correctIndex": 1 },
+            { "question": "Rawatbhata's original reactor units were built with technical collaboration from which country, similar to Canada's CANDU design?", "options": ["United States", "Canada", "Soviet Union", "France"], "correctIndex": 1 },
+            { "question": "Rajasthan Atomic Power Station is situated near which water body, used for cooling purposes?", "options": ["Rana Pratap Sagar reservoir", "Chambal River delta", "Sambhar Salt Lake", "Pichola Lake"], "correctIndex": 0 },
+            { "question": "Rawatbhata's reactors primarily use which type of nuclear technology, common across many of India's domestically built plants?", "options": ["Boiling Water Reactor", "Pressurised Heavy Water Reactor (PHWR)", "Fast Breeder Reactor exclusively", "Light water reactor of Russian design only"], "correctIndex": 1 },
+            { "question": "As with Tarapur, India's early nuclear cooperation for plants like Rawatbhata was affected by international restrictions following what 1974 event?", "options": ["India's first nuclear weapons test", "A major nuclear accident", "A change in India's government", "A UN Security Council resolution unrelated to nuclear matters"], "correctIndex": 0 }
+          ],
+          "summary": "Rajasthan Atomic Power Station at Rawatbhata, India's second nuclear power plant, began with Canadian collaboration on its earliest reactor units, drawing on Pressurised Heavy Water Reactor technology similar to Canada's CANDU design. The plant draws cooling water from the nearby Rana Pratap Sagar reservoir on the Chambal River, and, like Tarapur, later saw its international technical partnerships curtailed following India's first nuclear weapons test in 1974, which triggered global restrictions on nuclear trade with India. Despite these early setbacks, Rawatbhata's PHWR design became the template India relied on heavily for the many additional domestically built reactors that followed at other sites across the country in subsequent decades."
+        },
+        {
+          "id": "eco_d36_krishnapatnam_port",
+          "location": { "name": "Krishnapatnam Port — Andhra Pradesh", "lat": 14.2500, "lng": 80.1167 },
+          "questions": [
+            { "question": "Krishnapatnam Port is a relatively modern, deep-water port developed primarily as what kind of venture?", "options": ["A fully government-run port with no private involvement", "A public-private partnership port", "A purely foreign-owned enclave", "A naval-only facility"], "correctIndex": 1 },
+            { "question": "Krishnapatnam Port is located on which coast of India?", "options": ["West coast", "East coast (Andhra Pradesh)", "Southern tip only", "Northeast river delta"], "correctIndex": 1 },
+            { "question": "Krishnapatnam Port has grown to become a significant hub for handling which type of bulk cargo, among others?", "options": ["Only passenger cruise traffic", "Coal, iron ore, and containers", "Only fishing catch", "Only livestock export"], "correctIndex": 1 },
+            { "question": "Krishnapatnam Port's development is often cited as an example of India's push toward what kind of port infrastructure model in more recent decades?", "options": ["Exclusively state-owned ports with no competition", "Non-major ports developed with significant private investment", "Fully foreign-government-owned ports", "River-only inland ports"], "correctIndex": 1 },
+            { "question": "Krishnapatnam Port's deep draft allows it to accommodate larger vessels compared to some older, shallower Indian ports, an advantage particularly useful for what?", "options": ["Small fishing boats only", "Handling large bulk carriers and bigger container ships", "Only ceremonial naval vessels", "Only recreational yachts"], "correctIndex": 1 }
+          ],
+          "summary": "Krishnapatnam Port on Andhra Pradesh's east coast exemplifies India's more recent push toward developing 'non-major' ports through public-private partnerships, offering a deep-water draft capable of accommodating larger bulk carriers and container ships than many of the country's older, shallower harbours. Since becoming operational in the 2000s, it has rapidly grown into a significant hub for coal, iron ore, and containerised cargo, serving industries across Andhra Pradesh and neighbouring states. Its rise reflects a broader shift in Indian port policy over recent decades, encouraging private capital and modern infrastructure investment to supplement the capacity of India's older, traditionally state-run major ports."
+        },
+        {
+          "id": "eco_d36_hitec_city_hyderabad",
+          "location": { "name": "HITEC City — Hyderabad", "lat": 17.4483, "lng": 78.3915 },
+          "questions": [
+            { "question": "HITEC City in Hyderabad was developed starting in the 1990s primarily to promote which industry?", "options": ["Textile manufacturing", "Information technology and technology services", "Automobile assembly", "Pharmaceutical manufacturing exclusively"], "correctIndex": 1 },
+            { "question": "HITEC City's development is closely associated with the vision of which former Andhra Pradesh Chief Minister, who championed the state's IT push?", "options": ["N.T. Rama Rao", "Chandrababu Naidu", "Y.S. Rajasekhara Reddy", "K. Chandrashekar Rao"], "correctIndex": 1 },
+            { "question": "HITEC City stands for what expansion of the acronym?", "options": ["Hyderabad Information Technology and Engineering Consultancy City", "Hindustan International Technology and Electronics City", "Highly Integrated Technology and Electronics Cluster", "High-tech Industrial and Trade Enterprise City"], "correctIndex": 0 },
+            { "question": "HITEC City helped establish Hyderabad's popular nickname reflecting its tech ambitions, styled after Bengaluru's own moniker. What is this nickname?", "options": ["Genome Valley", "Cyberabad", "Digital Deccan", "Tech Nagar"], "correctIndex": 1 },
+            { "question": "HITEC City has attracted a significant presence of major global technology companies, contributing to Hyderabad's growth as what kind of employment hub?", "options": ["A purely agricultural processing hub", "A major IT and business process outsourcing employment hub", "A mining and minerals hub", "A tourism-only hub"], "correctIndex": 1 }
+          ],
+          "summary": "HITEC City, developed from the 1990s under the vision of then-Chief Minister Chandrababu Naidu, transformed Hyderabad into a major information technology destination, earning the city its popular nickname 'Cyberabad' in a nod to Bengaluru's own tech-hub reputation. Standing for Hyderabad Information Technology and Engineering Consultancy City, the development attracted a substantial cluster of both Indian and global technology companies, helping diversify a regional economy that had historically leaned more on its identity as the seat of the Nizams and a centre for pearls and traditional craftsmanship. HITEC City's success has since made it a template frequently cited when other Indian states discuss strategies for attracting large-scale technology sector investment."
+        }
+      ]
+    },
+    "EVENTS_IDENTITY": {
+      "pins": [
+        {
+          "id": "evt_d36_moatsu_nagaland",
+          "location": { "name": "Moatsu Festival — Nagaland", "lat": 26.3467, "lng": 94.1086 },
+          "questions": [
+            { "question": "Moatsu Festival is celebrated by which Naga tribal community?", "options": ["Konyak", "Ao", "Angami", "Sumi"], "correctIndex": 1 },
+            { "question": "Moatsu is celebrated following the completion of which agricultural task?", "options": ["Harvesting of crops", "Sowing of seeds", "Land clearing before sowing", "Cattle branding season"], "correctIndex": 1 },
+            { "question": "Moatsu Festival provides the Ao community a period primarily for what activity, after intensive farm labour?", "options": ["Rest, feasting, and celebration", "Warfare training", "Long-distance trade expeditions", "Religious fasting"], "correctIndex": 0 },
+            { "question": "Moatsu celebrations typically feature communal singing and dancing alongside what other traditional activity?", "options": ["Communal feasting with rice beer", "Formal court proceedings", "Silent meditation retreats", "Academic examinations"], "correctIndex": 0 },
+            { "question": "The Ao tribe, who celebrate Moatsu, is concentrated primarily in which district of Nagaland?", "options": ["Mokokchung district", "Mon district", "Kohima district", "Dimapur district"], "correctIndex": 0 }
+          ],
+          "summary": "Moatsu Festival, celebrated by the Ao Naga community centred in Nagaland's Mokokchung district, marks a well-earned break following the arduous work of sowing seeds for the new agricultural season. The festival is a time of communal rest and celebration, with villagers gathering for feasting, traditional songs, dances, and the sharing of rice beer, strengthening social bonds after weeks of intensive farm labour. Like many Naga tribal festivals tied closely to the agricultural calendar, Moatsu reflects a broader pattern across the region's diverse communities, each observing its own distinct seasonal rituals shaped by generations of subsistence farming practices in the hilly terrain of Nagaland."
+        },
+        {
+          "id": "evt_d36_ziro_festival_arunachal",
+          "location": { "name": "Ziro Festival of Music — Arunachal Pradesh", "lat": 27.5833, "lng": 93.8333 },
+          "questions": [
+            { "question": "The Ziro Festival of Music is held annually in the Ziro Valley, home to which indigenous community?", "options": ["Nyishi", "Apatani", "Adi", "Monpa"], "correctIndex": 1 },
+            { "question": "Unlike most traditional festivals covered in this category, the Ziro Festival of Music is primarily what kind of modern event?", "options": ["An ancient harvest ritual with no modern elements", "A contemporary independent/indie music festival", "A purely religious pilgrimage", "A political rally"], "correctIndex": 1 },
+            { "question": "The Ziro Valley, where the festival is held, is recognised for its unique traditional what, practised by the Apatani community?", "options": ["Sustainable wet-rice cultivation and fish farming system", "Desert irrigation technique", "Nomadic yak herding", "Deep-sea fishing tradition"], "correctIndex": 0 },
+            { "question": "The Ziro Festival of Music, first held in the early 2010s, has helped promote Arunachal Pradesh as a destination for what kind of tourism?", "options": ["Purely religious pilgrimage tourism", "Cultural and music-based tourism", "Industrial tourism", "Medical tourism"], "correctIndex": 1 },
+            { "question": "Ziro Valley has been proposed for UNESCO World Heritage status primarily due to its distinctive what?", "options": ["Volcanic rock formations", "Cultural landscape and traditional agricultural practices", "Coral reef systems", "Desert dune formations"], "correctIndex": 1 }
+          ],
+          "summary": "The Ziro Festival of Music, first held in 2012, brought a distinctly modern cultural event to the Ziro Valley, home to the Apatani community renowned for a remarkably sustainable traditional farming system that integrates wet-rice cultivation with fish farming in the same paddy fields. Unlike the region's older ritual and harvest festivals, Ziro Festival is a contemporary independent music gathering that has quickly grown into one of India's most distinctive outdoor music events, drawing bands and audiences from across the country to this remote Himalayan valley. The valley's unique cultural landscape, shaped by generations of Apatani agricultural ingenuity, has also been proposed for UNESCO World Heritage recognition, adding conservation stakes to a region increasingly drawing both music fans and heritage tourists alike."
+        },
+        {
+          "id": "evt_d36_sangai_festival_manipur",
+          "location": { "name": "Sangai Festival — Manipur", "lat": 24.8170, "lng": 93.9368 },
+          "questions": [
+            { "question": "The Sangai Festival, organised by the Manipur government, is named after which endangered animal native to the state?", "options": ["The Sangai (brow-antlered deer)", "The Manipuri pony", "The one-horned rhinoceros", "The red panda"], "correctIndex": 0 },
+            { "question": "The Sangai Festival primarily serves as a platform to showcase what, promoting tourism in Manipur?", "options": ["Only agricultural produce", "Manipur's art, culture, cuisine, sports, and handicrafts", "Only military parades", "Only industrial products"], "correctIndex": 1 },
+            { "question": "The Sangai deer, after which the festival is named, is found in the wild almost exclusively within which protected area?", "options": ["Keibul Lamjao National Park", "Kaziranga National Park", "Manas National Park", "Nokrek National Park"], "correctIndex": 0 },
+            { "question": "The Sangai Festival typically includes competitive matches or demonstrations of Manipur's indigenous sport related to polo, called what?", "options": ["Sagol Kangjei (Manipuri polo)", "Kabaddi", "Mallakhamba", "Kalaripayattu"], "correctIndex": 0 },
+            { "question": "The Sangai Festival is generally held around which time of year?", "options": ["Late November to early December", "March-April", "Peak monsoon (July)", "January"], "correctIndex": 0 }
+          ],
+          "summary": "Manipur's Sangai Festival, named after the state's endangered brow-antlered deer found almost exclusively in Keibul Lamjao National Park within Loktak Lake, is a government-organised celebration held each winter to showcase the state's rich cultural, culinary, and sporting heritage to a wider audience. The festival typically features demonstrations of Sagol Kangjei, the indigenous Manipuri sport widely considered an ancestor of modern polo, alongside traditional dance performances, craft exhibitions, and local cuisine stalls. As much a tourism promotion initiative as a cultural celebration, Sangai Festival has grown into one of Northeast India's more prominent state-sponsored events, aiming to draw visitors to a region historically underrepresented on India's mainstream tourist circuit."
+        },
+        {
+          "id": "evt_d36_karthika_deepam",
+          "location": { "name": "Karthika Deepam — Thiruvannamalai, Tamil Nadu", "lat": 12.2253, "lng": 79.0747 },
+          "questions": [
+            { "question": "Karthika Deepam is a festival of lights primarily celebrated in which two South Indian states?", "options": ["Kerala and Karnataka", "Tamil Nadu and Andhra Pradesh", "Odisha and West Bengal", "Maharashtra and Gujarat"], "correctIndex": 1 },
+            { "question": "Thiruvannamalai's Karthika Deepam celebrations are centred on lighting a massive lamp atop which sacred hill?", "options": ["Arunachala Hill", "Chamundi Hill", "Nandi Hills", "Palani Hills"], "correctIndex": 0 },
+            { "question": "The giant lamp lit atop Arunachala Hill during Karthika Deepam is fuelled by a large quantity of what?", "options": ["Ghee and camphor", "Diesel", "Coal", "Vegetable oil only"], "correctIndex": 0 },
+            { "question": "Karthika Deepam at Thiruvannamalai is closely associated with the worship of which deity, particularly in the form of a fire manifestation?", "options": ["Vishnu", "Shiva (as Arunachaleswara/Agni Lingam)", "Brahma", "Ganesha"], "correctIndex": 1 },
+            { "question": "Karthika Deepam typically falls during which lunar month in the Hindu calendar?", "options": ["Kartik (October-November)", "Chaitra (March-April)", "Ashada (July-August)", "Magha (January-February)"], "correctIndex": 0 }
+          ],
+          "summary": "Karthika Deepam, celebrated with particular grandeur at Thiruvannamalai in Tamil Nadu, culminates in the lighting of an enormous lamp atop sacred Arunachala Hill, fuelled by thousands of litres of ghee and camphor, visible for miles across the surrounding plains. The festival honours Shiva in his form as a manifestation of fire at Arunachala, one of the five elemental Shiva shrines of South India representing the element of fire itself. Falling during the Tamil month of Karthikai, the festival draws enormous crowds who undertake a ritual circumambulation of the entire hill, known as Girivalam, blending physical devotion with the visual spectacle of the mountain crowned in flame each year."
+        },
+        {
+          "id": "evt_d36_nabanna_west_bengal",
+          "location": { "name": "Nabanna — West Bengal", "lat": 23.2500, "lng": 87.8500 },
+          "questions": [
+            { "question": "Nabanna is primarily a festival celebrating which agricultural milestone in rural Bengal?", "options": ["The sowing of new seeds", "The harvest of new rice", "The digging of new wells", "The planting of new orchards"], "correctIndex": 1 },
+            { "question": "The word 'Nabanna' literally translates to roughly what, referring to the festival's central ritual?", "options": ["New Year", "New rice/new food", "New Moon", "New Home"], "correctIndex": 1 },
+            { "question": "Nabanna celebrations traditionally include offering freshly harvested rice to which recipients, before it is consumed by the family?", "options": ["Deities and ancestors first", "Only livestock", "Only visiting merchants", "Only the local landlord"], "correctIndex": 0 },
+            { "question": "Nabanna typically falls during which season, coinciding with the paddy harvest in Bengal?", "options": ["Late autumn/early winter", "Peak summer", "Early monsoon", "Late spring"], "correctIndex": 0 },
+            { "question": "Nabanna shares thematic similarities with harvest festivals in other Indian regions, such as Pongal in Tamil Nadu, in that both primarily celebrate what?", "options": ["A royal coronation", "Thanksgiving for a successful harvest", "A military victory", "A religious pilgrimage completion"], "correctIndex": 1 }
+          ],
+          "summary": "Nabanna, celebrated in rural Bengal at the close of the paddy harvest, centres on the ritual offering of freshly reaped rice to household deities and ancestors before the new grain is cooked and shared among family and community members. The festival's name, literally meaning 'new rice,' reflects agrarian Bengal's deep cultural reverence for the harvest, echoing similar thanksgiving traditions found in other rice-growing regions of India, from Tamil Nadu's Pongal to Assam's Bihu. Though less internationally known than some of Bengal's other festivals, Nabanna remains a cherished, community-rooted observance in many villages, connecting contemporary families to generations of agricultural tradition and gratitude for a successful season's yield."
+        }
+      ]
+    },
+    "POLITY": {
+      "pins": [
+        {
+          "id": "pol_d36_fundamental_duties",
+          "location": { "name": "Fundamental Duties (Article 51A) — New Delhi", "lat": 28.6139, "lng": 77.2090 },
+          "questions": [
+            { "question": "Fundamental Duties were added to the Indian Constitution through which amendment?", "options": ["The 42nd Amendment (1976)", "The 44th Amendment", "The 73rd Amendment", "The 101st Amendment"], "correctIndex": 0 },
+            { "question": "Fundamental Duties are listed under which article of the Constitution?", "options": ["Article 19", "Article 51A", "Article 32", "Article 370"], "correctIndex": 1 },
+            { "question": "Unlike Fundamental Rights, Fundamental Duties are generally considered to be what, in terms of legal enforceability?", "options": ["Directly enforceable in court like Fundamental Rights", "Non-justiciable moral/civic obligations, not directly enforceable", "Automatically punishable by law if violated", "Applicable only to government employees"], "correctIndex": 1 },
+            { "question": "One of the Fundamental Duties specifically asks citizens to develop what quality, alongside a spirit of common brotherhood?", "options": ["Scientific temper and humanism", "Only religious devotion", "Only military discipline", "Only economic ambition"], "correctIndex": 0 },
+            { "question": "Fundamental Duties were originally proposed based on recommendations from a committee inspired partly by the constitutional traditions of which country?", "options": ["The United States", "The Soviet Union (USSR)", "The United Kingdom", "Australia"], "correctIndex": 1 }
+          ],
+          "summary": "Fundamental Duties were introduced into the Indian Constitution through the 42nd Amendment in 1976, listed under Article 51A, drawing partial inspiration from constitutional traditions such as that of the Soviet Union, which similarly enumerated civic duties alongside rights. Unlike Fundamental Rights, these duties are non-justiciable, meaning citizens cannot be directly penalised through courts for failing to uphold them, functioning instead as moral and civic guidelines — ranging from respecting the Constitution and national symbols to developing 'scientific temper, humanism, and the spirit of inquiry.' Though largely aspirational in legal terms, Fundamental Duties are periodically invoked in public discourse and occasionally referenced by courts when interpreting the broader spirit of citizens' responsibilities within India's constitutional framework."
+        },
+        {
+          "id": "pol_d36_directive_principles",
+          "location": { "name": "Directive Principles of State Policy — New Delhi", "lat": 28.6145, "lng": 77.2085 },
+          "questions": [
+            { "question": "The Directive Principles of State Policy are contained in which Part of the Indian Constitution?", "options": ["Part III", "Part IV", "Part V", "Part XX"], "correctIndex": 1 },
+            { "question": "Directive Principles are intended to guide the government in policy-making toward what broad goal?", "options": ["Maximising short-term tax revenue only", "Establishing social and economic democracy/welfare", "Strengthening only the armed forces", "Only promoting foreign trade"], "correctIndex": 1 },
+            { "question": "Unlike Fundamental Rights, Directive Principles are generally considered to be what, regarding direct enforcement in courts?", "options": ["Directly enforceable and justiciable", "Non-justiciable, though 'fundamental in governance'", "Enforceable only by the military", "Enforceable only in international courts"], "correctIndex": 1 },
+            { "question": "Directive Principles were said to be inspired significantly by the Constitution of which country, particularly its non-binding guiding principles?", "options": ["Ireland", "Canada", "Japan", "South Africa"], "correctIndex": 0 },
+            { "question": "Examples of Directive Principles include provisions urging the state to work toward what, among other socio-economic goals?", "options": ["Uniform civil code and equal pay for equal work", "Only military expansion", "Only currency stability", "Only foreign policy alignment with specific nations"], "correctIndex": 0 }
+          ],
+          "summary": "The Directive Principles of State Policy, laid out in Part IV of the Constitution and inspired significantly by Ireland's constitutional model, set out broad socio-economic goals intended to guide government policy-making toward social and economic democracy, even though they are non-justiciable and cannot be directly enforced through the courts. Among the wide array of principles are calls for a uniform civil code, equal pay for equal work, and the promotion of village panchayats, reflecting the framers' aspirations for a welfare-oriented state extending well beyond the narrower guarantees of Fundamental Rights. While courts cannot compel governments to implement Directive Principles directly, they have frequently been invoked to help interpret the broader spirit and purpose behind related legislation and policy over the decades."
+        },
+        {
+          "id": "pol_d36_governor_role",
+          "location": { "name": "Raj Bhavan — Chennai, Tamil Nadu", "lat": 13.0674, "lng": 80.2830 },
+          "questions": [
+            { "question": "The Governor of an Indian state is appointed by whom?", "options": ["The state's Chief Minister", "The President of India", "The state Legislative Assembly by vote", "The Prime Minister directly, with no presidential role"], "correctIndex": 1 },
+            { "question": "The Governor's official residence in a state capital is typically referred to by what name?", "options": ["Raj Bhavan", "Rashtrapati Bhavan", "Vidhan Sabha", "Sachivalaya"], "correctIndex": 0 },
+            { "question": "The Governor's role is generally considered largely what in nature, similar to the President's role at the national level?", "options": ["An executive role with full independent decision-making power", "A largely ceremonial/constitutional head role, acting on ministerial advice", "A purely judicial role", "A military command role"], "correctIndex": 1 },
+            { "question": "A recurring source of political controversy regarding Governors in India has involved their discretionary power in situations such as what?", "options": ["Deciding minor local tax rates", "Inviting a party/coalition to form the government after a hung assembly", "Setting school curricula", "Managing municipal water supply"], "correctIndex": 1 },
+            { "question": "Unlike the position of Chief Minister, the Governor's term is not fixed by direct election but instead serves at whose pleasure, typically for around five years?", "options": ["The state assembly's pleasure", "The President's pleasure", "The Chief Justice's pleasure", "The Prime Minister's pleasure directly"], "correctIndex": 1 }
+          ],
+          "summary": "The Governor of an Indian state, appointed by the President and residing at the state's Raj Bhavan, occupies a role generally understood as constitutional and largely ceremonial, akin to the President's position at the national level, typically acting on the advice of the elected state government. However, Governors retain certain discretionary powers that have periodically become politically contentious, most notably in deciding which party or coalition to invite to form a government following inconclusive or hung assembly election results. Since Governors serve at the President's pleasure rather than through direct election, and are often perceived as appointees aligned with the central government of the day, their conduct in politically sensitive situations has frequently drawn accusations of partisan bias from opposition parties across different states and eras."
+        },
+        {
+          "id": "pol_d36_inter_state_council",
+          "location": { "name": "Inter-State Council — New Delhi", "lat": 28.6155, "lng": 77.2095 },
+          "questions": [
+            { "question": "The Inter-State Council was established under which article of the Indian Constitution?", "options": ["Article 263", "Article 356", "Article 370", "Article 32"], "correctIndex": 0 },
+            { "question": "The Inter-State Council was formally constituted in which year, decades after being constitutionally provided for?", "options": ["1960", "1990", "2000", "2010"], "correctIndex": 1 },
+            { "question": "The primary purpose of the Inter-State Council is to facilitate coordination and resolve disputes between whom?", "options": ["Political parties only", "The Union government and states, and among states themselves", "Only private corporations", "Only foreign governments"], "correctIndex": 1 },
+            { "question": "The Inter-State Council is chaired by whom?", "options": ["The President of India", "The Prime Minister of India", "The Chief Justice of India", "The Speaker of the Lok Sabha"], "correctIndex": 1 },
+            { "question": "The Inter-State Council's establishment was significantly prompted by recommendations from which commission examining Centre-state relations?", "options": ["Sarkaria Commission", "Mandal Commission", "Fazl Ali Commission", "Narasimham Committee"], "correctIndex": 0 }
+          ],
+          "summary": "The Inter-State Council, provided for under Article 263 of the Constitution but only formally constituted in 1990, serves as a coordinating body chaired by the Prime Minister, bringing together Chief Ministers and Union ministers to discuss and resolve disputes or coordinate policy between the Centre and states, or among states themselves. Its creation was significantly prompted by recommendations from the Sarkaria Commission, which had examined the often-fraught state of Centre-state relations in India and proposed institutional mechanisms to foster greater cooperative federalism. While its meetings are infrequent compared to bodies like the GST Council, the Inter-State Council remains an important, if underutilised, constitutional forum specifically designed to manage India's complex federal dynamics through dialogue rather than confrontation."
+        },
+        {
+          "id": "pol_d36_preamble_constitution",
+          "location": { "name": "The Preamble of the Constitution — Constitution Hall, New Delhi", "lat": 28.6178, "lng": 77.2085 },
+          "questions": [
+            { "question": "The original 1950 Preamble to the Indian Constitution described India as a Sovereign, Democratic Republic, along with which other term, before later amendment?", "options": ["Socialist", "Secular", "Both a and b were already present originally", "None of these; only 'Sovereign Democratic Republic' originally"], "correctIndex": 3 },
+            { "question": "The words 'Socialist' and 'Secular' were inserted into the Preamble through which amendment?", "options": ["The 42nd Amendment (1976)", "The 44th Amendment", "The First Amendment (1951)", "The 101st Amendment"], "correctIndex": 0 },
+            { "question": "The Preamble declares India to be committed to securing Justice, Liberty, Equality, and what fourth value for all citizens?", "options": ["Prosperity", "Fraternity", "Security", "Unity"], "correctIndex": 1 },
+            { "question": "The Supreme Court, in the Kesavananda Bharati case, held that the Preamble is what, in relation to the Constitution's Basic Structure?", "options": ["Legally irrelevant and outside the Constitution entirely", "Part of the Constitution and reflective of its Basic Structure", "Only a historical preface with no legal standing at all", "Applicable only to the original 1950 text, frozen in time"], "correctIndex": 1 },
+            { "question": "The Preamble begins with the phrase 'We, the People of India,' emphasising that constitutional authority ultimately derives from what source?", "options": ["A foreign colonial power", "The people themselves", "A single ruling monarch", "An international body"], "correctIndex": 1 }
+          ],
+          "summary": "The Preamble to India's Constitution, beginning with the resonant phrase 'We, the People of India,' originally in 1950 declared the nation a Sovereign Democratic Republic committed to securing Justice, Liberty, Equality, and Fraternity for all citizens — a framing later expanded in 1976 through the 42nd Amendment, which inserted the words 'Socialist' and 'Secular' to more explicitly reflect these values as guiding constitutional principles. In the landmark Kesavananda Bharati case, the Supreme Court affirmed that the Preamble is indeed part of the Constitution and reflects elements of its unamendable Basic Structure, elevating what might otherwise be dismissed as a purely symbolic preface into a document with genuine interpretive legal weight. Its opening declaration that authority flows from 'the people' rather than any ruler or external power remains a foundational statement of India's constitutional identity as a self-governing democratic republic."
+        }
+      ]
+    }
+  }
+}
